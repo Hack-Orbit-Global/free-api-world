@@ -272,10 +272,10 @@ export default function ApiPage({ params }: Props) {
                 </p>
               </div>
               <div style={{ display: "flex", gap: "8px", flexShrink: 0, flexWrap: "wrap" }}>
-                <a href="#" target="_blank" rel="noopener noreferrer sponsored" className="btn btn-outline" style={{ fontSize: "0.8rem" }}>
+                <a href="https://free-api-world.vercel.app/" target="_blank" rel="noopener noreferrer sponsored" className="btn btn-outline" style={{ fontSize: "0.8rem" }}>
                   Deploy on Vercel
                 </a>
-                <a href="https://railway.app?utm_source=freeapiworld" target="_blank" rel="noopener noreferrer sponsored" className="btn btn-outline" style={{ fontSize: "0.8rem" }}>
+                  <a href="https://free-api-world.vercel.app/" target="_blank" rel="noopener noreferrer sponsored" className="btn btn-outline" style={{ fontSize: "0.8rem" }}>
                   Try Railway
                 </a>
               </div>
@@ -352,7 +352,7 @@ export default function ApiPage({ params }: Props) {
                   🐛 Report Issue
                 </a>
                 <a
-                  href="#issues/new?template=suggest-api.md"
+                  href="https://github.com/Hack-Orbit-Global/free-api-world/issues/new?template=suggest-api.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline"

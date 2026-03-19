@@ -4,7 +4,7 @@ const FOOTER_LINKS = {
   Community: [
     { label: "GitHub", href: "https://github.com/Hack-Orbit-Global/free-api-world" },
     { label: "Discord", href: "https://discord.gg/EDrN2fzqap" },
-    { label: "Instagram", href: "#" },
+    { label: "Instagram", href: "https://free-api-world.vercel.app/" },
     { label: "LinkedIn", href: "https://www.linkedin.com/company/hackorbit/" },
   ],
   Explore: [
@@ -22,7 +22,7 @@ const FOOTER_LINKS = {
       label: "Report Issue",
       href: "https://github.com/Hack-Orbit-Global/free-api-world/issues/new?template=bug-report.md",
     },
-    { label: "HackOrbit", href: "#" },
+    { label: "HackOrbit", href: "https://free-api-world.vercel.app/" },
   ],
 };
 
@@ -70,7 +70,7 @@ export default function Footer() {
               The universe of free public APIs. Built for developers, by developers.
               Part of the{" "}
               <a
-                href="#"
+                href="https://github.com/bariksabarna"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "var(--accent)" }}

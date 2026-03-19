@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("#"),
+  metadataBase: new URL("https://free-api-world.vercel.app/"),
   title: {
     default: "FreeAPIWorld — Universe of Free APIs",
     template: "%s | FreeAPIWorld",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "#",
+    url: "https://free-api-world.vercel.app/",
     siteName: "FreeAPIWorld",
     title: "FreeAPIWorld — Universe of Free APIs",
     description:

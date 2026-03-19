@@ -357,7 +357,7 @@ export default function HomePage() {
               </p>
               <p style={{ margin: 0 }}>
                 This project is part of{" "}
-                <a href="#" target="_blank" rel="noopener noreferrer" style={{ color: "var(--accent)", fontWeight: 600 }}>
+                <a href="https://github.com/bariksabarna" target="_blank" rel="noopener noreferrer" style={{ color: "var(--accent)", fontWeight: 600 }}>
                   Hack Orbit
                 </a>{" "}
                 — an open developer ecosystem focused on building, contributing, and growing

@@ -3,7 +3,7 @@ import { getAllApis } from "@/lib/api-utils";
 // Rendered as a static page at /rss — link to it as /rss
 export default function RssPage() {
   const apis = getAllApis().slice(0, 50);
-  const baseUrl = "#";
+  const baseUrl = "https://free-api-world.vercel.app/";
 
   const items = apis
     .map(

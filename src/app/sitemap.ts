@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllSlugs, getAllCategories, categoryToSlug } from "@/lib/api-utils";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "#";
+  const baseUrl = "https://free-api-world.vercel.app/";
   const slugs = getAllSlugs();
   const categories = getAllCategories();
 
