@@ -1,0 +1,24 @@
+{
+  "slug": "rest-countries",
+  "name": "REST Countries",
+  "category": "Geography",
+  "description": "REST Countries provides information about countries including name, capital, population, currency, languages, flags, and regional data. No authentication needed.",
+  "longDescription": "REST Countries is a simple, open-source API that provides detailed data on every country in the world. Each country entry includes native names, capitals, regions, subregions, population, area, currencies, spoken languages, calling codes, timezones, neighboring countries, flags (SVG and PNG), and more. Perfect for building country selectors, travel apps, or educational tools.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://restcountries.com/v3.1",
+  "docsUrl": "https://restcountries.com",
+  "version": "3.1",
+  "pricing": "Free, no rate limits",
+  "tags": ["countries", "geography", "flags", "currency", "population"],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://restcountries.com/v3.1/name/india",
+    "response": "[{\n  \"name\": { \"common\": \"India\", \"official\": \"Republic of India\" },\n  \"capital\": [\"New Delhi\"],\n  \"population\": 1380004385,\n  \"region\": \"Asia\",\n  \"currencies\": { \"INR\": { \"name\": \"Indian rupee\", \"symbol\": \"₹\" } }\n}]"
+  },
+  "relatedSlugs": ["overpass-api", "ipapi", "open-meteo"],
+  "alsoSearched": ["country api", "flag api", "currency api", "geography api", "world data api"],
+  "affiliateText": "Need a global app with country selector? Build and deploy with Vercel in minutes.",
+  "featured": false
+}

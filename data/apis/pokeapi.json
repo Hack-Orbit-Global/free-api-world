@@ -1,0 +1,24 @@
+{
+  "slug": "pokeapi",
+  "name": "PokéAPI",
+  "category": "Games",
+  "description": "PokéAPI is a full RESTful API for all Pokémon data. No authentication required. Access information on all 1,000+ Pokémon species, moves, abilities, types, and game data going back to Generation I.",
+  "longDescription": "PokéAPI (the Pokémon API) is a consumption-only API — it only serves data, no user authentication, no writing. It's completely free, open source, and community-maintained. The API provides data for every Pokémon game ever released, including species, Pokédex entries, evolution chains, move sets, held items, and high-quality sprite data.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pokeapi.co/api/v2",
+  "docsUrl": "https://pokeapi.co/docs/v2",
+  "version": "2",
+  "pricing": "Completely free, no rate limits (fair use)",
+  "tags": ["pokemon", "games", "rpg", "nintendo", "sprites"],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pokeapi.co/api/v2/pokemon/pikachu",
+    "response": "{\n  \"id\": 25,\n  \"name\": \"pikachu\",\n  \"base_experience\": 112,\n  \"height\": 4,\n  \"weight\": 60,\n  \"abilities\": [\n    { \"ability\": { \"name\": \"static\" } },\n    { \"ability\": { \"name\": \"lightning-rod\" } }\n  ],\n  \"types\": [{ \"type\": { \"name\": \"electric\" } }]\n}"
+  },
+  "relatedSlugs": ["rawg", "open-trivia-db", "jsonplaceholder"],
+  "alsoSearched": ["pokemon api", "free game api", "no auth api", "sprite api", "rpg data api"],
+  "affiliateText": "Building a Pokédex app? Deploy it for free on Vercel in under 2 minutes.",
+  "featured": true
+}

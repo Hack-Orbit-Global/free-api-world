@@ -1,0 +1,41 @@
+{
+  "slug": "huggingface-inference",
+  "name": "Hugging Face Inference API",
+  "category": "AI & ML",
+  "description": "Run 200,000+ open-source ML models for NLP, computer vision, audio, and more \u2014 free tier included.",
+  "longDescription": "Hugging Face Inference API lets you run machine learning models hosted on the Hugging Face Hub via a simple HTTP API. Over 200,000 models are available including LLMs like Llama 2 and Mistral, image classification, object detection, text-to-image (Stable Diffusion), speech recognition, summarization, translation, and zero-shot classification. The free tier runs on shared CPU infrastructure; Inference Endpoints offer dedicated GPU deployments.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-inference.huggingface.co/models",
+  "docsUrl": "https://huggingface.co/docs/api-inference/index",
+  "version": "1",
+  "pricing": "Free tier with rate limits; PRO plan $9/month for higher limits",
+  "tags": [
+    "ai",
+    "ml",
+    "nlp",
+    "computer vision",
+    "llm",
+    "bert",
+    "stable diffusion",
+    "open source"
+  ],
+  "exampleRequest": {
+    "method": "POST",
+    "endpoint": "https://api-inference.huggingface.co/models/distilbert-base-uncased-finetuned-sst-2-english",
+    "response": "[\n  {\n    \"label\": \"POSITIVE\",\n    \"score\": 0.9998704791069031\n  },\n  {\n    \"label\": \"NEGATIVE\",\n    \"score\": 0.00012952083694748580\n  }\n]"
+  },
+  "relatedSlugs": [
+    "openai"
+  ],
+  "alsoSearched": [
+    "hugging face api",
+    "open source llm api",
+    "bert api",
+    "nlp api free",
+    "stable diffusion api"
+  ],
+  "affiliateText": "Need dedicated GPU inference? Deploy Hugging Face models on RunPod or Modal.",
+  "featured": false
+}

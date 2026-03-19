@@ -1,0 +1,40 @@
+{
+  "slug": "guardian",
+  "name": "The Guardian API",
+  "category": "News",
+  "description": "Access the full Guardian newspaper archive \u2014 articles, sections, tags, and metadata back to 1999.",
+  "longDescription": "The Guardian Content API gives developers access to over 2 million Guardian articles dating back to 1999. The API provides full article text (not just snippets), rich metadata including tags, sections, keywords, and bylines, contributor profiles, and related content. It supports powerful search and filtering. The free developer tier allows up to 12 requests per second and access to the full article body.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://content.guardianapis.com",
+  "docsUrl": "https://open-platform.theguardian.com/documentation/",
+  "version": "1",
+  "pricing": "Free Developer key: 12 req/second, full content access",
+  "tags": [
+    "news",
+    "journalism",
+    "articles",
+    "media",
+    "full-text",
+    "uk news",
+    "guardian"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://content.guardianapis.com/search?q=technology&api-key={YOUR_KEY}&show-fields=body",
+    "response": "{\n  \"response\": {\n    \"status\": \"ok\",\n    \"total\": 294873,\n    \"results\": [{\n      \"sectionName\": \"Technology\",\n      \"webTitle\": \"AI is transforming scientific research\",\n      \"webPublicationDate\": \"2024-01-15T09:30:00Z\",\n      \"webUrl\": \"https://theguardian.com/technology/...\",\n      \"fields\": {\"body\": \"<p>Full article content...</p>\"}\n    }]\n  }\n}"
+  },
+  "relatedSlugs": [
+    "newsapi"
+  ],
+  "alsoSearched": [
+    "guardian api",
+    "newspaper api",
+    "full text news api",
+    "journalism api",
+    "uk news api"
+  ],
+  "affiliateText": "Build a news reader app and host it on Vercel \u2014 deploy in under 60 seconds.",
+  "featured": false
+}

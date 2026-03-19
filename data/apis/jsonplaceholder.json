@@ -1,0 +1,24 @@
+{
+  "slug": "jsonplaceholder",
+  "name": "JSONPlaceholder",
+  "category": "Development",
+  "description": "JSONPlaceholder is a free online REST API for developers who need a quick fake backend. Perfect for tutorials, testing new libraries, and sharing code examples. No setup required.",
+  "longDescription": "JSONPlaceholder is the most popular fake REST API for developers. It provides 6 types of resources: Posts, Comments, Albums, Photos, Todos, and Users — each with full CRUD support (GET, POST, PUT, PATCH, DELETE). No authentication, no rate limits, and no configuration. Just hit the endpoint and get data instantly.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://jsonplaceholder.typicode.com",
+  "docsUrl": "https://jsonplaceholder.typicode.com",
+  "version": "1",
+  "pricing": "Completely free, no limits",
+  "tags": ["testing", "fake api", "mock", "prototype", "rest", "placeholder"],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://jsonplaceholder.typicode.com/posts/1",
+    "response": "{\n  \"userId\": 1,\n  \"id\": 1,\n  \"title\": \"sunt aut facere repellat...\",\n  \"body\": \"quia et suscipit\\nsuscipit...\"\n}"
+  },
+  "relatedSlugs": ["randomuser", "httpbin", "github"],
+  "alsoSearched": ["fake api", "mock rest api", "test api", "dummy data api", "prototype api"],
+  "affiliateText": "Ready to replace the fake API with a real backend? Supabase offers a generous free tier.",
+  "featured": true
+}

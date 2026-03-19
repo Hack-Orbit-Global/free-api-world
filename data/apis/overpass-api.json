@@ -1,0 +1,41 @@
+{
+  "slug": "overpass-api",
+  "name": "Overpass API",
+  "category": "Geography",
+  "description": "Query OpenStreetMap data with powerful geographic queries \u2014 find any place, building, or route on Earth.",
+  "longDescription": "Overpass API is a read-only API for accessing OpenStreetMap (OSM) data. It allows you to query any geographic data in the OSM database using Overpass Query Language (OverpassQL). You can find any node (point), way (line/polygon), or relation by type, name, tag, or bounding box. Typical use cases include finding all restaurants in a city, POI lookups, routing data, and geographic research.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://overpass-api.de/api",
+  "docsUrl": "https://wiki.openstreetmap.org/wiki/Overpass_API",
+  "version": "1",
+  "pricing": "Free public instance; self-hostable for heavy use",
+  "tags": [
+    "maps",
+    "openstreetmap",
+    "osm",
+    "geography",
+    "poi",
+    "routing",
+    "geocoding"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://overpass-api.de/api/interpreter?data=[out:json];node[name=\"Eiffel Tower\"];out;",
+    "response": "{\n  \"version\": 0.6,\n  \"elements\": [{\n    \"type\": \"node\",\n    \"id\": 271827201,\n    \"lat\": 48.8584,\n    \"lon\": 2.2945,\n    \"tags\": {\n      \"name\": \"Tour Eiffel\",\n      \"name:en\": \"Eiffel Tower\",\n      \"tourism\": \"attraction\"\n    }\n  }]\n}"
+  },
+  "relatedSlugs": [
+    "rest-countries",
+    "ipapi"
+  ],
+  "alsoSearched": [
+    "openstreetmap api",
+    "osm api",
+    "poi api",
+    "map data api",
+    "geographic query api"
+  ],
+  "affiliateText": "Building a map app? Combine with Mapbox or Leaflet.js \u2014 deploy on Vercel.",
+  "featured": false
+}

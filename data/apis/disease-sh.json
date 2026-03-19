@@ -1,0 +1,41 @@
+{
+  "slug": "disease-sh",
+  "name": "disease.sh",
+  "category": "Health",
+  "description": "Open disease data API for COVID-19, influenza, and other disease statistics worldwide.",
+  "longDescription": "disease.sh (formerly NovelCOVID API) is an open-source API providing worldwide disease statistics. It aggregates data from multiple trusted sources including Johns Hopkins CSSE, Worldometers, and the New York Times. The API provides country, state/province, and county-level COVID-19 statistics, historical data, vaccine data, government interventions, and news. Also supports influenza data for the US.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://disease.sh/v3/covid-19",
+  "docsUrl": "https://disease.sh/docs/",
+  "version": "3",
+  "pricing": "Free, open source",
+  "tags": [
+    "covid",
+    "disease",
+    "health",
+    "statistics",
+    "worldwide",
+    "vaccine",
+    "pandemic"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://disease.sh/v3/covid-19/all",
+    "response": "{\n  \"updated\": 1705276800000,\n  \"cases\": 704753890,\n  \"todayCases\": 0,\n  \"deaths\": 7010681,\n  \"recovered\": 675619811,\n  \"active\": 17123398,\n  \"tests\": 6883783357\n}"
+  },
+  "relatedSlugs": [
+    "openfda",
+    "nasa"
+  ],
+  "alsoSearched": [
+    "covid api",
+    "covid stats api",
+    "disease data api",
+    "pandemic api",
+    "health statistics api"
+  ],
+  "affiliateText": "Building a health dashboard? Deploy on Vercel for lightning-fast global delivery.",
+  "featured": false
+}

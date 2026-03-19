@@ -1,0 +1,41 @@
+{
+  "slug": "ipapi",
+  "name": "ipapi",
+  "category": "Geography",
+  "description": "IP address geolocation API returning city, region, country, timezone, currency, and ISP data.",
+  "longDescription": "ipapi.co provides accurate IP address geolocation data in a simple REST API. For any IPv4 or IPv6 address (or the caller's own IP), it returns the city, region, country, postal code, latitude/longitude, timezone, UTC offset, currency code and name, country calling code, country area, ASN, organization, and ISP. Responses are available in JSON, XML, CSV, YAML, or plain text.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipapi.co",
+  "docsUrl": "https://ipapi.co/api/",
+  "version": "1",
+  "pricing": "Free: 1,000 requests/day without key; 30,000/month with free account",
+  "tags": [
+    "ip",
+    "geolocation",
+    "location",
+    "timezone",
+    "isp",
+    "country",
+    "city"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipapi.co/8.8.8.8/json/",
+    "response": "{\n  \"ip\": \"8.8.8.8\",\n  \"city\": \"Mountain View\",\n  \"region\": \"California\",\n  \"country_name\": \"United States\",\n  \"country_code\": \"US\",\n  \"latitude\": 37.4056,\n  \"longitude\": -122.0775,\n  \"timezone\": \"America/Los_Angeles\",\n  \"currency\": \"USD\",\n  \"org\": \"AS15169 Google LLC\"\n}"
+  },
+  "relatedSlugs": [
+    "rest-countries",
+    "overpass-api"
+  ],
+  "alsoSearched": [
+    "ip geolocation api",
+    "ip lookup api",
+    "ip to country api",
+    "ip to location api",
+    "geoip api"
+  ],
+  "affiliateText": "Personalizing content by location? Edge functions on Vercel can do this automatically.",
+  "featured": false
+}

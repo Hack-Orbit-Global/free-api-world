@@ -1,0 +1,41 @@
+{
+  "slug": "the-dog-api",
+  "name": "The Dog API",
+  "category": "Animals",
+  "description": "Hundreds of dog breed images, breed info, and voting \u2014 perfect for pet apps and ML training datasets.",
+  "longDescription": "The Dog API provides access to over 10,000 dog images across hundreds of breeds and sub-breeds, along with breed information, temperament data, weight/height ranges, and life span. It also includes a voting feature so users can like/dislike dogs. The API is commonly used for pet apps, machine learning image datasets, and developer sandboxes. Free tier requires an API key.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.thedogapi.com/v1",
+  "docsUrl": "https://docs.thedogapi.com/",
+  "version": "1",
+  "pricing": "Free: unlimited requests with free API key",
+  "tags": [
+    "dogs",
+    "animals",
+    "pets",
+    "breeds",
+    "images",
+    "cute",
+    "machine learning"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.thedogapi.com/v1/images/search?limit=1&has_breeds=1",
+    "response": "[\n  {\n    \"id\": \"asf2\",\n    \"url\": \"https://cdn2.thedogapi.com/images/asf2.jpg\",\n    \"breeds\": [{\n      \"id\": 26,\n      \"name\": \"Beagle\",\n      \"temperament\": \"Amiable, Even Tempered, Excitable, Determined\",\n      \"life_span\": \"10 - 15 years\",\n      \"weight\": { \"metric\": \"9 - 11\" }\n    }]\n  }\n]"
+  },
+  "relatedSlugs": [
+    "the-cat-api",
+    "pokeapi"
+  ],
+  "alsoSearched": [
+    "dog api",
+    "dog image api",
+    "breed api",
+    "pet api",
+    "animal image api"
+  ],
+  "affiliateText": "Building a pet app? Store breed data on Supabase \u2014 free tier for small projects.",
+  "featured": false
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "weatherapi",
+  "name": "WeatherAPI",
+  "category": "Weather",
+  "description": "Real-time and historical weather data with 14-day forecast, astronomy, and time zone API.",
+  "longDescription": "WeatherAPI.com provides access to real-time weather, 14-day forecast, future weather, history, astronomy, time zone, IP lookup, autocomplete, and bulk request APIs. Supports over 2 million locations worldwide with data from multiple reliable sources. The JSON API returns weather data including temperature, wind, humidity, UV index, visibility, and more.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.weatherapi.com/v1",
+  "docsUrl": "https://www.weatherapi.com/docs/",
+  "version": "1",
+  "pricing": "Free: 1 million calls/month; Pro plans for higher limits",
+  "tags": [
+    "weather",
+    "forecast",
+    "temperature",
+    "wind",
+    "humidity",
+    "realtime"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.weatherapi.com/v1/current.json?key={YOUR_KEY}&q=London",
+    "response": "{\n  \"location\": { \"name\": \"London\", \"country\": \"United Kingdom\" },\n  \"current\": {\n    \"temp_c\": 14.2,\n    \"feelslike_c\": 12.0,\n    \"humidity\": 72,\n    \"condition\": { \"text\": \"Partly cloudy\" },\n    \"wind_kph\": 18.4,\n    \"uv\": 3.0\n  }\n}"
+  },
+  "relatedSlugs": [
+    "openweathermap",
+    "open-meteo",
+    "open-notify"
+  ],
+  "alsoSearched": [
+    "weather api free",
+    "uk weather api",
+    "realtime weather api",
+    "14 day forecast api",
+    "weather json api"
+  ],
+  "affiliateText": "Building a weather dashboard? Deploy instantly on Vercel \u2014 free tier for personal projects.",
+  "featured": false
+}

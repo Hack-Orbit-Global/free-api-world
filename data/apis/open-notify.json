@@ -1,0 +1,41 @@
+{
+  "slug": "open-notify",
+  "name": "Open Notify",
+  "category": "Science",
+  "description": "Track the International Space Station location in real time and see who is currently in space.",
+  "longDescription": "Open Notify is a simple, open-source API providing access to NASA's data about the International Space Station (ISS). It exposes two main endpoints: the current ISS position (latitude/longitude, updated every 5 seconds), and a list of people currently aboard the ISS. It's one of the simplest APIs for beginners \u2014 no authentication, no setup, just hit the endpoint.",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://api.open-notify.org",
+  "docsUrl": "http://open-notify.org/Open-Notify-API/",
+  "version": "1",
+  "pricing": "Free, no limits",
+  "tags": [
+    "iss",
+    "space",
+    "astronauts",
+    "location",
+    "nasa",
+    "satellite",
+    "orbit"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.open-notify.org/iss-now.json",
+    "response": "{\n  \"message\": \"success\",\n  \"iss_position\": {\n    \"latitude\": \"51.4392\",\n    \"longitude\": \"-3.1498\"\n  },\n  \"timestamp\": 1705276800\n}"
+  },
+  "relatedSlugs": [
+    "nasa",
+    "spacex"
+  ],
+  "alsoSearched": [
+    "iss tracker api",
+    "international space station api",
+    "space station location api",
+    "astronaut api",
+    "who is in space api"
+  ],
+  "affiliateText": "Build an ISS tracker! Deploy your real-time map app on Vercel for free.",
+  "featured": false
+}

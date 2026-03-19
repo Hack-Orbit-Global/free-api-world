@@ -1,0 +1,41 @@
+{
+  "slug": "alpha-vantage",
+  "name": "Alpha Vantage",
+  "category": "Finance",
+  "description": "Free stock, forex, and cryptocurrency APIs with real-time and historical data in JSON and CSV.",
+  "longDescription": "Alpha Vantage offers free APIs for real-time and historical stock market data, technical indicators, forex rates, and cryptocurrency data. The API provides intraday time series (1min to 60min intervals), daily, weekly, and monthly adjusted data, earnings, balance sheet, income statement, and cash flow data for US and global equities. Output is available in JSON and CSV formats.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.alphavantage.co/query",
+  "docsUrl": "https://www.alphavantage.co/documentation/",
+  "version": "1",
+  "pricing": "Free: 25 requests/day; Premium plans from $50/month",
+  "tags": [
+    "stocks",
+    "finance",
+    "market data",
+    "forex",
+    "crypto",
+    "technical analysis",
+    "equities"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=AAPL&apikey={YOUR_KEY}",
+    "response": "{\n  \"Global Quote\": {\n    \"01. symbol\": \"AAPL\",\n    \"02. open\": \"186.72\",\n    \"03. high\": \"189.90\",\n    \"04. low\": \"186.40\",\n    \"05. price\": \"189.30\",\n    \"06. volume\": \"52356781\",\n    \"09. change\": \"2.58\",\n    \"10. change percent\": \"1.3834%\"\n  }\n}"
+  },
+  "relatedSlugs": [
+    "coingecko",
+    "exchangerate-api"
+  ],
+  "alsoSearched": [
+    "stock market api",
+    "stock price api",
+    "alpha vantage free",
+    "historical stock data api",
+    "financial data api"
+  ],
+  "affiliateText": "Building a trading dashboard? Deploy on Vercel with real-time edge functions.",
+  "featured": false
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "dictionary-api",
+  "name": "Free Dictionary API",
+  "category": "Language",
+  "description": "Get word definitions, phonetics, synonyms, antonyms, and example sentences \u2014 completely free, no key needed.",
+  "longDescription": "The Free Dictionary API (dictionaryapi.dev) provides word definitions, phonetic transcriptions and audio pronunciation links, parts of speech, synonyms, antonyms, and example sentences for English words. It aggregates data from multiple dictionaries. No API key required, and CORS is fully supported. Additional language support is available through the same endpoint pattern.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.dictionaryapi.dev/api/v2",
+  "docsUrl": "https://dictionaryapi.dev/",
+  "version": "2",
+  "pricing": "Completely free, no limits",
+  "tags": [
+    "dictionary",
+    "definitions",
+    "words",
+    "english",
+    "phonetics",
+    "synonyms",
+    "antonyms"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.dictionaryapi.dev/api/v2/entries/en/ephemeral",
+    "response": "[{\n  \"word\": \"ephemeral\",\n  \"phonetic\": \"/\u026a\u02c8fem\u0259r\u0259l/\",\n  \"phonetics\": [{\"text\": \"/\u026a\u02c8fem\u0259r\u0259l/\", \"audio\": \"https://...\"}],\n  \"meanings\": [{\n    \"partOfSpeech\": \"adjective\",\n    \"definitions\": [{\"definition\": \"Lasting for a very short time.\", \"example\": \"fashions are ephemeral\"}],\n    \"synonyms\": [\"transitory\", \"transient\", \"fleeting\"],\n    \"antonyms\": [\"permanent\", \"eternal\"]\n  }]\n}]"
+  },
+  "relatedSlugs": [
+    "libretranslate",
+    "quotable"
+  ],
+  "alsoSearched": [
+    "dictionary api",
+    "word definition api",
+    "thesaurus api",
+    "synonyms api",
+    "english dictionary api"
+  ],
+  "affiliateText": "Building a vocabulary app? Vercel handles zero-to-global deployment instantly.",
+  "featured": false
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rawg",
+  "name": "RAWG Video Games Database",
+  "category": "Games",
+  "description": "The largest open video games database with 500,000+ games, ratings, reviews, and metadata.",
+  "longDescription": "RAWG is the largest video game database and game discovery service. The API provides access to over 500,000 games across 50 platforms including PC, PlayStation, Xbox, Nintendo, and mobile. Data includes ratings, Metacritic scores, release dates, genres, tags, screenshots, trailers, and detailed game descriptions. The API supports complex filtering and searching.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.rawg.io/api",
+  "docsUrl": "https://api.rawg.io/docs/",
+  "version": "1",
+  "pricing": "Free: unlimited requests with API key registration",
+  "tags": [
+    "games",
+    "gaming",
+    "video games",
+    "metacritic",
+    "ratings",
+    "platforms"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.rawg.io/api/games?key={YOUR_KEY}&page_size=5&ordering=-rating",
+    "response": "{\n  \"count\": 856432,\n  \"results\": [{\n    \"id\": 3498,\n    \"name\": \"Grand Theft Auto V\",\n    \"rating\": 4.47,\n    \"metacritic\": 97,\n    \"released\": \"2013-09-17\",\n    \"genres\": [{\"name\": \"Action\"}, {\"name\": \"Adventure\"}],\n    \"platforms\": [{\"platform\": {\"name\": \"PC\"}}]\n  }]\n}"
+  },
+  "relatedSlugs": [
+    "pokeapi",
+    "open-trivia-db",
+    "jsonplaceholder"
+  ],
+  "alsoSearched": [
+    "video game api",
+    "game database api",
+    "metacritic api",
+    "game ratings api",
+    "igdb alternative api"
+  ],
+  "affiliateText": "Building a game discovery app? Deploy on Vercel with global CDN \u2014 free tier available.",
+  "featured": false
+}

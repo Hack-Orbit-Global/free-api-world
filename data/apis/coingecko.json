@@ -1,0 +1,24 @@
+{
+  "slug": "coingecko",
+  "name": "CoinGecko",
+  "category": "Finance",
+  "description": "CoinGecko provides comprehensive cryptocurrency data including prices, market caps, trading volumes, exchange data, and coin metadata — all for free without registration.",
+  "longDescription": "CoinGecko is the world's largest independent cryptocurrency data aggregator, tracking over 10,000 tokens across 600+ exchanges. The free public API provides real-time and historical price data, market cap rankings, trading volume, price charts, exchange data, and detailed token metadata. No API key needed for the public endpoints.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.coingecko.com/api/v3",
+  "docsUrl": "https://www.coingecko.com/en/api/documentation",
+  "version": "3",
+  "pricing": "Free: 30 calls/min; Pro plans available",
+  "tags": ["crypto", "bitcoin", "ethereum", "prices", "defi", "blockchain"],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd",
+    "response": "{\n  \"bitcoin\": {\n    \"usd\": 67234.0\n  }\n}"
+  },
+  "relatedSlugs": ["exchangerate-api", "alpha-vantage", "newsapi"],
+  "alsoSearched": ["crypto price api", "bitcoin api", "defi api", "coin market cap api", "blockchain data api"],
+  "affiliateText": "Building a crypto dashboard? Deploy it on Netlify — free tier with unlimited personal projects.",
+  "featured": false
+}

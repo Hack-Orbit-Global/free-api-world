@@ -1,0 +1,41 @@
+{
+  "slug": "the-cat-api",
+  "name": "The Cat API",
+  "category": "Animals",
+  "description": "Cat images, breed data, and a voting/favouriting platform \u2014 60,000+ images across 67 breeds.",
+  "longDescription": "The Cat API provides access to over 60,000 cat images, 67 cat breeds with detailed information (temperament, origin, adaptability, energy level, intelligence), and a voting/favoriting system. It's the cat equivalent of The Dog API and shares a similar data structure. Widely used for animal welfare apps, entertainment, ML training data, and developer demos.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.thecatapi.com/v1",
+  "docsUrl": "https://docs.thecatapi.com/",
+  "version": "1",
+  "pricing": "Free: unlimited with free API key",
+  "tags": [
+    "cats",
+    "animals",
+    "pets",
+    "breeds",
+    "images",
+    "cute",
+    "machine learning"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.thecatapi.com/v1/images/search?limit=1&has_breeds=1",
+    "response": "[\n  {\n    \"id\": \"MTk2NjY1\",\n    \"url\": \"https://cdn2.thecatapi.com/images/MTk2NjY1.jpg\",\n    \"breeds\": [{\n      \"name\": \"Maine Coon\",\n      \"origin\": \"United States\",\n      \"temperament\": \"Gentle, Playful, Intelligent, Adaptable\",\n      \"life_span\": \"12 - 15\",\n      \"adaptability\": 5,\n      \"intelligence\": 5\n    }]\n  }\n]"
+  },
+  "relatedSlugs": [
+    "the-dog-api",
+    "pokeapi"
+  ],
+  "alsoSearched": [
+    "cat api",
+    "cat image api",
+    "cat breed api",
+    "pet api",
+    "random cat api"
+  ],
+  "affiliateText": "Cat content goes viral! Deploy your cat app on Netlify with zero config.",
+  "featured": false
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "quotable",
+  "name": "Quotable",
+  "category": "Entertainment",
+  "description": "Random and searchable quotes from 2,000+ authors \u2014 filter by tag, author, or quote length.",
+  "longDescription": "Quotable is a free, open-source quotations API providing random quotes, quote search, and author information. The database contains over 2,000 carefully curated quotes from famous authors, philosophers, scientists, and historical figures. Quotes are tagged by topic (wisdom, inspirational, life, love, etc.) and you can filter by author, tag, minimum/maximum length, or get a daily quote.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.quotable.io",
+  "docsUrl": "https://github.com/lukePeavey/quotable",
+  "version": "1",
+  "pricing": "Free, no rate limits",
+  "tags": [
+    "quotes",
+    "inspirational",
+    "authors",
+    "wisdom",
+    "random",
+    "entertainment"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.quotable.io/random?tags=technology,wisdom",
+    "response": "{\n  \"_id\": \"2xpHvNMpFtOa\",\n  \"content\": \"The science of today is the technology of tomorrow.\",\n  \"author\": \"Edward Teller\",\n  \"tags\": [\"technology\", \"science\"],\n  \"authorSlug\": \"edward-teller\",\n  \"length\": 52,\n  \"dateAdded\": \"2019-02-18\"\n}"
+  },
+  "relatedSlugs": [
+    "open-trivia-db",
+    "dictionary-api"
+  ],
+  "alsoSearched": [
+    "quotes api",
+    "random quote api",
+    "inspirational quotes api",
+    "famous quotes api",
+    "daily quote api"
+  ],
+  "affiliateText": "Add a daily quote widget to your site. Deploy as a static Next.js site on Vercel.",
+  "featured": false
+}

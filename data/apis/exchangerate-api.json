@@ -1,0 +1,40 @@
+{
+  "slug": "exchangerate-api",
+  "name": "ExchangeRate-API",
+  "category": "Finance",
+  "description": "Reliable currency exchange rates updated daily, supporting 160+ currencies with a generous free tier.",
+  "longDescription": "ExchangeRate-API provides simple, reliable foreign exchange (forex) rates for over 160 currencies. The free plan includes 1,500 requests per month with daily updates \u2014 suitable for most personal and small commercial projects. The API supports base currency conversion, historical rates, pair conversion, and enriched data with currency names, symbols, and flags. JSON format, HTTPS only.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://v6.exchangerate-api.com/v6",
+  "docsUrl": "https://www.exchangerate-api.com/docs/overview",
+  "version": "6",
+  "pricing": "Free: 1,500 requests/month; paid plans for real-time rates",
+  "tags": [
+    "currency",
+    "forex",
+    "exchange rates",
+    "finance",
+    "money",
+    "conversion"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://v6.exchangerate-api.com/v6/{YOUR_KEY}/latest/USD",
+    "response": "{\n  \"result\": \"success\",\n  \"base_code\": \"USD\",\n  \"conversion_rates\": {\n    \"EUR\": 0.9182,\n    \"GBP\": 0.7897,\n    \"JPY\": 149.82,\n    \"INR\": 83.12,\n    \"CAD\": 1.3468\n  }\n}"
+  },
+  "relatedSlugs": [
+    "coingecko",
+    "alpha-vantage"
+  ],
+  "alsoSearched": [
+    "currency api",
+    "exchange rate api",
+    "forex api free",
+    "convert currency api",
+    "usd to eur api"
+  ],
+  "affiliateText": "Building a multi-currency app? Supabase can store rate snapshots \u2014 free tier available.",
+  "featured": false
+}

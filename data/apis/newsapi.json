@@ -1,0 +1,40 @@
+{
+  "slug": "newsapi",
+  "name": "NewsAPI",
+  "category": "News",
+  "description": "Aggregate top headlines and search articles from 80,000+ news sources and blogs worldwide.",
+  "longDescription": "NewsAPI aggregates news headlines and articles from over 80,000 news sources and blogs worldwide. The API provides two main endpoints: `/top-headlines` for real-time breaking news and `/everything` for searching the entire news archive. You can filter by source, domain, language, country, and category. The free developer plan provides access to headlines with a 1-month archive, limited to 100 requests/day.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://newsapi.org/v2",
+  "docsUrl": "https://newsapi.org/docs",
+  "version": "2",
+  "pricing": "Free Developer: 100 req/day, 1-month archive; paid plans for commercial use",
+  "tags": [
+    "news",
+    "headlines",
+    "articles",
+    "media",
+    "journalism",
+    "rss alternative"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey={YOUR_KEY}",
+    "response": "{\n  \"status\": \"ok\",\n  \"totalResults\": 38,\n  \"articles\": [{\n    \"source\": {\"name\": \"TechCrunch\"},\n    \"title\": \"OpenAI releases GPT-5 with groundbreaking reasoning\",\n    \"description\": \"The new model can...\",\n    \"url\": \"https://techcrunch.com/...\",\n    \"publishedAt\": \"2024-01-15T14:23:00Z\"\n  }]\n}"
+  },
+  "relatedSlugs": [
+    "guardian",
+    "coingecko"
+  ],
+  "alsoSearched": [
+    "news api",
+    "headline api",
+    "article api",
+    "news aggregator api",
+    "breaking news api"
+  ],
+  "affiliateText": "Building a news aggregator? Cache and serve stories fast with Vercel Edge Network.",
+  "featured": false
+}

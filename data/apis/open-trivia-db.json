@@ -1,0 +1,41 @@
+{
+  "slug": "open-trivia-db",
+  "name": "Open Trivia DB",
+  "category": "Games",
+  "description": "Free trivia questions API with 5,000+ verified questions across 24 categories and 3 difficulty levels.",
+  "longDescription": "Open Trivia Database (OpenTDB) provides a completely free JSON API for trivia questions. All content is user-contributed and verified. The database contains over 5,000 trivia questions across 24 categories including General Knowledge, Science, History, Geography, and Entertainment. Questions are available in multiple types (multiple choice, true/false) and difficulty levels (easy, medium, hard). Supports session tokens to prevent duplicate questions.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opentdb.com/api.php",
+  "docsUrl": "https://opentdb.com/api_config.php",
+  "version": "1",
+  "pricing": "Completely free, no limits",
+  "tags": [
+    "trivia",
+    "quiz",
+    "questions",
+    "games",
+    "knowledge",
+    "entertainment"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opentdb.com/api.php?amount=3&category=18&difficulty=medium&type=multiple",
+    "response": "{\n  \"response_code\": 0,\n  \"results\": [{\n    \"category\": \"Science: Computers\",\n    \"type\": \"multiple\",\n    \"difficulty\": \"medium\",\n    \"question\": \"What does the 'MP' stand for in MP3?\",\n    \"correct_answer\": \"Moving Picture\",\n    \"incorrect_answers\": [\"Music Player\", \"Multi Pass\", \"Micro Point\"]\n  }]\n}"
+  },
+  "relatedSlugs": [
+    "pokeapi",
+    "rawg",
+    "quotable"
+  ],
+  "alsoSearched": [
+    "trivia api",
+    "quiz api",
+    "trivia questions api",
+    "free quiz api",
+    "random question api"
+  ],
+  "affiliateText": "Building a trivia game? Host it for free on GitHub Pages or Netlify.",
+  "featured": false
+}

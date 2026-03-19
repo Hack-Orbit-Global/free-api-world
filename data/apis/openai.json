@@ -1,0 +1,41 @@
+{
+  "slug": "openai",
+  "name": "OpenAI API",
+  "category": "AI & ML",
+  "description": "Access GPT-4, DALL-E 3, Whisper, TTS, and embeddings \u2014 the most widely used AI API platform.",
+  "longDescription": "The OpenAI API provides access to state-of-the-art AI models for natural language processing, image generation, speech recognition, text-to-speech, and vector embeddings. Key models include GPT-4o for multimodal chat, DALL-E 3 for image generation, Whisper for speech-to-text, and text-embedding-3-large for semantic search. The API supports streaming, function calling, JSON mode, and vision capabilities.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.openai.com/v1",
+  "docsUrl": "https://platform.openai.com/docs/api-reference",
+  "version": "1",
+  "pricing": "Free $5 credit for new users; pay-as-you-go thereafter (GPT-3.5-turbo: $0.002/1K tokens)",
+  "tags": [
+    "ai",
+    "gpt",
+    "llm",
+    "chat",
+    "image generation",
+    "embeddings",
+    "openai"
+  ],
+  "exampleRequest": {
+    "method": "POST",
+    "endpoint": "https://api.openai.com/v1/chat/completions",
+    "response": "{\n  \"id\": \"chatcmpl-abc123\",\n  \"model\": \"gpt-4o-mini\",\n  \"choices\": [{\n    \"message\": {\n      \"role\": \"assistant\",\n      \"content\": \"Hello! How can I help you today?\"\n    },\n    \"finish_reason\": \"stop\"\n  }],\n  \"usage\": { \"prompt_tokens\": 9, \"completion_tokens\": 9, \"total_tokens\": 18 }\n}"
+  },
+  "relatedSlugs": [
+    "huggingface-inference",
+    "coingecko"
+  ],
+  "alsoSearched": [
+    "chatgpt api",
+    "gpt-4 api",
+    "openai api free",
+    "dall-e api",
+    "ai api"
+  ],
+  "affiliateText": "Wrap OpenAI in a serverless backend \u2014 deploy on Vercel Edge Functions for minimal latency.",
+  "featured": false
+}

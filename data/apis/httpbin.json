@@ -1,0 +1,42 @@
+{
+  "slug": "httpbin",
+  "name": "HTTPBin",
+  "category": "Development",
+  "description": "A simple HTTP request and response testing service \u2014 inspect headers, status codes, delays, and more.",
+  "longDescription": "HTTPBin is an open-source HTTP testing service that allows developers to send HTTP requests and inspect the response. It's perfect for debugging HTTP clients, testing API wrappers, learning HTTP concepts, and verifying that your application sends correct headers, cookies, and request bodies. Supports GET, POST, PUT, PATCH, DELETE, and many specialized endpoints for auth testing, redirects, status codes, streaming, and delays.",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://httpbin.org",
+  "docsUrl": "https://httpbin.org/#/",
+  "version": "1",
+  "pricing": "Free, no rate limits",
+  "tags": [
+    "http",
+    "testing",
+    "debugging",
+    "requests",
+    "headers",
+    "status codes",
+    "development"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://httpbin.org/get?param=value",
+    "response": "{\n  \"args\": { \"param\": \"value\" },\n  \"headers\": {\n    \"Accept\": \"*/*\",\n    \"Host\": \"httpbin.org\",\n    \"User-Agent\": \"curl/7.79.1\"\n  },\n  \"origin\": \"123.45.67.89\",\n  \"url\": \"https://httpbin.org/get?param=value\"\n}"
+  },
+  "relatedSlugs": [
+    "jsonplaceholder",
+    "randomuser",
+    "github"
+  ],
+  "alsoSearched": [
+    "http testing api",
+    "request inspection api",
+    "http debugger",
+    "test http requests",
+    "echo api"
+  ],
+  "affiliateText": "Run HTTPBin yourself on Railway \u2014 deploy the open-source Docker image in minutes.",
+  "featured": false
+}

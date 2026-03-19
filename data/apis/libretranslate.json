@@ -1,0 +1,40 @@
+{
+  "slug": "libretranslate",
+  "name": "LibreTranslate",
+  "category": "Language",
+  "description": "Free and open-source machine translation API supporting 30+ languages \u2014 self-hostable or use public instance.",
+  "longDescription": "LibreTranslate is a free, open-source machine translation API powered by Argos Translate. It supports translation between 30+ languages and detection of the source language. Unlike other translation APIs, LibreTranslate is fully open source under the AGPL license and can be self-hosted. The public API at libretranslate.com provides free translation with moderate rate limits; self-hosting has no limits.",
+  "auth": "apiKey",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://libretranslate.com",
+  "docsUrl": "https://libretranslate.com/docs/",
+  "version": "1",
+  "pricing": "Free public API with rate limits; self-hostable for unlimited use",
+  "tags": [
+    "translation",
+    "language",
+    "nlp",
+    "multilingual",
+    "open source",
+    "self-hostable"
+  ],
+  "exampleRequest": {
+    "method": "POST",
+    "endpoint": "https://libretranslate.com/translate",
+    "response": "// POST body: {\"q\": \"Hello World\", \"source\": \"en\", \"target\": \"fr\"}\n{\n  \"detectedLanguage\": null,\n  \"translatedText\": \"Bonjour le monde\"\n}"
+  },
+  "relatedSlugs": [
+    "dictionary-api",
+    "quotable"
+  ],
+  "alsoSearched": [
+    "translation api free",
+    "machine translation api",
+    "open source translation api",
+    "libre translate",
+    "language detection api"
+  ],
+  "affiliateText": "Self-host LibreTranslate on Railway \u2014 Docker-based deploy in under 5 minutes.",
+  "featured": false
+}
