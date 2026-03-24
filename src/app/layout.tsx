@@ -50,7 +50,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="google-adsense-account" content="ca-pub-4701392445476807">
+         <meta name="google-adsense-account" content="ca-pub-4701392445476807">
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -67,8 +67,8 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4701392445476807"
-     crossorigin="anonymous"></script>
+           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4701392445476807"
+            crossorigin="anonymous"></script>
       </body>
     </html>
   );
