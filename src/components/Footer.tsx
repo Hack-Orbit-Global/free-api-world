@@ -2,9 +2,9 @@ import Link from "next/link";
 
 const FOOTER_LINKS = {
   Community: [
-    { label: "GitHub", href: "https://github.com/Hack-Orbit-Global/free-api-world" },
-    { label: "Discord", href: "https://discord.gg/EDrN2fzqap" },
-    { label: "Instagram", href: "https://free-api-world.vercel.app/" },
+    { label: "GitHub", href: "https://github.com/Hack-Orbit-global/free-api-world" },
+    { label: "Discord", href: "https://discord.com/invite/GVNnacYENf" },
+    { label: "Instagram", href: "https://www.instagram.com/hackorbit_global" },
     { label: "LinkedIn", href: "https://www.linkedin.com/company/hackorbit/" },
   ],
   Explore: [
@@ -13,16 +13,15 @@ const FOOTER_LINKS = {
     { label: "Finance APIs", href: "/category/finance" },
     { label: "AI & ML APIs", href: "/category/ai-ml" },
   ],
-  Contribute: [
-    {
-      label: "Suggest an API",
-      href: "https://github.com/Hack-Orbit-Global/free-api-world/issues/new?template=suggest-api.md",
-    },
-    {
-      label: "Report Issue",
-      href: "https://github.com/Hack-Orbit-Global/free-api-world/issues/new?template=bug-report.md",
-    },
-    { label: "HackOrbit", href: "https://free-api-world.vercel.app/" },
+  Company: [
+    { label: "About", href: "/about" },
+    { label: "Contact", href: "/contact" },
+    { label: "Suggest an API", href: "https://github.com/Hack-Orbit-global/free-api-world/issues/new?template=suggest-api.md" },
+    { label: "HackOrbit", href: "https://hackorbitglobal.vercel.app" },
+  ],
+  Legal: [
+    { label: "Privacy Policy", href: "/privacy" },
+    { label: "Terms of Service", href: "/terms" },
   ],
 };
 
@@ -37,16 +36,16 @@ export default function Footer() {
     >
       <div className="glow-line" style={{ opacity: 0.5 }} />
       <div className="container">
-        {/* Main grid */}
+        {/* Main grid — 5 columns: brand + 4 link groups */}
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "2fr 1fr 1fr 1fr",
-            gap: "2.5rem",
+            gridTemplateColumns: "2fr 1fr 1fr 1fr 1fr",
+            gap: "2rem",
             padding: "3rem 0 2.5rem",
           }}
         >
-          {/* Brand */}
+          {/* Brand column */}
           <div>
             <div
               style={{
@@ -64,13 +63,14 @@ export default function Footer() {
                 color: "var(--text-dim)",
                 fontSize: "0.875rem",
                 lineHeight: 1.7,
-                maxWidth: "280px",
+                maxWidth: "260px",
+                margin: "0 0 1rem",
               }}
             >
               The universe of free public APIs. Built for developers, by developers.
               Part of the{" "}
               <a
-                href="https://github.com/bariksabarna"
+                href="https://hackorbitglobal.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "var(--accent)" }}
@@ -83,11 +83,11 @@ export default function Footer() {
               style={{
                 color: "var(--text-dim)",
                 fontSize: "0.8rem",
-                marginTop: "1rem",
                 fontFamily: "'JetBrains Mono', monospace",
+                margin: 0,
               }}
             >
-              Created by{" "}
+              By{" "}
               <a
                 href="https://github.com/bariksabarna"
                 target="_blank"
@@ -99,7 +99,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Link columns — CSS hover via .footer-link, no JS handlers */}
+          {/* Link columns */}
           {Object.entries(FOOTER_LINKS).map(([section, links]) => (
             <div key={section}>
               <p
@@ -147,16 +147,21 @@ export default function Footer() {
           <p style={{ color: "var(--text-dim)", fontSize: "0.8rem", margin: 0 }}>
             © {new Date().getFullYear()} FreeAPIWorld · Hack Orbit · MIT License
           </p>
-          <p
-            style={{
-              color: "var(--text-dim)",
-              fontSize: "0.8rem",
-              fontFamily: "'JetBrains Mono', monospace",
-              margin: 0,
-            }}
-          >
-            Build. Contribute. Orbit Together.
-          </p>
+          {/* Legal links in bottom bar too — required for AdSense */}
+          <div style={{ display: "flex", gap: "1.25rem", alignItems: "center", flexWrap: "wrap" }}>
+            <Link href="/privacy" className="footer-link" style={{ fontSize: "0.78rem" }}>
+              Privacy Policy
+            </Link>
+            <Link href="/terms" className="footer-link" style={{ fontSize: "0.78rem" }}>
+              Terms of Service
+            </Link>
+            <Link href="/contact" className="footer-link" style={{ fontSize: "0.78rem" }}>
+              Contact
+            </Link>
+            <span style={{ color: "var(--text-dim)", fontSize: "0.78rem", fontFamily: "'JetBrains Mono', monospace" }}>
+              Build. Contribute. Orbit Together.
+            </span>
+          </div>
         </div>
       </div>
     </footer>
