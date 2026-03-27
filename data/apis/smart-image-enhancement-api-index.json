@@ -1,0 +1,33 @@
+{
+  "slug": "smart-image-enhancement-api-index",
+  "name": "Smart Image Enhancement API",
+  "category": "Index",
+  "description": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
+  "longDescription": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apilayer.com/marketplace/image_enhancement-api",
+  "docsUrl": "https://apilayer.com/marketplace/image_enhancement-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "performs",
+    "image",
+    "upscaling",
+    "by",
+    "adding",
+    "detail",
+    "to",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apilayer.com/marketplace/image_enhancement-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

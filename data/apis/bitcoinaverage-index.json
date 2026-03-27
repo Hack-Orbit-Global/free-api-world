@@ -1,0 +1,33 @@
+{
+  "slug": "bitcoinaverage-index",
+  "name": "BitcoinAverage",
+  "category": "Index",
+  "description": "Digital Asset Price Data for the blockchain industry",
+  "longDescription": "Digital Asset Price Data for the blockchain industry",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apiv2.bitcoinaverage.com/",
+  "docsUrl": "https://apiv2.bitcoinaverage.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "digital",
+    "asset",
+    "price",
+    "data",
+    "for",
+    "the",
+    "blockchain",
+    "industry"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apiv2.bitcoinaverage.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

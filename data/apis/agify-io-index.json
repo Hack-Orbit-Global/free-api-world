@@ -1,0 +1,32 @@
+{
+  "slug": "agify-io-index",
+  "name": "Agify.io",
+  "category": "Index",
+  "description": "Estimates the age from a first name",
+  "longDescription": "Estimates the age from a first name",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://agify.io",
+  "docsUrl": "https://agify.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "estimates",
+    "the",
+    "age",
+    "from",
+    "a",
+    "first",
+    "name"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://agify.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

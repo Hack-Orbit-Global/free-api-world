@@ -1,0 +1,33 @@
+{
+  "slug": "kimiquotes-index",
+  "name": "kimiquotes",
+  "category": "Index",
+  "description": "Team radio and interview quotes by Finnish F1 legend Kimi R\u00e4ikk\u00f6nen",
+  "longDescription": "Team radio and interview quotes by Finnish F1 legend Kimi R\u00e4ikk\u00f6nen",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://kimiquotes.herokuapp.com/doc",
+  "docsUrl": "https://kimiquotes.herokuapp.com/doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "team",
+    "radio",
+    "and",
+    "interview",
+    "quotes",
+    "by",
+    "finnish",
+    "f1"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://kimiquotes.herokuapp.com/doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

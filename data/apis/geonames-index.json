@@ -1,0 +1,31 @@
+{
+  "slug": "geonames-index",
+  "name": "GeoNames",
+  "category": "Index",
+  "description": "Place names and other geographical data",
+  "longDescription": "Place names and other geographical data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.geonames.org/export/web-services.html",
+  "docsUrl": "http://www.geonames.org/export/web-services.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "place",
+    "names",
+    "and",
+    "other",
+    "geographical",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.geonames.org/export/web-services.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

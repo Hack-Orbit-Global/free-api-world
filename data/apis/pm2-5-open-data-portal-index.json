@@ -1,0 +1,32 @@
+{
+  "slug": "pm2-5-open-data-portal-index",
+  "name": "PM2.5 Open Data Portal",
+  "category": "Index",
+  "description": "Open low-cost PM2.5 sensor data",
+  "longDescription": "Open low-cost PM2.5 sensor data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pm25.lass-net.org/#apis",
+  "docsUrl": "https://pm25.lass-net.org/#apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "low",
+    "cost",
+    "pm2",
+    "5",
+    "sensor",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pm25.lass-net.org/#apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

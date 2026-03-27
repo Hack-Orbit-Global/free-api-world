@@ -1,0 +1,30 @@
+{
+  "slug": "financial-modeling-prep-index",
+  "name": "Financial Modeling Prep",
+  "category": "Index",
+  "description": "Realtime and historical stock data",
+  "longDescription": "Realtime and historical stock data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://site.financialmodelingprep.com/developer/docs",
+  "docsUrl": "https://site.financialmodelingprep.com/developer/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "realtime",
+    "and",
+    "historical",
+    "stock",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://site.financialmodelingprep.com/developer/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

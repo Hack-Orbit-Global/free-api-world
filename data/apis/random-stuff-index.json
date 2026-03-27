@@ -1,0 +1,33 @@
+{
+  "slug": "random-stuff-index",
+  "name": "Random Stuff",
+  "category": "Index",
+  "description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
+  "longDescription": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-docs.pgamerx.com/",
+  "docsUrl": "https://api-docs.pgamerx.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "can",
+    "be",
+    "used",
+    "to",
+    "get",
+    "ai",
+    "response",
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api-docs.pgamerx.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

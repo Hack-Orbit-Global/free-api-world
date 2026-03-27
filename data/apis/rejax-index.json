@@ -1,0 +1,31 @@
+{
+  "slug": "rejax-index",
+  "name": "Rejax",
+  "category": "Index",
+  "description": "Reverse AJAX service to notify clients",
+  "longDescription": "Reverse AJAX service to notify clients",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://rejax.io/",
+  "docsUrl": "https://rejax.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "reverse",
+    "ajax",
+    "service",
+    "to",
+    "notify",
+    "clients"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rejax.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

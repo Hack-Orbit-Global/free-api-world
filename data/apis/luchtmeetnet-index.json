@@ -1,0 +1,33 @@
+{
+  "slug": "luchtmeetnet-index",
+  "name": "Luchtmeetnet",
+  "category": "Index",
+  "description": "Predicted and actual air quality components for The Netherlands (RIVM)",
+  "longDescription": "Predicted and actual air quality components for The Netherlands (RIVM)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-docs.luchtmeetnet.nl/",
+  "docsUrl": "https://api-docs.luchtmeetnet.nl/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "predicted",
+    "and",
+    "actual",
+    "air",
+    "quality",
+    "components",
+    "for",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api-docs.luchtmeetnet.nl/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

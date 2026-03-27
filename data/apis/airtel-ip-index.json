@@ -1,0 +1,33 @@
+{
+  "slug": "airtel-ip-index",
+  "name": "Airtel IP",
+  "category": "Index",
+  "description": "IP Geolocation API. Collecting data from multiple sources",
+  "longDescription": "IP Geolocation API. Collecting data from multiple sources",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
+  "docsUrl": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "geolocation",
+    "api",
+    "collecting",
+    "data",
+    "from",
+    "multiple",
+    "sources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

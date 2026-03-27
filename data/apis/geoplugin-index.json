@@ -1,0 +1,30 @@
+{
+  "slug": "geoplugin-index",
+  "name": "geoPlugin",
+  "category": "Index",
+  "description": "IP geolocation and currency conversion",
+  "longDescription": "IP geolocation and currency conversion",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.geoplugin.com",
+  "docsUrl": "https://www.geoplugin.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "geolocation",
+    "and",
+    "currency",
+    "conversion"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.geoplugin.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

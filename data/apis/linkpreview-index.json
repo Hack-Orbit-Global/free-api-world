@@ -1,0 +1,33 @@
+{
+  "slug": "linkpreview-index",
+  "name": "LinkPreview",
+  "category": "Index",
+  "description": "Get JSON formatted summary with title, description and preview image for any requested URL",
+  "longDescription": "Get JSON formatted summary with title, description and preview image for any requested URL",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.linkpreview.net",
+  "docsUrl": "https://www.linkpreview.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "json",
+    "formatted",
+    "summary",
+    "with",
+    "title",
+    "description",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.linkpreview.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

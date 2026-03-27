@@ -1,0 +1,32 @@
+{
+  "slug": "redash-index",
+  "name": "Redash",
+  "category": "Index",
+  "description": "Access your queries and dashboards on Redash",
+  "longDescription": "Access your queries and dashboards on Redash",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://redash.io/help/user-guide/integrations-and-api/api",
+  "docsUrl": "https://redash.io/help/user-guide/integrations-and-api/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "your",
+    "queries",
+    "and",
+    "dashboards",
+    "on",
+    "redash"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://redash.io/help/user-guide/integrations-and-api/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

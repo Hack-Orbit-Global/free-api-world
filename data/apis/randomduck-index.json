@@ -1,0 +1,29 @@
+{
+  "slug": "randomduck-index",
+  "name": "RandomDuck",
+  "category": "Index",
+  "description": "Random pictures of ducks",
+  "longDescription": "Random pictures of ducks",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://random-d.uk/api",
+  "docsUrl": "https://random-d.uk/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "pictures",
+    "of",
+    "ducks"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://random-d.uk/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

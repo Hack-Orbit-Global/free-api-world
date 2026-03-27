@@ -1,0 +1,32 @@
+{
+  "slug": "opensky-network-index",
+  "name": "OpenSky Network",
+  "category": "Index",
+  "description": "Free real-time ADS-B aviation data",
+  "longDescription": "Free real-time ADS-B aviation data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opensky-network.org/apidoc/index.html",
+  "docsUrl": "https://opensky-network.org/apidoc/index.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "real",
+    "time",
+    "ads",
+    "b",
+    "aviation",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opensky-network.org/apidoc/index.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

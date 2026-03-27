@@ -1,0 +1,33 @@
+{
+  "slug": "news-index",
+  "name": "News",
+  "category": "Index",
+  "description": "Headlines currently published on a range of news sources and blogs",
+  "longDescription": "Headlines currently published on a range of news sources and blogs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://newsapi.org/",
+  "docsUrl": "https://newsapi.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "headlines",
+    "currently",
+    "published",
+    "on",
+    "a",
+    "range",
+    "of",
+    "news"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://newsapi.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

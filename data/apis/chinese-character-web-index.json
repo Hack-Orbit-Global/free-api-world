@@ -1,0 +1,30 @@
+{
+  "slug": "chinese-character-web-index",
+  "name": "Chinese Character Web",
+  "category": "Index",
+  "description": "Chinese character definitions and pronunciations",
+  "longDescription": "Chinese character definitions and pronunciations",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://ccdb.hemiola.com/",
+  "docsUrl": "http://ccdb.hemiola.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "chinese",
+    "character",
+    "definitions",
+    "and",
+    "pronunciations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://ccdb.hemiola.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

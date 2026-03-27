@@ -1,0 +1,33 @@
+{
+  "slug": "smartcar-index",
+  "name": "Smartcar",
+  "category": "Index",
+  "description": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
+  "longDescription": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://smartcar.com/docs/",
+  "docsUrl": "https://smartcar.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "lock",
+    "and",
+    "unlock",
+    "vehicles",
+    "get",
+    "data",
+    "like",
+    "odometer"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://smartcar.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

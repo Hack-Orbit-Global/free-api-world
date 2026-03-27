@@ -1,0 +1,30 @@
+{
+  "slug": "yes-no-index",
+  "name": "Yes No",
+  "category": "Index",
+  "description": "Generate yes or no randomly",
+  "longDescription": "Generate yes or no randomly",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://yesno.wtf/api",
+  "docsUrl": "https://yesno.wtf/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "yes",
+    "or",
+    "no",
+    "randomly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://yesno.wtf/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

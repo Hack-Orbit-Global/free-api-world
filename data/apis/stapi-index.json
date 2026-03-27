@@ -1,0 +1,31 @@
+{
+  "slug": "stapi-index",
+  "name": "STAPI",
+  "category": "Index",
+  "description": "Information on all things Star Trek",
+  "longDescription": "Information on all things Star Trek",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://stapi.co",
+  "docsUrl": "http://stapi.co",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "information",
+    "on",
+    "all",
+    "things",
+    "star",
+    "trek"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://stapi.co",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

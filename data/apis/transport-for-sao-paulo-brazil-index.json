@@ -1,0 +1,26 @@
+{
+  "slug": "transport-for-sao-paulo-brazil-index",
+  "name": "Transport for Sao Paulo, Brazil",
+  "category": "Index",
+  "description": "SPTrans",
+  "longDescription": "SPTrans",
+  "auth": "OAuth",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+  "docsUrl": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sptrans"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

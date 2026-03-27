@@ -1,0 +1,33 @@
+{
+  "slug": "waifu-im-index",
+  "name": "Waifu.im",
+  "category": "Index",
+  "description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
+  "longDescription": "Get waifu pictures from an archive of over 4000 images and multiple tags",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://waifu.im/docs",
+  "docsUrl": "https://waifu.im/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "waifu",
+    "pictures",
+    "from",
+    "an",
+    "archive",
+    "of",
+    "over"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://waifu.im/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

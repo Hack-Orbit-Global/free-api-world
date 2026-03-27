@@ -1,0 +1,28 @@
+{
+  "slug": "catalogopolis-index",
+  "name": "Catalogopolis",
+  "category": "Index",
+  "description": "Doctor Who API",
+  "longDescription": "Doctor Who API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.catalogopolis.xyz/docs/",
+  "docsUrl": "https://api.catalogopolis.xyz/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "doctor",
+    "who",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.catalogopolis.xyz/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

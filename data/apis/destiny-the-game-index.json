@@ -1,0 +1,28 @@
+{
+  "slug": "destiny-the-game-index",
+  "name": "Destiny The Game",
+  "category": "Index",
+  "description": "Bungie Platform API",
+  "longDescription": "Bungie Platform API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bungie-net.github.io/multi/index.html",
+  "docsUrl": "https://bungie-net.github.io/multi/index.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bungie",
+    "platform",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bungie-net.github.io/multi/index.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

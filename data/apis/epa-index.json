@@ -1,0 +1,33 @@
+{
+  "slug": "epa-index",
+  "name": "EPA",
+  "category": "Index",
+  "description": "Web services and data sets from the US Environmental Protection Agency",
+  "longDescription": "Web services and data sets from the US Environmental Protection Agency",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.epa.gov/developers/data-data-products#apis",
+  "docsUrl": "https://www.epa.gov/developers/data-data-products#apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "web",
+    "services",
+    "and",
+    "data",
+    "sets",
+    "from",
+    "the",
+    "us"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.epa.gov/developers/data-data-products#apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

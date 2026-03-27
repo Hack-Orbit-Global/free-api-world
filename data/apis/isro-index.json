@@ -1,0 +1,29 @@
+{
+  "slug": "isro-index",
+  "name": "ISRO",
+  "category": "Index",
+  "description": "ISRO Space Crafts Information",
+  "longDescription": "ISRO Space Crafts Information",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://isro.vercel.app",
+  "docsUrl": "https://isro.vercel.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "isro",
+    "space",
+    "crafts",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://isro.vercel.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

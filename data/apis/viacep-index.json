@@ -1,0 +1,30 @@
+{
+  "slug": "viacep-index",
+  "name": "ViaCep",
+  "category": "Index",
+  "description": "Brazil RESTful zip codes API",
+  "longDescription": "Brazil RESTful zip codes API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://viacep.com.br",
+  "docsUrl": "https://viacep.com.br",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "brazil",
+    "restful",
+    "zip",
+    "codes",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://viacep.com.br",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

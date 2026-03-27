@@ -1,0 +1,32 @@
+{
+  "slug": "vatcomply-com-index",
+  "name": "VATComply.com",
+  "category": "Index",
+  "description": "Exchange rates, geolocation and VAT number validation",
+  "longDescription": "Exchange rates, geolocation and VAT number validation",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.vatcomply.com/documentation",
+  "docsUrl": "https://www.vatcomply.com/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "exchange",
+    "rates",
+    "geolocation",
+    "and",
+    "vat",
+    "number",
+    "validation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.vatcomply.com/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

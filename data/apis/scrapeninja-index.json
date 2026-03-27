@@ -1,0 +1,33 @@
+{
+  "slug": "scrapeninja-index",
+  "name": "ScrapeNinja",
+  "category": "Index",
+  "description": "Scraping API with Chrome fingerprint and residential proxies",
+  "longDescription": "Scraping API with Chrome fingerprint and residential proxies",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://scrapeninja.net",
+  "docsUrl": "https://scrapeninja.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "scraping",
+    "api",
+    "with",
+    "chrome",
+    "fingerprint",
+    "and",
+    "residential",
+    "proxies"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://scrapeninja.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

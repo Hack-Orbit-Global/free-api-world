@@ -1,0 +1,29 @@
+{
+  "slug": "usaspending-gov-index",
+  "name": "USAspending.gov",
+  "category": "Index",
+  "description": "US federal spending data",
+  "longDescription": "US federal spending data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.usaspending.gov/",
+  "docsUrl": "https://api.usaspending.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "federal",
+    "spending",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.usaspending.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

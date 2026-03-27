@@ -1,0 +1,28 @@
+{
+  "slug": "dydx-index",
+  "name": "dYdX",
+  "category": "Index",
+  "description": "Decentralized cryptocurrency exchange",
+  "longDescription": "Decentralized cryptocurrency exchange",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.dydx.exchange/",
+  "docsUrl": "https://docs.dydx.exchange/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "decentralized",
+    "cryptocurrency",
+    "exchange"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.dydx.exchange/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

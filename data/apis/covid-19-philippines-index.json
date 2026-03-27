@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-philippines-index",
+  "name": "Covid-19 Philippines",
+  "category": "Index",
+  "description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
+  "longDescription": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH",
+  "docsUrl": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "covid",
+    "19",
+    "web",
+    "api",
+    "for",
+    "philippines",
+    "from"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

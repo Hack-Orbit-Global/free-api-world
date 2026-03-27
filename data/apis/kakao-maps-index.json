@@ -1,0 +1,32 @@
+{
+  "slug": "kakao-maps-index",
+  "name": "Kakao Maps",
+  "category": "Index",
+  "description": "Kakao Maps provide multiple APIs for Korean maps",
+  "longDescription": "Kakao Maps provide multiple APIs for Korean maps",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apis.map.kakao.com",
+  "docsUrl": "https://apis.map.kakao.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "kakao",
+    "maps",
+    "provide",
+    "multiple",
+    "apis",
+    "for",
+    "korean"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apis.map.kakao.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

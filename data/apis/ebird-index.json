@@ -1,0 +1,33 @@
+{
+  "slug": "ebird-index",
+  "name": "eBird",
+  "category": "Index",
+  "description": "Retrieve recent or notable birding observations within a region",
+  "longDescription": "Retrieve recent or notable birding observations within a region",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+  "docsUrl": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "recent",
+    "or",
+    "notable",
+    "birding",
+    "observations",
+    "within",
+    "a"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-italy-index",
+  "name": "Open Government, Italy",
+  "category": "Index",
+  "description": "Italy Government Open Data",
+  "longDescription": "Italy Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.dati.gov.it/",
+  "docsUrl": "https://www.dati.gov.it/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "italy",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.dati.gov.it/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "botsarchive-index",
+  "name": "BotsArchive",
+  "category": "Index",
+  "description": "JSON formatted details about Telegram Bots available in database",
+  "longDescription": "JSON formatted details about Telegram Bots available in database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://botsarchive.com/docs.html",
+  "docsUrl": "https://botsarchive.com/docs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "json",
+    "formatted",
+    "details",
+    "about",
+    "telegram",
+    "bots",
+    "available",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://botsarchive.com/docs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

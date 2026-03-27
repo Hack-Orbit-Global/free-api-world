@@ -1,0 +1,33 @@
+{
+  "slug": "nordigen-index",
+  "name": "Nordigen",
+  "category": "Index",
+  "description": "Connect to bank accounts using official bank APIs and get raw transaction data",
+  "longDescription": "Connect to bank accounts using official bank APIs and get raw transaction data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/",
+  "docsUrl": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "connect",
+    "to",
+    "bank",
+    "accounts",
+    "using",
+    "official",
+    "apis",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

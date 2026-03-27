@@ -1,0 +1,33 @@
+{
+  "slug": "us-zipcode-index",
+  "name": "US ZipCode",
+  "category": "Index",
+  "description": "Validate and append data for any US ZipCode",
+  "longDescription": "Validate and append data for any US ZipCode",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.smarty.com/docs/cloud/us-zipcode-api",
+  "docsUrl": "https://www.smarty.com/docs/cloud/us-zipcode-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "and",
+    "append",
+    "data",
+    "for",
+    "any",
+    "us",
+    "zipcode"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.smarty.com/docs/cloud/us-zipcode-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "coindesk-index",
+  "name": "CoinDesk",
+  "category": "Index",
+  "description": "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies",
+  "longDescription": "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://old.coindesk.com/coindesk-api/",
+  "docsUrl": "https://old.coindesk.com/coindesk-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "coindesk",
+    "s",
+    "bitcoin",
+    "price",
+    "index",
+    "bpi",
+    "in",
+    "multiple"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://old.coindesk.com/coindesk-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

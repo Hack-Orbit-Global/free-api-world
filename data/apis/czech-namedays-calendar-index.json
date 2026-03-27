@@ -1,0 +1,33 @@
+{
+  "slug": "czech-namedays-calendar-index",
+  "name": "Czech Namedays Calendar",
+  "category": "Index",
+  "description": "Lookup for a name and returns nameday date",
+  "longDescription": "Lookup for a name and returns nameday date",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://svatky.adresa.info",
+  "docsUrl": "https://svatky.adresa.info",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "lookup",
+    "for",
+    "a",
+    "name",
+    "and",
+    "returns",
+    "nameday",
+    "date"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://svatky.adresa.info",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

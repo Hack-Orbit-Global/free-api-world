@@ -1,0 +1,33 @@
+{
+  "slug": "share-index",
+  "name": "SHARE",
+  "category": "Index",
+  "description": "A free, open, dataset about research and scholarly activities",
+  "longDescription": "A free, open, dataset about research and scholarly activities",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://share.osf.io/api/v2/",
+  "docsUrl": "https://share.osf.io/api/v2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "free",
+    "open",
+    "dataset",
+    "about",
+    "research",
+    "and",
+    "scholarly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://share.osf.io/api/v2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

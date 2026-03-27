@@ -1,0 +1,30 @@
+{
+  "slug": "namedays-calendar-index",
+  "name": "Namedays Calendar",
+  "category": "Index",
+  "description": "Provides namedays for multiple countries",
+  "longDescription": "Provides namedays for multiple countries",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nameday.abalin.net",
+  "docsUrl": "https://nameday.abalin.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "namedays",
+    "for",
+    "multiple",
+    "countries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nameday.abalin.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "beeceptor-index",
+  "name": "Beeceptor",
+  "category": "Index",
+  "description": "Build a mock Rest API endpoint in seconds",
+  "longDescription": "Build a mock Rest API endpoint in seconds",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://beeceptor.com/",
+  "docsUrl": "https://beeceptor.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "build",
+    "a",
+    "mock",
+    "rest",
+    "api",
+    "endpoint",
+    "in",
+    "seconds"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://beeceptor.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

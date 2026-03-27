@@ -1,0 +1,33 @@
+{
+  "slug": "currency-api-index",
+  "name": "Currency-api",
+  "category": "Index",
+  "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+  "longDescription": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/fawazahmed0/currency-api#readme",
+  "docsUrl": "https://github.com/fawazahmed0/currency-api#readme",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "currency",
+    "exchange",
+    "rates",
+    "api",
+    "with",
+    "150",
+    "currencies"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/fawazahmed0/currency-api#readme",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

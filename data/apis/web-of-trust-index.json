@@ -1,0 +1,29 @@
+{
+  "slug": "web-of-trust-index",
+  "name": "Web of Trust",
+  "category": "Index",
+  "description": "IP/domain/URL reputation",
+  "longDescription": "IP/domain/URL reputation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://support.mywot.com/hc/en-us/sections/360004477734-API-",
+  "docsUrl": "https://support.mywot.com/hc/en-us/sections/360004477734-API-",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "domain",
+    "url",
+    "reputation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://support.mywot.com/hc/en-us/sections/360004477734-API-",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

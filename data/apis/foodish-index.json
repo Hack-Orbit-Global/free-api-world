@@ -1,0 +1,30 @@
+{
+  "slug": "foodish-index",
+  "name": "Foodish",
+  "category": "Index",
+  "description": "Random pictures of food dishes",
+  "longDescription": "Random pictures of food dishes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/surhud004/Foodish#readme",
+  "docsUrl": "https://github.com/surhud004/Foodish#readme",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "pictures",
+    "of",
+    "food",
+    "dishes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/surhud004/Foodish#readme",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

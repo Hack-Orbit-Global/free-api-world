@@ -1,0 +1,33 @@
+{
+  "slug": "arbeitsamt-index",
+  "name": "Arbeitsamt",
+  "category": "Index",
+  "description": "API for the \"Arbeitsamt\", which is a german Job board aggregator",
+  "longDescription": "API for the \"Arbeitsamt\", which is a german Job board aggregator",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://jobsuche.api.bund.dev/",
+  "docsUrl": "https://jobsuche.api.bund.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "the",
+    "arbeitsamt",
+    "which",
+    "is",
+    "a",
+    "german"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://jobsuche.api.bund.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "imagga-index",
+  "name": "Imagga",
+  "category": "Index",
+  "description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
+  "longDescription": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://imagga.com/",
+  "docsUrl": "https://imagga.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "recognition",
+    "solutions",
+    "like",
+    "tagging",
+    "visual",
+    "search",
+    "nsfw"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://imagga.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

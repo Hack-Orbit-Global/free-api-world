@@ -1,0 +1,27 @@
+{
+  "slug": "markerapi-index",
+  "name": "markerapi",
+  "category": "Index",
+  "description": "Trademark Search",
+  "longDescription": "Trademark Search",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://markerapi.com",
+  "docsUrl": "https://markerapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "trademark",
+    "search"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://markerapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

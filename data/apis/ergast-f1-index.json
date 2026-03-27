@@ -1,0 +1,33 @@
+{
+  "slug": "ergast-f1-index",
+  "name": "Ergast F1",
+  "category": "Index",
+  "description": "F1 data from the beginning of the world championships in 1950",
+  "longDescription": "F1 data from the beginning of the world championships in 1950",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://ergast.com/mrd/",
+  "docsUrl": "http://ergast.com/mrd/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "f1",
+    "data",
+    "from",
+    "the",
+    "beginning",
+    "of",
+    "world",
+    "championships"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://ergast.com/mrd/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

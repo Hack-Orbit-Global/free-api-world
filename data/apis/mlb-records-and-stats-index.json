@@ -1,0 +1,30 @@
+{
+  "slug": "mlb-records-and-stats-index",
+  "name": "MLB Records and Stats",
+  "category": "Index",
+  "description": "Current and historical MLB statistics",
+  "longDescription": "Current and historical MLB statistics",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://appac.github.io/mlb-data-api-docs/",
+  "docsUrl": "https://appac.github.io/mlb-data-api-docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "current",
+    "and",
+    "historical",
+    "mlb",
+    "statistics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://appac.github.io/mlb-data-api-docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

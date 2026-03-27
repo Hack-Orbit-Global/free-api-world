@@ -1,0 +1,30 @@
+{
+  "slug": "puyo-nexus-index",
+  "name": "Puyo Nexus",
+  "category": "Index",
+  "description": "Puyo Puyo information from Puyo Nexus Wiki",
+  "longDescription": "Puyo Puyo information from Puyo Nexus Wiki",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/deltadex7/puyodb-api-deno",
+  "docsUrl": "https://github.com/deltadex7/puyodb-api-deno",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "puyo",
+    "information",
+    "from",
+    "nexus",
+    "wiki"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/deltadex7/puyodb-api-deno",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

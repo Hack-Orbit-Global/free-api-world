@@ -1,0 +1,33 @@
+{
+  "slug": "joshua-project-index",
+  "name": "Joshua Project",
+  "category": "Index",
+  "description": "People groups of the world with the fewest followers of Christ",
+  "longDescription": "People groups of the world with the fewest followers of Christ",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.joshuaproject.net/",
+  "docsUrl": "https://api.joshuaproject.net/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "people",
+    "groups",
+    "of",
+    "the",
+    "world",
+    "with",
+    "fewest",
+    "followers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.joshuaproject.net/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

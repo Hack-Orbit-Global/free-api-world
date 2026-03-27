@@ -1,0 +1,30 @@
+{
+  "slug": "city-helsinki-index",
+  "name": "City, Helsinki",
+  "category": "Index",
+  "description": "Helsinki(FI) City Open Data",
+  "longDescription": "Helsinki(FI) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hri.fi/en_gb/",
+  "docsUrl": "https://hri.fi/en_gb/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "helsinki",
+    "fi",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hri.fi/en_gb/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

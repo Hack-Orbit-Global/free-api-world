@@ -1,0 +1,28 @@
+{
+  "slug": "econdb-index",
+  "name": "Econdb",
+  "category": "Index",
+  "description": "Global macroeconomic data",
+  "longDescription": "Global macroeconomic data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.econdb.com/api/",
+  "docsUrl": "https://www.econdb.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "macroeconomic",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.econdb.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nasa-index",
+  "name": "NASA",
+  "category": "Index",
+  "description": "NASA data, including imagery",
+  "longDescription": "NASA data, including imagery",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://api.nasa.gov",
+  "docsUrl": "https://api.nasa.gov",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nasa",
+    "data",
+    "including",
+    "imagery"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.nasa.gov",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

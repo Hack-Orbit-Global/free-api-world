@@ -1,0 +1,32 @@
+{
+  "slug": "nobel-prize-index",
+  "name": "Nobel Prize",
+  "category": "Index",
+  "description": "Open data about nobel prizes and events",
+  "longDescription": "Open data about nobel prizes and events",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.nobelprize.org/about/developer-zone-2/",
+  "docsUrl": "https://www.nobelprize.org/about/developer-zone-2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "data",
+    "about",
+    "nobel",
+    "prizes",
+    "and",
+    "events"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.nobelprize.org/about/developer-zone-2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

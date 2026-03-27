@@ -1,0 +1,28 @@
+{
+  "slug": "cat-facts-index",
+  "name": "Cat Facts",
+  "category": "Index",
+  "description": "Daily cat facts",
+  "longDescription": "Daily cat facts",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://alexwohlbruck.github.io/cat-facts/",
+  "docsUrl": "https://alexwohlbruck.github.io/cat-facts/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "daily",
+    "cat",
+    "facts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://alexwohlbruck.github.io/cat-facts/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

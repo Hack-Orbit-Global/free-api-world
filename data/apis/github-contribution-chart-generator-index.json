@@ -1,0 +1,32 @@
+{
+  "slug": "github-contribution-chart-generator-index",
+  "name": "GitHub Contribution Chart Generator",
+  "category": "Index",
+  "description": "Create an image of your GitHub contributions",
+  "longDescription": "Create an image of your GitHub contributions",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github-contributions.vercel.app",
+  "docsUrl": "https://github-contributions.vercel.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "create",
+    "an",
+    "image",
+    "of",
+    "your",
+    "github",
+    "contributions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github-contributions.vercel.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

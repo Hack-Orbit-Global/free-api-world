@@ -1,0 +1,33 @@
+{
+  "slug": "microsoft-graph-index",
+  "name": "Microsoft Graph",
+  "category": "Index",
+  "description": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",
+  "longDescription": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.microsoft.com/en-us/graph/api/overview",
+  "docsUrl": "https://docs.microsoft.com/en-us/graph/api/overview",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "the",
+    "data",
+    "and",
+    "intelligence",
+    "in",
+    "microsoft",
+    "365"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.microsoft.com/en-us/graph/api/overview",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

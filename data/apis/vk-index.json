@@ -1,0 +1,30 @@
+{
+  "slug": "vk-index",
+  "name": "vk",
+  "category": "Index",
+  "description": "Read and write vk data",
+  "longDescription": "Read and write vk data",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://vk.com/dev/sites",
+  "docsUrl": "https://vk.com/dev/sites",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "read",
+    "and",
+    "write",
+    "vk",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vk.com/dev/sites",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "remove-bg-index",
+  "name": "Remove.bg",
+  "category": "Index",
+  "description": "Image Background removal",
+  "longDescription": "Image Background removal",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.remove.bg/api",
+  "docsUrl": "https://www.remove.bg/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "background",
+    "removal"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.remove.bg/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "istanbul-ibb-open-data-index",
+  "name": "Istanbul (\u0130BB) Open Data",
+  "category": "Index",
+  "description": "Data sets from the \u0130stanbul Metropolitan Municipality (\u0130BB)",
+  "longDescription": "Data sets from the \u0130stanbul Metropolitan Municipality (\u0130BB)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.ibb.gov.tr",
+  "docsUrl": "https://data.ibb.gov.tr",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "sets",
+    "from",
+    "the",
+    "i",
+    "stanbul",
+    "metropolitan",
+    "municipality"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.ibb.gov.tr",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "coinranking-index",
+  "name": "CoinRanking",
+  "category": "Index",
+  "description": "Live Cryptocurrency data",
+  "longDescription": "Live Cryptocurrency data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.coinranking.com/api/documentation",
+  "docsUrl": "https://developers.coinranking.com/api/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "live",
+    "cryptocurrency",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.coinranking.com/api/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

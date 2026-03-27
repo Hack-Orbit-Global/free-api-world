@@ -1,0 +1,32 @@
+{
+  "slug": "clickmeter-index",
+  "name": "ClickMeter",
+  "category": "Index",
+  "description": "Monitor, compare and optimize your marketing links",
+  "longDescription": "Monitor, compare and optimize your marketing links",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://support.clickmeter.com/hc/en-us/categories/201474986",
+  "docsUrl": "https://support.clickmeter.com/hc/en-us/categories/201474986",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "monitor",
+    "compare",
+    "and",
+    "optimize",
+    "your",
+    "marketing",
+    "links"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://support.clickmeter.com/hc/en-us/categories/201474986",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

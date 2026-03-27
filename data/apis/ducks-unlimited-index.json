@@ -1,0 +1,33 @@
+{
+  "slug": "ducks-unlimited-index",
+  "name": "Ducks Unlimited",
+  "category": "Index",
+  "description": "API explorer that gives a query URL with a JSON response of locations and cities",
+  "longDescription": "API explorer that gives a query URL with a JSON response of locations and cities",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://gis.ducks.org/datasets/du-university-chapters/api",
+  "docsUrl": "https://gis.ducks.org/datasets/du-university-chapters/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "explorer",
+    "that",
+    "gives",
+    "a",
+    "query",
+    "url",
+    "with"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gis.ducks.org/datasets/du-university-chapters/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

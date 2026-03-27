@@ -1,0 +1,33 @@
+{
+  "slug": "rss-feed-to-json-index",
+  "name": "RSS feed to JSON",
+  "category": "Index",
+  "description": "Returns RSS feed in JSON format using feed URL",
+  "longDescription": "Returns RSS feed in JSON format using feed URL",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rss-to-json-serverless-api.vercel.app",
+  "docsUrl": "https://rss-to-json-serverless-api.vercel.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "returns",
+    "rss",
+    "feed",
+    "in",
+    "json",
+    "format",
+    "using",
+    "url"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rss-to-json-serverless-api.vercel.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

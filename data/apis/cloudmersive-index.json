@@ -1,0 +1,31 @@
+{
+  "slug": "cloudmersive-index",
+  "name": "Cloudmersive",
+  "category": "Index",
+  "description": "Image captioning, face recognition, NSFW classification",
+  "longDescription": "Image captioning, face recognition, NSFW classification",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+  "docsUrl": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "captioning",
+    "face",
+    "recognition",
+    "nsfw",
+    "classification"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

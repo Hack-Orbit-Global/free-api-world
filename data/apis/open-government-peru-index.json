@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-peru-index",
+  "name": "Open Government, Peru",
+  "category": "Index",
+  "description": "Peru Government Open Data",
+  "longDescription": "Peru Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.datosabiertos.gob.pe/",
+  "docsUrl": "https://www.datosabiertos.gob.pe/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "peru",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.datosabiertos.gob.pe/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

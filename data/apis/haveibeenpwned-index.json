@@ -1,0 +1,33 @@
+{
+  "slug": "haveibeenpwned-index",
+  "name": "HaveIBeenPwned",
+  "category": "Index",
+  "description": "Passwords which have previously been exposed in data breaches",
+  "longDescription": "Passwords which have previously been exposed in data breaches",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://haveibeenpwned.com/API/v3",
+  "docsUrl": "https://haveibeenpwned.com/API/v3",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "passwords",
+    "which",
+    "have",
+    "previously",
+    "been",
+    "exposed",
+    "in",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://haveibeenpwned.com/API/v3",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

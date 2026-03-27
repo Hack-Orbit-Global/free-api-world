@@ -1,0 +1,33 @@
+{
+  "slug": "aqicn-index",
+  "name": "AQICN",
+  "category": "Index",
+  "description": "Air Quality Index Data for over 1000 cities",
+  "longDescription": "Air Quality Index Data for over 1000 cities",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aqicn.org/api/",
+  "docsUrl": "https://aqicn.org/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "air",
+    "quality",
+    "index",
+    "data",
+    "for",
+    "over",
+    "1000",
+    "cities"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aqicn.org/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

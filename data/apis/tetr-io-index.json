@@ -1,0 +1,30 @@
+{
+  "slug": "tetr-io-index",
+  "name": "TETR.IO",
+  "category": "Index",
+  "description": "TETR.IO Tetra Channel API",
+  "longDescription": "TETR.IO Tetra Channel API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tetr.io/about/api/",
+  "docsUrl": "https://tetr.io/about/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tetr",
+    "io",
+    "tetra",
+    "channel",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tetr.io/about/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

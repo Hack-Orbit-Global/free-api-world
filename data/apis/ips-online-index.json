@@ -1,0 +1,30 @@
+{
+  "slug": "ips-online-index",
+  "name": "IPS Online",
+  "category": "Index",
+  "description": "Face and License Plate Anonymization",
+  "longDescription": "Face and License Plate Anonymization",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.identity.ps/docs",
+  "docsUrl": "https://docs.identity.ps/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "face",
+    "and",
+    "license",
+    "plate",
+    "anonymization"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.identity.ps/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

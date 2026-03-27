@@ -1,0 +1,33 @@
+{
+  "slug": "newsx-index",
+  "name": "NewsX",
+  "category": "Index",
+  "description": "Get or Search Latest Breaking News with ML Powered Summaries \ud83e\udd16",
+  "longDescription": "Get or Search Latest Breaking News with ML Powered Summaries \ud83e\udd16",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+  "docsUrl": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "or",
+    "search",
+    "latest",
+    "breaking",
+    "news",
+    "with",
+    "ml"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

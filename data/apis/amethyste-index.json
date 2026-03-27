@@ -1,0 +1,30 @@
+{
+  "slug": "amethyste-index",
+  "name": "Am\u00e9thyste",
+  "category": "Index",
+  "description": "Generate images for Discord users",
+  "longDescription": "Generate images for Discord users",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.amethyste.moe/",
+  "docsUrl": "https://api.amethyste.moe/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "images",
+    "for",
+    "discord",
+    "users"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.amethyste.moe/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

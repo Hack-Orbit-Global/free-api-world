@@ -1,0 +1,30 @@
+{
+  "slug": "tipo-index",
+  "name": "TIPO",
+  "category": "Index",
+  "description": "Taiwan patent search system api",
+  "longDescription": "Taiwan patent search system api",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+  "docsUrl": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "taiwan",
+    "patent",
+    "search",
+    "system",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

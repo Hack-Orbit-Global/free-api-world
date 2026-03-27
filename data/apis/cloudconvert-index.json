@@ -1,0 +1,33 @@
+{
+  "slug": "cloudconvert-index",
+  "name": "CloudConvert",
+  "category": "Index",
+  "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+  "longDescription": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cloudconvert.com/api/v2",
+  "docsUrl": "https://cloudconvert.com/api/v2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "file",
+    "converter",
+    "for",
+    "audio",
+    "video",
+    "document",
+    "ebook"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cloudconvert.com/api/v2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

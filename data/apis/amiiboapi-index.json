@@ -1,0 +1,28 @@
+{
+  "slug": "amiiboapi-index",
+  "name": "AmiiboAPI",
+  "category": "Index",
+  "description": "Nintendo Amiibo Information",
+  "longDescription": "Nintendo Amiibo Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://amiiboapi.com/",
+  "docsUrl": "https://amiiboapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nintendo",
+    "amiibo",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://amiiboapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

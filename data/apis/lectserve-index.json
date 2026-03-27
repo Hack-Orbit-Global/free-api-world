@@ -1,0 +1,28 @@
+{
+  "slug": "lectserve-index",
+  "name": "LectServe",
+  "category": "Index",
+  "description": "Protestant liturgical calendar",
+  "longDescription": "Protestant liturgical calendar",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.lectserve.com",
+  "docsUrl": "http://www.lectserve.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "protestant",
+    "liturgical",
+    "calendar"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.lectserve.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

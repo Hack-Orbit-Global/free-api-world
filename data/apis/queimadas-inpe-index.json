@@ -1,0 +1,32 @@
+{
+  "slug": "queimadas-inpe-index",
+  "name": "Queimadas INPE",
+  "category": "Index",
+  "description": "Access to heat focus data (probable wildfire)",
+  "longDescription": "Access to heat focus data (probable wildfire)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/",
+  "docsUrl": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "to",
+    "heat",
+    "focus",
+    "data",
+    "probable",
+    "wildfire"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hong-kong-geodata-store-index",
+  "name": "Hong Kong GeoData Store",
+  "category": "Index",
+  "description": "API for accessing geo-data of Hong Kong",
+  "longDescription": "API for accessing geo-data of Hong Kong",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geodata.gov.hk/gs/",
+  "docsUrl": "https://geodata.gov.hk/gs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "accessing",
+    "geo",
+    "data",
+    "of",
+    "hong",
+    "kong"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geodata.gov.hk/gs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

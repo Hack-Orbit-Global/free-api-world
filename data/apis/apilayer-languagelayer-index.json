@@ -1,0 +1,32 @@
+{
+  "slug": "apilayer-languagelayer-index",
+  "name": "apilayer languagelayer",
+  "category": "Index",
+  "description": "Language Detection JSON API supporting 173 languages",
+  "longDescription": "Language Detection JSON API supporting 173 languages",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://languagelayer.com/",
+  "docsUrl": "https://languagelayer.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "language",
+    "detection",
+    "json",
+    "api",
+    "supporting",
+    "173",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://languagelayer.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

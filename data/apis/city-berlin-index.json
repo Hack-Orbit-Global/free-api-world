@@ -1,0 +1,30 @@
+{
+  "slug": "city-berlin-index",
+  "name": "City, Berlin",
+  "category": "Index",
+  "description": "Berlin(DE) City Open Data",
+  "longDescription": "Berlin(DE) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://daten.berlin.de/",
+  "docsUrl": "https://daten.berlin.de/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "berlin",
+    "de",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://daten.berlin.de/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

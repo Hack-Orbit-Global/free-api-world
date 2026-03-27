@@ -1,0 +1,29 @@
+{
+  "slug": "scryfall-index",
+  "name": "Scryfall",
+  "category": "Index",
+  "description": "Magic: The Gathering database",
+  "longDescription": "Magic: The Gathering database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://scryfall.com/docs/api",
+  "docsUrl": "https://scryfall.com/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "magic",
+    "the",
+    "gathering",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://scryfall.com/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

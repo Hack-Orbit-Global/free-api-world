@@ -1,0 +1,30 @@
+{
+  "slug": "pvwatts-index",
+  "name": "PVWatts",
+  "category": "Index",
+  "description": "Energy production photovoltaic (PV) energy systems",
+  "longDescription": "Energy production photovoltaic (PV) energy systems",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+  "docsUrl": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "energy",
+    "production",
+    "photovoltaic",
+    "pv",
+    "systems"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

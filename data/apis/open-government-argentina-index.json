@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-argentina-index",
+  "name": "Open Government, Argentina",
+  "category": "Index",
+  "description": "Argentina Government Open Data",
+  "longDescription": "Argentina Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://datos.gob.ar/",
+  "docsUrl": "https://datos.gob.ar/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "argentina",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://datos.gob.ar/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

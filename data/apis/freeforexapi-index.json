@@ -1,0 +1,33 @@
+{
+  "slug": "freeforexapi-index",
+  "name": "FreeForexAPI",
+  "category": "Index",
+  "description": "Real-time foreign exchange rates for major currency pairs",
+  "longDescription": "Real-time foreign exchange rates for major currency pairs",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://freeforexapi.com/Home/Api",
+  "docsUrl": "https://freeforexapi.com/Home/Api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "foreign",
+    "exchange",
+    "rates",
+    "for",
+    "major",
+    "currency"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://freeforexapi.com/Home/Api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

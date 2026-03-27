@@ -1,0 +1,26 @@
+{
+  "slug": "comic-vine-index",
+  "name": "Comic Vine",
+  "category": "Index",
+  "description": "Comics",
+  "longDescription": "Comics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://comicvine.gamespot.com/api/documentation",
+  "docsUrl": "https://comicvine.gamespot.com/api/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "comics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://comicvine.gamespot.com/api/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

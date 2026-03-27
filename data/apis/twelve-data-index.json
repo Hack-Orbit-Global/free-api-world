@@ -1,0 +1,31 @@
+{
+  "slug": "twelve-data-index",
+  "name": "Twelve Data",
+  "category": "Index",
+  "description": "Stock market data (real-time & historical)",
+  "longDescription": "Stock market data (real-time & historical)",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://twelvedata.com/",
+  "docsUrl": "https://twelvedata.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "stock",
+    "market",
+    "data",
+    "real",
+    "time",
+    "historical"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://twelvedata.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

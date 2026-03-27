@@ -1,0 +1,29 @@
+{
+  "slug": "nexchange-index",
+  "name": "Nexchange",
+  "category": "Index",
+  "description": "Automated cryptocurrency exchange service",
+  "longDescription": "Automated cryptocurrency exchange service",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://nexchange2.docs.apiary.io/",
+  "docsUrl": "https://nexchange2.docs.apiary.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "automated",
+    "cryptocurrency",
+    "exchange",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nexchange2.docs.apiary.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

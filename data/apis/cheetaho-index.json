@@ -1,0 +1,29 @@
+{
+  "slug": "cheetaho-index",
+  "name": "CheetahO",
+  "category": "Index",
+  "description": "Photo optimization and resize",
+  "longDescription": "Photo optimization and resize",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cheetaho.com/docs/getting-started/",
+  "docsUrl": "https://cheetaho.com/docs/getting-started/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "photo",
+    "optimization",
+    "and",
+    "resize"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cheetaho.com/docs/getting-started/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

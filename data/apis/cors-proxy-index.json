@@ -1,0 +1,33 @@
+{
+  "slug": "cors-proxy-index",
+  "name": "CORS Proxy",
+  "category": "Index",
+  "description": "Get around the dreaded CORS error by using this proxy as a middle man",
+  "longDescription": "Get around the dreaded CORS error by using this proxy as a middle man",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/burhanuday/cors-proxy",
+  "docsUrl": "https://github.com/burhanuday/cors-proxy",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "around",
+    "the",
+    "dreaded",
+    "cors",
+    "error",
+    "by",
+    "using"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/burhanuday/cors-proxy",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-thailand-index",
+  "name": "Open Government, Thailand",
+  "category": "Index",
+  "description": "Thailand Government Open Data",
+  "longDescription": "Thailand Government Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.go.th/",
+  "docsUrl": "https://data.go.th/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "thailand",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.go.th/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

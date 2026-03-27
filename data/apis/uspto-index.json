@@ -1,0 +1,29 @@
+{
+  "slug": "uspto-index",
+  "name": "USPTO",
+  "category": "Index",
+  "description": "USA patent api services",
+  "longDescription": "USA patent api services",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
+  "docsUrl": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "usa",
+    "patent",
+    "api",
+    "services"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

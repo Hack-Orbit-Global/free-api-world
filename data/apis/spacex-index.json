@@ -1,0 +1,32 @@
+{
+  "slug": "spacex-index",
+  "name": "SpaceX",
+  "category": "Index",
+  "description": "GraphQL, Company, Ships, launchpad and launch data",
+  "longDescription": "GraphQL, Company, Ships, launchpad and launch data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.spacex.land/graphql/",
+  "docsUrl": "https://api.spacex.land/graphql/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "graphql",
+    "company",
+    "ships",
+    "launchpad",
+    "and",
+    "launch",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.spacex.land/graphql/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

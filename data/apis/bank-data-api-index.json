@@ -1,0 +1,33 @@
+{
+  "slug": "bank-data-api-index",
+  "name": "Bank Data API",
+  "category": "Index",
+  "description": "Instant IBAN and SWIFT number validation across the globe",
+  "longDescription": "Instant IBAN and SWIFT number validation across the globe",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apilayer.com/marketplace/bank_data-api",
+  "docsUrl": "https://apilayer.com/marketplace/bank_data-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "instant",
+    "iban",
+    "and",
+    "swift",
+    "number",
+    "validation",
+    "across",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apilayer.com/marketplace/bank_data-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

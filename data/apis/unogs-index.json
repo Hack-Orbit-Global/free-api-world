@@ -1,0 +1,33 @@
+{
+  "slug": "unogs-index",
+  "name": "uNoGS",
+  "category": "Index",
+  "description": "Unofficial Netflix Online Global Search, Search all netflix regions in one place",
+  "longDescription": "Unofficial Netflix Online Global Search, Search all netflix regions in one place",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/unogs/api/unogsng",
+  "docsUrl": "https://rapidapi.com/unogs/api/unogsng",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "netflix",
+    "online",
+    "global",
+    "search",
+    "all",
+    "regions",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/unogs/api/unogsng",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

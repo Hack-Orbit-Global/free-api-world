@@ -1,0 +1,33 @@
+{
+  "slug": "complete-criminal-checks-index",
+  "name": "Complete Criminal Checks",
+  "category": "Index",
+  "description": "Provides data of offenders from all U.S. States and Pureto Rico",
+  "longDescription": "Provides data of offenders from all U.S. States and Pureto Rico",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://completecriminalchecks.com/Developers",
+  "docsUrl": "https://completecriminalchecks.com/Developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "data",
+    "of",
+    "offenders",
+    "from",
+    "all",
+    "u",
+    "s"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://completecriminalchecks.com/Developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

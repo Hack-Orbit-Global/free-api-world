@@ -1,0 +1,28 @@
+{
+  "slug": "cryptapi-index",
+  "name": "CryptAPI",
+  "category": "Index",
+  "description": "Cryptocurrency Payment Processor",
+  "longDescription": "Cryptocurrency Payment Processor",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.cryptapi.io/",
+  "docsUrl": "https://docs.cryptapi.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "payment",
+    "processor"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.cryptapi.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

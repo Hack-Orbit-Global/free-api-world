@@ -1,0 +1,26 @@
+{
+  "slug": "discogs-index",
+  "name": "Discogs",
+  "category": "Index",
+  "description": "Music",
+  "longDescription": "Music",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.discogs.com/developers/",
+  "docsUrl": "https://www.discogs.com/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.discogs.com/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

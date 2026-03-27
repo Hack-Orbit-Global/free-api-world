@@ -1,0 +1,30 @@
+{
+  "slug": "freetogame-index",
+  "name": "FreeToGame",
+  "category": "Index",
+  "description": "Free-To-Play Games Database",
+  "longDescription": "Free-To-Play Games Database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.freetogame.com/api-doc",
+  "docsUrl": "https://www.freetogame.com/api-doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "to",
+    "play",
+    "games",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.freetogame.com/api-doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

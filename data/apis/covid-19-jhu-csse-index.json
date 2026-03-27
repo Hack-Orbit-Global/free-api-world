@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-jhu-csse-index",
+  "name": "Covid-19 JHU CSSE",
+  "category": "Index",
+  "description": "Open-source API for exploring Covid19 cases based on JHU CSSE",
+  "longDescription": "Open-source API for exploring Covid19 cases based on JHU CSSE",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nuttaphat.com/covid19-api/",
+  "docsUrl": "https://nuttaphat.com/covid19-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "source",
+    "api",
+    "for",
+    "exploring",
+    "covid19",
+    "cases",
+    "based"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nuttaphat.com/covid19-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

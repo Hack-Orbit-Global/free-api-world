@@ -1,0 +1,33 @@
+{
+  "slug": "opensanctions-index",
+  "name": "OpenSanctions",
+  "category": "Index",
+  "description": "Data on international sanctions, crime and politically exposed persons",
+  "longDescription": "Data on international sanctions, crime and politically exposed persons",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.opensanctions.org/docs/api/",
+  "docsUrl": "https://www.opensanctions.org/docs/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "on",
+    "international",
+    "sanctions",
+    "crime",
+    "and",
+    "politically",
+    "exposed"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.opensanctions.org/docs/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

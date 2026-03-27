@@ -1,0 +1,31 @@
+{
+  "slug": "genderize-io-index",
+  "name": "Genderize.io",
+  "category": "Index",
+  "description": "Estimates a gender from a first name",
+  "longDescription": "Estimates a gender from a first name",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://genderize.io",
+  "docsUrl": "https://genderize.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "estimates",
+    "a",
+    "gender",
+    "from",
+    "first",
+    "name"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://genderize.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

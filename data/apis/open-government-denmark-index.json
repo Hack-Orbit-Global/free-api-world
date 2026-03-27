@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-denmark-index",
+  "name": "Open Government, Denmark",
+  "category": "Index",
+  "description": "Denmark Government Open Data",
+  "longDescription": "Denmark Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.opendata.dk/",
+  "docsUrl": "https://www.opendata.dk/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "denmark",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.opendata.dk/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "foursquare-index",
+  "name": "Foursquare",
+  "category": "Index",
+  "description": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",
+  "longDescription": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.foursquare.com/",
+  "docsUrl": "https://developer.foursquare.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "interact",
+    "with",
+    "foursquare",
+    "users",
+    "and",
+    "places",
+    "geolocation",
+    "based"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.foursquare.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

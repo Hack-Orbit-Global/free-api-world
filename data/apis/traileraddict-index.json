@@ -1,0 +1,30 @@
+{
+  "slug": "traileraddict-index",
+  "name": "TrailerAddict",
+  "category": "Index",
+  "description": "Easily embed trailers from TrailerAddict",
+  "longDescription": "Easily embed trailers from TrailerAddict",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://www.traileraddict.com/trailerapi",
+  "docsUrl": "https://www.traileraddict.com/trailerapi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easily",
+    "embed",
+    "trailers",
+    "from",
+    "traileraddict"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.traileraddict.com/trailerapi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

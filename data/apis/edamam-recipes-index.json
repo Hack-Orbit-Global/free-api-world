@@ -1,0 +1,27 @@
+{
+  "slug": "edamam-recipes-index",
+  "name": "Edamam recipes",
+  "category": "Index",
+  "description": "Recipe Search",
+  "longDescription": "Recipe Search",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.edamam.com/edamam-docs-recipe-api",
+  "docsUrl": "https://developer.edamam.com/edamam-docs-recipe-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "recipe",
+    "search"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.edamam.com/edamam-docs-recipe-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

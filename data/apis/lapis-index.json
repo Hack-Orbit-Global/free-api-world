@@ -1,0 +1,33 @@
+{
+  "slug": "lapis-index",
+  "name": "LAPIS",
+  "category": "Index",
+  "description": "SARS-CoV-2 genomic sequences from public sources",
+  "longDescription": "SARS-CoV-2 genomic sequences from public sources",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cov-spectrum.ethz.ch/public",
+  "docsUrl": "https://cov-spectrum.ethz.ch/public",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sars",
+    "cov",
+    "2",
+    "genomic",
+    "sequences",
+    "from",
+    "public",
+    "sources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cov-spectrum.ethz.ch/public",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

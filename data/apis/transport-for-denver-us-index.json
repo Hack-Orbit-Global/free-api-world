@@ -1,0 +1,26 @@
+{
+  "slug": "transport-for-denver-us-index",
+  "name": "Transport for Denver, US",
+  "category": "Index",
+  "description": "RTD",
+  "longDescription": "RTD",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.rtd-denver.com/gtfs-developer-guide.shtml",
+  "docsUrl": "http://www.rtd-denver.com/gtfs-developer-guide.shtml",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rtd"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.rtd-denver.com/gtfs-developer-guide.shtml",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

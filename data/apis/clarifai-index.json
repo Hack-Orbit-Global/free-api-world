@@ -1,0 +1,27 @@
+{
+  "slug": "clarifai-index",
+  "name": "Clarifai",
+  "category": "Index",
+  "description": "Computer Vision",
+  "longDescription": "Computer Vision",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.clarifai.com/api-guide/api-overview",
+  "docsUrl": "https://docs.clarifai.com/api-guide/api-overview",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "computer",
+    "vision"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.clarifai.com/api-guide/api-overview",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

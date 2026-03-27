@@ -1,0 +1,31 @@
+{
+  "slug": "euskalmet-index",
+  "name": "Euskalmet",
+  "category": "Index",
+  "description": "Meteorological data of the Basque Country",
+  "longDescription": "Meteorological data of the Basque Country",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+  "docsUrl": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "meteorological",
+    "data",
+    "of",
+    "the",
+    "basque",
+    "country"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "barter-vg-index",
+  "name": "Barter.VG",
+  "category": "Index",
+  "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+  "longDescription": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/bartervg/barter.vg/wiki",
+  "docsUrl": "https://github.com/bartervg/barter.vg/wiki",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "information",
+    "about",
+    "game",
+    "dlc",
+    "bundles",
+    "giveaways",
+    "trading"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/bartervg/barter.vg/wiki",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

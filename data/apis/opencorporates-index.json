@@ -1,0 +1,33 @@
+{
+  "slug": "opencorporates-index",
+  "name": "OpenCorporates",
+  "category": "Index",
+  "description": "Data on corporate entities and directors in many countries",
+  "longDescription": "Data on corporate entities and directors in many countries",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://api.opencorporates.com/documentation/API-Reference",
+  "docsUrl": "http://api.opencorporates.com/documentation/API-Reference",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "on",
+    "corporate",
+    "entities",
+    "and",
+    "directors",
+    "in",
+    "many"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.opencorporates.com/documentation/API-Reference",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

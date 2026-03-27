@@ -1,0 +1,32 @@
+{
+  "slug": "gaana-index",
+  "name": "Gaana",
+  "category": "Index",
+  "description": "API to retrieve song information from Gaana",
+  "longDescription": "API to retrieve song information from Gaana",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/cyberboysumanjay/GaanaAPI",
+  "docsUrl": "https://github.com/cyberboysumanjay/GaanaAPI",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "retrieve",
+    "song",
+    "information",
+    "from",
+    "gaana"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/cyberboysumanjay/GaanaAPI",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

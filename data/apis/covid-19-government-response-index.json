@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-government-response-index",
+  "name": "Covid-19 Government Response",
+  "category": "Index",
+  "description": "Government measures tracker to fight against the Covid-19 pandemic",
+  "longDescription": "Government measures tracker to fight against the Covid-19 pandemic",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://covidtracker.bsg.ox.ac.uk",
+  "docsUrl": "https://covidtracker.bsg.ox.ac.uk",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "government",
+    "measures",
+    "tracker",
+    "to",
+    "fight",
+    "against",
+    "the",
+    "covid"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://covidtracker.bsg.ox.ac.uk",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

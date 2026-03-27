@@ -1,0 +1,33 @@
+{
+  "slug": "sport-vision-index",
+  "name": "Sport Vision",
+  "category": "Index",
+  "description": "Identify sport, brands and gear in an image. Also does image sports captioning",
+  "longDescription": "Identify sport, brands and gear in an image. Also does image sports captioning",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.decathlon.com/products/sport-vision",
+  "docsUrl": "https://developers.decathlon.com/products/sport-vision",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "identify",
+    "sport",
+    "brands",
+    "and",
+    "gear",
+    "in",
+    "an",
+    "image"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.decathlon.com/products/sport-vision",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

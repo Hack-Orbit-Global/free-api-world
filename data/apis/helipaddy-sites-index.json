@@ -1,0 +1,33 @@
+{
+  "slug": "helipaddy-sites-index",
+  "name": "Helipaddy sites",
+  "category": "Index",
+  "description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
+  "longDescription": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://helipaddy.com/api/",
+  "docsUrl": "https://helipaddy.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "helicopter",
+    "and",
+    "passenger",
+    "drone",
+    "landing",
+    "site",
+    "directory",
+    "helipaddy"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://helipaddy.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

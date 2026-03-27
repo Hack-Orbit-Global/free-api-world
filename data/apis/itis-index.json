@@ -1,0 +1,29 @@
+{
+  "slug": "itis-index",
+  "name": "ITIS",
+  "category": "Index",
+  "description": "Integrated Taxonomic Information System",
+  "longDescription": "Integrated Taxonomic Information System",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.itis.gov/ws_description.html",
+  "docsUrl": "https://www.itis.gov/ws_description.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "integrated",
+    "taxonomic",
+    "information",
+    "system"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.itis.gov/ws_description.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "bng2latlong-index",
+  "name": "bng2latlong",
+  "category": "Index",
+  "description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
+  "longDescription": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.getthedata.com/bng2latlong",
+  "docsUrl": "https://www.getthedata.com/bng2latlong",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "convert",
+    "british",
+    "osgb36",
+    "easting",
+    "and",
+    "northing",
+    "national",
+    "grid"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.getthedata.com/bng2latlong",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

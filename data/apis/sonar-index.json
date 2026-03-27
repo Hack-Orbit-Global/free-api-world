@@ -1,0 +1,30 @@
+{
+  "slug": "sonar-index",
+  "name": "Sonar",
+  "category": "Index",
+  "description": "Project Sonar DNS Enumeration API",
+  "longDescription": "Project Sonar DNS Enumeration API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Cgboal/SonarSearch",
+  "docsUrl": "https://github.com/Cgboal/SonarSearch",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "project",
+    "sonar",
+    "dns",
+    "enumeration",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Cgboal/SonarSearch",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

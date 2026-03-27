@@ -1,0 +1,30 @@
+{
+  "slug": "universities-list-index",
+  "name": "Universities List",
+  "category": "Index",
+  "description": "University names, countries and domains",
+  "longDescription": "University names, countries and domains",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Hipo/university-domains-list",
+  "docsUrl": "https://github.com/Hipo/university-domains-list",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "university",
+    "names",
+    "countries",
+    "and",
+    "domains"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Hipo/university-domains-list",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

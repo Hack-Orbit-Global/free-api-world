@@ -1,0 +1,33 @@
+{
+  "slug": "imdb-api-index",
+  "name": "IMDb-API",
+  "category": "Index",
+  "description": "API for receiving movie, serial and cast information",
+  "longDescription": "API for receiving movie, serial and cast information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://imdb-api.com/",
+  "docsUrl": "https://imdb-api.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "receiving",
+    "movie",
+    "serial",
+    "and",
+    "cast",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://imdb-api.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

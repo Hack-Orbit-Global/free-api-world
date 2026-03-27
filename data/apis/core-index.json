@@ -1,0 +1,32 @@
+{
+  "slug": "core-index",
+  "name": "CORE",
+  "category": "Index",
+  "description": "Access the world's Open Access research papers",
+  "longDescription": "Access the world's Open Access research papers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://core.ac.uk/services#api",
+  "docsUrl": "https://core.ac.uk/services#api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "the",
+    "world",
+    "s",
+    "open",
+    "research",
+    "papers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://core.ac.uk/services#api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

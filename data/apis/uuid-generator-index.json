@@ -1,0 +1,27 @@
+{
+  "slug": "uuid-generator-index",
+  "name": "UUID Generator",
+  "category": "Index",
+  "description": "Generate UUIDs",
+  "longDescription": "Generate UUIDs",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.uuidtools.com/docs",
+  "docsUrl": "https://www.uuidtools.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "uuids"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.uuidtools.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

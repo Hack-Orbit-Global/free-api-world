@@ -1,0 +1,29 @@
+{
+  "slug": "dagpi-index",
+  "name": "Dagpi",
+  "category": "Index",
+  "description": "Image manipulation and processing",
+  "longDescription": "Image manipulation and processing",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dagpi.xyz",
+  "docsUrl": "https://dagpi.xyz",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "manipulation",
+    "and",
+    "processing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dagpi.xyz",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

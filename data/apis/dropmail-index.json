@@ -1,0 +1,33 @@
+{
+  "slug": "dropmail-index",
+  "name": "DropMail",
+  "category": "Index",
+  "description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+  "longDescription": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dropmail.me/api/#live-demo",
+  "docsUrl": "https://dropmail.me/api/#live-demo",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "graphql",
+    "api",
+    "for",
+    "creating",
+    "and",
+    "managing",
+    "ephemeral",
+    "e"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dropmail.me/api/#live-demo",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

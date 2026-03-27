@@ -1,0 +1,32 @@
+{
+  "slug": "qr-code-index",
+  "name": "QR code",
+  "category": "Index",
+  "description": "Generate and decode / read QR code graphics",
+  "longDescription": "Generate and decode / read QR code graphics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://goqr.me/api/",
+  "docsUrl": "http://goqr.me/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "and",
+    "decode",
+    "read",
+    "qr",
+    "code",
+    "graphics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://goqr.me/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

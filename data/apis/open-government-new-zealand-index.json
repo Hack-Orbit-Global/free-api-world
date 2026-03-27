@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-new-zealand-index",
+  "name": "Open Government, New Zealand",
+  "category": "Index",
+  "description": "New Zealand Government Open Data",
+  "longDescription": "New Zealand Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.govt.nz/",
+  "docsUrl": "https://www.data.govt.nz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "new",
+    "zealand",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.govt.nz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

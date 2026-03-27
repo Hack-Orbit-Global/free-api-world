@@ -1,0 +1,30 @@
+{
+  "slug": "statically-index",
+  "name": "Statically",
+  "category": "Index",
+  "description": "A free CDN for developers",
+  "longDescription": "A free CDN for developers",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://statically.io/",
+  "docsUrl": "https://statically.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "free",
+    "cdn",
+    "for",
+    "developers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://statically.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

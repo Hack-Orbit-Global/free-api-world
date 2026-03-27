@@ -1,0 +1,29 @@
+{
+  "slug": "metro-lisboa-index",
+  "name": "Metro Lisboa",
+  "category": "Index",
+  "description": "Delays in subway lines",
+  "longDescription": "Delays in subway lines",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://app.metrolisboa.pt/status/getLinhas.php",
+  "docsUrl": "http://app.metrolisboa.pt/status/getLinhas.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "delays",
+    "in",
+    "subway",
+    "lines"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://app.metrolisboa.pt/status/getLinhas.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

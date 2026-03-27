@@ -1,0 +1,32 @@
+{
+  "slug": "bc-ferries-index",
+  "name": "BC Ferries",
+  "category": "Index",
+  "description": "Sailing times and capacities for BC Ferries",
+  "longDescription": "Sailing times and capacities for BC Ferries",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.bcferriesapi.ca",
+  "docsUrl": "https://www.bcferriesapi.ca",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sailing",
+    "times",
+    "and",
+    "capacities",
+    "for",
+    "bc",
+    "ferries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.bcferriesapi.ca",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

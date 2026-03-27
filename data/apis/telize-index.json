@@ -1,0 +1,33 @@
+{
+  "slug": "telize-index",
+  "name": "Telize",
+  "category": "Index",
+  "description": "Telize offers location information from any IP address",
+  "longDescription": "Telize offers location information from any IP address",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/fcambus/api/telize/",
+  "docsUrl": "https://rapidapi.com/fcambus/api/telize/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "telize",
+    "offers",
+    "location",
+    "information",
+    "from",
+    "any",
+    "ip",
+    "address"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/fcambus/api/telize/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

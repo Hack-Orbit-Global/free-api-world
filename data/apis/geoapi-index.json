@@ -1,0 +1,28 @@
+{
+  "slug": "geoapi-index",
+  "name": "GeoApi",
+  "category": "Index",
+  "description": "French geographical data",
+  "longDescription": "French geographical data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.gouv.fr/api/geoapi.html",
+  "docsUrl": "https://api.gouv.fr/api/geoapi.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "french",
+    "geographical",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.gouv.fr/api/geoapi.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

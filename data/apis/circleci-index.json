@@ -1,0 +1,33 @@
+{
+  "slug": "circleci-index",
+  "name": "CircleCI",
+  "category": "Index",
+  "description": "Automate the software development process using continuous integration and continuous delivery",
+  "longDescription": "Automate the software development process using continuous integration and continuous delivery",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://circleci.com/docs/api/v1-reference/",
+  "docsUrl": "https://circleci.com/docs/api/v1-reference/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "automate",
+    "the",
+    "software",
+    "development",
+    "process",
+    "using",
+    "continuous",
+    "integration"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://circleci.com/docs/api/v1-reference/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

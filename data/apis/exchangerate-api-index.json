@@ -1,0 +1,28 @@
+{
+  "slug": "exchangerate-api-index",
+  "name": "ExchangeRate-API",
+  "category": "Index",
+  "description": "Free currency conversion",
+  "longDescription": "Free currency conversion",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.exchangerate-api.com",
+  "docsUrl": "https://www.exchangerate-api.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "currency",
+    "conversion"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.exchangerate-api.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

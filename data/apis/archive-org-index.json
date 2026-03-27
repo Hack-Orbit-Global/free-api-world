@@ -1,0 +1,28 @@
+{
+  "slug": "archive-org-index",
+  "name": "Archive.org",
+  "category": "Index",
+  "description": "The Internet Archive",
+  "longDescription": "The Internet Archive",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://archive.readme.io/docs",
+  "docsUrl": "https://archive.readme.io/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "internet",
+    "archive"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://archive.readme.io/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

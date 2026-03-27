@@ -1,0 +1,31 @@
+{
+  "slug": "tamtam-index",
+  "name": "TamTam",
+  "category": "Index",
+  "description": "Bot API to interact with TamTam",
+  "longDescription": "Bot API to interact with TamTam",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.tamtam.chat/",
+  "docsUrl": "https://dev.tamtam.chat/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bot",
+    "api",
+    "to",
+    "interact",
+    "with",
+    "tamtam"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.tamtam.chat/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

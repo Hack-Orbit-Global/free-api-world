@@ -1,0 +1,33 @@
+{
+  "slug": "transport-for-belgium-index",
+  "name": "Transport for Belgium",
+  "category": "Index",
+  "description": "The iRail API is a third-party API for Belgian public transport by train",
+  "longDescription": "The iRail API is a third-party API for Belgian public transport by train",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.irail.be/",
+  "docsUrl": "https://docs.irail.be/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "irail",
+    "api",
+    "is",
+    "a",
+    "third",
+    "party",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.irail.be/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

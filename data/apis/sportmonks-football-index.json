@@ -1,0 +1,33 @@
+{
+  "slug": "sportmonks-football-index",
+  "name": "Sportmonks Football",
+  "category": "Index",
+  "description": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
+  "longDescription": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.sportmonks.com/football/",
+  "docsUrl": "https://docs.sportmonks.com/football/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "football",
+    "score",
+    "schedule",
+    "news",
+    "api",
+    "tv",
+    "channels",
+    "stats"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.sportmonks.com/football/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

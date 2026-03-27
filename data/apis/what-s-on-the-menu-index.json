@@ -1,0 +1,31 @@
+{
+  "slug": "what-s-on-the-menu-index",
+  "name": "What's on the menu?",
+  "category": "Index",
+  "description": "NYPL human-transcribed historical menu collection",
+  "longDescription": "NYPL human-transcribed historical menu collection",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://nypl.github.io/menus-api/",
+  "docsUrl": "http://nypl.github.io/menus-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nypl",
+    "human",
+    "transcribed",
+    "historical",
+    "menu",
+    "collection"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://nypl.github.io/menus-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

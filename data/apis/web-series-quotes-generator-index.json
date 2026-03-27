@@ -1,0 +1,32 @@
+{
+  "slug": "web-series-quotes-generator-index",
+  "name": "Web Series Quotes Generator",
+  "category": "Index",
+  "description": "API generates various Web Series Quote Images",
+  "longDescription": "API generates various Web Series Quote Images",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/yogeshwaran01/web-series-quotes",
+  "docsUrl": "https://github.com/yogeshwaran01/web-series-quotes",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "generates",
+    "various",
+    "web",
+    "series",
+    "quote",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/yogeshwaran01/web-series-quotes",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

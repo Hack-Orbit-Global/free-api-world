@@ -1,0 +1,31 @@
+{
+  "slug": "transport-for-uk-index",
+  "name": "Transport for UK",
+  "category": "Index",
+  "description": "Transport API and dataset for UK",
+  "longDescription": "Transport API and dataset for UK",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.transportapi.com",
+  "docsUrl": "https://developer.transportapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "transport",
+    "api",
+    "and",
+    "dataset",
+    "for",
+    "uk"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.transportapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "city-gdansk-index",
+  "name": "City, Gda\u0144sk",
+  "category": "Index",
+  "description": "Gda\u0144sk (PL) City Open Data",
+  "longDescription": "Gda\u0144sk (PL) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ckan.multimediagdansk.pl/en",
+  "docsUrl": "https://ckan.multimediagdansk.pl/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gda\u0144sk",
+    "pl",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ckan.multimediagdansk.pl/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

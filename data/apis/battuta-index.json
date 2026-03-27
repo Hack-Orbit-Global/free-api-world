@@ -1,0 +1,33 @@
+{
+  "slug": "battuta-index",
+  "name": "Battuta",
+  "category": "Index",
+  "description": "A (country/region/city) in-cascade location API",
+  "longDescription": "A (country/region/city) in-cascade location API",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://battuta.medunes.net",
+  "docsUrl": "http://battuta.medunes.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "country",
+    "region",
+    "city",
+    "in",
+    "cascade",
+    "location",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://battuta.medunes.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

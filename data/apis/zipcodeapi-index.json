@@ -1,0 +1,33 @@
+{
+  "slug": "zipcodeapi-index",
+  "name": "ZipCodeAPI",
+  "category": "Index",
+  "description": "US zip code distance, radius and location API",
+  "longDescription": "US zip code distance, radius and location API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.zipcodeapi.com",
+  "docsUrl": "https://www.zipcodeapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "zip",
+    "code",
+    "distance",
+    "radius",
+    "and",
+    "location",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.zipcodeapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

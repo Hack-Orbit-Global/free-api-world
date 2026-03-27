@@ -1,0 +1,28 @@
+{
+  "slug": "placekitten-index",
+  "name": "PlaceKitten",
+  "category": "Index",
+  "description": "Placeholder Kitten pictures",
+  "longDescription": "Placeholder Kitten pictures",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://placekitten.com/",
+  "docsUrl": "https://placekitten.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "placeholder",
+    "kitten",
+    "pictures"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://placekitten.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

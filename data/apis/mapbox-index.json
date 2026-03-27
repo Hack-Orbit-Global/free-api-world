@@ -1,0 +1,30 @@
+{
+  "slug": "mapbox-index",
+  "name": "Mapbox",
+  "category": "Index",
+  "description": "Create/customize beautiful digital maps",
+  "longDescription": "Create/customize beautiful digital maps",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.mapbox.com/",
+  "docsUrl": "https://docs.mapbox.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "create",
+    "customize",
+    "beautiful",
+    "digital",
+    "maps"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.mapbox.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

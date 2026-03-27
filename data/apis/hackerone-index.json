@@ -1,0 +1,33 @@
+{
+  "slug": "hackerone-index",
+  "name": "HackerOne",
+  "category": "Index",
+  "description": "The industry\u2019s first hacker API that helps increase productivity towards creative bug bounty hunting",
+  "longDescription": "The industry\u2019s first hacker API that helps increase productivity towards creative bug bounty hunting",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.hackerone.com/",
+  "docsUrl": "https://api.hackerone.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "industry",
+    "s",
+    "first",
+    "hacker",
+    "api",
+    "that",
+    "helps"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.hackerone.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

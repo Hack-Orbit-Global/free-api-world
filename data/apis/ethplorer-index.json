@@ -1,0 +1,33 @@
+{
+  "slug": "ethplorer-index",
+  "name": "Ethplorer",
+  "category": "Index",
+  "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
+  "longDescription": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+  "docsUrl": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ethereum",
+    "tokens",
+    "balances",
+    "addresses",
+    "history",
+    "of",
+    "transactions",
+    "contracts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

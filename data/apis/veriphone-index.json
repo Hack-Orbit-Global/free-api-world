@@ -1,0 +1,30 @@
+{
+  "slug": "veriphone-index",
+  "name": "Veriphone",
+  "category": "Index",
+  "description": "Phone number validation & carrier lookup",
+  "longDescription": "Phone number validation & carrier lookup",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://veriphone.io",
+  "docsUrl": "https://veriphone.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "phone",
+    "number",
+    "validation",
+    "carrier",
+    "lookup"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://veriphone.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

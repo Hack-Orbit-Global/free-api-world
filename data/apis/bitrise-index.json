@@ -1,0 +1,33 @@
+{
+  "slug": "bitrise-index",
+  "name": "Bitrise",
+  "category": "Index",
+  "description": "Build tool and processes integrations to create efficient development pipelines",
+  "longDescription": "Build tool and processes integrations to create efficient development pipelines",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-docs.bitrise.io/",
+  "docsUrl": "https://api-docs.bitrise.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "build",
+    "tool",
+    "and",
+    "processes",
+    "integrations",
+    "to",
+    "create",
+    "efficient"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api-docs.bitrise.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

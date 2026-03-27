@@ -1,0 +1,28 @@
+{
+  "slug": "ifttt-index",
+  "name": "IFTTT",
+  "category": "Index",
+  "description": "IFTTT Connect API",
+  "longDescription": "IFTTT Connect API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://platform.ifttt.com/docs/connect_api",
+  "docsUrl": "https://platform.ifttt.com/docs/connect_api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ifttt",
+    "connect",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://platform.ifttt.com/docs/connect_api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

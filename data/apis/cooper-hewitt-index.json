@@ -1,0 +1,28 @@
+{
+  "slug": "cooper-hewitt-index",
+  "name": "Cooper Hewitt",
+  "category": "Index",
+  "description": "Smithsonian Design Museum",
+  "longDescription": "Smithsonian Design Museum",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://collection.cooperhewitt.org/api",
+  "docsUrl": "https://collection.cooperhewitt.org/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "smithsonian",
+    "design",
+    "museum"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://collection.cooperhewitt.org/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

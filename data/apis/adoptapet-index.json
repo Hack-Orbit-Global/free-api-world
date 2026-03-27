@@ -1,0 +1,31 @@
+{
+  "slug": "adoptapet-index",
+  "name": "AdoptAPet",
+  "category": "Index",
+  "description": "Resource to help get pets adopted",
+  "longDescription": "Resource to help get pets adopted",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.adoptapet.com/public/apis/pet_list.html",
+  "docsUrl": "https://www.adoptapet.com/public/apis/pet_list.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "resource",
+    "to",
+    "help",
+    "get",
+    "pets",
+    "adopted"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.adoptapet.com/public/apis/pet_list.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

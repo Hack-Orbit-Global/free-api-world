@@ -1,0 +1,31 @@
+{
+  "slug": "httpbin-index",
+  "name": "Httpbin",
+  "category": "Index",
+  "description": "A Simple HTTP Request & Response Service",
+  "longDescription": "A Simple HTTP Request & Response Service",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://httpbin.org/",
+  "docsUrl": "https://httpbin.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "http",
+    "request",
+    "response",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://httpbin.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "ipgeo-index",
+  "name": "IPGEO",
+  "category": "Index",
+  "description": "Unlimited free IP Address API with useful information",
+  "longDescription": "Unlimited free IP Address API with useful information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.techniknews.net/ipgeo/",
+  "docsUrl": "https://api.techniknews.net/ipgeo/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unlimited",
+    "free",
+    "ip",
+    "address",
+    "api",
+    "with",
+    "useful",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.techniknews.net/ipgeo/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

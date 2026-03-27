@@ -1,0 +1,29 @@
+{
+  "slug": "bob-s-burgers-index",
+  "name": "Bob's Burgers",
+  "category": "Index",
+  "description": "Bob's Burgers API",
+  "longDescription": "Bob's Burgers API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bobs-burgers-api-ui.herokuapp.com",
+  "docsUrl": "https://bobs-burgers-api-ui.herokuapp.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bob",
+    "s",
+    "burgers",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bobs-burgers-api-ui.herokuapp.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

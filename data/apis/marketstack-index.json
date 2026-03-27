@@ -1,0 +1,32 @@
+{
+  "slug": "marketstack-index",
+  "name": "Marketstack",
+  "category": "Index",
+  "description": "Real-Time, Intraday & Historical Market Data API",
+  "longDescription": "Real-Time, Intraday & Historical Market Data API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://marketstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://marketstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "intraday",
+    "historical",
+    "market",
+    "data",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://marketstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

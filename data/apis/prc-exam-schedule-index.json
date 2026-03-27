@@ -1,0 +1,33 @@
+{
+  "slug": "prc-exam-schedule-index",
+  "name": "PRC Exam Schedule",
+  "category": "Index",
+  "description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+  "longDescription": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.whenisthenextboardexam.com/docs/",
+  "docsUrl": "https://api.whenisthenextboardexam.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "philippine",
+    "professional",
+    "regulation",
+    "commission",
+    "s",
+    "examination",
+    "schedule"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.whenisthenextboardexam.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

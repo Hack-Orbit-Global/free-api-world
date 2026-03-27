@@ -1,0 +1,33 @@
+{
+  "slug": "arxiv-index",
+  "name": "arXiv",
+  "category": "Index",
+  "description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
+  "longDescription": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://arxiv.org/help/api/user-manual",
+  "docsUrl": "https://arxiv.org/help/api/user-manual",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "curated",
+    "research",
+    "sharing",
+    "platform",
+    "physics",
+    "mathematics",
+    "quantitative",
+    "finance"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://arxiv.org/help/api/user-manual",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

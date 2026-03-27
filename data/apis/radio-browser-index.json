@@ -1,0 +1,30 @@
+{
+  "slug": "radio-browser-index",
+  "name": "Radio Browser",
+  "category": "Index",
+  "description": "List of internet radio stations",
+  "longDescription": "List of internet radio stations",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.radio-browser.info/",
+  "docsUrl": "https://api.radio-browser.info/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "list",
+    "of",
+    "internet",
+    "radio",
+    "stations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.radio-browser.info/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

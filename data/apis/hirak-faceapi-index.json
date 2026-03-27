@@ -1,0 +1,33 @@
+{
+  "slug": "hirak-faceapi-index",
+  "name": "Hirak FaceAPI",
+  "category": "Index",
+  "description": "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits",
+  "longDescription": "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://faceapi.hirak.site/",
+  "docsUrl": "https://faceapi.hirak.site/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "face",
+    "detection",
+    "recognition",
+    "with",
+    "age",
+    "estimation",
+    "gender",
+    "accurate"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://faceapi.hirak.site/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

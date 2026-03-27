@@ -1,0 +1,28 @@
+{
+  "slug": "coindcx-index",
+  "name": "CoinDCX",
+  "category": "Index",
+  "description": "Cryptocurrency Trading Platform",
+  "longDescription": "Cryptocurrency Trading Platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.coindcx.com/",
+  "docsUrl": "https://docs.coindcx.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "trading",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.coindcx.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "random-data-index",
+  "name": "Random Data",
+  "category": "Index",
+  "description": "Random data generator",
+  "longDescription": "Random data generator",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://random-data-api.com",
+  "docsUrl": "https://random-data-api.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "data",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://random-data-api.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

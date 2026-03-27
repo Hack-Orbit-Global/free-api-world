@@ -1,0 +1,29 @@
+{
+  "slug": "virushee-index",
+  "name": "Virushee",
+  "category": "Index",
+  "description": "Virushee file/data scanning",
+  "longDescription": "Virushee file/data scanning",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.virushee.com/",
+  "docsUrl": "https://api.virushee.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "virushee",
+    "file",
+    "data",
+    "scanning"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.virushee.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

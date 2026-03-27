@@ -1,0 +1,27 @@
+{
+  "slug": "makeup-index",
+  "name": "Makeup",
+  "category": "Index",
+  "description": "Makeup Information",
+  "longDescription": "Makeup Information",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://makeup-api.herokuapp.com/",
+  "docsUrl": "http://makeup-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "makeup",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://makeup-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

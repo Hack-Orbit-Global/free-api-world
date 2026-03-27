@@ -1,0 +1,33 @@
+{
+  "slug": "clockify-index",
+  "name": "Clockify",
+  "category": "Index",
+  "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
+  "longDescription": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://clockify.me/developers-api",
+  "docsUrl": "https://clockify.me/developers-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "clockify",
+    "s",
+    "rest",
+    "based",
+    "api",
+    "can",
+    "be",
+    "used"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://clockify.me/developers-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-spain-index",
+  "name": "Transport for Spain",
+  "category": "Index",
+  "description": "Public trains of Spain",
+  "longDescription": "Public trains of Spain",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
+  "docsUrl": "https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "public",
+    "trains",
+    "of",
+    "spain"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

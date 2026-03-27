@@ -1,0 +1,30 @@
+{
+  "slug": "bayfiles-index",
+  "name": "BayFiles",
+  "category": "Index",
+  "description": "Upload and share your files",
+  "longDescription": "Upload and share your files",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bayfiles.com/docs/api",
+  "docsUrl": "https://bayfiles.com/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "upload",
+    "and",
+    "share",
+    "your",
+    "files"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bayfiles.com/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

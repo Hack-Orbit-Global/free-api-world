@@ -1,0 +1,29 @@
+{
+  "slug": "genshin-impact-index",
+  "name": "Genshin Impact",
+  "category": "Index",
+  "description": "Genshin Impact game data",
+  "longDescription": "Genshin Impact game data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://genshin.dev",
+  "docsUrl": "https://genshin.dev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "genshin",
+    "impact",
+    "game",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://genshin.dev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

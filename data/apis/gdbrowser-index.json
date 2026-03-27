@@ -1,0 +1,33 @@
+{
+  "slug": "gdbrowser-index",
+  "name": "GDBrowser",
+  "category": "Index",
+  "description": "Easy way to use the Geometry Dash Servers",
+  "longDescription": "Easy way to use the Geometry Dash Servers",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gdbrowser.com/api",
+  "docsUrl": "https://gdbrowser.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easy",
+    "way",
+    "to",
+    "use",
+    "the",
+    "geometry",
+    "dash",
+    "servers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gdbrowser.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

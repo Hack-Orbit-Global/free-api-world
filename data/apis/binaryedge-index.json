@@ -1,0 +1,32 @@
+{
+  "slug": "binaryedge-index",
+  "name": "BinaryEdge",
+  "category": "Index",
+  "description": "Provide access to BinaryEdge 40fy scanning platform",
+  "longDescription": "Provide access to BinaryEdge 40fy scanning platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.binaryedge.io/api-v2.html",
+  "docsUrl": "https://docs.binaryedge.io/api-v2.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provide",
+    "access",
+    "to",
+    "binaryedge",
+    "40fy",
+    "scanning",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.binaryedge.io/api-v2.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "open-data-nhs-scotland-index",
+  "name": "Open Data NHS Scotland",
+  "category": "Index",
+  "description": "Medical reference data and statistics by Public Health Scotland",
+  "longDescription": "Medical reference data and statistics by Public Health Scotland",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.opendata.nhs.scot",
+  "docsUrl": "https://www.opendata.nhs.scot",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "medical",
+    "reference",
+    "data",
+    "and",
+    "statistics",
+    "by",
+    "public",
+    "health"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.opendata.nhs.scot",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

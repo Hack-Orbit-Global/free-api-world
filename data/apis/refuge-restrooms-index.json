@@ -1,0 +1,33 @@
+{
+  "slug": "refuge-restrooms-index",
+  "name": "REFUGE Restrooms",
+  "category": "Index",
+  "description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
+  "longDescription": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
+  "docsUrl": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "safe",
+    "restroom",
+    "access",
+    "for",
+    "transgender",
+    "intersex",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

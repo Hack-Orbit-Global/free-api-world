@@ -1,0 +1,31 @@
+{
+  "slug": "cloudmersive-natural-language-processing-index",
+  "name": "Cloudmersive Natural Language Processing",
+  "category": "Index",
+  "description": "Natural language processing and text analysis",
+  "longDescription": "Natural language processing and text analysis",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cloudmersive.com/nlp-api",
+  "docsUrl": "https://www.cloudmersive.com/nlp-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "natural",
+    "language",
+    "processing",
+    "and",
+    "text",
+    "analysis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cloudmersive.com/nlp-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

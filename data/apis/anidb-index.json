@@ -1,0 +1,27 @@
+{
+  "slug": "anidb-index",
+  "name": "AniDB",
+  "category": "Index",
+  "description": "Anime Database",
+  "longDescription": "Anime Database",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://wiki.anidb.net/HTTP_API_Definition",
+  "docsUrl": "https://wiki.anidb.net/HTTP_API_Definition",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "anime",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wiki.anidb.net/HTTP_API_Definition",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

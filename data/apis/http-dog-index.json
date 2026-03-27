@@ -1,0 +1,32 @@
+{
+  "slug": "http-dog-index",
+  "name": "HTTP Dog",
+  "category": "Index",
+  "description": "Dogs for every HTTP response status code",
+  "longDescription": "Dogs for every HTTP response status code",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://http.dog/",
+  "docsUrl": "https://http.dog/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "dogs",
+    "for",
+    "every",
+    "http",
+    "response",
+    "status",
+    "code"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://http.dog/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

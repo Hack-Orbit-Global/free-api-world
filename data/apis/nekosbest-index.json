@@ -1,0 +1,30 @@
+{
+  "slug": "nekosbest-index",
+  "name": "NekosBest",
+  "category": "Index",
+  "description": "Neko Images & Anime roleplaying GIFs",
+  "longDescription": "Neko Images & Anime roleplaying GIFs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.nekos.best",
+  "docsUrl": "https://docs.nekos.best",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "neko",
+    "images",
+    "anime",
+    "roleplaying",
+    "gifs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.nekos.best",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

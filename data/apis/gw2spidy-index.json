@@ -1,0 +1,33 @@
+{
+  "slug": "gw2spidy-index",
+  "name": "GW2Spidy",
+  "category": "Index",
+  "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+  "longDescription": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/rubensayshi/gw2spidy/wiki",
+  "docsUrl": "https://github.com/rubensayshi/gw2spidy/wiki",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gw2spidy",
+    "api",
+    "items",
+    "data",
+    "on",
+    "the",
+    "guild",
+    "wars"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/rubensayshi/gw2spidy/wiki",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

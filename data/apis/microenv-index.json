@@ -1,0 +1,30 @@
+{
+  "slug": "microenv-index",
+  "name": "MicroENV",
+  "category": "Index",
+  "description": "Fake Rest API for developers",
+  "longDescription": "Fake Rest API for developers",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://microenv.com/",
+  "docsUrl": "https://microenv.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fake",
+    "rest",
+    "api",
+    "for",
+    "developers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://microenv.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

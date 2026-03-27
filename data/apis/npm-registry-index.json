@@ -1,0 +1,33 @@
+{
+  "slug": "npm-registry-index",
+  "name": "npm Registry",
+  "category": "Index",
+  "description": "Query information about your favorite Node.js libraries programatically",
+  "longDescription": "Query information about your favorite Node.js libraries programatically",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+  "docsUrl": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "query",
+    "information",
+    "about",
+    "your",
+    "favorite",
+    "node",
+    "js",
+    "libraries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

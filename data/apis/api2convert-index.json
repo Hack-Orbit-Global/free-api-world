@@ -1,0 +1,29 @@
+{
+  "slug": "api2convert-index",
+  "name": "Api2Convert",
+  "category": "Index",
+  "description": "Online File Conversion API",
+  "longDescription": "Online File Conversion API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.api2convert.com/",
+  "docsUrl": "https://www.api2convert.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "file",
+    "conversion",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.api2convert.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

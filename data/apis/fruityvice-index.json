@@ -1,0 +1,31 @@
+{
+  "slug": "fruityvice-index",
+  "name": "Fruityvice",
+  "category": "Index",
+  "description": "Data about all kinds of fruit",
+  "longDescription": "Data about all kinds of fruit",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.fruityvice.com",
+  "docsUrl": "https://www.fruityvice.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "about",
+    "all",
+    "kinds",
+    "of",
+    "fruit"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.fruityvice.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "fec-index",
+  "name": "FEC",
+  "category": "Index",
+  "description": "Information on campaign donations in federal elections",
+  "longDescription": "Information on campaign donations in federal elections",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.open.fec.gov/developers/",
+  "docsUrl": "https://api.open.fec.gov/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "information",
+    "on",
+    "campaign",
+    "donations",
+    "in",
+    "federal",
+    "elections"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.open.fec.gov/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

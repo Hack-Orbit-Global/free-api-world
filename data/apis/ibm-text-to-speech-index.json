@@ -1,0 +1,29 @@
+{
+  "slug": "ibm-text-to-speech-index",
+  "name": "IBM Text to Speech",
+  "category": "Index",
+  "description": "Convert text to speech",
+  "longDescription": "Convert text to speech",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
+  "docsUrl": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "convert",
+    "text",
+    "to",
+    "speech"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

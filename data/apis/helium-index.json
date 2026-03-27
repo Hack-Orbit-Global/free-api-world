@@ -1,0 +1,33 @@
+{
+  "slug": "helium-index",
+  "name": "Helium",
+  "category": "Index",
+  "description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+  "longDescription": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.helium.com/api/blockchain/introduction/",
+  "docsUrl": "https://docs.helium.com/api/blockchain/introduction/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "helium",
+    "is",
+    "a",
+    "global",
+    "distributed",
+    "network",
+    "of",
+    "hotspots"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.helium.com/api/blockchain/introduction/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

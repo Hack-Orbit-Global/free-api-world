@@ -1,0 +1,29 @@
+{
+  "slug": "reddit-index",
+  "name": "Reddit",
+  "category": "Index",
+  "description": "Homepage of the internet",
+  "longDescription": "Homepage of the internet",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.reddit.com/dev/api",
+  "docsUrl": "https://www.reddit.com/dev/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "homepage",
+    "of",
+    "the",
+    "internet"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.reddit.com/dev/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

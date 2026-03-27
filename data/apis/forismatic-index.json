@@ -1,0 +1,27 @@
+{
+  "slug": "forismatic-index",
+  "name": "Forismatic",
+  "category": "Index",
+  "description": "Inspirational Quotes",
+  "longDescription": "Inspirational Quotes",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://forismatic.com/en/api/",
+  "docsUrl": "http://forismatic.com/en/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "inspirational",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://forismatic.com/en/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

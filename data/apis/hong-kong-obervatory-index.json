@@ -1,0 +1,32 @@
+{
+  "slug": "hong-kong-obervatory-index",
+  "name": "Hong Kong Obervatory",
+  "category": "Index",
+  "description": "Provide weather information, earthquake information, and climate data",
+  "longDescription": "Provide weather information, earthquake information, and climate data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+  "docsUrl": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provide",
+    "weather",
+    "information",
+    "earthquake",
+    "and",
+    "climate",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

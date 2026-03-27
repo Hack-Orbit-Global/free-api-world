@@ -1,0 +1,29 @@
+{
+  "slug": "domainsdb-info-index",
+  "name": "Domainsdb.info",
+  "category": "Index",
+  "description": "Registered Domain Names Search",
+  "longDescription": "Registered Domain Names Search",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://domainsdb.info/",
+  "docsUrl": "https://domainsdb.info/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "registered",
+    "domain",
+    "names",
+    "search"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://domainsdb.info/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

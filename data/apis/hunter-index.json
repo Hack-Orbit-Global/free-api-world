@@ -1,0 +1,33 @@
+{
+  "slug": "hunter-index",
+  "name": "Hunter",
+  "category": "Index",
+  "description": "API for domain search, professional email finder, author finder and email verifier",
+  "longDescription": "API for domain search, professional email finder, author finder and email verifier",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hunter.io/api",
+  "docsUrl": "https://hunter.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "domain",
+    "search",
+    "professional",
+    "email",
+    "finder",
+    "author"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hunter.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-norway-index",
+  "name": "Open Government, Norway",
+  "category": "Index",
+  "description": "Norwegian Government Open Data",
+  "longDescription": "Norwegian Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.norge.no/dataservices",
+  "docsUrl": "https://data.norge.no/dataservices",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "norwegian",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.norge.no/dataservices",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

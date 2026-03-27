@@ -1,0 +1,29 @@
+{
+  "slug": "meowfacts-index",
+  "name": "MeowFacts",
+  "category": "Index",
+  "description": "Get random cat facts",
+  "longDescription": "Get random cat facts",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/wh-iterabb-it/meowfacts",
+  "docsUrl": "https://github.com/wh-iterabb-it/meowfacts",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "random",
+    "cat",
+    "facts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/wh-iterabb-it/meowfacts",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

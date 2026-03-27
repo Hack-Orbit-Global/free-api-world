@@ -1,0 +1,31 @@
+{
+  "slug": "brazil-receita-ws-index",
+  "name": "Brazil Receita WS",
+  "category": "Index",
+  "description": "Consult companies by CNPJ for Brazilian companies",
+  "longDescription": "Consult companies by CNPJ for Brazilian companies",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.receitaws.com.br/",
+  "docsUrl": "https://www.receitaws.com.br/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "consult",
+    "companies",
+    "by",
+    "cnpj",
+    "for",
+    "brazilian"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.receitaws.com.br/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

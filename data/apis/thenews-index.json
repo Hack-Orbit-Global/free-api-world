@@ -1,0 +1,33 @@
+{
+  "slug": "thenews-index",
+  "name": "TheNews",
+  "category": "Index",
+  "description": "Aggregated headlines, top story and live news JSON API",
+  "longDescription": "Aggregated headlines, top story and live news JSON API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.thenewsapi.com/",
+  "docsUrl": "https://www.thenewsapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "aggregated",
+    "headlines",
+    "top",
+    "story",
+    "and",
+    "live",
+    "news",
+    "json"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.thenewsapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

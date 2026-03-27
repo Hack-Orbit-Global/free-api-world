@@ -1,0 +1,30 @@
+{
+  "slug": "block-index",
+  "name": "Block",
+  "category": "Index",
+  "description": "Bitcoin Payment, Wallet & Transaction Data",
+  "longDescription": "Bitcoin Payment, Wallet & Transaction Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://block.io/docs/basic",
+  "docsUrl": "https://block.io/docs/basic",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bitcoin",
+    "payment",
+    "wallet",
+    "transaction",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://block.io/docs/basic",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

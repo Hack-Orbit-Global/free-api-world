@@ -1,0 +1,28 @@
+{
+  "slug": "zestful-index",
+  "name": "Zestful",
+  "category": "Index",
+  "description": "Parse recipe ingredients",
+  "longDescription": "Parse recipe ingredients",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://zestfuldata.com/",
+  "docsUrl": "https://zestfuldata.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "parse",
+    "recipe",
+    "ingredients"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://zestfuldata.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

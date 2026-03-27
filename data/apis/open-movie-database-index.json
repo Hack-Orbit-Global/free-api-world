@@ -1,0 +1,27 @@
+{
+  "slug": "open-movie-database-index",
+  "name": "Open Movie Database",
+  "category": "Index",
+  "description": "Movie information",
+  "longDescription": "Movie information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://www.omdbapi.com/",
+  "docsUrl": "http://www.omdbapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "movie",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.omdbapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

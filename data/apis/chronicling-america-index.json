@@ -1,0 +1,33 @@
+{
+  "slug": "chronicling-america-index",
+  "name": "Chronicling America",
+  "category": "Index",
+  "description": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
+  "longDescription": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://chroniclingamerica.loc.gov/about/api/",
+  "docsUrl": "http://chroniclingamerica.loc.gov/about/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "access",
+    "to",
+    "millions",
+    "of",
+    "pages",
+    "historic",
+    "us"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://chroniclingamerica.loc.gov/about/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

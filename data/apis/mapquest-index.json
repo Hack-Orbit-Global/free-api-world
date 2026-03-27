@@ -1,0 +1,33 @@
+{
+  "slug": "mapquest-index",
+  "name": "MapQuest",
+  "category": "Index",
+  "description": "To access tools and resources to map the world",
+  "longDescription": "To access tools and resources to map the world",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://developer.mapquest.com/",
+  "docsUrl": "https://developer.mapquest.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "to",
+    "access",
+    "tools",
+    "and",
+    "resources",
+    "map",
+    "the",
+    "world"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.mapquest.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

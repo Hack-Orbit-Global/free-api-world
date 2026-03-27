@@ -1,0 +1,32 @@
+{
+  "slug": "lingua-robot-index",
+  "name": "Lingua Robot",
+  "category": "Index",
+  "description": "Word definitions, pronunciations, synonyms, antonyms and others",
+  "longDescription": "Word definitions, pronunciations, synonyms, antonyms and others",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.linguarobot.io",
+  "docsUrl": "https://www.linguarobot.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "word",
+    "definitions",
+    "pronunciations",
+    "synonyms",
+    "antonyms",
+    "and",
+    "others"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.linguarobot.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

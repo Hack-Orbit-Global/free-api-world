@@ -1,0 +1,33 @@
+{
+  "slug": "censys-index",
+  "name": "Censys",
+  "category": "Index",
+  "description": "Search engine for Internet connected host and devices",
+  "longDescription": "Search engine for Internet connected host and devices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://search.censys.io/api",
+  "docsUrl": "https://search.censys.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "engine",
+    "for",
+    "internet",
+    "connected",
+    "host",
+    "and",
+    "devices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://search.censys.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "emailrep-index",
+  "name": "EmailRep",
+  "category": "Index",
+  "description": "Email address threat and risk prediction",
+  "longDescription": "Email address threat and risk prediction",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.emailrep.io/",
+  "docsUrl": "https://docs.emailrep.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "email",
+    "address",
+    "threat",
+    "and",
+    "risk",
+    "prediction"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.emailrep.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

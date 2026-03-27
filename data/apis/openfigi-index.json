@@ -1,0 +1,33 @@
+{
+  "slug": "openfigi-index",
+  "name": "OpenFIGI",
+  "category": "Index",
+  "description": "Equity, index, futures, options symbology from Bloomberg LP",
+  "longDescription": "Equity, index, futures, options symbology from Bloomberg LP",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.openfigi.com/api",
+  "docsUrl": "https://www.openfigi.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "equity",
+    "index",
+    "futures",
+    "options",
+    "symbology",
+    "from",
+    "bloomberg",
+    "lp"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.openfigi.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

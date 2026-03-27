@@ -1,0 +1,30 @@
+{
+  "slug": "collins-index",
+  "name": "Collins",
+  "category": "Index",
+  "description": "Bilingual Dictionary and Thesaurus Data",
+  "longDescription": "Bilingual Dictionary and Thesaurus Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.collinsdictionary.com/api/v1/documentation/html/",
+  "docsUrl": "https://api.collinsdictionary.com/api/v1/documentation/html/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bilingual",
+    "dictionary",
+    "and",
+    "thesaurus",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.collinsdictionary.com/api/v1/documentation/html/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

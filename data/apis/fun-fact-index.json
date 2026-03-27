@@ -1,0 +1,33 @@
+{
+  "slug": "fun-fact-index",
+  "name": "Fun Fact",
+  "category": "Index",
+  "description": "A simple HTTPS api that can randomly select and return a fact from the FFA database",
+  "longDescription": "A simple HTTPS api that can randomly select and return a fact from the FFA database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.aakhilv.me",
+  "docsUrl": "https://api.aakhilv.me",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "https",
+    "api",
+    "that",
+    "can",
+    "randomly",
+    "select"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.aakhilv.me",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "host-t-com-index",
+  "name": "host-t.com",
+  "category": "Index",
+  "description": "Basic DNS query via HTTP GET request",
+  "longDescription": "Basic DNS query via HTTP GET request",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://host-t.com",
+  "docsUrl": "https://host-t.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "basic",
+    "dns",
+    "query",
+    "via",
+    "http",
+    "get",
+    "request"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://host-t.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

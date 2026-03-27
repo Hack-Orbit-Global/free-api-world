@@ -1,0 +1,33 @@
+{
+  "slug": "application-environment-verification-index",
+  "name": "Application Environment Verification",
+  "category": "Index",
+  "description": "Android library and API to verify the safety of user devices, detect rooted devices and other risks",
+  "longDescription": "Android library and API to verify the safety of user devices, detect rooted devices and other risks",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/fingerprintjs/aev",
+  "docsUrl": "https://github.com/fingerprintjs/aev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "android",
+    "library",
+    "and",
+    "api",
+    "to",
+    "verify",
+    "the",
+    "safety"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/fingerprintjs/aev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

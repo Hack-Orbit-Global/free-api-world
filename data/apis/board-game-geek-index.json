@@ -1,0 +1,30 @@
+{
+  "slug": "board-game-geek-index",
+  "name": "Board Game Geek",
+  "category": "Index",
+  "description": "Board games, RPG and videogames",
+  "longDescription": "Board games, RPG and videogames",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
+  "docsUrl": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "board",
+    "games",
+    "rpg",
+    "and",
+    "videogames"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

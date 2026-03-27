@@ -1,0 +1,33 @@
+{
+  "slug": "4chan-index",
+  "name": "4chan",
+  "category": "Index",
+  "description": "Simple image-based bulletin board dedicated to a variety of topics",
+  "longDescription": "Simple image-based bulletin board dedicated to a variety of topics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/4chan/4chan-API",
+  "docsUrl": "https://github.com/4chan/4chan-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "image",
+    "based",
+    "bulletin",
+    "board",
+    "dedicated",
+    "to",
+    "a"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/4chan/4chan-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

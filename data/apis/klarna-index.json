@@ -1,0 +1,30 @@
+{
+  "slug": "klarna-index",
+  "name": "Klarna",
+  "category": "Index",
+  "description": "Klarna payment and shopping service",
+  "longDescription": "Klarna payment and shopping service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+  "docsUrl": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "klarna",
+    "payment",
+    "and",
+    "shopping",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.klarna.com/klarna-payments/api/payments-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

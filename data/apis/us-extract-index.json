@@ -1,0 +1,33 @@
+{
+  "slug": "us-extract-index",
+  "name": "US Extract",
+  "category": "Index",
+  "description": "Extract postal addresses from any text including emails",
+  "longDescription": "Extract postal addresses from any text including emails",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.smarty.com/products/apis/us-extract-api",
+  "docsUrl": "https://www.smarty.com/products/apis/us-extract-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "extract",
+    "postal",
+    "addresses",
+    "from",
+    "any",
+    "text",
+    "including",
+    "emails"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.smarty.com/products/apis/us-extract-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

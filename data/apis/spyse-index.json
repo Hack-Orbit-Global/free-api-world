@@ -1,0 +1,33 @@
+{
+  "slug": "spyse-index",
+  "name": "Spyse",
+  "category": "Index",
+  "description": "Access data on all Internet assets and build powerful attack surface management applications",
+  "longDescription": "Access data on all Internet assets and build powerful attack surface management applications",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://spyse-dev.readme.io/reference/quick-start",
+  "docsUrl": "https://spyse-dev.readme.io/reference/quick-start",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "data",
+    "on",
+    "all",
+    "internet",
+    "assets",
+    "and",
+    "build"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://spyse-dev.readme.io/reference/quick-start",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

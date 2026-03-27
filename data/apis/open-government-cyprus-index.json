@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-cyprus-index",
+  "name": "Open Government, Cyprus",
+  "category": "Index",
+  "description": "Cyprus Government Open Data",
+  "longDescription": "Cyprus Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.cy/?language=en",
+  "docsUrl": "https://data.gov.cy/?language=en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cyprus",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.cy/?language=en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

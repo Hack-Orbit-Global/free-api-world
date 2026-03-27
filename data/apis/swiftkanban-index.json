@@ -1,0 +1,33 @@
+{
+  "slug": "swiftkanban-index",
+  "name": "SwiftKanban",
+  "category": "Index",
+  "description": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",
+  "longDescription": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi",
+  "docsUrl": "https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "kanban",
+    "software",
+    "visualize",
+    "work",
+    "increase",
+    "organizations",
+    "lead",
+    "time"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-australia-index",
+  "name": "Open Government, Australia",
+  "category": "Index",
+  "description": "Australian Government Open Data",
+  "longDescription": "Australian Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.gov.au/",
+  "docsUrl": "https://www.data.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "australian",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

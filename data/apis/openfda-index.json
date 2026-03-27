@@ -1,0 +1,33 @@
+{
+  "slug": "openfda-index",
+  "name": "openFDA",
+  "category": "Index",
+  "description": "Public FDA data about drugs, devices and foods",
+  "longDescription": "Public FDA data about drugs, devices and foods",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open.fda.gov",
+  "docsUrl": "https://open.fda.gov",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "public",
+    "fda",
+    "data",
+    "about",
+    "drugs",
+    "devices",
+    "and",
+    "foods"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open.fda.gov",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "represent-by-open-north-index",
+  "name": "Represent by Open North",
+  "category": "Index",
+  "description": "Find Canadian Government Representatives",
+  "longDescription": "Find Canadian Government Representatives",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://represent.opennorth.ca/",
+  "docsUrl": "https://represent.opennorth.ca/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "find",
+    "canadian",
+    "government",
+    "representatives"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://represent.opennorth.ca/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

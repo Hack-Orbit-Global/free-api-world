@@ -1,0 +1,32 @@
+{
+  "slug": "bclaws-index",
+  "name": "BCLaws",
+  "category": "Index",
+  "description": "Access to the laws of British Columbia",
+  "longDescription": "Access to the laws of British Columbia",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
+  "docsUrl": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "to",
+    "the",
+    "laws",
+    "of",
+    "british",
+    "columbia"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

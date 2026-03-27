@@ -1,0 +1,29 @@
+{
+  "slug": "ip-vigilante-index",
+  "name": "IP Vigilante",
+  "category": "Index",
+  "description": "Free IP Geolocation API",
+  "longDescription": "Free IP Geolocation API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ipvigilante.com/",
+  "docsUrl": "https://www.ipvigilante.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "ip",
+    "geolocation",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ipvigilante.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

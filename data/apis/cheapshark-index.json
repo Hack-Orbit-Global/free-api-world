@@ -1,0 +1,31 @@
+{
+  "slug": "cheapshark-index",
+  "name": "CheapShark",
+  "category": "Index",
+  "description": "Steam/PC Game Prices and Deals",
+  "longDescription": "Steam/PC Game Prices and Deals",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cheapshark.com/api",
+  "docsUrl": "https://www.cheapshark.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "steam",
+    "pc",
+    "game",
+    "prices",
+    "and",
+    "deals"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cheapshark.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

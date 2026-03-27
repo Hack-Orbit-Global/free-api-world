@@ -1,0 +1,28 @@
+{
+  "slug": "dailymotion-index",
+  "name": "Dailymotion",
+  "category": "Index",
+  "description": "Dailymotion Developer API",
+  "longDescription": "Dailymotion Developer API",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.dailymotion.com/",
+  "docsUrl": "https://developer.dailymotion.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "dailymotion",
+    "developer",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.dailymotion.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

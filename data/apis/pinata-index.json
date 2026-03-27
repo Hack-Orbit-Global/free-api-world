@@ -1,0 +1,29 @@
+{
+  "slug": "pinata-index",
+  "name": "Pinata",
+  "category": "Index",
+  "description": "IPFS Pinning Services API",
+  "longDescription": "IPFS Pinning Services API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.pinata.cloud/",
+  "docsUrl": "https://docs.pinata.cloud/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ipfs",
+    "pinning",
+    "services",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.pinata.cloud/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

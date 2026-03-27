@@ -1,0 +1,28 @@
+{
+  "slug": "biriyani-as-a-service-index",
+  "name": "Biriyani As A Service",
+  "category": "Index",
+  "description": "Biriyani images placeholder",
+  "longDescription": "Biriyani images placeholder",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://biriyani.anoram.com/",
+  "docsUrl": "https://biriyani.anoram.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "biriyani",
+    "images",
+    "placeholder"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://biriyani.anoram.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

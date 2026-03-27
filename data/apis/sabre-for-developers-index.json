@@ -1,0 +1,29 @@
+{
+  "slug": "sabre-for-developers-index",
+  "name": "Sabre for Developers",
+  "category": "Index",
+  "description": "Travel Search - Limited usage",
+  "longDescription": "Travel Search - Limited usage",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel",
+  "docsUrl": "https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "travel",
+    "search",
+    "limited",
+    "usage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

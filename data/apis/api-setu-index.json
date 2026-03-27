@@ -1,0 +1,33 @@
+{
+  "slug": "api-setu-index",
+  "name": "API Setu",
+  "category": "Index",
+  "description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
+  "longDescription": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.apisetu.gov.in/",
+  "docsUrl": "https://www.apisetu.gov.in/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "indian",
+    "government",
+    "platform",
+    "that",
+    "provides",
+    "a",
+    "lot"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.apisetu.gov.in/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

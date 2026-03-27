@@ -1,0 +1,32 @@
+{
+  "slug": "steem-index",
+  "name": "Steem",
+  "category": "Index",
+  "description": "Blockchain-based blogging and social media website",
+  "longDescription": "Blockchain-based blogging and social media website",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://developers.steem.io/",
+  "docsUrl": "https://developers.steem.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "blockchain",
+    "based",
+    "blogging",
+    "and",
+    "social",
+    "media",
+    "website"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.steem.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

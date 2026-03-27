@@ -1,0 +1,30 @@
+{
+  "slug": "open-notify-index",
+  "name": "Open Notify",
+  "category": "Index",
+  "description": "ISS astronauts, current location, etc",
+  "longDescription": "ISS astronauts, current location, etc",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://open-notify.org/Open-Notify-API/",
+  "docsUrl": "http://open-notify.org/Open-Notify-API/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "iss",
+    "astronauts",
+    "current",
+    "location",
+    "etc"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://open-notify.org/Open-Notify-API/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

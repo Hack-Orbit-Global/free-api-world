@@ -1,0 +1,33 @@
+{
+  "slug": "metaphorsum-index",
+  "name": "Metaphorsum",
+  "category": "Index",
+  "description": "Generate demo paragraphs giving number of words and sentences",
+  "longDescription": "Generate demo paragraphs giving number of words and sentences",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://metaphorpsum.com/",
+  "docsUrl": "http://metaphorpsum.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "demo",
+    "paragraphs",
+    "giving",
+    "number",
+    "of",
+    "words",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://metaphorpsum.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

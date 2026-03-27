@@ -1,0 +1,33 @@
+{
+  "slug": "screenshot-index",
+  "name": "Screenshot",
+  "category": "Index",
+  "description": "Take programmatic screenshots of web pages from any website",
+  "longDescription": "Take programmatic screenshots of web pages from any website",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.abstractapi.com/website-screenshot-api",
+  "docsUrl": "https://www.abstractapi.com/website-screenshot-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "take",
+    "programmatic",
+    "screenshots",
+    "of",
+    "web",
+    "pages",
+    "from",
+    "any"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.abstractapi.com/website-screenshot-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

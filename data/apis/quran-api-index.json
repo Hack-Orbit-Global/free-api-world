@@ -1,0 +1,33 @@
+{
+  "slug": "quran-api-index",
+  "name": "Quran-api",
+  "category": "Index",
+  "description": "Free Quran API Service with 90+ different languages and 400+ translations",
+  "longDescription": "Free Quran API Service with 90+ different languages and 400+ translations",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/fawazahmed0/quran-api#readme",
+  "docsUrl": "https://github.com/fawazahmed0/quran-api#readme",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "quran",
+    "api",
+    "service",
+    "with",
+    "90",
+    "different",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/fawazahmed0/quran-api#readme",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

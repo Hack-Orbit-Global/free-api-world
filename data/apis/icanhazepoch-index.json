@@ -1,0 +1,28 @@
+{
+  "slug": "icanhazepoch-index",
+  "name": "Icanhazepoch",
+  "category": "Index",
+  "description": "Get Epoch time",
+  "longDescription": "Get Epoch time",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://icanhazepoch.com",
+  "docsUrl": "https://icanhazepoch.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "epoch",
+    "time"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://icanhazepoch.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

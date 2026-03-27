@@ -1,0 +1,26 @@
+{
+  "slug": "transport-for-vancouver-canada-index",
+  "name": "Transport for Vancouver, Canada",
+  "category": "Index",
+  "description": "TransLink",
+  "longDescription": "TransLink",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.translink.ca/",
+  "docsUrl": "https://developer.translink.ca/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translink"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.translink.ca/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

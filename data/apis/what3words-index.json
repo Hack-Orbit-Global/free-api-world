@@ -1,0 +1,33 @@
+{
+  "slug": "what3words-index",
+  "name": "What3Words",
+  "category": "Index",
+  "description": "Three words as rememberable and unique coordinates worldwide",
+  "longDescription": "Three words as rememberable and unique coordinates worldwide",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://what3words.com",
+  "docsUrl": "https://what3words.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "three",
+    "words",
+    "as",
+    "rememberable",
+    "and",
+    "unique",
+    "coordinates",
+    "worldwide"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://what3words.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

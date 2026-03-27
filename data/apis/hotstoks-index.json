@@ -1,0 +1,31 @@
+{
+  "slug": "hotstoks-index",
+  "name": "Hotstoks",
+  "category": "Index",
+  "description": "Stock market data powered by SQL",
+  "longDescription": "Stock market data powered by SQL",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hotstoks.com?utm_source=public-apis",
+  "docsUrl": "https://hotstoks.com?utm_source=public-apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "stock",
+    "market",
+    "data",
+    "powered",
+    "by",
+    "sql"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hotstoks.com?utm_source=public-apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

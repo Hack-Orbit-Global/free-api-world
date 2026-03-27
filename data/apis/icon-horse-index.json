@@ -1,0 +1,31 @@
+{
+  "slug": "icon-horse-index",
+  "name": "Icon Horse",
+  "category": "Index",
+  "description": "Favicons for any website, with fallbacks",
+  "longDescription": "Favicons for any website, with fallbacks",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://icon.horse",
+  "docsUrl": "https://icon.horse",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "favicons",
+    "for",
+    "any",
+    "website",
+    "with",
+    "fallbacks"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://icon.horse",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

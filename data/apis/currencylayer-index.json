@@ -1,0 +1,30 @@
+{
+  "slug": "currencylayer-index",
+  "name": "Currencylayer",
+  "category": "Index",
+  "description": "Exchange rates and currency conversion",
+  "longDescription": "Exchange rates and currency conversion",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://currencylayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://currencylayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "exchange",
+    "rates",
+    "and",
+    "currency",
+    "conversion"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://currencylayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

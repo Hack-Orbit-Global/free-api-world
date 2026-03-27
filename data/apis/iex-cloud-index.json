@@ -1,0 +1,31 @@
+{
+  "slug": "iex-cloud-index",
+  "name": "IEX Cloud",
+  "category": "Index",
+  "description": "Realtime & Historical Stock and Market Data",
+  "longDescription": "Realtime & Historical Stock and Market Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://iexcloud.io/docs/api/",
+  "docsUrl": "https://iexcloud.io/docs/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "realtime",
+    "historical",
+    "stock",
+    "and",
+    "market",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://iexcloud.io/docs/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

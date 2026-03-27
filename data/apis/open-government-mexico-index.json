@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-mexico-index",
+  "name": "Open Government, Mexico",
+  "category": "Index",
+  "description": "Mexico Government Open Data",
+  "longDescription": "Mexico Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://datos.gob.mx/",
+  "docsUrl": "https://datos.gob.mx/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mexico",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://datos.gob.mx/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

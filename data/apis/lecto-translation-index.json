@@ -1,0 +1,33 @@
+{
+  "slug": "lecto-translation-index",
+  "name": "Lecto Translation",
+  "category": "Index",
+  "description": "Translation API with free tier and reasonable prices",
+  "longDescription": "Translation API with free tier and reasonable prices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+  "docsUrl": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translation",
+    "api",
+    "with",
+    "free",
+    "tier",
+    "and",
+    "reasonable",
+    "prices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

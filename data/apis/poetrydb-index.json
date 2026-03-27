@@ -1,0 +1,33 @@
+{
+  "slug": "poetrydb-index",
+  "name": "PoetryDB",
+  "category": "Index",
+  "description": "Enables you to get instant data from our vast poetry collection",
+  "longDescription": "Enables you to get instant data from our vast poetry collection",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/thundercomb/poetrydb#readme",
+  "docsUrl": "https://github.com/thundercomb/poetrydb#readme",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "enables",
+    "you",
+    "to",
+    "get",
+    "instant",
+    "data",
+    "from",
+    "our"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/thundercomb/poetrydb#readme",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

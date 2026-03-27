@@ -1,0 +1,26 @@
+{
+  "slug": "lcbo-index",
+  "name": "LCBO",
+  "category": "Index",
+  "description": "Alcohol",
+  "longDescription": "Alcohol",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://lcboapi.com/",
+  "docsUrl": "https://lcboapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "alcohol"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://lcboapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "animenewsnetwork-index",
+  "name": "AnimeNewsNetwork",
+  "category": "Index",
+  "description": "Anime industry news",
+  "longDescription": "Anime industry news",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+  "docsUrl": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "anime",
+    "industry",
+    "news"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

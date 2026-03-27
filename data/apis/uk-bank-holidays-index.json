@@ -1,0 +1,33 @@
+{
+  "slug": "uk-bank-holidays-index",
+  "name": "UK Bank Holidays",
+  "category": "Index",
+  "description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+  "longDescription": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.gov.uk/bank-holidays.json",
+  "docsUrl": "https://www.gov.uk/bank-holidays.json",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bank",
+    "holidays",
+    "in",
+    "england",
+    "and",
+    "wales",
+    "scotland",
+    "northern"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.gov.uk/bank-holidays.json",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

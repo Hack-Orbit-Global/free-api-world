@@ -1,0 +1,33 @@
+{
+  "slug": "data-parliament-uk-index",
+  "name": "Data.parliament.uk",
+  "category": "Index",
+  "description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
+  "longDescription": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://explore.data.parliament.uk/?learnmore=Members",
+  "docsUrl": "https://explore.data.parliament.uk/?learnmore=Members",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "contains",
+    "live",
+    "datasets",
+    "including",
+    "information",
+    "about",
+    "petitions",
+    "bills"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://explore.data.parliament.uk/?learnmore=Members",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

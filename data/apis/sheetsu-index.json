@@ -1,0 +1,29 @@
+{
+  "slug": "sheetsu-index",
+  "name": "Sheetsu",
+  "category": "Index",
+  "description": "Easy google sheets integration",
+  "longDescription": "Easy google sheets integration",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sheetsu.com/",
+  "docsUrl": "https://sheetsu.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easy",
+    "google",
+    "sheets",
+    "integration"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sheetsu.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

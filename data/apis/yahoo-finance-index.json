@@ -1,0 +1,33 @@
+{
+  "slug": "yahoo-finance-index",
+  "name": "Yahoo Finance",
+  "category": "Index",
+  "description": "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",
+  "longDescription": "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.yahoofinanceapi.com/",
+  "docsUrl": "https://www.yahoofinanceapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "low",
+    "latency",
+    "yahoo",
+    "finance",
+    "api",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.yahoofinanceapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

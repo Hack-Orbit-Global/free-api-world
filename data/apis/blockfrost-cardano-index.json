@@ -1,0 +1,33 @@
+{
+  "slug": "blockfrost-cardano-index",
+  "name": "blockfrost Cardano",
+  "category": "Index",
+  "description": "Interaction with the Cardano mainnet and several testnets",
+  "longDescription": "Interaction with the Cardano mainnet and several testnets",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://blockfrost.io/",
+  "docsUrl": "https://blockfrost.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "interaction",
+    "with",
+    "the",
+    "cardano",
+    "mainnet",
+    "and",
+    "several",
+    "testnets"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://blockfrost.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

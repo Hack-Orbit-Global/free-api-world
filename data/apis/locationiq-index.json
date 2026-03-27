@@ -1,0 +1,31 @@
+{
+  "slug": "locationiq-index",
+  "name": "LocationIQ",
+  "category": "Index",
+  "description": "Provides forward/reverse geocoding and batch geocoding",
+  "longDescription": "Provides forward/reverse geocoding and batch geocoding",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://locationiq.org/docs/",
+  "docsUrl": "https://locationiq.org/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "forward",
+    "reverse",
+    "geocoding",
+    "and",
+    "batch"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://locationiq.org/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

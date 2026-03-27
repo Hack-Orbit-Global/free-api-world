@@ -1,0 +1,33 @@
+{
+  "slug": "cms-gov-index",
+  "name": "CMS.gov",
+  "category": "Index",
+  "description": "Access to the data from the CMS - medicare.gov",
+  "longDescription": "Access to the data from the CMS - medicare.gov",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.cms.gov/provider-data/",
+  "docsUrl": "https://data.cms.gov/provider-data/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "to",
+    "the",
+    "data",
+    "from",
+    "cms",
+    "medicare",
+    "gov"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.cms.gov/provider-data/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

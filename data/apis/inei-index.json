@@ -1,0 +1,30 @@
+{
+  "slug": "inei-index",
+  "name": "INEI",
+  "category": "Index",
+  "description": "Peruvian Statistical Government Open Data",
+  "longDescription": "Peruvian Statistical Government Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://iinei.inei.gob.pe/microdatos/",
+  "docsUrl": "http://iinei.inei.gob.pe/microdatos/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "peruvian",
+    "statistical",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://iinei.inei.gob.pe/microdatos/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

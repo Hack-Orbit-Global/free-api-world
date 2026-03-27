@@ -1,0 +1,33 @@
+{
+  "slug": "rainviewer-index",
+  "name": "RainViewer",
+  "category": "Index",
+  "description": "Radar data collected from different websites across the Internet",
+  "longDescription": "Radar data collected from different websites across the Internet",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.rainviewer.com/api.html",
+  "docsUrl": "https://www.rainviewer.com/api.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "radar",
+    "data",
+    "collected",
+    "from",
+    "different",
+    "websites",
+    "across",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.rainviewer.com/api.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

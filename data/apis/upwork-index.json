@@ -1,0 +1,31 @@
+{
+  "slug": "upwork-index",
+  "name": "Upwork",
+  "category": "Index",
+  "description": "Freelance job board and management system",
+  "longDescription": "Freelance job board and management system",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.upwork.com/",
+  "docsUrl": "https://developers.upwork.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "freelance",
+    "job",
+    "board",
+    "and",
+    "management",
+    "system"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.upwork.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

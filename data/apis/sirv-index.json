@@ -1,0 +1,32 @@
+{
+  "slug": "sirv-index",
+  "name": "Sirv",
+  "category": "Index",
+  "description": "Image management solutions like optimization, manipulation, hosting",
+  "longDescription": "Image management solutions like optimization, manipulation, hosting",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apidocs.sirv.com/",
+  "docsUrl": "https://apidocs.sirv.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "management",
+    "solutions",
+    "like",
+    "optimization",
+    "manipulation",
+    "hosting"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apidocs.sirv.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

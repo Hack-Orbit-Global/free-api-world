@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-queensland-government-index",
+  "name": "Open Government, Queensland Government",
+  "category": "Index",
+  "description": "Queensland Government Open Data",
+  "longDescription": "Queensland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.qld.gov.au/",
+  "docsUrl": "https://www.data.qld.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "queensland",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.qld.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

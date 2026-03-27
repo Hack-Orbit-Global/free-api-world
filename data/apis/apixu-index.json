@@ -1,0 +1,26 @@
+{
+  "slug": "apixu-index",
+  "name": "APIXU",
+  "category": "Index",
+  "description": "Weather",
+  "longDescription": "Weather",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.apixu.com/doc/request.aspx",
+  "docsUrl": "https://www.apixu.com/doc/request.aspx",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.apixu.com/doc/request.aspx",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

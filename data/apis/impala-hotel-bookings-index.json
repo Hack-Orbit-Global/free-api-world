@@ -1,0 +1,31 @@
+{
+  "slug": "impala-hotel-bookings-index",
+  "name": "Impala Hotel Bookings",
+  "category": "Index",
+  "description": "Hotel content, rates and room bookings",
+  "longDescription": "Hotel content, rates and room bookings",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://docs.impala.travel/docs/booking-api/",
+  "docsUrl": "https://docs.impala.travel/docs/booking-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hotel",
+    "content",
+    "rates",
+    "and",
+    "room",
+    "bookings"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.impala.travel/docs/booking-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ai-for-thai-index",
+  "name": "AI For Thai",
+  "category": "Index",
+  "description": "Free Various Thai AI API",
+  "longDescription": "Free Various Thai AI API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aiforthai.in.th/index.php",
+  "docsUrl": "https://aiforthai.in.th/index.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "various",
+    "thai",
+    "ai",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aiforthai.in.th/index.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

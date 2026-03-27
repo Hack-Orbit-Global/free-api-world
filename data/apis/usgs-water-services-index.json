@@ -1,0 +1,33 @@
+{
+  "slug": "usgs-water-services-index",
+  "name": "USGS Water Services",
+  "category": "Index",
+  "description": "Water quality and level info for rivers and lakes",
+  "longDescription": "Water quality and level info for rivers and lakes",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://waterservices.usgs.gov/",
+  "docsUrl": "https://waterservices.usgs.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "water",
+    "quality",
+    "and",
+    "level",
+    "info",
+    "for",
+    "rivers",
+    "lakes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://waterservices.usgs.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

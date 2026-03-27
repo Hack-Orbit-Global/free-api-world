@@ -1,0 +1,33 @@
+{
+  "slug": "aviationapi-index",
+  "name": "AviationAPI",
+  "category": "Index",
+  "description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
+  "longDescription": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://docs.aviationapi.com",
+  "docsUrl": "https://docs.aviationapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "faa",
+    "aeronautical",
+    "charts",
+    "and",
+    "publications",
+    "airport",
+    "information",
+    "weather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.aviationapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

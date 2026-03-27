@@ -1,0 +1,30 @@
+{
+  "slug": "phone-specification-index",
+  "name": "Phone Specification",
+  "category": "Index",
+  "description": "Rest Api for Phone specifications",
+  "longDescription": "Rest Api for Phone specifications",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/azharimm/phone-specs-api",
+  "docsUrl": "https://github.com/azharimm/phone-specs-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "phone",
+    "specifications"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/azharimm/phone-specs-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

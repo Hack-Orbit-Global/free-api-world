@@ -1,0 +1,33 @@
+{
+  "slug": "json-2-jsonp-index",
+  "name": "JSON 2 JSONP",
+  "category": "Index",
+  "description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
+  "longDescription": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://json2jsonp.com/",
+  "docsUrl": "https://json2jsonp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "convert",
+    "json",
+    "to",
+    "jsonp",
+    "on",
+    "the",
+    "fly",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://json2jsonp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

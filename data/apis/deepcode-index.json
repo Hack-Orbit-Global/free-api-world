@@ -1,0 +1,29 @@
+{
+  "slug": "deepcode-index",
+  "name": "Deepcode",
+  "category": "Index",
+  "description": "AI for code review",
+  "longDescription": "AI for code review",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.deepcode.ai",
+  "docsUrl": "https://www.deepcode.ai",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ai",
+    "for",
+    "code",
+    "review"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.deepcode.ai",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "openafrica-index",
+  "name": "openAFRICA",
+  "category": "Index",
+  "description": "Large datasets repository of African open data",
+  "longDescription": "Large datasets repository of African open data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://africaopendata.org/",
+  "docsUrl": "https://africaopendata.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "large",
+    "datasets",
+    "repository",
+    "of",
+    "african",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://africaopendata.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "monday-index",
+  "name": "Monday",
+  "category": "Index",
+  "description": "Programmatically access and update data inside a monday.com account",
+  "longDescription": "Programmatically access and update data inside a monday.com account",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.developer.monday.com/docs",
+  "docsUrl": "https://api.developer.monday.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "programmatically",
+    "access",
+    "and",
+    "update",
+    "data",
+    "inside",
+    "a",
+    "monday"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.developer.monday.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

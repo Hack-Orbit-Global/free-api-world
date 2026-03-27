@@ -1,0 +1,33 @@
+{
+  "slug": "sendgrid-index",
+  "name": "Sendgrid",
+  "category": "Index",
+  "description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+  "longDescription": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.sendgrid.com/api-reference/",
+  "docsUrl": "https://docs.sendgrid.com/api-reference/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "cloud",
+    "based",
+    "smtp",
+    "provider",
+    "that",
+    "allows",
+    "you"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.sendgrid.com/api-reference/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

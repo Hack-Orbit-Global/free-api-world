@@ -1,0 +1,33 @@
+{
+  "slug": "chinese-text-project-index",
+  "name": "Chinese Text Project",
+  "category": "Index",
+  "description": "Online open-access digital library for pre-modern Chinese texts",
+  "longDescription": "Online open-access digital library for pre-modern Chinese texts",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ctext.org/tools/api",
+  "docsUrl": "https://ctext.org/tools/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "open",
+    "access",
+    "digital",
+    "library",
+    "for",
+    "pre",
+    "modern"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ctext.org/tools/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

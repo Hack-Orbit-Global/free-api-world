@@ -1,0 +1,31 @@
+{
+  "slug": "rps-101-index",
+  "name": "RPS 101",
+  "category": "Index",
+  "description": "Rock, Paper, Scissors with 101 objects",
+  "longDescription": "Rock, Paper, Scissors with 101 objects",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rps101.pythonanywhere.com/api",
+  "docsUrl": "https://rps101.pythonanywhere.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rock",
+    "paper",
+    "scissors",
+    "with",
+    "101",
+    "objects"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rps101.pythonanywhere.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

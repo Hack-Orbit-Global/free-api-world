@@ -1,0 +1,27 @@
+{
+  "slug": "transport-for-united-states-index",
+  "name": "Transport for United States",
+  "category": "Index",
+  "description": "NextBus API",
+  "longDescription": "NextBus API",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
+  "docsUrl": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nextbus",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

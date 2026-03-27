@@ -1,0 +1,31 @@
+{
+  "slug": "covid-tracking-project-index",
+  "name": "Covid Tracking Project",
+  "category": "Index",
+  "description": "Covid-19  data for the US",
+  "longDescription": "Covid-19  data for the US",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://covidtracking.com/data/api/version-2",
+  "docsUrl": "https://covidtracking.com/data/api/version-2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "covid",
+    "19",
+    "data",
+    "for",
+    "the",
+    "us"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://covidtracking.com/data/api/version-2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

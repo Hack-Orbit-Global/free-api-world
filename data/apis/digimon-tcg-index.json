@@ -1,0 +1,32 @@
+{
+  "slug": "digimon-tcg-index",
+  "name": "Digimon TCG",
+  "category": "Index",
+  "description": "Search for Digimon cards in digimoncard.io",
+  "longDescription": "Search for Digimon cards in digimoncard.io",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
+  "docsUrl": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "for",
+    "digimon",
+    "cards",
+    "in",
+    "digimoncard",
+    "io"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

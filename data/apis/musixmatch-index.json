@@ -1,0 +1,26 @@
+{
+  "slug": "musixmatch-index",
+  "name": "Musixmatch",
+  "category": "Index",
+  "description": "Music",
+  "longDescription": "Music",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.musixmatch.com/",
+  "docsUrl": "https://developer.musixmatch.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.musixmatch.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

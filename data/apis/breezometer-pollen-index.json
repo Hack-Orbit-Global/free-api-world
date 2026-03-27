@@ -1,0 +1,33 @@
+{
+  "slug": "breezometer-pollen-index",
+  "name": "BreezoMeter Pollen",
+  "category": "Index",
+  "description": "Daily Forecast pollen conditions data for a specific location",
+  "longDescription": "Daily Forecast pollen conditions data for a specific location",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.breezometer.com/api-documentation/pollen-api/v2/",
+  "docsUrl": "https://docs.breezometer.com/api-documentation/pollen-api/v2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "daily",
+    "forecast",
+    "pollen",
+    "conditions",
+    "data",
+    "for",
+    "a",
+    "specific"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.breezometer.com/api-documentation/pollen-api/v2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

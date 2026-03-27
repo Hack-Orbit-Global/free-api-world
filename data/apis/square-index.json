@@ -1,0 +1,33 @@
+{
+  "slug": "square-index",
+  "name": "Square",
+  "category": "Index",
+  "description": "Easy way to take payments, manage refunds, and help customers checkout online",
+  "longDescription": "Easy way to take payments, manage refunds, and help customers checkout online",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.squareup.com/reference/square",
+  "docsUrl": "https://developer.squareup.com/reference/square",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easy",
+    "way",
+    "to",
+    "take",
+    "payments",
+    "manage",
+    "refunds",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.squareup.com/reference/square",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

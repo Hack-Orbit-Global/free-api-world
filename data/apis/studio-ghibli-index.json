@@ -1,0 +1,30 @@
+{
+  "slug": "studio-ghibli-index",
+  "name": "Studio Ghibli",
+  "category": "Index",
+  "description": "Resources from Studio Ghibli films",
+  "longDescription": "Resources from Studio Ghibli films",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ghibliapi.herokuapp.com",
+  "docsUrl": "https://ghibliapi.herokuapp.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "resources",
+    "from",
+    "studio",
+    "ghibli",
+    "films"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ghibliapi.herokuapp.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

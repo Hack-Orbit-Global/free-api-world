@@ -1,0 +1,33 @@
+{
+  "slug": "country-index",
+  "name": "Country",
+  "category": "Index",
+  "description": "Get your visitor's country from their IP",
+  "longDescription": "Get your visitor's country from their IP",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://country.is/",
+  "docsUrl": "http://country.is/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "your",
+    "visitor",
+    "s",
+    "country",
+    "from",
+    "their",
+    "ip"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://country.is/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

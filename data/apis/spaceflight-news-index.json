@@ -1,0 +1,28 @@
+{
+  "slug": "spaceflight-news-index",
+  "name": "Spaceflight News",
+  "category": "Index",
+  "description": "Spaceflight related news \ud83d\ude80",
+  "longDescription": "Spaceflight related news \ud83d\ude80",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://spaceflightnewsapi.net",
+  "docsUrl": "https://spaceflightnewsapi.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "spaceflight",
+    "related",
+    "news"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://spaceflightnewsapi.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

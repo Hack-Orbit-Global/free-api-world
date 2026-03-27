@@ -1,0 +1,31 @@
+{
+  "slug": "open-library-index",
+  "name": "Open Library",
+  "category": "Index",
+  "description": "Books, book covers and related data",
+  "longDescription": "Books, book covers and related data",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://openlibrary.org/developers/api",
+  "docsUrl": "https://openlibrary.org/developers/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "books",
+    "book",
+    "covers",
+    "and",
+    "related",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://openlibrary.org/developers/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

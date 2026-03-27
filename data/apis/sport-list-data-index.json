@@ -1,0 +1,32 @@
+{
+  "slug": "sport-list-data-index",
+  "name": "Sport List & Data",
+  "category": "Index",
+  "description": "List of and resources related to sports",
+  "longDescription": "List of and resources related to sports",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.decathlon.com/products/sports",
+  "docsUrl": "https://developers.decathlon.com/products/sports",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "list",
+    "of",
+    "and",
+    "resources",
+    "related",
+    "to",
+    "sports"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.decathlon.com/products/sports",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

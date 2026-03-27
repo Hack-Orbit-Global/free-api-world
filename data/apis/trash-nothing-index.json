@@ -1,0 +1,33 @@
+{
+  "slug": "trash-nothing-index",
+  "name": "Trash Nothing",
+  "category": "Index",
+  "description": "A freecycling community with thousands of free items posted every day",
+  "longDescription": "A freecycling community with thousands of free items posted every day",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://trashnothing.com/developer",
+  "docsUrl": "https://trashnothing.com/developer",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "freecycling",
+    "community",
+    "with",
+    "thousands",
+    "of",
+    "free",
+    "items"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://trashnothing.com/developer",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "balldontlie-index",
+  "name": "balldontlie",
+  "category": "Index",
+  "description": "Balldontlie provides access to stats data from the NBA",
+  "longDescription": "Balldontlie provides access to stats data from the NBA",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.balldontlie.io",
+  "docsUrl": "https://www.balldontlie.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "balldontlie",
+    "provides",
+    "access",
+    "to",
+    "stats",
+    "data",
+    "from",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.balldontlie.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

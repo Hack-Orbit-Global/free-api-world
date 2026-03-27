@@ -1,0 +1,31 @@
+{
+  "slug": "final-fantasy-xiv-index",
+  "name": "Final Fantasy XIV",
+  "category": "Index",
+  "description": "Final Fantasy XIV Game data API",
+  "longDescription": "Final Fantasy XIV Game data API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://xivapi.com/",
+  "docsUrl": "https://xivapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "final",
+    "fantasy",
+    "xiv",
+    "game",
+    "data",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://xivapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

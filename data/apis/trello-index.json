@@ -1,0 +1,33 @@
+{
+  "slug": "trello-index",
+  "name": "Trello",
+  "category": "Index",
+  "description": "Boards, lists and cards to help you organize and prioritize your projects",
+  "longDescription": "Boards, lists and cards to help you organize and prioritize your projects",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.trello.com/",
+  "docsUrl": "https://developers.trello.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "boards",
+    "lists",
+    "and",
+    "cards",
+    "to",
+    "help",
+    "you",
+    "organize"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.trello.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

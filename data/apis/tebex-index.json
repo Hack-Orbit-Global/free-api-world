@@ -1,0 +1,32 @@
+{
+  "slug": "tebex-index",
+  "name": "Tebex",
+  "category": "Index",
+  "description": "Tebex API for information about game purchases",
+  "longDescription": "Tebex API for information about game purchases",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://docs.tebex.io/plugin/",
+  "docsUrl": "https://docs.tebex.io/plugin/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tebex",
+    "api",
+    "for",
+    "information",
+    "about",
+    "game",
+    "purchases"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.tebex.io/plugin/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

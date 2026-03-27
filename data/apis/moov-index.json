@@ -1,0 +1,33 @@
+{
+  "slug": "moov-index",
+  "name": "Moov",
+  "category": "Index",
+  "description": "The Moov API makes it simple for platforms to send, receive, and store money",
+  "longDescription": "The Moov API makes it simple for platforms to send, receive, and store money",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.moov.io/api/",
+  "docsUrl": "https://docs.moov.io/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "moov",
+    "api",
+    "makes",
+    "it",
+    "simple",
+    "for",
+    "platforms"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.moov.io/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

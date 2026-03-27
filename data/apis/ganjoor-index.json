@@ -1,0 +1,33 @@
+{
+  "slug": "ganjoor-index",
+  "name": "Ganjoor",
+  "category": "Index",
+  "description": "Classic Persian poetry works including access to related manuscripts, recitations and music tracks",
+  "longDescription": "Classic Persian poetry works including access to related manuscripts, recitations and music tracks",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.ganjoor.net",
+  "docsUrl": "https://api.ganjoor.net",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "classic",
+    "persian",
+    "poetry",
+    "works",
+    "including",
+    "access",
+    "to",
+    "related"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.ganjoor.net",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

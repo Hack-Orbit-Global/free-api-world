@@ -1,0 +1,31 @@
+{
+  "slug": "dogs-index",
+  "name": "Dogs",
+  "category": "Index",
+  "description": "Based on the Stanford Dogs Dataset",
+  "longDescription": "Based on the Stanford Dogs Dataset",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dog.ceo/dog-api/",
+  "docsUrl": "https://dog.ceo/dog-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "based",
+    "on",
+    "the",
+    "stanford",
+    "dogs",
+    "dataset"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dog.ceo/dog-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

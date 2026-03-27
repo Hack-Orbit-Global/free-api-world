@@ -1,0 +1,33 @@
+{
+  "slug": "qrcode-monkey-index",
+  "name": "Qrcode Monkey",
+  "category": "Index",
+  "description": "Integrate custom and unique looking QR codes into your system or workflow",
+  "longDescription": "Integrate custom and unique looking QR codes into your system or workflow",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
+  "docsUrl": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "integrate",
+    "custom",
+    "and",
+    "unique",
+    "looking",
+    "qr",
+    "codes",
+    "into"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

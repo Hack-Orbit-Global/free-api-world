@@ -1,0 +1,32 @@
+{
+  "slug": "real-time-finance-index",
+  "name": "Real Time Finance",
+  "category": "Index",
+  "description": "Websocket API to access realtime stock data",
+  "longDescription": "Websocket API to access realtime stock data",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://github.com/Real-time-finance/finance-websocket-API/",
+  "docsUrl": "https://github.com/Real-time-finance/finance-websocket-API/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "websocket",
+    "api",
+    "to",
+    "access",
+    "realtime",
+    "stock",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Real-time-finance/finance-websocket-API/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

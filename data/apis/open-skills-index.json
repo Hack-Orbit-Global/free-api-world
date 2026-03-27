@@ -1,0 +1,32 @@
+{
+  "slug": "open-skills-index",
+  "name": "Open Skills",
+  "category": "Index",
+  "description": "Job titles, skills and related jobs data",
+  "longDescription": "Job titles, skills and related jobs data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
+  "docsUrl": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "job",
+    "titles",
+    "skills",
+    "and",
+    "related",
+    "jobs",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

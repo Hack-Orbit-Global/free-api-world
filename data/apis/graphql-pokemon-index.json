@@ -1,0 +1,33 @@
+{
+  "slug": "graphql-pokemon-index",
+  "name": "GraphQL Pokemon",
+  "category": "Index",
+  "description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+  "longDescription": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/favware/graphql-pokemon",
+  "docsUrl": "https://github.com/favware/graphql-pokemon",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "graphql",
+    "powered",
+    "pokemon",
+    "api",
+    "supports",
+    "generations",
+    "1",
+    "through"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/favware/graphql-pokemon",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

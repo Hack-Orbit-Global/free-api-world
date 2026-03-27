@@ -1,0 +1,33 @@
+{
+  "slug": "escape-index",
+  "name": "Escape",
+  "category": "Index",
+  "description": "An API for escaping different kind of queries",
+  "longDescription": "An API for escaping different kind of queries",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/polarspetroll/EscapeAPI",
+  "docsUrl": "https://github.com/polarspetroll/EscapeAPI",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "api",
+    "for",
+    "escaping",
+    "different",
+    "kind",
+    "of",
+    "queries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/polarspetroll/EscapeAPI",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

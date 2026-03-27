@@ -1,0 +1,33 @@
+{
+  "slug": "geek-jokes-index",
+  "name": "Geek-Jokes",
+  "category": "Index",
+  "description": "Fetch a random geeky/programming related joke for use in all sorts of applications",
+  "longDescription": "Fetch a random geeky/programming related joke for use in all sorts of applications",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/sameerkumar18/geek-joke-api",
+  "docsUrl": "https://github.com/sameerkumar18/geek-joke-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fetch",
+    "a",
+    "random",
+    "geeky",
+    "programming",
+    "related",
+    "joke",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/sameerkumar18/geek-joke-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

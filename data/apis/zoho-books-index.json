@@ -1,0 +1,32 @@
+{
+  "slug": "zoho-books-index",
+  "name": "Zoho Books",
+  "category": "Index",
+  "description": "Online accounting software, built for your business",
+  "longDescription": "Online accounting software, built for your business",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.zoho.com/books/api/v3/",
+  "docsUrl": "https://www.zoho.com/books/api/v3/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "accounting",
+    "software",
+    "built",
+    "for",
+    "your",
+    "business"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.zoho.com/books/api/v3/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

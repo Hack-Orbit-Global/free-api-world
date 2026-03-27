@@ -1,0 +1,33 @@
+{
+  "slug": "nophishy-index",
+  "name": "NoPhishy",
+  "category": "Index",
+  "description": "Check links to see if they're known phishing attempts",
+  "longDescription": "Check links to see if they're known phishing attempts",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/Amiichu/api/exerra-phishing-check/",
+  "docsUrl": "https://rapidapi.com/Amiichu/api/exerra-phishing-check/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "check",
+    "links",
+    "to",
+    "see",
+    "if",
+    "they",
+    "re",
+    "known"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/Amiichu/api/exerra-phishing-check/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

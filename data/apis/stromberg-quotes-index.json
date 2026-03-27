@@ -1,0 +1,30 @@
+{
+  "slug": "stromberg-quotes-index",
+  "name": "Stromberg Quotes",
+  "category": "Index",
+  "description": "Returns Stromberg quotes and more",
+  "longDescription": "Returns Stromberg quotes and more",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.stromberg-api.de/",
+  "docsUrl": "https://www.stromberg-api.de/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "returns",
+    "stromberg",
+    "quotes",
+    "and",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.stromberg-api.de/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "festivo-public-holidays-index",
+  "name": "Festivo Public Holidays",
+  "category": "Index",
+  "description": "Fastest and most advanced public holiday and observance service on the market",
+  "longDescription": "Fastest and most advanced public holiday and observance service on the market",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.getfestivo.com/docs/products/public-holidays-api/intro",
+  "docsUrl": "https://docs.getfestivo.com/docs/products/public-holidays-api/intro",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fastest",
+    "and",
+    "most",
+    "advanced",
+    "public",
+    "holiday",
+    "observance",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.getfestivo.com/docs/products/public-holidays-api/intro",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "open-page-rank-index",
+  "name": "Open Page Rank",
+  "category": "Index",
+  "description": "API for calculating and comparing metrics of different websites using Page Rank algorithm",
+  "longDescription": "API for calculating and comparing metrics of different websites using Page Rank algorithm",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.domcop.com/openpagerank/",
+  "docsUrl": "https://www.domcop.com/openpagerank/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "calculating",
+    "and",
+    "comparing",
+    "metrics",
+    "of",
+    "different"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.domcop.com/openpagerank/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "apimedic-index",
+  "name": "ApiMedic",
+  "category": "Index",
+  "description": "ApiMedic offers a medical symptom checker API primarily for patients",
+  "longDescription": "ApiMedic offers a medical symptom checker API primarily for patients",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apimedic.com/",
+  "docsUrl": "https://apimedic.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "apimedic",
+    "offers",
+    "a",
+    "medical",
+    "symptom",
+    "checker",
+    "api",
+    "primarily"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apimedic.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

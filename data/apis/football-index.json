@@ -1,0 +1,33 @@
+{
+  "slug": "football-index",
+  "name": "Football",
+  "category": "Index",
+  "description": "A simple Open Source Football API to get squads\u2019 stats, best scorers and more",
+  "longDescription": "A simple Open Source Football API to get squads\u2019 stats, best scorers and more",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+  "docsUrl": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "open",
+    "source",
+    "football",
+    "api",
+    "to",
+    "get"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

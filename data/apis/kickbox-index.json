@@ -1,0 +1,28 @@
+{
+  "slug": "kickbox-index",
+  "name": "Kickbox",
+  "category": "Index",
+  "description": "Email verification API",
+  "longDescription": "Email verification API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open.kickbox.com/",
+  "docsUrl": "https://open.kickbox.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "email",
+    "verification",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open.kickbox.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

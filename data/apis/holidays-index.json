@@ -1,0 +1,29 @@
+{
+  "slug": "holidays-index",
+  "name": "Holidays",
+  "category": "Index",
+  "description": "Historical data regarding holidays",
+  "longDescription": "Historical data regarding holidays",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://holidayapi.com/",
+  "docsUrl": "https://holidayapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "historical",
+    "data",
+    "regarding",
+    "holidays"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://holidayapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

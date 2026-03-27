@@ -1,0 +1,33 @@
+{
+  "slug": "open-meteo-index",
+  "name": "Open-Meteo",
+  "category": "Index",
+  "description": "Global weather forecast API for non-commercial use",
+  "longDescription": "Global weather forecast API for non-commercial use",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open-meteo.com/",
+  "docsUrl": "https://open-meteo.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "weather",
+    "forecast",
+    "api",
+    "for",
+    "non",
+    "commercial",
+    "use"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open-meteo.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

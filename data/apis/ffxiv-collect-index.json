@@ -1,0 +1,31 @@
+{
+  "slug": "ffxiv-collect-index",
+  "name": "FFXIV Collect",
+  "category": "Index",
+  "description": "Final Fantasy XIV data on collectables",
+  "longDescription": "Final Fantasy XIV data on collectables",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ffxivcollect.com/",
+  "docsUrl": "https://ffxivcollect.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "final",
+    "fantasy",
+    "xiv",
+    "data",
+    "on",
+    "collectables"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ffxivcollect.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

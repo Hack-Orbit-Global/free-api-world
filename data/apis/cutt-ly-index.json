@@ -1,0 +1,28 @@
+{
+  "slug": "cutt-ly-index",
+  "name": "Cutt.ly",
+  "category": "Index",
+  "description": "URL shortener service",
+  "longDescription": "URL shortener service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cutt.ly/api-documentation/cuttly-links-api",
+  "docsUrl": "https://cutt.ly/api-documentation/cuttly-links-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "shortener",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cutt.ly/api-documentation/cuttly-links-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

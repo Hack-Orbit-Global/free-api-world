@@ -1,0 +1,33 @@
+{
+  "slug": "transport-for-los-angeles-us-index",
+  "name": "Transport for Los Angeles, US",
+  "category": "Index",
+  "description": "Data about positions of Metro vehicles in real time and travel their routes",
+  "longDescription": "Data about positions of Metro vehicles in real time and travel their routes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.metro.net/api/",
+  "docsUrl": "https://developer.metro.net/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "about",
+    "positions",
+    "of",
+    "metro",
+    "vehicles",
+    "in",
+    "real"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.metro.net/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

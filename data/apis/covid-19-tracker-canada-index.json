@@ -1,0 +1,32 @@
+{
+  "slug": "covid-19-tracker-canada-index",
+  "name": "COVID-19 Tracker Canada",
+  "category": "Index",
+  "description": "Details on Covid-19 cases across Canada",
+  "longDescription": "Details on Covid-19 cases across Canada",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.covid19tracker.ca/docs/1.0/overview",
+  "docsUrl": "https://api.covid19tracker.ca/docs/1.0/overview",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "details",
+    "on",
+    "covid",
+    "19",
+    "cases",
+    "across",
+    "canada"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.covid19tracker.ca/docs/1.0/overview",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

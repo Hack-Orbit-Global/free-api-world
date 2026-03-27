@@ -1,0 +1,29 @@
+{
+  "slug": "html2pdf-index",
+  "name": "Html2PDF",
+  "category": "Index",
+  "description": "HTML/URL to PDF",
+  "longDescription": "HTML/URL to PDF",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://html2pdf.app/",
+  "docsUrl": "https://html2pdf.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "html",
+    "url",
+    "to",
+    "pdf"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://html2pdf.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

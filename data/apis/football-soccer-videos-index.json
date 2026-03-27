@@ -1,0 +1,33 @@
+{
+  "slug": "football-soccer-videos-index",
+  "name": "Football (Soccer) Videos",
+  "category": "Index",
+  "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+  "longDescription": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.scorebat.com/video-api/",
+  "docsUrl": "https://www.scorebat.com/video-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "embed",
+    "codes",
+    "for",
+    "goals",
+    "and",
+    "highlights",
+    "from",
+    "premier"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.scorebat.com/video-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

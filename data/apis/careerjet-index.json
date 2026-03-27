@@ -1,0 +1,28 @@
+{
+  "slug": "careerjet-index",
+  "name": "Careerjet",
+  "category": "Index",
+  "description": "Job search engine",
+  "longDescription": "Job search engine",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://www.careerjet.com/partners/api/",
+  "docsUrl": "https://www.careerjet.com/partners/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "job",
+    "search",
+    "engine"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.careerjet.com/partners/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-west-australia-index",
+  "name": "Open Government, West Australia",
+  "category": "Index",
+  "description": "West Australia Open Data",
+  "longDescription": "West Australia Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.wa.gov.au/",
+  "docsUrl": "https://data.wa.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "west",
+    "australia",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.wa.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

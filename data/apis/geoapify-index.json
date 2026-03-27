@@ -1,0 +1,31 @@
+{
+  "slug": "geoapify-index",
+  "name": "Geoapify",
+  "category": "Index",
+  "description": "Forward and reverse geocoding, address autocomplete",
+  "longDescription": "Forward and reverse geocoding, address autocomplete",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.geoapify.com/api/geocoding-api/",
+  "docsUrl": "https://www.geoapify.com/api/geocoding-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "forward",
+    "and",
+    "reverse",
+    "geocoding",
+    "address",
+    "autocomplete"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.geoapify.com/api/geocoding-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

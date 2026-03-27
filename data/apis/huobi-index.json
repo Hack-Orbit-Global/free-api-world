@@ -1,0 +1,29 @@
+{
+  "slug": "huobi-index",
+  "name": "Huobi",
+  "category": "Index",
+  "description": "Seychelles based cryptocurrency exchange",
+  "longDescription": "Seychelles based cryptocurrency exchange",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://huobiapi.github.io/docs/spot/v1/en/",
+  "docsUrl": "https://huobiapi.github.io/docs/spot/v1/en/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "seychelles",
+    "based",
+    "cryptocurrency",
+    "exchange"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://huobiapi.github.io/docs/spot/v1/en/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

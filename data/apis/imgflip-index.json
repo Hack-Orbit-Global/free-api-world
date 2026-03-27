@@ -1,0 +1,31 @@
+{
+  "slug": "imgflip-index",
+  "name": "Imgflip",
+  "category": "Index",
+  "description": "Gets an array of popular memes",
+  "longDescription": "Gets an array of popular memes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://imgflip.com/api",
+  "docsUrl": "https://imgflip.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gets",
+    "an",
+    "array",
+    "of",
+    "popular",
+    "memes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://imgflip.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

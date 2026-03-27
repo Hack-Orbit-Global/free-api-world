@@ -1,0 +1,33 @@
+{
+  "slug": "cloudbet-index",
+  "name": "Cloudbet",
+  "category": "Index",
+  "description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+  "longDescription": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cloudbet.com/api/",
+  "docsUrl": "https://www.cloudbet.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "official",
+    "cloudbet",
+    "api",
+    "provides",
+    "real",
+    "time",
+    "sports",
+    "odds"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cloudbet.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

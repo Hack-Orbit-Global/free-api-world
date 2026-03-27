@@ -1,0 +1,29 @@
+{
+  "slug": "openaq-index",
+  "name": "OpenAQ",
+  "category": "Index",
+  "description": "Open air quality data",
+  "longDescription": "Open air quality data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.openaq.org/",
+  "docsUrl": "https://docs.openaq.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "air",
+    "quality",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.openaq.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

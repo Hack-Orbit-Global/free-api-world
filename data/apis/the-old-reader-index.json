@@ -1,0 +1,27 @@
+{
+  "slug": "the-old-reader-index",
+  "name": "The Old Reader",
+  "category": "Index",
+  "description": "RSS reader",
+  "longDescription": "RSS reader",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/theoldreader/api",
+  "docsUrl": "https://github.com/theoldreader/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rss",
+    "reader"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/theoldreader/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

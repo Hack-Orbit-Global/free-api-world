@@ -1,0 +1,31 @@
+{
+  "slug": "urlbae-index",
+  "name": "UrlBae",
+  "category": "Index",
+  "description": "Simple and efficient short link creation",
+  "longDescription": "Simple and efficient short link creation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://urlbae.com/developers",
+  "docsUrl": "https://urlbae.com/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "and",
+    "efficient",
+    "short",
+    "link",
+    "creation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://urlbae.com/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

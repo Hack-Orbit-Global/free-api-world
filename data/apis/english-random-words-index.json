@@ -1,0 +1,31 @@
+{
+  "slug": "english-random-words-index",
+  "name": "English Random Words",
+  "category": "Index",
+  "description": "Generate English Random Words with Pronunciation",
+  "longDescription": "Generate English Random Words with Pronunciation",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://random-words-api.vercel.app/word",
+  "docsUrl": "https://random-words-api.vercel.app/word",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "english",
+    "random",
+    "words",
+    "with",
+    "pronunciation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://random-words-api.vercel.app/word",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bugsnax-index",
+  "name": "Bugsnax",
+  "category": "Index",
+  "description": "Get information about Bugsnax",
+  "longDescription": "Get information about Bugsnax",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.bugsnaxapi.com/",
+  "docsUrl": "https://www.bugsnaxapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "information",
+    "about",
+    "bugsnax"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.bugsnaxapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

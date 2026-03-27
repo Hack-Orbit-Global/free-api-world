@@ -1,0 +1,31 @@
+{
+  "slug": "penguin-publishing-index",
+  "name": "Penguin Publishing",
+  "category": "Index",
+  "description": "Books, book covers and related data",
+  "longDescription": "Books, book covers and related data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://www.penguinrandomhouse.biz/webservices/rest/",
+  "docsUrl": "http://www.penguinrandomhouse.biz/webservices/rest/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "books",
+    "book",
+    "covers",
+    "and",
+    "related",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.penguinrandomhouse.biz/webservices/rest/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

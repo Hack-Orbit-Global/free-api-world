@@ -1,0 +1,33 @@
+{
+  "slug": "prexview-index",
+  "name": "PrexView",
+  "category": "Index",
+  "description": "Data from XML or JSON to PDF, HTML or Image",
+  "longDescription": "Data from XML or JSON to PDF, HTML or Image",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://prexview.com",
+  "docsUrl": "https://prexview.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "from",
+    "xml",
+    "or",
+    "json",
+    "to",
+    "pdf",
+    "html"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://prexview.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

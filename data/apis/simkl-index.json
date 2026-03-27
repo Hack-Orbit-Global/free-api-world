@@ -1,0 +1,30 @@
+{
+  "slug": "simkl-index",
+  "name": "Simkl",
+  "category": "Index",
+  "description": "Movie, TV and Anime data",
+  "longDescription": "Movie, TV and Anime data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://simkl.docs.apiary.io",
+  "docsUrl": "https://simkl.docs.apiary.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "movie",
+    "tv",
+    "and",
+    "anime",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://simkl.docs.apiary.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

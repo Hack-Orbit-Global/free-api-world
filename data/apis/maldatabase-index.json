@@ -1,0 +1,32 @@
+{
+  "slug": "maldatabase-index",
+  "name": "MalDatabase",
+  "category": "Index",
+  "description": "Provide malware datasets and threat intelligence feeds",
+  "longDescription": "Provide malware datasets and threat intelligence feeds",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://maldatabase.com/api-doc.html",
+  "docsUrl": "https://maldatabase.com/api-doc.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provide",
+    "malware",
+    "datasets",
+    "and",
+    "threat",
+    "intelligence",
+    "feeds"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://maldatabase.com/api-doc.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

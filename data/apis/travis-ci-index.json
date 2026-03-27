@@ -1,0 +1,33 @@
+{
+  "slug": "travis-ci-index",
+  "name": "Travis CI",
+  "category": "Index",
+  "description": "Sync your GitHub projects with Travis CI to test your code in minutes",
+  "longDescription": "Sync your GitHub projects with Travis CI to test your code in minutes",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.travis-ci.com/api/",
+  "docsUrl": "https://docs.travis-ci.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sync",
+    "your",
+    "github",
+    "projects",
+    "with",
+    "travis",
+    "ci",
+    "to"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.travis-ci.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

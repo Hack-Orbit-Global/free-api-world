@@ -1,0 +1,29 @@
+{
+  "slug": "dog-facts-index",
+  "name": "Dog Facts",
+  "category": "Index",
+  "description": "Random facts of Dogs",
+  "longDescription": "Random facts of Dogs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://kinduff.github.io/dog-api/",
+  "docsUrl": "https://kinduff.github.io/dog-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "facts",
+    "of",
+    "dogs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://kinduff.github.io/dog-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

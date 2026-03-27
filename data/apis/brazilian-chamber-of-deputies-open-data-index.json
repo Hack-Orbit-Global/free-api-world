@@ -1,0 +1,33 @@
+{
+  "slug": "brazilian-chamber-of-deputies-open-data-index",
+  "name": "Brazilian Chamber of Deputies Open Data",
+  "category": "Index",
+  "description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+  "longDescription": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://dadosabertos.camara.leg.br/swagger/api.html",
+  "docsUrl": "https://dadosabertos.camara.leg.br/swagger/api.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "legislative",
+    "information",
+    "in",
+    "apis",
+    "xml",
+    "and",
+    "json"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dadosabertos.camara.leg.br/swagger/api.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

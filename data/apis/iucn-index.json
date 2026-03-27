@@ -1,0 +1,31 @@
+{
+  "slug": "iucn-index",
+  "name": "IUCN",
+  "category": "Index",
+  "description": "IUCN Red List of Threatened Species",
+  "longDescription": "IUCN Red List of Threatened Species",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://apiv3.iucnredlist.org/api/v3/docs",
+  "docsUrl": "http://apiv3.iucnredlist.org/api/v3/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "iucn",
+    "red",
+    "list",
+    "of",
+    "threatened",
+    "species"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://apiv3.iucnredlist.org/api/v3/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

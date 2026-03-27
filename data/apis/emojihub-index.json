@@ -1,0 +1,31 @@
+{
+  "slug": "emojihub-index",
+  "name": "EmojiHub",
+  "category": "Index",
+  "description": "Get emojis by categories and groups",
+  "longDescription": "Get emojis by categories and groups",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/cheatsnake/emojihub",
+  "docsUrl": "https://github.com/cheatsnake/emojihub",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "emojis",
+    "by",
+    "categories",
+    "and",
+    "groups"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/cheatsnake/emojihub",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

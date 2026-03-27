@@ -1,0 +1,33 @@
+{
+  "slug": "web3-storage-index",
+  "name": "Web3 Storage",
+  "category": "Index",
+  "description": "File Sharing and Storage for Free with 1TB Space",
+  "longDescription": "File Sharing and Storage for Free with 1TB Space",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://web3.storage/",
+  "docsUrl": "https://web3.storage/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "file",
+    "sharing",
+    "and",
+    "storage",
+    "for",
+    "free",
+    "with",
+    "1tb"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://web3.storage/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

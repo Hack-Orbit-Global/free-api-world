@@ -1,0 +1,28 @@
+{
+  "slug": "placedog-index",
+  "name": "PlaceDog",
+  "category": "Index",
+  "description": "Placeholder Dog pictures",
+  "longDescription": "Placeholder Dog pictures",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://place.dog",
+  "docsUrl": "https://place.dog",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "placeholder",
+    "dog",
+    "pictures"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://place.dog",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

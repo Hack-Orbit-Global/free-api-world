@@ -1,0 +1,29 @@
+{
+  "slug": "an-api-of-ice-and-fire-index",
+  "name": "An API of Ice And Fire",
+  "category": "Index",
+  "description": "Game Of Thrones API",
+  "longDescription": "Game Of Thrones API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://anapioficeandfire.com/",
+  "docsUrl": "https://anapioficeandfire.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "game",
+    "of",
+    "thrones",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://anapioficeandfire.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "srp-energy-index",
+  "name": "Srp Energy",
+  "category": "Index",
+  "description": "Hourly usage energy report for Srp customers",
+  "longDescription": "Hourly usage energy report for Srp customers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
+  "docsUrl": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hourly",
+    "usage",
+    "energy",
+    "report",
+    "for",
+    "srp",
+    "customers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

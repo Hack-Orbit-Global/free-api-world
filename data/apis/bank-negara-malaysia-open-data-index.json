@@ -1,0 +1,30 @@
+{
+  "slug": "bank-negara-malaysia-open-data-index",
+  "name": "Bank Negara Malaysia Open Data",
+  "category": "Index",
+  "description": "Malaysia Central Bank Open Data",
+  "longDescription": "Malaysia Central Bank Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apikijangportal.bnm.gov.my/",
+  "docsUrl": "https://apikijangportal.bnm.gov.my/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "malaysia",
+    "central",
+    "bank",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apikijangportal.bnm.gov.my/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

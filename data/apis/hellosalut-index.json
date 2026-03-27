@@ -1,0 +1,31 @@
+{
+  "slug": "hellosalut-index",
+  "name": "HelloSalut",
+  "category": "Index",
+  "description": "Get hello translation following user language",
+  "longDescription": "Get hello translation following user language",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://fourtonfish.com/project/hellosalut-api/",
+  "docsUrl": "https://fourtonfish.com/project/hellosalut-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "hello",
+    "translation",
+    "following",
+    "user",
+    "language"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://fourtonfish.com/project/hellosalut-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

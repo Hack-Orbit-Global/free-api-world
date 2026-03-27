@@ -1,0 +1,26 @@
+{
+  "slug": "rescuegroups-index",
+  "name": "RescueGroups",
+  "category": "Index",
+  "description": "Adoption",
+  "longDescription": "Adoption",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+  "docsUrl": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "adoption"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

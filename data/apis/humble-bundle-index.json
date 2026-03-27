@@ -1,0 +1,30 @@
+{
+  "slug": "humble-bundle-index",
+  "name": "Humble Bundle",
+  "category": "Index",
+  "description": "Humble Bundle's current bundles",
+  "longDescription": "Humble Bundle's current bundles",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+  "docsUrl": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "humble",
+    "bundle",
+    "s",
+    "current",
+    "bundles"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

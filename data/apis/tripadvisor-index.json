@@ -1,0 +1,33 @@
+{
+  "slug": "tripadvisor-index",
+  "name": "Tripadvisor",
+  "category": "Index",
+  "description": "Rating content for a hotel, restaurant, attraction or destination",
+  "longDescription": "Rating content for a hotel, restaurant, attraction or destination",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer-tripadvisor.com/home/",
+  "docsUrl": "https://developer-tripadvisor.com/home/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rating",
+    "content",
+    "for",
+    "a",
+    "hotel",
+    "restaurant",
+    "attraction",
+    "or"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer-tripadvisor.com/home/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

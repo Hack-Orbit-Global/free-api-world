@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-estonia-index",
+  "name": "Open Government, Estonia",
+  "category": "Index",
+  "description": "Estonia Government Open Data",
+  "longDescription": "Estonia Government Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://avaandmed.eesti.ee/instructions/opendata-dataset-api",
+  "docsUrl": "https://avaandmed.eesti.ee/instructions/opendata-dataset-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "estonia",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://avaandmed.eesti.ee/instructions/opendata-dataset-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "transport-for-atlanta-us-index",
+  "name": "Transport for Atlanta, US",
+  "category": "Index",
+  "description": "Marta",
+  "longDescription": "Marta",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.itsmarta.com/app-developer-resources.aspx",
+  "docsUrl": "http://www.itsmarta.com/app-developer-resources.aspx",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "marta"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.itsmarta.com/app-developer-resources.aspx",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

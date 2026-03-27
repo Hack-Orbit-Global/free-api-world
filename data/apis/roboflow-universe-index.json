@@ -1,0 +1,30 @@
+{
+  "slug": "roboflow-universe-index",
+  "name": "Roboflow Universe",
+  "category": "Index",
+  "description": "Pre-trained computer vision models",
+  "longDescription": "Pre-trained computer vision models",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://universe.roboflow.com",
+  "docsUrl": "https://universe.roboflow.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "pre",
+    "trained",
+    "computer",
+    "vision",
+    "models"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://universe.roboflow.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

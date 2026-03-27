@@ -1,0 +1,29 @@
+{
+  "slug": "php-noise-index",
+  "name": "PHP-Noise",
+  "category": "Index",
+  "description": "Noise Background Image Generator",
+  "longDescription": "Noise Background Image Generator",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://php-noise.com/",
+  "docsUrl": "https://php-noise.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "noise",
+    "background",
+    "image",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://php-noise.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "minor-planet-center-index",
+  "name": "Minor Planet Center",
+  "category": "Index",
+  "description": "Asterank.com Information",
+  "longDescription": "Asterank.com Information",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.asterank.com/mpc",
+  "docsUrl": "http://www.asterank.com/mpc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "asterank",
+    "com",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.asterank.com/mpc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "yu-gi-oh-index",
+  "name": "Yu-Gi-Oh!",
+  "category": "Index",
+  "description": "Yu-Gi-Oh! TCG Information",
+  "longDescription": "Yu-Gi-Oh! TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://db.ygoprodeck.com/api-guide/",
+  "docsUrl": "https://db.ygoprodeck.com/api-guide/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "yu",
+    "gi",
+    "oh",
+    "tcg",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://db.ygoprodeck.com/api-guide/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

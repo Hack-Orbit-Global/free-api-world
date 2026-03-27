@@ -1,0 +1,32 @@
+{
+  "slug": "nomics-index",
+  "name": "Nomics",
+  "category": "Index",
+  "description": "Historical and realtime cryptocurrency prices and market data",
+  "longDescription": "Historical and realtime cryptocurrency prices and market data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nomics.com/docs/",
+  "docsUrl": "https://nomics.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "historical",
+    "and",
+    "realtime",
+    "cryptocurrency",
+    "prices",
+    "market",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nomics.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "us-street-address-index",
+  "name": "US Street Address",
+  "category": "Index",
+  "description": "Validate and append data for any US postal address",
+  "longDescription": "Validate and append data for any US postal address",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.smarty.com/docs/cloud/us-street-api",
+  "docsUrl": "https://www.smarty.com/docs/cloud/us-street-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "and",
+    "append",
+    "data",
+    "for",
+    "any",
+    "us",
+    "postal"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.smarty.com/docs/cloud/us-street-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "openvisionapi-index",
+  "name": "OpenVisionAPI",
+  "category": "Index",
+  "description": "Open source computer vision API based on open source models",
+  "longDescription": "Open source computer vision API based on open source models",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://openvisionapi.com",
+  "docsUrl": "https://openvisionapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "source",
+    "computer",
+    "vision",
+    "api",
+    "based",
+    "on",
+    "models"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://openvisionapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

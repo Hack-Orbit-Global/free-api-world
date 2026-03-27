@@ -1,0 +1,30 @@
+{
+  "slug": "autochess-vng-index",
+  "name": "Autochess VNG",
+  "category": "Index",
+  "description": "Rest Api for Autochess VNG",
+  "longDescription": "Rest Api for Autochess VNG",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/didadadida93/autochess-vng-api",
+  "docsUrl": "https://github.com/didadadida93/autochess-vng-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "autochess",
+    "vng"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/didadadida93/autochess-vng-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

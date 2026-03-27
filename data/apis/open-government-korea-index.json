@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-korea-index",
+  "name": "Open Government, Korea",
+  "category": "Index",
+  "description": "Korea Government Open Data",
+  "longDescription": "Korea Government Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.go.kr/",
+  "docsUrl": "https://www.data.go.kr/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "korea",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.go.kr/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

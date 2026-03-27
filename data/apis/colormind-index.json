@@ -1,0 +1,28 @@
+{
+  "slug": "colormind-index",
+  "name": "Colormind",
+  "category": "Index",
+  "description": "Color scheme generator",
+  "longDescription": "Color scheme generator",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://colormind.io/api-access/",
+  "docsUrl": "http://colormind.io/api-access/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "color",
+    "scheme",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://colormind.io/api-access/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

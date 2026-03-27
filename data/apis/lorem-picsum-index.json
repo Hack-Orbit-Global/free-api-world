@@ -1,0 +1,28 @@
+{
+  "slug": "lorem-picsum-index",
+  "name": "Lorem Picsum",
+  "category": "Index",
+  "description": "Images from Unsplash",
+  "longDescription": "Images from Unsplash",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://picsum.photos/",
+  "docsUrl": "https://picsum.photos/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "images",
+    "from",
+    "unsplash"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://picsum.photos/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

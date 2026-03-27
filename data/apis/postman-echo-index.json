@@ -1,0 +1,33 @@
+{
+  "slug": "postman-echo-index",
+  "name": "Postman Echo",
+  "category": "Index",
+  "description": "Test api server to receive and return value from HTTP method",
+  "longDescription": "Test api server to receive and return value from HTTP method",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.postman-echo.com",
+  "docsUrl": "https://www.postman-echo.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "test",
+    "api",
+    "server",
+    "to",
+    "receive",
+    "and",
+    "return",
+    "value"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.postman-echo.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

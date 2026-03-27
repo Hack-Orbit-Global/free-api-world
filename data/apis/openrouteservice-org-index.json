@@ -1,0 +1,33 @@
+{
+  "slug": "openrouteservice-org-index",
+  "name": "openrouteservice.org",
+  "category": "Index",
+  "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+  "longDescription": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://openrouteservice.org/",
+  "docsUrl": "https://openrouteservice.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "directions",
+    "pois",
+    "isochrones",
+    "geocoding",
+    "reverse",
+    "elevation",
+    "and",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://openrouteservice.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "mercedes-benz-index",
+  "name": "Mercedes-Benz",
+  "category": "Index",
+  "description": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers",
+  "longDescription": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://developer.mercedes-benz.com/apis",
+  "docsUrl": "https://developer.mercedes-benz.com/apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "telematics",
+    "data",
+    "remotely",
+    "access",
+    "vehicle",
+    "functions",
+    "car",
+    "configurator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.mercedes-benz.com/apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

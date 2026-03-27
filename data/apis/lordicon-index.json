@@ -1,0 +1,29 @@
+{
+  "slug": "lordicon-index",
+  "name": "Lordicon",
+  "category": "Index",
+  "description": "Icons with predone Animations",
+  "longDescription": "Icons with predone Animations",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://lordicon.com/",
+  "docsUrl": "https://lordicon.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "icons",
+    "with",
+    "predone",
+    "animations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://lordicon.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "abuseipdb-index",
+  "name": "AbuseIPDB",
+  "category": "Index",
+  "description": "IP/domain/URL reputation",
+  "longDescription": "IP/domain/URL reputation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.abuseipdb.com/",
+  "docsUrl": "https://docs.abuseipdb.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "domain",
+    "url",
+    "reputation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.abuseipdb.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

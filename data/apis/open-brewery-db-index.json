@@ -1,0 +1,32 @@
+{
+  "slug": "open-brewery-db-index",
+  "name": "Open Brewery DB",
+  "category": "Index",
+  "description": "Breweries, Cideries and Craft Beer Bottle Shops",
+  "longDescription": "Breweries, Cideries and Craft Beer Bottle Shops",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.openbrewerydb.org",
+  "docsUrl": "https://www.openbrewerydb.org",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "breweries",
+    "cideries",
+    "and",
+    "craft",
+    "beer",
+    "bottle",
+    "shops"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.openbrewerydb.org",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

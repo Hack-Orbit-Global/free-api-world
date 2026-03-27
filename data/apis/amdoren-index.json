@@ -1,0 +1,32 @@
+{
+  "slug": "amdoren-index",
+  "name": "Amdoren",
+  "category": "Index",
+  "description": "Free currency API with over 150 currencies",
+  "longDescription": "Free currency API with over 150 currencies",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.amdoren.com/currency-api/",
+  "docsUrl": "https://www.amdoren.com/currency-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "currency",
+    "api",
+    "with",
+    "over",
+    "150",
+    "currencies"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.amdoren.com/currency-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

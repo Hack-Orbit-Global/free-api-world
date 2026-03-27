@@ -1,0 +1,28 @@
+{
+  "slug": "data-usa-index",
+  "name": "Data USA",
+  "category": "Index",
+  "description": "US Public Data",
+  "longDescription": "US Public Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://datausa.io/about/api/",
+  "docsUrl": "https://datausa.io/about/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "public",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://datausa.io/about/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

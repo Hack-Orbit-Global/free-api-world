@@ -1,0 +1,28 @@
+{
+  "slug": "stoicism-quote-index",
+  "name": "Stoicism Quote",
+  "category": "Index",
+  "description": "Quotes about Stoicism",
+  "longDescription": "Quotes about Stoicism",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
+  "docsUrl": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "quotes",
+    "about",
+    "stoicism"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

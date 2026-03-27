@@ -1,0 +1,30 @@
+{
+  "slug": "udemy-instructor-index",
+  "name": "Udemy(instructor)",
+  "category": "Index",
+  "description": "API for instructors on Udemy",
+  "longDescription": "API for instructors on Udemy",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.udemy.com/developers/instructor/",
+  "docsUrl": "https://www.udemy.com/developers/instructor/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "instructors",
+    "on",
+    "udemy"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.udemy.com/developers/instructor/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

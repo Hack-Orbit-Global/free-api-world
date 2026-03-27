@@ -1,0 +1,33 @@
+{
+  "slug": "keycdn-ip-location-finder-index",
+  "name": "keycdn IP Location Finder",
+  "category": "Index",
+  "description": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded",
+  "longDescription": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tools.keycdn.com/geo",
+  "docsUrl": "https://tools.keycdn.com/geo",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "the",
+    "ip",
+    "geolocation",
+    "data",
+    "through",
+    "simple",
+    "rest"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tools.keycdn.com/geo",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

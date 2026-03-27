@@ -1,0 +1,33 @@
+{
+  "slug": "finnhub-index",
+  "name": "Finnhub",
+  "category": "Index",
+  "description": "Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",
+  "longDescription": "Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://finnhub.io/docs/api",
+  "docsUrl": "https://finnhub.io/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "restful",
+    "apis",
+    "and",
+    "websocket",
+    "for",
+    "stocks"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://finnhub.io/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

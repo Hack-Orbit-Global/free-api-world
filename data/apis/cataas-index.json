@@ -1,0 +1,33 @@
+{
+  "slug": "cataas-index",
+  "name": "Cataas",
+  "category": "Index",
+  "description": "Cat as a service (cats pictures and gifs)",
+  "longDescription": "Cat as a service (cats pictures and gifs)",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://cataas.com/",
+  "docsUrl": "https://cataas.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cat",
+    "as",
+    "a",
+    "service",
+    "cats",
+    "pictures",
+    "and",
+    "gifs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cataas.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

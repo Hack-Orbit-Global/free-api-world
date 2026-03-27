@@ -1,0 +1,30 @@
+{
+  "slug": "runescape-index",
+  "name": "RuneScape",
+  "category": "Index",
+  "description": "RuneScape and OSRS RPGs information",
+  "longDescription": "RuneScape and OSRS RPGs information",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://runescape.wiki/w/Application_programming_interface",
+  "docsUrl": "https://runescape.wiki/w/Application_programming_interface",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "runescape",
+    "and",
+    "osrs",
+    "rpgs",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://runescape.wiki/w/Application_programming_interface",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

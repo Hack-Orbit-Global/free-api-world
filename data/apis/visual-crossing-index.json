@@ -1,0 +1,31 @@
+{
+  "slug": "visual-crossing-index",
+  "name": "Visual Crossing",
+  "category": "Index",
+  "description": "Global historical and weather forecast data",
+  "longDescription": "Global historical and weather forecast data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.visualcrossing.com/weather-api",
+  "docsUrl": "https://www.visualcrossing.com/weather-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "historical",
+    "and",
+    "weather",
+    "forecast",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.visualcrossing.com/weather-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

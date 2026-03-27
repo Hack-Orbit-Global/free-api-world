@@ -1,0 +1,30 @@
+{
+  "slug": "fuck-off-as-a-service-index",
+  "name": "Fuck Off as a Service",
+  "category": "Index",
+  "description": "Asks someone to fuck off",
+  "longDescription": "Asks someone to fuck off",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.foaas.com",
+  "docsUrl": "https://www.foaas.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "asks",
+    "someone",
+    "to",
+    "fuck",
+    "off"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.foaas.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

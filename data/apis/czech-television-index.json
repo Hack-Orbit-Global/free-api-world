@@ -1,0 +1,29 @@
+{
+  "slug": "czech-television-index",
+  "name": "Czech Television",
+  "category": "Index",
+  "description": "TV programme of Czech TV",
+  "longDescription": "TV programme of Czech TV",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.ceskatelevize.cz/xml/tv-program/",
+  "docsUrl": "http://www.ceskatelevize.cz/xml/tv-program/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tv",
+    "programme",
+    "of",
+    "czech"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.ceskatelevize.cz/xml/tv-program/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

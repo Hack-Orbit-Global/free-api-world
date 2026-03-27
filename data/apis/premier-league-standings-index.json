@@ -1,0 +1,32 @@
+{
+  "slug": "premier-league-standings-index",
+  "name": "Premier League Standings",
+  "category": "Index",
+  "description": "All Current Premier League Standings and Statistics",
+  "longDescription": "All Current Premier League Standings and Statistics",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+  "docsUrl": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "current",
+    "premier",
+    "league",
+    "standings",
+    "and",
+    "statistics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

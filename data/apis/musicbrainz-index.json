@@ -1,0 +1,26 @@
+{
+  "slug": "musicbrainz-index",
+  "name": "MusicBrainz",
+  "category": "Index",
+  "description": "Music",
+  "longDescription": "Music",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
+  "docsUrl": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

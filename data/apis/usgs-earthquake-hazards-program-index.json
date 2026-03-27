@@ -1,0 +1,29 @@
+{
+  "slug": "usgs-earthquake-hazards-program-index",
+  "name": "USGS Earthquake Hazards Program",
+  "category": "Index",
+  "description": "Earthquakes data real-time",
+  "longDescription": "Earthquakes data real-time",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://earthquake.usgs.gov/fdsnws/event/1/",
+  "docsUrl": "https://earthquake.usgs.gov/fdsnws/event/1/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "earthquakes",
+    "data",
+    "real",
+    "time"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://earthquake.usgs.gov/fdsnws/event/1/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

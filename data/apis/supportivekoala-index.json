@@ -1,0 +1,29 @@
+{
+  "slug": "supportivekoala-index",
+  "name": "Supportivekoala",
+  "category": "Index",
+  "description": "Autogenerate images with template",
+  "longDescription": "Autogenerate images with template",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.supportivekoala.com/",
+  "docsUrl": "https://developers.supportivekoala.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "autogenerate",
+    "images",
+    "with",
+    "template"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.supportivekoala.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

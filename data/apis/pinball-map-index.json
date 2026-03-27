@@ -1,0 +1,32 @@
+{
+  "slug": "pinball-map-index",
+  "name": "Pinball Map",
+  "category": "Index",
+  "description": "A crowdsourced map of public pinball machines",
+  "longDescription": "A crowdsourced map of public pinball machines",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pinballmap.com/api/v1/docs",
+  "docsUrl": "https://pinballmap.com/api/v1/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "crowdsourced",
+    "map",
+    "of",
+    "public",
+    "pinball",
+    "machines"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pinballmap.com/api/v1/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

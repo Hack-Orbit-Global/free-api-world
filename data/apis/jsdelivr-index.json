@@ -1,0 +1,33 @@
+{
+  "slug": "jsdelivr-index",
+  "name": "jsDelivr",
+  "category": "Index",
+  "description": "Package info and download stats on jsDelivr CDN",
+  "longDescription": "Package info and download stats on jsDelivr CDN",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/jsdelivr/data.jsdelivr.com",
+  "docsUrl": "https://github.com/jsdelivr/data.jsdelivr.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "package",
+    "info",
+    "and",
+    "download",
+    "stats",
+    "on",
+    "jsdelivr",
+    "cdn"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/jsdelivr/data.jsdelivr.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

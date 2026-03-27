@@ -1,0 +1,29 @@
+{
+  "slug": "nasa-ads-index",
+  "name": "NASA ADS",
+  "category": "Index",
+  "description": "NASA Astrophysics Data System",
+  "longDescription": "NASA Astrophysics Data System",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
+  "docsUrl": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nasa",
+    "astrophysics",
+    "data",
+    "system"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "brazil-central-bank-open-data-index",
+  "name": "Brazil Central Bank Open Data",
+  "category": "Index",
+  "description": "Brazil Central Bank Open Data",
+  "longDescription": "Brazil Central Bank Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dadosabertos.bcb.gov.br/",
+  "docsUrl": "https://dadosabertos.bcb.gov.br/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "brazil",
+    "central",
+    "bank",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dadosabertos.bcb.gov.br/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

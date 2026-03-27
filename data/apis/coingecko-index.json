@@ -1,0 +1,32 @@
+{
+  "slug": "coingecko-index",
+  "name": "CoinGecko",
+  "category": "Index",
+  "description": "Cryptocurrency Price, Market, and Developer/Social Data",
+  "longDescription": "Cryptocurrency Price, Market, and Developer/Social Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://www.coingecko.com/api",
+  "docsUrl": "http://www.coingecko.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "price",
+    "market",
+    "and",
+    "developer",
+    "social",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.coingecko.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

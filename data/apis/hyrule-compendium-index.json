@@ -1,0 +1,33 @@
+{
+  "slug": "hyrule-compendium-index",
+  "name": "Hyrule Compendium",
+  "category": "Index",
+  "description": "Data on all interactive items from The Legend of Zelda: BOTW",
+  "longDescription": "Data on all interactive items from The Legend of Zelda: BOTW",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/gadhagod/Hyrule-Compendium-API",
+  "docsUrl": "https://github.com/gadhagod/Hyrule-Compendium-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "on",
+    "all",
+    "interactive",
+    "items",
+    "from",
+    "the",
+    "legend"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/gadhagod/Hyrule-Compendium-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

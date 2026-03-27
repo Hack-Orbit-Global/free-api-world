@@ -1,0 +1,31 @@
+{
+  "slug": "rappi-index",
+  "name": "Rappi",
+  "category": "Index",
+  "description": "Manage orders from Rappi's app",
+  "longDescription": "Manage orders from Rappi's app",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev-portal.rappi.com/",
+  "docsUrl": "https://dev-portal.rappi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "manage",
+    "orders",
+    "from",
+    "rappi",
+    "s",
+    "app"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev-portal.rappi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

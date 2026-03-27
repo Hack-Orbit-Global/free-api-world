@@ -1,0 +1,33 @@
+{
+  "slug": "quote-garden-index",
+  "name": "Quote Garden",
+  "category": "Index",
+  "description": "REST API for more than 5000 famous quotes",
+  "longDescription": "REST API for more than 5000 famous quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pprathameshmore.github.io/QuoteGarden/",
+  "docsUrl": "https://pprathameshmore.github.io/QuoteGarden/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "more",
+    "than",
+    "5000",
+    "famous",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pprathameshmore.github.io/QuoteGarden/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

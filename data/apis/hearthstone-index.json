@@ -1,0 +1,28 @@
+{
+  "slug": "hearthstone-index",
+  "name": "Hearthstone",
+  "category": "Index",
+  "description": "Hearthstone Cards Information",
+  "longDescription": "Hearthstone Cards Information",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://hearthstoneapi.com/",
+  "docsUrl": "http://hearthstoneapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hearthstone",
+    "cards",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://hearthstoneapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

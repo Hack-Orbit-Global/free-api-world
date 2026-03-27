@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-sweden-index",
+  "name": "Open Government, Sweden",
+  "category": "Index",
+  "description": "Sweden Government Open Data",
+  "longDescription": "Sweden Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database",
+  "docsUrl": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sweden",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

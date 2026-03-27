@@ -1,0 +1,27 @@
+{
+  "slug": "quotes-on-design-index",
+  "name": "Quotes on Design",
+  "category": "Index",
+  "description": "Inspirational Quotes",
+  "longDescription": "Inspirational Quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quotesondesign.com/api/",
+  "docsUrl": "https://quotesondesign.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "inspirational",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quotesondesign.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

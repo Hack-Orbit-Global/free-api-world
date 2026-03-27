@@ -1,0 +1,33 @@
+{
+  "slug": "onesignal-index",
+  "name": "OneSignal",
+  "category": "Index",
+  "description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
+  "longDescription": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documentation.onesignal.com/docs/onesignal-api",
+  "docsUrl": "https://documentation.onesignal.com/docs/onesignal-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "self",
+    "serve",
+    "customer",
+    "engagement",
+    "solution",
+    "for",
+    "push",
+    "notifications"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documentation.onesignal.com/docs/onesignal-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

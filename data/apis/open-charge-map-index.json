@@ -1,0 +1,33 @@
+{
+  "slug": "open-charge-map-index",
+  "name": "Open Charge Map",
+  "category": "Index",
+  "description": "Global public registry of electric vehicle charging locations",
+  "longDescription": "Global public registry of electric vehicle charging locations",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://openchargemap.org/site/develop/api",
+  "docsUrl": "https://openchargemap.org/site/develop/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "public",
+    "registry",
+    "of",
+    "electric",
+    "vehicle",
+    "charging",
+    "locations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://openchargemap.org/site/develop/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

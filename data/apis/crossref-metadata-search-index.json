@@ -1,0 +1,28 @@
+{
+  "slug": "crossref-metadata-search-index",
+  "name": "Crossref Metadata Search",
+  "category": "Index",
+  "description": "Books & Articles Metadata",
+  "longDescription": "Books & Articles Metadata",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/CrossRef/rest-api-doc",
+  "docsUrl": "https://github.com/CrossRef/rest-api-doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "books",
+    "articles",
+    "metadata"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/CrossRef/rest-api-doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

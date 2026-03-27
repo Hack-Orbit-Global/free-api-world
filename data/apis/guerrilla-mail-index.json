@@ -1,0 +1,29 @@
+{
+  "slug": "guerrilla-mail-index",
+  "name": "Guerrilla Mail",
+  "category": "Index",
+  "description": "Disposable temporary Email addresses",
+  "longDescription": "Disposable temporary Email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+  "docsUrl": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "disposable",
+    "temporary",
+    "email",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

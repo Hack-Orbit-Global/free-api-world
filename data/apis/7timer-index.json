@@ -1,0 +1,29 @@
+{
+  "slug": "7timer-index",
+  "name": "7Timer!",
+  "category": "Index",
+  "description": "Weather, especially for Astroweather",
+  "longDescription": "Weather, especially for Astroweather",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.7timer.info/doc.php?lang=en",
+  "docsUrl": "http://www.7timer.info/doc.php?lang=en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "especially",
+    "for",
+    "astroweather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.7timer.info/doc.php?lang=en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

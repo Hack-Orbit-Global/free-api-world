@@ -1,0 +1,30 @@
+{
+  "slug": "wallstreetbets-index",
+  "name": "WallstreetBets",
+  "category": "Index",
+  "description": "WallstreetBets Stock Comments Sentiment Analysis",
+  "longDescription": "WallstreetBets Stock Comments Sentiment Analysis",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dashboard.nbshare.io/apps/reddit/api/",
+  "docsUrl": "https://dashboard.nbshare.io/apps/reddit/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "wallstreetbets",
+    "stock",
+    "comments",
+    "sentiment",
+    "analysis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dashboard.nbshare.io/apps/reddit/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

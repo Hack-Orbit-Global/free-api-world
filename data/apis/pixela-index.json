@@ -1,0 +1,33 @@
+{
+  "slug": "pixela-index",
+  "name": "Pixela",
+  "category": "Index",
+  "description": "API for recording and tracking habits or effort, routines",
+  "longDescription": "API for recording and tracking habits or effort, routines",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pixe.la",
+  "docsUrl": "https://pixe.la",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "recording",
+    "and",
+    "tracking",
+    "habits",
+    "or",
+    "effort"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pixe.la",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

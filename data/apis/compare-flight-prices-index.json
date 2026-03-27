@@ -1,0 +1,32 @@
+{
+  "slug": "compare-flight-prices-index",
+  "name": "Compare Flight Prices",
+  "category": "Index",
+  "description": "API for comparing flight prices across platforms",
+  "longDescription": "API for comparing flight prices across platforms",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/",
+  "docsUrl": "https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "comparing",
+    "flight",
+    "prices",
+    "across",
+    "platforms"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

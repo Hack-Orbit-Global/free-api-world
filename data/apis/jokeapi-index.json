@@ -1,0 +1,30 @@
+{
+  "slug": "jokeapi-index",
+  "name": "JokeAPI",
+  "category": "Index",
+  "description": "Programming, Miscellaneous and Dark Jokes",
+  "longDescription": "Programming, Miscellaneous and Dark Jokes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sv443.net/jokeapi/v2/",
+  "docsUrl": "https://sv443.net/jokeapi/v2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "programming",
+    "miscellaneous",
+    "and",
+    "dark",
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sv443.net/jokeapi/v2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

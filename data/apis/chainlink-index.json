@@ -1,0 +1,31 @@
+{
+  "slug": "chainlink-index",
+  "name": "Chainlink",
+  "category": "Index",
+  "description": "Build hybrid smart contracts with Chainlink",
+  "longDescription": "Build hybrid smart contracts with Chainlink",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://chain.link/developer-resources",
+  "docsUrl": "https://chain.link/developer-resources",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "build",
+    "hybrid",
+    "smart",
+    "contracts",
+    "with",
+    "chainlink"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://chain.link/developer-resources",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

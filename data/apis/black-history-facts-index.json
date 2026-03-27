@@ -1,0 +1,33 @@
+{
+  "slug": "black-history-facts-index",
+  "name": "Black History Facts",
+  "category": "Index",
+  "description": "Contribute or search one of the largest black history fact databases on the web",
+  "longDescription": "Contribute or search one of the largest black history fact databases on the web",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.blackhistoryapi.io/docs",
+  "docsUrl": "https://www.blackhistoryapi.io/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "contribute",
+    "or",
+    "search",
+    "one",
+    "of",
+    "the",
+    "largest",
+    "black"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.blackhistoryapi.io/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

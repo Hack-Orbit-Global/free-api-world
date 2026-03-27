@@ -1,0 +1,33 @@
+{
+  "slug": "urban-observatory-index",
+  "name": "Urban Observatory",
+  "category": "Index",
+  "description": "The largest set of publicly available real time urban data in the UK",
+  "longDescription": "The largest set of publicly available real time urban data in the UK",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://urbanobservatory.ac.uk",
+  "docsUrl": "https://urbanobservatory.ac.uk",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "largest",
+    "set",
+    "of",
+    "publicly",
+    "available",
+    "real",
+    "time"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://urbanobservatory.ac.uk",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

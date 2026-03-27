@@ -1,0 +1,28 @@
+{
+  "slug": "pixel-encounter-index",
+  "name": "Pixel Encounter",
+  "category": "Index",
+  "description": "SVG Icon Generator",
+  "longDescription": "SVG Icon Generator",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://pixelencounter.com/api",
+  "docsUrl": "https://pixelencounter.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "svg",
+    "icon",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pixelencounter.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

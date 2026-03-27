@@ -1,0 +1,32 @@
+{
+  "slug": "disify-index",
+  "name": "Disify",
+  "category": "Index",
+  "description": "Validate and detect disposable and temporary email addresses",
+  "longDescription": "Validate and detect disposable and temporary email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.disify.com/",
+  "docsUrl": "https://www.disify.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "and",
+    "detect",
+    "disposable",
+    "temporary",
+    "email",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.disify.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "technical-analysis-index",
+  "name": "Technical Analysis",
+  "category": "Index",
+  "description": "Cryptocurrency prices and technical analysis",
+  "longDescription": "Cryptocurrency prices and technical analysis",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://technical-analysis-api.com",
+  "docsUrl": "https://technical-analysis-api.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "prices",
+    "and",
+    "technical",
+    "analysis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://technical-analysis-api.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ip-geolocation-index",
+  "name": "IP Geolocation",
+  "category": "Index",
+  "description": "Geolocate website visitors from their IPs",
+  "longDescription": "Geolocate website visitors from their IPs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.abstractapi.com/ip-geolocation-api",
+  "docsUrl": "https://www.abstractapi.com/ip-geolocation-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "geolocate",
+    "website",
+    "visitors",
+    "from",
+    "their",
+    "ips"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.abstractapi.com/ip-geolocation-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "nhl-records-and-stats-index",
+  "name": "NHL Records and Stats",
+  "category": "Index",
+  "description": "NHL historical data and statistics",
+  "longDescription": "NHL historical data and statistics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gitlab.com/dword4/nhlapi",
+  "docsUrl": "https://gitlab.com/dword4/nhlapi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nhl",
+    "historical",
+    "data",
+    "and",
+    "statistics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gitlab.com/dword4/nhlapi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

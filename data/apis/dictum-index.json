@@ -1,0 +1,33 @@
+{
+  "slug": "dictum-index",
+  "name": "Dictum",
+  "category": "Index",
+  "description": "API to get access to the collection of the most inspiring expressions of mankind",
+  "longDescription": "API to get access to the collection of the most inspiring expressions of mankind",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/fisenkodv/dictum",
+  "docsUrl": "https://github.com/fisenkodv/dictum",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "get",
+    "access",
+    "the",
+    "collection",
+    "of",
+    "most"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/fisenkodv/dictum",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

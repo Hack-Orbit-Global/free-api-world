@@ -1,0 +1,28 @@
+{
+  "slug": "flowdash-index",
+  "name": "Flowdash",
+  "category": "Index",
+  "description": "Automate business workflows",
+  "longDescription": "Automate business workflows",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.flowdash.com/docs/api-introduction",
+  "docsUrl": "https://docs.flowdash.com/docs/api-introduction",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "automate",
+    "business",
+    "workflows"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.flowdash.com/docs/api-introduction",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

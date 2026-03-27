@@ -1,0 +1,30 @@
+{
+  "slug": "city-gdynia-index",
+  "name": "City, Gdynia",
+  "category": "Index",
+  "description": "Gdynia (PL) City Open Data",
+  "longDescription": "Gdynia (PL) City Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://otwartedane.gdynia.pl/en/api_doc.html",
+  "docsUrl": "http://otwartedane.gdynia.pl/en/api_doc.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gdynia",
+    "pl",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://otwartedane.gdynia.pl/en/api_doc.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "petfinder-index",
+  "name": "Petfinder",
+  "category": "Index",
+  "description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+  "longDescription": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.petfinder.com/developers/",
+  "docsUrl": "https://www.petfinder.com/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "petfinder",
+    "is",
+    "dedicated",
+    "to",
+    "helping",
+    "pets",
+    "find",
+    "homes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.petfinder.com/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

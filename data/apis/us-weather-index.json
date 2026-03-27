@@ -1,0 +1,29 @@
+{
+  "slug": "us-weather-index",
+  "name": "US Weather",
+  "category": "Index",
+  "description": "US National Weather Service",
+  "longDescription": "US National Weather Service",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.weather.gov/documentation/services-web-api",
+  "docsUrl": "https://www.weather.gov/documentation/services-web-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "national",
+    "weather",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.weather.gov/documentation/services-web-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "httpbin-cloudflare-index",
+  "name": "Httpbin Cloudflare",
+  "category": "Index",
+  "description": "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare",
+  "longDescription": "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cloudflare-quic.com/b/",
+  "docsUrl": "https://cloudflare-quic.com/b/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "http",
+    "request",
+    "response",
+    "service",
+    "with",
+    "3"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cloudflare-quic.com/b/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

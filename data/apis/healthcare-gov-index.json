@@ -1,0 +1,33 @@
+{
+  "slug": "healthcare-gov-index",
+  "name": "Healthcare.gov",
+  "category": "Index",
+  "description": "Educational content about the US Health Insurance Marketplace",
+  "longDescription": "Educational content about the US Health Insurance Marketplace",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.healthcare.gov/developers/",
+  "docsUrl": "https://www.healthcare.gov/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "educational",
+    "content",
+    "about",
+    "the",
+    "us",
+    "health",
+    "insurance",
+    "marketplace"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.healthcare.gov/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

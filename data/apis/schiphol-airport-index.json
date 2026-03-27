@@ -1,0 +1,26 @@
+{
+  "slug": "schiphol-airport-index",
+  "name": "Schiphol Airport",
+  "category": "Index",
+  "description": "Schiphol",
+  "longDescription": "Schiphol",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.schiphol.nl/",
+  "docsUrl": "https://developer.schiphol.nl/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "schiphol"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.schiphol.nl/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "programming-quotes-index",
+  "name": "Programming Quotes",
+  "category": "Index",
+  "description": "Programming Quotes API for open source projects",
+  "longDescription": "Programming Quotes API for open source projects",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/skolakoda/programming-quotes-api",
+  "docsUrl": "https://github.com/skolakoda/programming-quotes-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "programming",
+    "quotes",
+    "api",
+    "for",
+    "open",
+    "source",
+    "projects"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/skolakoda/programming-quotes-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

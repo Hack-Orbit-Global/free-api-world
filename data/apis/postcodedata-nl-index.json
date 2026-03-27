@@ -1,0 +1,33 @@
+{
+  "slug": "postcodedata-nl-index",
+  "name": "PostcodeData.nl",
+  "category": "Index",
+  "description": "Provide geolocation data based on postcode for Dutch addresses",
+  "longDescription": "Provide geolocation data based on postcode for Dutch addresses",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
+  "docsUrl": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provide",
+    "geolocation",
+    "data",
+    "based",
+    "on",
+    "postcode",
+    "for",
+    "dutch"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

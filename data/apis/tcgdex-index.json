@@ -1,0 +1,30 @@
+{
+  "slug": "tcgdex-index",
+  "name": "TCGdex",
+  "category": "Index",
+  "description": "Multi languages Pok\u00e9mon TCG Information",
+  "longDescription": "Multi languages Pok\u00e9mon TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.tcgdex.net/docs",
+  "docsUrl": "https://www.tcgdex.net/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "multi",
+    "languages",
+    "pok\u00e9mon",
+    "tcg",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.tcgdex.net/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

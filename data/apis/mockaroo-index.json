@@ -1,0 +1,33 @@
+{
+  "slug": "mockaroo-index",
+  "name": "Mockaroo",
+  "category": "Index",
+  "description": "Generate fake data to JSON, CSV, TXT, SQL and XML",
+  "longDescription": "Generate fake data to JSON, CSV, TXT, SQL and XML",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mockaroo.com/docs",
+  "docsUrl": "https://www.mockaroo.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "fake",
+    "data",
+    "to",
+    "json",
+    "csv",
+    "txt",
+    "sql"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mockaroo.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

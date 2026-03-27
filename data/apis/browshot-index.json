@@ -1,0 +1,33 @@
+{
+  "slug": "browshot-index",
+  "name": "Browshot",
+  "category": "Index",
+  "description": "Easily make screenshots of web pages in any screen size, as any device",
+  "longDescription": "Easily make screenshots of web pages in any screen size, as any device",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://browshot.com/api/documentation",
+  "docsUrl": "https://browshot.com/api/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easily",
+    "make",
+    "screenshots",
+    "of",
+    "web",
+    "pages",
+    "in",
+    "any"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://browshot.com/api/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

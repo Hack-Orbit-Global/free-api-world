@@ -1,0 +1,26 @@
+{
+  "slug": "british-national-bibliography-index",
+  "name": "British National Bibliography",
+  "category": "Index",
+  "description": "Books",
+  "longDescription": "Books",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://bnb.data.bl.uk/",
+  "docsUrl": "http://bnb.data.bl.uk/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "books"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://bnb.data.bl.uk/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "randomuser-index",
+  "name": "RandomUser",
+  "category": "Index",
+  "description": "Generates and list user data",
+  "longDescription": "Generates and list user data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://randomuser.me",
+  "docsUrl": "https://randomuser.me",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generates",
+    "and",
+    "list",
+    "user",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://randomuser.me",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

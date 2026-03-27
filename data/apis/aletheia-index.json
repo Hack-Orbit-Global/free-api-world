@@ -1,0 +1,33 @@
+{
+  "slug": "aletheia-index",
+  "name": "Aletheia",
+  "category": "Index",
+  "description": "Insider trading data, earnings call analysis, financial statements, and more",
+  "longDescription": "Insider trading data, earnings call analysis, financial statements, and more",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aletheiaapi.com/",
+  "docsUrl": "https://aletheiaapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "insider",
+    "trading",
+    "data",
+    "earnings",
+    "call",
+    "analysis",
+    "financial",
+    "statements"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aletheiaapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

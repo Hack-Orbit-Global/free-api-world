@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-taiwan-index",
+  "name": "Open Government, Taiwan",
+  "category": "Index",
+  "description": "Taiwan Government Open Data",
+  "longDescription": "Taiwan Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.tw/",
+  "docsUrl": "https://data.gov.tw/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "taiwan",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.tw/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

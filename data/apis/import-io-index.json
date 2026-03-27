@@ -1,0 +1,33 @@
+{
+  "slug": "import-io-index",
+  "name": "import.io",
+  "category": "Index",
+  "description": "Retrieve structured data from a website or RSS feed",
+  "longDescription": "Retrieve structured data from a website or RSS feed",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://api.docs.import.io/",
+  "docsUrl": "http://api.docs.import.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "structured",
+    "data",
+    "from",
+    "a",
+    "website",
+    "or",
+    "rss"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.docs.import.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

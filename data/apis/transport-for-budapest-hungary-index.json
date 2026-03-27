@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-budapest-hungary-index",
+  "name": "Transport for Budapest, Hungary",
+  "category": "Index",
+  "description": "Budapest public transport API",
+  "longDescription": "Budapest public transport API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bkkfutar.docs.apiary.io",
+  "docsUrl": "https://bkkfutar.docs.apiary.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "budapest",
+    "public",
+    "transport",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bkkfutar.docs.apiary.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

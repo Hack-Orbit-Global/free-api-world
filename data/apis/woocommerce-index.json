@@ -1,0 +1,33 @@
+{
+  "slug": "woocommerce-index",
+  "name": "WooCommerce",
+  "category": "Index",
+  "description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
+  "longDescription": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+  "docsUrl": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "woocommerce",
+    "rest",
+    "apis",
+    "to",
+    "create",
+    "read",
+    "update",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://woocommerce.github.io/woocommerce-rest-api-docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

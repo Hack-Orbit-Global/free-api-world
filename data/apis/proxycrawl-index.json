@@ -1,0 +1,30 @@
+{
+  "slug": "proxycrawl-index",
+  "name": "ProxyCrawl",
+  "category": "Index",
+  "description": "Scraping and crawling anticaptcha service",
+  "longDescription": "Scraping and crawling anticaptcha service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://proxycrawl.com",
+  "docsUrl": "https://proxycrawl.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "scraping",
+    "and",
+    "crawling",
+    "anticaptcha",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://proxycrawl.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "tyk-index",
+  "name": "Tyk",
+  "category": "Index",
+  "description": "Api and service management platform",
+  "longDescription": "Api and service management platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tyk.io/open-source/",
+  "docsUrl": "https://tyk.io/open-source/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "and",
+    "service",
+    "management",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tyk.io/open-source/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

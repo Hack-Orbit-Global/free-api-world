@@ -1,0 +1,33 @@
+{
+  "slug": "open-data-minneapolis-index",
+  "name": "Open Data Minneapolis",
+  "category": "Index",
+  "description": "Spatial (GIS) and non-spatial city data for Minneapolis",
+  "longDescription": "Spatial (GIS) and non-spatial city data for Minneapolis",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://opendata.minneapolismn.gov/",
+  "docsUrl": "https://opendata.minneapolismn.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "spatial",
+    "gis",
+    "and",
+    "non",
+    "city",
+    "data",
+    "for",
+    "minneapolis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.minneapolismn.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

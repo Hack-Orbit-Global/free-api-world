@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-czech-republic-index",
+  "name": "Open Government, Czech Republic",
+  "category": "Index",
+  "description": "Czech Republic Government Open Data",
+  "longDescription": "Czech Republic Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.cz/english/",
+  "docsUrl": "https://data.gov.cz/english/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "czech",
+    "republic",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.cz/english/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

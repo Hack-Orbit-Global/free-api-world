@@ -1,0 +1,33 @@
+{
+  "slug": "linkedin-index",
+  "name": "LinkedIn",
+  "category": "Index",
+  "description": "The foundation of all digital integrations with LinkedIn",
+  "longDescription": "The foundation of all digital integrations with LinkedIn",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context",
+  "docsUrl": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "foundation",
+    "of",
+    "all",
+    "digital",
+    "integrations",
+    "with",
+    "linkedin"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

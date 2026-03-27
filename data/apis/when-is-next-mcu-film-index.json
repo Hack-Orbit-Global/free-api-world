@@ -1,0 +1,29 @@
+{
+  "slug": "when-is-next-mcu-film-index",
+  "name": "When is next MCU film",
+  "category": "Index",
+  "description": "Upcoming MCU film information",
+  "longDescription": "Upcoming MCU film information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+  "docsUrl": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "upcoming",
+    "mcu",
+    "film",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

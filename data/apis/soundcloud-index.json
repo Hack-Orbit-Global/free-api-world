@@ -1,0 +1,33 @@
+{
+  "slug": "soundcloud-index",
+  "name": "SoundCloud",
+  "category": "Index",
+  "description": "With SoundCloud API you can build applications that will give more power to control your content",
+  "longDescription": "With SoundCloud API you can build applications that will give more power to control your content",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.soundcloud.com/docs/api/guide",
+  "docsUrl": "https://developers.soundcloud.com/docs/api/guide",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "with",
+    "soundcloud",
+    "api",
+    "you",
+    "can",
+    "build",
+    "applications",
+    "that"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.soundcloud.com/docs/api/guide",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "teleport-index",
+  "name": "Teleport",
+  "category": "Index",
+  "description": "Quality of Life Data",
+  "longDescription": "Quality of Life Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.teleport.org/",
+  "docsUrl": "https://developers.teleport.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "quality",
+    "of",
+    "life",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.teleport.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

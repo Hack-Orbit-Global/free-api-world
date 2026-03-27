@@ -1,0 +1,30 @@
+{
+  "slug": "jcdecaux-bike-index",
+  "name": "JCDecaux Bike",
+  "category": "Index",
+  "description": "JCDecaux's self-service bicycles",
+  "longDescription": "JCDecaux's self-service bicycles",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.jcdecaux.com/",
+  "docsUrl": "https://developer.jcdecaux.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "jcdecaux",
+    "s",
+    "self",
+    "service",
+    "bicycles"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.jcdecaux.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

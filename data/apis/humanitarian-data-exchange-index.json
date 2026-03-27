@@ -1,0 +1,33 @@
+{
+  "slug": "humanitarian-data-exchange-index",
+  "name": "Humanitarian Data Exchange",
+  "category": "Index",
+  "description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
+  "longDescription": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.humdata.org/",
+  "docsUrl": "https://data.humdata.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "humanitarian",
+    "data",
+    "exchange",
+    "hdx",
+    "is",
+    "open",
+    "platform",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.humdata.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

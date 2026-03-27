@@ -1,0 +1,29 @@
+{
+  "slug": "mozilla-http-scanner-index",
+  "name": "Mozilla http scanner",
+  "category": "Index",
+  "description": "Mozilla observatory http scanner",
+  "longDescription": "Mozilla observatory http scanner",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md",
+  "docsUrl": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mozilla",
+    "observatory",
+    "http",
+    "scanner"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

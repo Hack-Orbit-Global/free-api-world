@@ -1,0 +1,28 @@
+{
+  "slug": "screenshotlayer-index",
+  "name": "Screenshotlayer",
+  "category": "Index",
+  "description": "URL to screenshot",
+  "longDescription": "URL to screenshot",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "to",
+    "screenshot"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "cleanuri-index",
+  "name": "CleanURI",
+  "category": "Index",
+  "description": "URL shortener service",
+  "longDescription": "URL shortener service",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cleanuri.com/docs",
+  "docsUrl": "https://cleanuri.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "shortener",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cleanuri.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

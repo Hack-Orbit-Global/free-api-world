@@ -1,0 +1,33 @@
+{
+  "slug": "thirukkural-index",
+  "name": "Thirukkural",
+  "category": "Index",
+  "description": "1330 Thirukkural poems and explanation in Tamil and English",
+  "longDescription": "1330 Thirukkural poems and explanation in Tamil and English",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-thirukkural.web.app/",
+  "docsUrl": "https://api-thirukkural.web.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "1330",
+    "thirukkural",
+    "poems",
+    "and",
+    "explanation",
+    "in",
+    "tamil",
+    "english"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api-thirukkural.web.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

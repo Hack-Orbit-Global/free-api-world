@@ -1,0 +1,33 @@
+{
+  "slug": "public-holidays-index",
+  "name": "Public Holidays",
+  "category": "Index",
+  "description": "Data on national, regional, and religious holidays via API",
+  "longDescription": "Data on national, regional, and religious holidays via API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.abstractapi.com/holidays-api",
+  "docsUrl": "https://www.abstractapi.com/holidays-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "on",
+    "national",
+    "regional",
+    "and",
+    "religious",
+    "holidays",
+    "via"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.abstractapi.com/holidays-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

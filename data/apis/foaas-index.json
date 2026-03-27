@@ -1,0 +1,30 @@
+{
+  "slug": "foaas-index",
+  "name": "FOAAS",
+  "category": "Index",
+  "description": "Fuck Off As A Service",
+  "longDescription": "Fuck Off As A Service",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.foaas.com/",
+  "docsUrl": "http://www.foaas.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fuck",
+    "off",
+    "as",
+    "a",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.foaas.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

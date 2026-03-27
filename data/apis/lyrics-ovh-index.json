@@ -1,0 +1,33 @@
+{
+  "slug": "lyrics-ovh-index",
+  "name": "Lyrics.ovh",
+  "category": "Index",
+  "description": "Simple API to retrieve the lyrics of a song",
+  "longDescription": "Simple API to retrieve the lyrics of a song",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://lyricsovh.docs.apiary.io",
+  "docsUrl": "https://lyricsovh.docs.apiary.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "api",
+    "to",
+    "retrieve",
+    "the",
+    "lyrics",
+    "of",
+    "a"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://lyricsovh.docs.apiary.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

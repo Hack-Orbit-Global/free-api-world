@@ -1,0 +1,33 @@
+{
+  "slug": "apitemplate-io-index",
+  "name": "APITemplate.io",
+  "category": "Index",
+  "description": "Dynamically generate images and PDFs from templates with a simple API",
+  "longDescription": "Dynamically generate images and PDFs from templates with a simple API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apitemplate.io",
+  "docsUrl": "https://apitemplate.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "dynamically",
+    "generate",
+    "images",
+    "and",
+    "pdfs",
+    "from",
+    "templates",
+    "with"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apitemplate.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

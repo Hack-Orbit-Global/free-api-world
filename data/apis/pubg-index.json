@@ -1,0 +1,30 @@
+{
+  "slug": "pubg-index",
+  "name": "PUBG",
+  "category": "Index",
+  "description": "Access in-game PUBG data",
+  "longDescription": "Access in-game PUBG data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.pubg.com/",
+  "docsUrl": "https://developer.pubg.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "in",
+    "game",
+    "pubg",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.pubg.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

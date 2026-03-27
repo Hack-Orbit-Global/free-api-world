@@ -1,0 +1,33 @@
+{
+  "slug": "binlist-index",
+  "name": "Binlist",
+  "category": "Index",
+  "description": "Public access to a database of IIN/BIN information",
+  "longDescription": "Public access to a database of IIN/BIN information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://binlist.net/",
+  "docsUrl": "https://binlist.net/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "public",
+    "access",
+    "to",
+    "a",
+    "database",
+    "of",
+    "iin",
+    "bin"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://binlist.net/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "transport-for-grenoble-france-index",
+  "name": "Transport for Grenoble, France",
+  "category": "Index",
+  "description": "Grenoble public transport",
+  "longDescription": "Grenoble public transport",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
+  "docsUrl": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "grenoble",
+    "public",
+    "transport"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

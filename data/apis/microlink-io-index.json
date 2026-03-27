@@ -1,0 +1,31 @@
+{
+  "slug": "microlink-io-index",
+  "name": "Microlink.io",
+  "category": "Index",
+  "description": "Extract structured data from any website",
+  "longDescription": "Extract structured data from any website",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://microlink.io",
+  "docsUrl": "https://microlink.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "extract",
+    "structured",
+    "data",
+    "from",
+    "any",
+    "website"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://microlink.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

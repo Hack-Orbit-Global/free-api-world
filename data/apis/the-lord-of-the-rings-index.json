@@ -1,0 +1,30 @@
+{
+  "slug": "the-lord-of-the-rings-index",
+  "name": "The Lord of the Rings",
+  "category": "Index",
+  "description": "The Lord of the Rings API",
+  "longDescription": "The Lord of the Rings API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://the-one-api.dev/",
+  "docsUrl": "https://the-one-api.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "lord",
+    "of",
+    "rings",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://the-one-api.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

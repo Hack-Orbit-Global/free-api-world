@@ -1,0 +1,30 @@
+{
+  "slug": "nba-stats-index",
+  "name": "NBA Stats",
+  "category": "Index",
+  "description": "Current and historical NBA Statistics",
+  "longDescription": "Current and historical NBA Statistics",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://any-api.com/nba_com/nba_com/docs/API_Description",
+  "docsUrl": "https://any-api.com/nba_com/nba_com/docs/API_Description",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "current",
+    "and",
+    "historical",
+    "nba",
+    "statistics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://any-api.com/nba_com/nba_com/docs/API_Description",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

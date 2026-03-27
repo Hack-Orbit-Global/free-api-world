@@ -1,0 +1,26 @@
+{
+  "slug": "art-institute-of-chicago-index",
+  "name": "Art Institute of Chicago",
+  "category": "Index",
+  "description": "Art",
+  "longDescription": "Art",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.artic.edu/docs/",
+  "docsUrl": "https://api.artic.edu/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "art"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.artic.edu/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

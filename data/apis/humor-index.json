@@ -1,0 +1,29 @@
+{
+  "slug": "humor-index",
+  "name": "Humor",
+  "category": "Index",
+  "description": "Humor, Jokes, and Memes",
+  "longDescription": "Humor, Jokes, and Memes",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://humorapi.com",
+  "docsUrl": "https://humorapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "humor",
+    "jokes",
+    "and",
+    "memes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://humorapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

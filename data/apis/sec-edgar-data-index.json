@@ -1,0 +1,33 @@
+{
+  "slug": "sec-edgar-data-index",
+  "name": "SEC EDGAR Data",
+  "category": "Index",
+  "description": "API to access annual reports of public US companies",
+  "longDescription": "API to access annual reports of public US companies",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.sec.gov/edgar/sec-api-documentation",
+  "docsUrl": "https://www.sec.gov/edgar/sec-api-documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "access",
+    "annual",
+    "reports",
+    "of",
+    "public",
+    "us"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.sec.gov/edgar/sec-api-documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

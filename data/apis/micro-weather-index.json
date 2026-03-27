@@ -1,0 +1,32 @@
+{
+  "slug": "micro-weather-index",
+  "name": "Micro Weather",
+  "category": "Index",
+  "description": "Real time weather forecasts and historic data",
+  "longDescription": "Real time weather forecasts and historic data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://m3o.com/weather/api",
+  "docsUrl": "https://m3o.com/weather/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "weather",
+    "forecasts",
+    "and",
+    "historic",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://m3o.com/weather/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

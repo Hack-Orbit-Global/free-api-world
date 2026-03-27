@@ -1,0 +1,33 @@
+{
+  "slug": "free-url-shortener-index",
+  "name": "Free Url Shortener",
+  "category": "Index",
+  "description": "Free URL Shortener offers a powerful API to interact with other sites",
+  "longDescription": "Free URL Shortener offers a powerful API to interact with other sites",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ulvis.net/developer.html",
+  "docsUrl": "https://ulvis.net/developer.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "url",
+    "shortener",
+    "offers",
+    "a",
+    "powerful",
+    "api",
+    "to"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ulvis.net/developer.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

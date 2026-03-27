@@ -1,0 +1,32 @@
+{
+  "slug": "zmok-index",
+  "name": "ZMOK",
+  "category": "Index",
+  "description": "Ethereum JSON RPC API and Web3 provider",
+  "longDescription": "Ethereum JSON RPC API and Web3 provider",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://zmok.io",
+  "docsUrl": "https://zmok.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ethereum",
+    "json",
+    "rpc",
+    "api",
+    "and",
+    "web3",
+    "provider"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://zmok.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

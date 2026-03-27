@@ -1,0 +1,33 @@
+{
+  "slug": "lowy-asia-power-index-index",
+  "name": "Lowy Asia Power Index",
+  "category": "Index",
+  "description": "Get measure resources and influence to rank the relative power of states in Asia",
+  "longDescription": "Get measure resources and influence to rank the relative power of states in Asia",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/0x0is1/lowy-index-api-docs",
+  "docsUrl": "https://github.com/0x0is1/lowy-index-api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "measure",
+    "resources",
+    "and",
+    "influence",
+    "to",
+    "rank",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/0x0is1/lowy-index-api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

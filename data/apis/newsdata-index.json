@@ -1,0 +1,33 @@
+{
+  "slug": "newsdata-index",
+  "name": "NewsData",
+  "category": "Index",
+  "description": "News data API for live-breaking news and headlines from reputed  news sources",
+  "longDescription": "News data API for live-breaking news and headlines from reputed  news sources",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://newsdata.io/docs",
+  "docsUrl": "https://newsdata.io/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "news",
+    "data",
+    "api",
+    "for",
+    "live",
+    "breaking",
+    "and",
+    "headlines"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://newsdata.io/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

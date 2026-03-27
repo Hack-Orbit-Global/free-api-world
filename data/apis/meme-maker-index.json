@@ -1,0 +1,32 @@
+{
+  "slug": "meme-maker-index",
+  "name": "Meme Maker",
+  "category": "Index",
+  "description": "REST API for create your own meme",
+  "longDescription": "REST API for create your own meme",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mememaker.github.io/API/",
+  "docsUrl": "https://mememaker.github.io/API/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "create",
+    "your",
+    "own",
+    "meme"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mememaker.github.io/API/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "steam-index",
+  "name": "Steam",
+  "category": "Index",
+  "description": "Internal Steam Web API documentation",
+  "longDescription": "Internal Steam Web API documentation",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+  "docsUrl": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "internal",
+    "steam",
+    "web",
+    "api",
+    "documentation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

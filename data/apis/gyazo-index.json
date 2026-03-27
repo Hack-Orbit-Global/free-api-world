@@ -1,0 +1,30 @@
+{
+  "slug": "gyazo-index",
+  "name": "Gyazo",
+  "category": "Index",
+  "description": "Save & Share screen captures instantly",
+  "longDescription": "Save & Share screen captures instantly",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gyazo.com/api/docs",
+  "docsUrl": "https://gyazo.com/api/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "save",
+    "share",
+    "screen",
+    "captures",
+    "instantly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gyazo.com/api/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

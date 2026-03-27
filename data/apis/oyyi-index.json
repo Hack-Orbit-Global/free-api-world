@@ -1,0 +1,33 @@
+{
+  "slug": "oyyi-index",
+  "name": "oyyi",
+  "category": "Index",
+  "description": "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation",
+  "longDescription": "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://oyyi.xyz/docs/1.0",
+  "docsUrl": "https://oyyi.xyz/docs/1.0",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "fake",
+    "data",
+    "image",
+    "video",
+    "conversion",
+    "optimization"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://oyyi.xyz/docs/1.0",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

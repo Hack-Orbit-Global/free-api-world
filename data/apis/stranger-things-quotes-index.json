@@ -1,0 +1,29 @@
+{
+  "slug": "stranger-things-quotes-index",
+  "name": "Stranger Things Quotes",
+  "category": "Index",
+  "description": "Returns Stranger Things quotes",
+  "longDescription": "Returns Stranger Things quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/shadowoff09/strangerthings-quotes",
+  "docsUrl": "https://github.com/shadowoff09/strangerthings-quotes",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "returns",
+    "stranger",
+    "things",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/shadowoff09/strangerthings-quotes",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

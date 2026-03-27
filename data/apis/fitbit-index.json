@@ -1,0 +1,27 @@
+{
+  "slug": "fitbit-index",
+  "name": "Fitbit",
+  "category": "Index",
+  "description": "Fitbit Information",
+  "longDescription": "Fitbit Information",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.fitbit.com/",
+  "docsUrl": "https://dev.fitbit.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fitbit",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.fitbit.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

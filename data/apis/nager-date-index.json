@@ -1,0 +1,32 @@
+{
+  "slug": "nager-date-index",
+  "name": "Nager.Date",
+  "category": "Index",
+  "description": "Public holidays for more than 90 countries",
+  "longDescription": "Public holidays for more than 90 countries",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://date.nager.at",
+  "docsUrl": "https://date.nager.at",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "public",
+    "holidays",
+    "for",
+    "more",
+    "than",
+    "90",
+    "countries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://date.nager.at",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "robohash-index",
+  "name": "RoboHash",
+  "category": "Index",
+  "description": "Generate random robot/alien avatars",
+  "longDescription": "Generate random robot/alien avatars",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://robohash.org/",
+  "docsUrl": "https://robohash.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "random",
+    "robot",
+    "alien",
+    "avatars"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://robohash.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

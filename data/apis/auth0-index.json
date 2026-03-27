@@ -1,0 +1,33 @@
+{
+  "slug": "auth0-index",
+  "name": "Auth0",
+  "category": "Index",
+  "description": "Easy to implement, adaptable authentication and authorization platform",
+  "longDescription": "Easy to implement, adaptable authentication and authorization platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://auth0.com",
+  "docsUrl": "https://auth0.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easy",
+    "to",
+    "implement",
+    "adaptable",
+    "authentication",
+    "and",
+    "authorization",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://auth0.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

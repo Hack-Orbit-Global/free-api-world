@@ -1,0 +1,33 @@
+{
+  "slug": "tasty-index",
+  "name": "Tasty",
+  "category": "Index",
+  "description": "API to query data about recipe, plan, ingredients",
+  "longDescription": "API to query data about recipe, plan, ingredients",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/apidojo/api/tasty/",
+  "docsUrl": "https://rapidapi.com/apidojo/api/tasty/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "query",
+    "data",
+    "about",
+    "recipe",
+    "plan",
+    "ingredients"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/apidojo/api/tasty/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "football-standings-index",
+  "name": "Football Standings",
+  "category": "Index",
+  "description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
+  "longDescription": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/azharimm/football-standings-api",
+  "docsUrl": "https://github.com/azharimm/football-standings-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "display",
+    "football",
+    "standings",
+    "e",
+    "g",
+    "epl",
+    "la",
+    "liga"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/azharimm/football-standings-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "foreca-index",
+  "name": "Foreca",
+  "category": "Index",
+  "description": "Weather",
+  "longDescription": "Weather",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.foreca.com",
+  "docsUrl": "https://developer.foreca.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.foreca.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

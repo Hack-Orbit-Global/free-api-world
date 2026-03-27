@@ -1,0 +1,30 @@
+{
+  "slug": "digimon-information-index",
+  "name": "Digimon Information",
+  "category": "Index",
+  "description": "Provides information about digimon creatures",
+  "longDescription": "Provides information about digimon creatures",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://digimon-api.vercel.app/",
+  "docsUrl": "https://digimon-api.vercel.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "information",
+    "about",
+    "digimon",
+    "creatures"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://digimon-api.vercel.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

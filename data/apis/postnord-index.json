@@ -1,0 +1,33 @@
+{
+  "slug": "postnord-index",
+  "name": "PostNord",
+  "category": "Index",
+  "description": "Provides information about parcels in transport for Sweden and Denmark",
+  "longDescription": "Provides information about parcels in transport for Sweden and Denmark",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://developer.postnord.com/api",
+  "docsUrl": "https://developer.postnord.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "information",
+    "about",
+    "parcels",
+    "in",
+    "transport",
+    "for",
+    "sweden"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.postnord.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

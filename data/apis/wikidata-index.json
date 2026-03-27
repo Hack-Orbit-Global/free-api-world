@@ -1,0 +1,33 @@
+{
+  "slug": "wikidata-index",
+  "name": "Wikidata",
+  "category": "Index",
+  "description": "Collaboratively edited knowledge base operated by the Wikimedia Foundation",
+  "longDescription": "Collaboratively edited knowledge base operated by the Wikimedia Foundation",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.wikidata.org/w/api.php?action=help",
+  "docsUrl": "https://www.wikidata.org/w/api.php?action=help",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "collaboratively",
+    "edited",
+    "knowledge",
+    "base",
+    "operated",
+    "by",
+    "the",
+    "wikimedia"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.wikidata.org/w/api.php?action=help",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

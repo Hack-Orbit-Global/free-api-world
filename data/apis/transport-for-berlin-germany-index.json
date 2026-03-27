@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-berlin-germany-index",
+  "name": "Transport for Berlin, Germany",
+  "category": "Index",
+  "description": "Third-party VBB API",
+  "longDescription": "Third-party VBB API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md",
+  "docsUrl": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "third",
+    "party",
+    "vbb",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

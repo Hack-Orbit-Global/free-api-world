@@ -1,0 +1,29 @@
+{
+  "slug": "phisherman-index",
+  "name": "Phisherman",
+  "category": "Index",
+  "description": "IP/domain/URL reputation",
+  "longDescription": "IP/domain/URL reputation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://phisherman.gg/",
+  "docsUrl": "https://phisherman.gg/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "domain",
+    "url",
+    "reputation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://phisherman.gg/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

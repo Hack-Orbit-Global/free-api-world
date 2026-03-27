@@ -1,0 +1,33 @@
+{
+  "slug": "blague-xyz-index",
+  "name": "Blague.xyz",
+  "category": "Index",
+  "description": "La plus grande API de Blagues FR/The biggest FR jokes API",
+  "longDescription": "La plus grande API de Blagues FR/The biggest FR jokes API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://blague.xyz/",
+  "docsUrl": "https://blague.xyz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "la",
+    "plus",
+    "grande",
+    "api",
+    "de",
+    "blagues",
+    "fr",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://blague.xyz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

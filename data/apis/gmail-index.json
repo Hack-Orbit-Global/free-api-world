@@ -1,0 +1,33 @@
+{
+  "slug": "gmail-index",
+  "name": "Gmail",
+  "category": "Index",
+  "description": "Flexible, RESTful access to the user's inbox",
+  "longDescription": "Flexible, RESTful access to the user's inbox",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.google.com/gmail/api/",
+  "docsUrl": "https://developers.google.com/gmail/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "flexible",
+    "restful",
+    "access",
+    "to",
+    "the",
+    "user",
+    "s",
+    "inbox"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.google.com/gmail/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "graph-countries-index",
+  "name": "Graph Countries",
+  "category": "Index",
+  "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+  "longDescription": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/lennertVanSever/graphcountries",
+  "docsUrl": "https://github.com/lennertVanSever/graphcountries",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "country",
+    "related",
+    "data",
+    "like",
+    "currencies",
+    "languages",
+    "flags",
+    "regions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/lennertVanSever/graphcountries",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

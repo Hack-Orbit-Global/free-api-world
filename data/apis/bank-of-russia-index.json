@@ -1,0 +1,30 @@
+{
+  "slug": "bank-of-russia-index",
+  "name": "Bank of Russia",
+  "category": "Index",
+  "description": "Exchange rates and currency conversion",
+  "longDescription": "Exchange rates and currency conversion",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cbr.ru/development/SXML/",
+  "docsUrl": "https://www.cbr.ru/development/SXML/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "exchange",
+    "rates",
+    "and",
+    "currency",
+    "conversion"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cbr.ru/development/SXML/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

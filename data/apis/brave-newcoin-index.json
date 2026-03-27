@@ -1,0 +1,33 @@
+{
+  "slug": "brave-newcoin-index",
+  "name": "Brave NewCoin",
+  "category": "Index",
+  "description": "Real-time and historic crypto data from more than 200+ exchanges",
+  "longDescription": "Real-time and historic crypto data from more than 200+ exchanges",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bravenewcoin.com/developers",
+  "docsUrl": "https://bravenewcoin.com/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "and",
+    "historic",
+    "crypto",
+    "data",
+    "from",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bravenewcoin.com/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

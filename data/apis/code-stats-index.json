@@ -1,0 +1,30 @@
+{
+  "slug": "code-stats-index",
+  "name": "Code::Stats",
+  "category": "Index",
+  "description": "Automatic time tracking for programmers",
+  "longDescription": "Automatic time tracking for programmers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://codestats.net/api-docs",
+  "docsUrl": "https://codestats.net/api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "automatic",
+    "time",
+    "tracking",
+    "for",
+    "programmers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://codestats.net/api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

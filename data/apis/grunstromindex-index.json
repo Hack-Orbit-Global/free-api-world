@@ -1,0 +1,32 @@
+{
+  "slug": "grunstromindex-index",
+  "name": "Gr\u00fcnstromIndex",
+  "category": "Index",
+  "description": "Green Power Index for Germany (Gr\u00fcnstromindex/GSI)",
+  "longDescription": "Green Power Index for Germany (Gr\u00fcnstromindex/GSI)",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://gruenstromindex.de/",
+  "docsUrl": "https://gruenstromindex.de/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "green",
+    "power",
+    "index",
+    "for",
+    "germany",
+    "gr\u00fcnstromindex",
+    "gsi"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gruenstromindex.de/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

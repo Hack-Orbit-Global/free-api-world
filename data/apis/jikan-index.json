@@ -1,0 +1,28 @@
+{
+  "slug": "jikan-index",
+  "name": "Jikan",
+  "category": "Index",
+  "description": "Unofficial MyAnimeList API",
+  "longDescription": "Unofficial MyAnimeList API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://jikan.moe",
+  "docsUrl": "https://jikan.moe",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "myanimelist",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://jikan.moe",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

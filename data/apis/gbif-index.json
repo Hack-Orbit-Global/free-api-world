@@ -1,0 +1,29 @@
+{
+  "slug": "gbif-index",
+  "name": "GBIF",
+  "category": "Index",
+  "description": "Global Biodiversity Information Facility",
+  "longDescription": "Global Biodiversity Information Facility",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.gbif.org/developer/summary",
+  "docsUrl": "https://www.gbif.org/developer/summary",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "biodiversity",
+    "information",
+    "facility"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.gbif.org/developer/summary",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

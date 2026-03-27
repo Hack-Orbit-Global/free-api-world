@@ -1,0 +1,29 @@
+{
+  "slug": "mgnet-me-index",
+  "name": "Mgnet.me",
+  "category": "Index",
+  "description": "Torrent URL shorten API",
+  "longDescription": "Torrent URL shorten API",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "http://mgnet.me/api.html",
+  "docsUrl": "http://mgnet.me/api.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "torrent",
+    "url",
+    "shorten",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://mgnet.me/api.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "aztro-index",
+  "name": "aztro",
+  "category": "Index",
+  "description": "Daily horoscope info for yesterday, today, and tomorrow",
+  "longDescription": "Daily horoscope info for yesterday, today, and tomorrow",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aztro.sameerkumar.website/",
+  "docsUrl": "https://aztro.sameerkumar.website/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "daily",
+    "horoscope",
+    "info",
+    "for",
+    "yesterday",
+    "today",
+    "and",
+    "tomorrow"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aztro.sameerkumar.website/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "yo-momma-jokes-index",
+  "name": "Yo Momma Jokes",
+  "category": "Index",
+  "description": "REST API for Yo Momma Jokes",
+  "longDescription": "REST API for Yo Momma Jokes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/beanboi7/yomomma-apiv2",
+  "docsUrl": "https://github.com/beanboi7/yomomma-apiv2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "yo",
+    "momma",
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/beanboi7/yomomma-apiv2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

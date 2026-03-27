@@ -1,0 +1,33 @@
+{
+  "slug": "mocky-index",
+  "name": "Mocky",
+  "category": "Index",
+  "description": "Mock user defined test JSON for REST API endpoints",
+  "longDescription": "Mock user defined test JSON for REST API endpoints",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://designer.mocky.io/",
+  "docsUrl": "https://designer.mocky.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mock",
+    "user",
+    "defined",
+    "test",
+    "json",
+    "for",
+    "rest",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://designer.mocky.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

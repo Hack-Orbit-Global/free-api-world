@@ -1,0 +1,33 @@
+{
+  "slug": "hirak-ocr-index",
+  "name": "Hirak OCR",
+  "category": "Index",
+  "description": "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests",
+  "longDescription": "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ocr.hirak.site/",
+  "docsUrl": "https://ocr.hirak.site/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "to",
+    "text",
+    "recognition",
+    "from",
+    "more",
+    "than",
+    "100"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ocr.hirak.site/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

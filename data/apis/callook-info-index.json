@@ -1,0 +1,30 @@
+{
+  "slug": "callook-info-index",
+  "name": "Callook.info",
+  "category": "Index",
+  "description": "United States ham radio callsigns",
+  "longDescription": "United States ham radio callsigns",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://callook.info",
+  "docsUrl": "https://callook.info",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "united",
+    "states",
+    "ham",
+    "radio",
+    "callsigns"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://callook.info",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

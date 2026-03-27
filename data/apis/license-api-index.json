@@ -1,0 +1,31 @@
+{
+  "slug": "license-api-index",
+  "name": "License-API",
+  "category": "Index",
+  "description": "Unofficial REST API for choosealicense.com",
+  "longDescription": "Unofficial REST API for choosealicense.com",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/cmccandless/license-api/blob/master/README.md",
+  "docsUrl": "https://github.com/cmccandless/license-api/blob/master/README.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "rest",
+    "api",
+    "for",
+    "choosealicense",
+    "com"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/cmccandless/license-api/blob/master/README.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-null-pointer-index",
+  "name": "The Null Pointer",
+  "category": "Index",
+  "description": "No-bullshit file hosting and URL shortening service",
+  "longDescription": "No-bullshit file hosting and URL shortening service",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://0x0.st",
+  "docsUrl": "https://0x0.st",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "no",
+    "bullshit",
+    "file",
+    "hosting",
+    "and",
+    "url",
+    "shortening",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://0x0.st",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

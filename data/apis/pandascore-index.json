@@ -1,0 +1,30 @@
+{
+  "slug": "pandascore-index",
+  "name": "PandaScore",
+  "category": "Index",
+  "description": "E-sports games and results",
+  "longDescription": "E-sports games and results",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.pandascore.co/",
+  "docsUrl": "https://developers.pandascore.co/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "e",
+    "sports",
+    "games",
+    "and",
+    "results"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.pandascore.co/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

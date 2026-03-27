@@ -1,0 +1,31 @@
+{
+  "slug": "aviationweather-index",
+  "name": "AviationWeather",
+  "category": "Index",
+  "description": "NOAA aviation weather forecasts and observations",
+  "longDescription": "NOAA aviation weather forecasts and observations",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.aviationweather.gov/dataserver",
+  "docsUrl": "https://www.aviationweather.gov/dataserver",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "noaa",
+    "aviation",
+    "weather",
+    "forecasts",
+    "and",
+    "observations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.aviationweather.gov/dataserver",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

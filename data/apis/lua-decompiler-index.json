@@ -1,0 +1,30 @@
+{
+  "slug": "lua-decompiler-index",
+  "name": "Lua Decompiler",
+  "category": "Index",
+  "description": "Online Lua 5.1 Decompiler",
+  "longDescription": "Online Lua 5.1 Decompiler",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://lua-decompiler.ferib.dev/",
+  "docsUrl": "https://lua-decompiler.ferib.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "lua",
+    "5",
+    "1",
+    "decompiler"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://lua-decompiler.ferib.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

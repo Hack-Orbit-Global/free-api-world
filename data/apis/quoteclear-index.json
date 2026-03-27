@@ -1,0 +1,33 @@
+{
+  "slug": "quoteclear-index",
+  "name": "quoteclear",
+  "category": "Index",
+  "description": "Ever-growing list of James Clear quotes from the 3-2-1 Newsletter",
+  "longDescription": "Ever-growing list of James Clear quotes from the 3-2-1 Newsletter",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quoteclear.web.app/",
+  "docsUrl": "https://quoteclear.web.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ever",
+    "growing",
+    "list",
+    "of",
+    "james",
+    "clear",
+    "quotes",
+    "from"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quoteclear.web.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

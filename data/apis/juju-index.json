@@ -1,0 +1,28 @@
+{
+  "slug": "juju-index",
+  "name": "Juju",
+  "category": "Index",
+  "description": "Job search engine",
+  "longDescription": "Job search engine",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.juju.com/publisher/spec/",
+  "docsUrl": "http://www.juju.com/publisher/spec/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "job",
+    "search",
+    "engine"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.juju.com/publisher/spec/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

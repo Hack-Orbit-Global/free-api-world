@@ -1,0 +1,28 @@
+{
+  "slug": "transport-for-honolulu-us-index",
+  "name": "Transport for Honolulu, US",
+  "category": "Index",
+  "description": "Honolulu Transportation Information",
+  "longDescription": "Honolulu Transportation Information",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://hea.thebus.org/api_info.asp",
+  "docsUrl": "http://hea.thebus.org/api_info.asp",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "honolulu",
+    "transportation",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://hea.thebus.org/api_info.asp",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

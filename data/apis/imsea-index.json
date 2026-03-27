@@ -1,0 +1,28 @@
+{
+  "slug": "imsea-index",
+  "name": "Imsea",
+  "category": "Index",
+  "description": "Free image search",
+  "longDescription": "Free image search",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://imsea.herokuapp.com/",
+  "docsUrl": "https://imsea.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "image",
+    "search"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://imsea.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

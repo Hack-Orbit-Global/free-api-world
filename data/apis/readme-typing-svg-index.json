@@ -1,0 +1,31 @@
+{
+  "slug": "readme-typing-svg-index",
+  "name": "Readme typing SVG",
+  "category": "Index",
+  "description": "Customizable typing and deleting text SVG",
+  "longDescription": "Customizable typing and deleting text SVG",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/DenverCoder1/readme-typing-svg",
+  "docsUrl": "https://github.com/DenverCoder1/readme-typing-svg",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "customizable",
+    "typing",
+    "and",
+    "deleting",
+    "text",
+    "svg"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/DenverCoder1/readme-typing-svg",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

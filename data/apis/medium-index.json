@@ -1,0 +1,33 @@
+{
+  "slug": "medium-index",
+  "name": "Medium",
+  "category": "Index",
+  "description": "Community of readers and writers offering unique perspectives on ideas",
+  "longDescription": "Community of readers and writers offering unique perspectives on ideas",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Medium/medium-api-docs",
+  "docsUrl": "https://github.com/Medium/medium-api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "community",
+    "of",
+    "readers",
+    "and",
+    "writers",
+    "offering",
+    "unique",
+    "perspectives"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Medium/medium-api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

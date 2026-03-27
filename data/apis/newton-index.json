@@ -1,0 +1,30 @@
+{
+  "slug": "newton-index",
+  "name": "Newton",
+  "category": "Index",
+  "description": "Symbolic and Arithmetic Math Calculator",
+  "longDescription": "Symbolic and Arithmetic Math Calculator",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://newton.vercel.app",
+  "docsUrl": "https://newton.vercel.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "symbolic",
+    "and",
+    "arithmetic",
+    "math",
+    "calculator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://newton.vercel.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

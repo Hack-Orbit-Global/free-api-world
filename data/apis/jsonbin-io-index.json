@@ -1,0 +1,33 @@
+{
+  "slug": "jsonbin-io-index",
+  "name": "JSONbin.io",
+  "category": "Index",
+  "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+  "longDescription": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://jsonbin.io",
+  "docsUrl": "https://jsonbin.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "json",
+    "storage",
+    "service",
+    "ideal",
+    "for",
+    "small",
+    "scale"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://jsonbin.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

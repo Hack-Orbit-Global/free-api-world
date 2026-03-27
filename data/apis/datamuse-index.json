@@ -1,0 +1,29 @@
+{
+  "slug": "datamuse-index",
+  "name": "Datamuse",
+  "category": "Index",
+  "description": "Word-finding query engine",
+  "longDescription": "Word-finding query engine",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.datamuse.com/api/",
+  "docsUrl": "https://www.datamuse.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "word",
+    "finding",
+    "query",
+    "engine"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.datamuse.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

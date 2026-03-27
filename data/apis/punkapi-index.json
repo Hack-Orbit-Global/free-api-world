@@ -1,0 +1,28 @@
+{
+  "slug": "punkapi-index",
+  "name": "PunkAPI",
+  "category": "Index",
+  "description": "Brewdog Beer Recipes",
+  "longDescription": "Brewdog Beer Recipes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://punkapi.com/",
+  "docsUrl": "https://punkapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "brewdog",
+    "beer",
+    "recipes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://punkapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

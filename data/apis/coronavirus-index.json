@@ -1,0 +1,32 @@
+{
+  "slug": "coronavirus-index",
+  "name": "Coronavirus",
+  "category": "Index",
+  "description": "HTTP API for Latest Covid-19 Data",
+  "longDescription": "HTTP API for Latest Covid-19 Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme",
+  "docsUrl": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "http",
+    "api",
+    "for",
+    "latest",
+    "covid",
+    "19",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

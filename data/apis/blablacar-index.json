@@ -1,0 +1,29 @@
+{
+  "slug": "blablacar-index",
+  "name": "BlaBlaCar",
+  "category": "Index",
+  "description": "Search car sharing trips",
+  "longDescription": "Search car sharing trips",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.blablacar.com",
+  "docsUrl": "https://dev.blablacar.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "car",
+    "sharing",
+    "trips"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.blablacar.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

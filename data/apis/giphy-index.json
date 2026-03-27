@@ -1,0 +1,29 @@
+{
+  "slug": "giphy-index",
+  "name": "Giphy",
+  "category": "Index",
+  "description": "Get all your gifs",
+  "longDescription": "Get all your gifs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.giphy.com/docs/",
+  "docsUrl": "https://developers.giphy.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "all",
+    "your",
+    "gifs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.giphy.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

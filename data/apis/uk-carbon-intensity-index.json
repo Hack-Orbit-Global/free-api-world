@@ -1,0 +1,33 @@
+{
+  "slug": "uk-carbon-intensity-index",
+  "name": "UK Carbon Intensity",
+  "category": "Index",
+  "description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
+  "longDescription": "The Official Carbon Intensity API for Great Britain developed by National Grid",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+  "docsUrl": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "official",
+    "carbon",
+    "intensity",
+    "api",
+    "for",
+    "great",
+    "britain"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

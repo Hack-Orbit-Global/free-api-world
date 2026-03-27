@@ -1,0 +1,33 @@
+{
+  "slug": "ipinfodb-index",
+  "name": "IPInfoDB",
+  "category": "Index",
+  "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+  "longDescription": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ipinfodb.com/api",
+  "docsUrl": "https://www.ipinfodb.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "geolocation",
+    "tools",
+    "and",
+    "apis",
+    "for",
+    "country",
+    "region"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ipinfodb.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

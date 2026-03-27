@@ -1,0 +1,33 @@
+{
+  "slug": "vuldb-index",
+  "name": "VulDB",
+  "category": "Index",
+  "description": "VulDB API allows to initiate queries for one or more items along with transactional bots",
+  "longDescription": "VulDB API allows to initiate queries for one or more items along with transactional bots",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://vuldb.com/?doc.api",
+  "docsUrl": "https://vuldb.com/?doc.api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "vuldb",
+    "api",
+    "allows",
+    "to",
+    "initiate",
+    "queries",
+    "for",
+    "one"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vuldb.com/?doc.api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

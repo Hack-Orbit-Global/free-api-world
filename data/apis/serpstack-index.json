@@ -1,0 +1,32 @@
+{
+  "slug": "serpstack-index",
+  "name": "serpstack",
+  "category": "Index",
+  "description": "Real-Time & Accurate Google Search Results API",
+  "longDescription": "Real-Time & Accurate Google Search Results API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://serpstack.com/",
+  "docsUrl": "https://serpstack.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "accurate",
+    "google",
+    "search",
+    "results",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://serpstack.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

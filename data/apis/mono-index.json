@@ -1,0 +1,33 @@
+{
+  "slug": "mono-index",
+  "name": "Mono",
+  "category": "Index",
+  "description": "Connect with users\u2019 bank accounts and access transaction data in Africa",
+  "longDescription": "Connect with users\u2019 bank accounts and access transaction data in Africa",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mono.co/",
+  "docsUrl": "https://mono.co/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "connect",
+    "with",
+    "users",
+    "bank",
+    "accounts",
+    "and",
+    "access",
+    "transaction"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mono.co/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

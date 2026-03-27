@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-poland-index",
+  "name": "Open Government, Poland",
+  "category": "Index",
+  "description": "Poland Government Open Data",
+  "longDescription": "Poland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dane.gov.pl/en",
+  "docsUrl": "https://dane.gov.pl/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "poland",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dane.gov.pl/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

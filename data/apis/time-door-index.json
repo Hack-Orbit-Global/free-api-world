@@ -1,0 +1,30 @@
+{
+  "slug": "time-door-index",
+  "name": "Time Door",
+  "category": "Index",
+  "description": "A time series analysis API",
+  "longDescription": "A time series analysis API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://timedoor.io",
+  "docsUrl": "https://timedoor.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "time",
+    "series",
+    "analysis",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://timedoor.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

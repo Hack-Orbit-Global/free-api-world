@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-paris-france-index",
+  "name": "Transport for Paris, France",
+  "category": "Index",
+  "description": "RATP Open Data API",
+  "longDescription": "RATP Open Data API",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/",
+  "docsUrl": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ratp",
+    "open",
+    "data",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

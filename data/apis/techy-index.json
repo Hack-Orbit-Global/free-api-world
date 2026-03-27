@@ -1,0 +1,33 @@
+{
+  "slug": "techy-index",
+  "name": "Techy",
+  "category": "Index",
+  "description": "JSON and Plaintext API for tech-savvy sounding phrases",
+  "longDescription": "JSON and Plaintext API for tech-savvy sounding phrases",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://techy-api.vercel.app/",
+  "docsUrl": "https://techy-api.vercel.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "json",
+    "and",
+    "plaintext",
+    "api",
+    "for",
+    "tech",
+    "savvy",
+    "sounding"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://techy-api.vercel.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "plaid-index",
+  "name": "Plaid",
+  "category": "Index",
+  "description": "Connect with user's bank accounts and access transaction data",
+  "longDescription": "Connect with user's bank accounts and access transaction data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.plaid.com/docs",
+  "docsUrl": "https://www.plaid.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "connect",
+    "with",
+    "user",
+    "s",
+    "bank",
+    "accounts",
+    "and",
+    "access"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.plaid.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

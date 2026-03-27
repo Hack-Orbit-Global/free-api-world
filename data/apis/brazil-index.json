@@ -1,0 +1,32 @@
+{
+  "slug": "brazil-index",
+  "name": "Brazil",
+  "category": "Index",
+  "description": "Community driven API for Brazil Public Data",
+  "longDescription": "Community driven API for Brazil Public Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://brasilapi.com.br/",
+  "docsUrl": "https://brasilapi.com.br/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "community",
+    "driven",
+    "api",
+    "for",
+    "brazil",
+    "public",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://brasilapi.com.br/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

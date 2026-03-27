@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-germany-index",
+  "name": "Transport for Germany",
+  "category": "Index",
+  "description": "Deutsche Bahn (DB) API",
+  "longDescription": "Deutsche Bahn (DB) API",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://data.deutschebahn.com/dataset/api-fahrplan",
+  "docsUrl": "http://data.deutschebahn.com/dataset/api-fahrplan",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "deutsche",
+    "bahn",
+    "db",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://data.deutschebahn.com/dataset/api-fahrplan",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mailboxvalidator-index",
+  "name": "MailboxValidator",
+  "category": "Index",
+  "description": "Validate email address to improve deliverability",
+  "longDescription": "Validate email address to improve deliverability",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mailboxvalidator.com/api-email-free",
+  "docsUrl": "https://www.mailboxvalidator.com/api-email-free",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "email",
+    "address",
+    "to",
+    "improve",
+    "deliverability"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mailboxvalidator.com/api-email-free",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

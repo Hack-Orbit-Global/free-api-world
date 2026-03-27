@@ -1,0 +1,32 @@
+{
+  "slug": "mario-kart-tour-index",
+  "name": "Mario Kart Tour",
+  "category": "Index",
+  "description": "API for Drivers, Karts, Gliders and Courses",
+  "longDescription": "API for Drivers, Karts, Gliders and Courses",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mario-kart-tour-api.herokuapp.com/",
+  "docsUrl": "https://mario-kart-tour-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "drivers",
+    "karts",
+    "gliders",
+    "and",
+    "courses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mario-kart-tour-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

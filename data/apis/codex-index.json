@@ -1,0 +1,30 @@
+{
+  "slug": "codex-index",
+  "name": "Codex",
+  "category": "Index",
+  "description": "Online Compiler for Various Languages",
+  "longDescription": "Online Compiler for Various Languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Jaagrav/CodeX",
+  "docsUrl": "https://github.com/Jaagrav/CodeX",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "online",
+    "compiler",
+    "for",
+    "various",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Jaagrav/CodeX",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

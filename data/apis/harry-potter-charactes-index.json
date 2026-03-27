@@ -1,0 +1,31 @@
+{
+  "slug": "harry-potter-charactes-index",
+  "name": "Harry Potter Charactes",
+  "category": "Index",
+  "description": "Harry Potter Characters Data with with imagery",
+  "longDescription": "Harry Potter Characters Data with with imagery",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hp-api.herokuapp.com/",
+  "docsUrl": "https://hp-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "harry",
+    "potter",
+    "characters",
+    "data",
+    "with",
+    "imagery"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hp-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

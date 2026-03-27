@@ -1,0 +1,33 @@
+{
+  "slug": "gateio-index",
+  "name": "Gateio",
+  "category": "Index",
+  "description": "API provides spot, margin and futures trading operations",
+  "longDescription": "API provides spot, margin and futures trading operations",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.gate.io/api2",
+  "docsUrl": "https://www.gate.io/api2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "provides",
+    "spot",
+    "margin",
+    "and",
+    "futures",
+    "trading",
+    "operations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.gate.io/api2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

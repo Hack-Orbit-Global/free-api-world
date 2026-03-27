@@ -1,0 +1,33 @@
+{
+  "slug": "songlink-odesli-index",
+  "name": "Songlink / Odesli",
+  "category": "Index",
+  "description": "Get all the services on which a song is available",
+  "longDescription": "Get all the services on which a song is available",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
+  "docsUrl": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "all",
+    "the",
+    "services",
+    "on",
+    "which",
+    "a",
+    "song"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

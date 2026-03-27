@@ -1,0 +1,28 @@
+{
+  "slug": "transport-for-czech-republic-index",
+  "name": "Transport for Czech Republic",
+  "category": "Index",
+  "description": "Czech transport API",
+  "longDescription": "Czech transport API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.chaps.cz/eng/products/idos-internet",
+  "docsUrl": "https://www.chaps.cz/eng/products/idos-internet",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "czech",
+    "transport",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.chaps.cz/eng/products/idos-internet",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

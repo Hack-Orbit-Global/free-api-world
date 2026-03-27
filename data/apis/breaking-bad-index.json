@@ -1,0 +1,28 @@
+{
+  "slug": "breaking-bad-index",
+  "name": "Breaking Bad",
+  "category": "Index",
+  "description": "Breaking Bad API",
+  "longDescription": "Breaking Bad API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://breakingbadapi.com/documentation",
+  "docsUrl": "https://breakingbadapi.com/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "breaking",
+    "bad",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://breakingbadapi.com/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

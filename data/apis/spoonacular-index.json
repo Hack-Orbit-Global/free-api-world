@@ -1,0 +1,31 @@
+{
+  "slug": "spoonacular-index",
+  "name": "Spoonacular",
+  "category": "Index",
+  "description": "Recipes, Food Products, and Meal Planning",
+  "longDescription": "Recipes, Food Products, and Meal Planning",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://spoonacular.com/food-api",
+  "docsUrl": "https://spoonacular.com/food-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "recipes",
+    "food",
+    "products",
+    "and",
+    "meal",
+    "planning"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://spoonacular.com/food-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

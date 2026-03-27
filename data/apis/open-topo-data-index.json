@@ -1,0 +1,33 @@
+{
+  "slug": "open-topo-data-index",
+  "name": "Open Topo Data",
+  "category": "Index",
+  "description": "Elevation and ocean depth for a latitude and longitude",
+  "longDescription": "Elevation and ocean depth for a latitude and longitude",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.opentopodata.org",
+  "docsUrl": "https://www.opentopodata.org",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "elevation",
+    "and",
+    "ocean",
+    "depth",
+    "for",
+    "a",
+    "latitude",
+    "longitude"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.opentopodata.org",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

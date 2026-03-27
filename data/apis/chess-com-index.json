@@ -1,0 +1,31 @@
+{
+  "slug": "chess-com-index",
+  "name": "Chess.com",
+  "category": "Index",
+  "description": "Chess.com read-only REST API",
+  "longDescription": "Chess.com read-only REST API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.chess.com/news/view/published-data-api",
+  "docsUrl": "https://www.chess.com/news/view/published-data-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "chess",
+    "com",
+    "read",
+    "only",
+    "rest",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.chess.com/news/view/published-data-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

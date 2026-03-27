@@ -1,0 +1,28 @@
+{
+  "slug": "jservice-index",
+  "name": "Jservice",
+  "category": "Index",
+  "description": "Jeopardy Question Database",
+  "longDescription": "Jeopardy Question Database",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://jservice.io",
+  "docsUrl": "http://jservice.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "jeopardy",
+    "question",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://jservice.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

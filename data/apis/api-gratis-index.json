@@ -1,0 +1,30 @@
+{
+  "slug": "api-gratis-index",
+  "name": "API Gr\u00e1tis",
+  "category": "Index",
+  "description": "Multiples services and public APIs",
+  "longDescription": "Multiples services and public APIs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apigratis.com.br/",
+  "docsUrl": "https://apigratis.com.br/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "multiples",
+    "services",
+    "and",
+    "public",
+    "apis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apigratis.com.br/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

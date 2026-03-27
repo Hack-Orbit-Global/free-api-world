@@ -1,0 +1,30 @@
+{
+  "slug": "openligadb-index",
+  "name": "OpenLigaDB",
+  "category": "Index",
+  "description": "Crowd sourced sports league results",
+  "longDescription": "Crowd sourced sports league results",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.openligadb.de",
+  "docsUrl": "https://www.openligadb.de",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "crowd",
+    "sourced",
+    "sports",
+    "league",
+    "results"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.openligadb.de",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

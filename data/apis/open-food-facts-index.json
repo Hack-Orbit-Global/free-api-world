@@ -1,0 +1,28 @@
+{
+  "slug": "open-food-facts-index",
+  "name": "Open Food Facts",
+  "category": "Index",
+  "description": "Food Products Database",
+  "longDescription": "Food Products Database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://world.openfoodfacts.org/data",
+  "docsUrl": "https://world.openfoodfacts.org/data",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "food",
+    "products",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://world.openfoodfacts.org/data",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

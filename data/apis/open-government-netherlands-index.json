@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-netherlands-index",
+  "name": "Open Government, Netherlands",
+  "category": "Index",
+  "description": "Netherlands Government Open Data",
+  "longDescription": "Netherlands Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api",
+  "docsUrl": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "netherlands",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

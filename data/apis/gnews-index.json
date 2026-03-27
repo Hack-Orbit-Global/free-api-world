@@ -1,0 +1,31 @@
+{
+  "slug": "gnews-index",
+  "name": "GNews",
+  "category": "Index",
+  "description": "Search for news from various sources",
+  "longDescription": "Search for news from various sources",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gnews.io/",
+  "docsUrl": "https://gnews.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "for",
+    "news",
+    "from",
+    "various",
+    "sources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gnews.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "infermedica-index",
+  "name": "Infermedica",
+  "category": "Index",
+  "description": "NLP based symptom checker and patient triage API for health diagnosis from text",
+  "longDescription": "NLP based symptom checker and patient triage API for health diagnosis from text",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.infermedica.com/docs/",
+  "docsUrl": "https://developer.infermedica.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nlp",
+    "based",
+    "symptom",
+    "checker",
+    "and",
+    "patient",
+    "triage",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.infermedica.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

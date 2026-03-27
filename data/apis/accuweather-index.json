@@ -1,0 +1,29 @@
+{
+  "slug": "accuweather-index",
+  "name": "AccuWeather",
+  "category": "Index",
+  "description": "Weather and forecast data",
+  "longDescription": "Weather and forecast data",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://developer.accuweather.com/apis",
+  "docsUrl": "https://developer.accuweather.com/apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "and",
+    "forecast",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.accuweather.com/apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

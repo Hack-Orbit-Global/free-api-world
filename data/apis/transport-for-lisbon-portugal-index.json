@@ -1,0 +1,32 @@
+{
+  "slug": "transport-for-lisbon-portugal-index",
+  "name": "Transport for Lisbon, Portugal",
+  "category": "Index",
+  "description": "Data about buses routes, parking and traffic",
+  "longDescription": "Data about buses routes, parking and traffic",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://emel.city-platform.com/opendata/",
+  "docsUrl": "https://emel.city-platform.com/opendata/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "about",
+    "buses",
+    "routes",
+    "parking",
+    "and",
+    "traffic"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://emel.city-platform.com/opendata/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

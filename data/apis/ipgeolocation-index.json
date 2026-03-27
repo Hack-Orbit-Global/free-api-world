@@ -1,0 +1,33 @@
+{
+  "slug": "ipgeolocation-index",
+  "name": "ipgeolocation",
+  "category": "Index",
+  "description": "IP Geolocation AP with free plan 30k requests per month",
+  "longDescription": "IP Geolocation AP with free plan 30k requests per month",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipgeolocation.io/",
+  "docsUrl": "https://ipgeolocation.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "geolocation",
+    "ap",
+    "with",
+    "free",
+    "plan",
+    "30k",
+    "requests"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipgeolocation.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

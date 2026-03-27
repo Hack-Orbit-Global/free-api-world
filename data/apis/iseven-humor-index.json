@@ -1,0 +1,31 @@
+{
+  "slug": "iseven-humor-index",
+  "name": "isEven (humor)",
+  "category": "Index",
+  "description": "Check if a number is even",
+  "longDescription": "Check if a number is even",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://isevenapi.xyz/",
+  "docsUrl": "https://isevenapi.xyz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "check",
+    "if",
+    "a",
+    "number",
+    "is",
+    "even"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://isevenapi.xyz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

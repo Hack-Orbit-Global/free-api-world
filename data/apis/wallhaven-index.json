@@ -1,0 +1,26 @@
+{
+  "slug": "wallhaven-index",
+  "name": "Wallhaven",
+  "category": "Index",
+  "description": "Wallpapers",
+  "longDescription": "Wallpapers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://wallhaven.cc/help/api",
+  "docsUrl": "https://wallhaven.cc/help/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "wallpapers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wallhaven.cc/help/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

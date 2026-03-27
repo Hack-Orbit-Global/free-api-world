@@ -1,0 +1,33 @@
+{
+  "slug": "threat-jammer-index",
+  "name": "Threat Jammer",
+  "category": "Index",
+  "description": "Risk scoring service from curated threat intelligence data",
+  "longDescription": "Risk scoring service from curated threat intelligence data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://threatjammer.com/docs/index",
+  "docsUrl": "https://threatjammer.com/docs/index",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "risk",
+    "scoring",
+    "service",
+    "from",
+    "curated",
+    "threat",
+    "intelligence",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://threatjammer.com/docs/index",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

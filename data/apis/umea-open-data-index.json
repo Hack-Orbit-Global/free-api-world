@@ -1,0 +1,33 @@
+{
+  "slug": "umea-open-data-index",
+  "name": "Ume\u00e5 Open Data",
+  "category": "Index",
+  "description": "Open data of the city Ume\u00e5 in northen Sweden",
+  "longDescription": "Open data of the city Ume\u00e5 in northen Sweden",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opendata.umea.se/api/",
+  "docsUrl": "https://opendata.umea.se/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "data",
+    "of",
+    "the",
+    "city",
+    "ume\u00e5",
+    "in",
+    "northen"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.umea.se/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

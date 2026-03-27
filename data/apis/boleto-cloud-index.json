@@ -1,0 +1,32 @@
+{
+  "slug": "boleto-cloud-index",
+  "name": "Boleto.Cloud",
+  "category": "Index",
+  "description": "A api to generate boletos in Brazil",
+  "longDescription": "A api to generate boletos in Brazil",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://boleto.cloud/",
+  "docsUrl": "https://boleto.cloud/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "api",
+    "to",
+    "generate",
+    "boletos",
+    "in",
+    "brazil"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://boleto.cloud/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

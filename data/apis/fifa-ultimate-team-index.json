@@ -1,0 +1,30 @@
+{
+  "slug": "fifa-ultimate-team-index",
+  "name": "FIFA Ultimate Team",
+  "category": "Index",
+  "description": "FIFA Ultimate Team items API",
+  "longDescription": "FIFA Ultimate Team items API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.easports.com/fifa/ultimate-team/api/fut/item",
+  "docsUrl": "https://www.easports.com/fifa/ultimate-team/api/fut/item",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fifa",
+    "ultimate",
+    "team",
+    "items",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.easports.com/fifa/ultimate-team/api/fut/item",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

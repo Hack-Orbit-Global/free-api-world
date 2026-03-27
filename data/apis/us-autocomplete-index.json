@@ -1,0 +1,33 @@
+{
+  "slug": "us-autocomplete-index",
+  "name": "US Autocomplete",
+  "category": "Index",
+  "description": "Enter address data quickly with real-time address suggestions",
+  "longDescription": "Enter address data quickly with real-time address suggestions",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.smarty.com/docs/cloud/us-autocomplete-pro-api",
+  "docsUrl": "https://www.smarty.com/docs/cloud/us-autocomplete-pro-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "enter",
+    "address",
+    "data",
+    "quickly",
+    "with",
+    "real",
+    "time",
+    "suggestions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.smarty.com/docs/cloud/us-autocomplete-pro-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "orion-health-index",
+  "name": "Orion Health",
+  "category": "Index",
+  "description": "Medical platform which allows the development of applications for different healthcare scenarios",
+  "longDescription": "Medical platform which allows the development of applications for different healthcare scenarios",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.orionhealth.io/",
+  "docsUrl": "https://developer.orionhealth.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "medical",
+    "platform",
+    "which",
+    "allows",
+    "the",
+    "development",
+    "of",
+    "applications"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.orionhealth.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "owo-index",
+  "name": "owo",
+  "category": "Index",
+  "description": "A simple link obfuscator/shortener",
+  "longDescription": "A simple link obfuscator/shortener",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://owo.vc/api",
+  "docsUrl": "https://owo.vc/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "link",
+    "obfuscator",
+    "shortener"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://owo.vc/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

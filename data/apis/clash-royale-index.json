@@ -1,0 +1,29 @@
+{
+  "slug": "clash-royale-index",
+  "name": "Clash Royale",
+  "category": "Index",
+  "description": "Clash Royale Game Information",
+  "longDescription": "Clash Royale Game Information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.clashroyale.com",
+  "docsUrl": "https://developer.clashroyale.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "clash",
+    "royale",
+    "game",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.clashroyale.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

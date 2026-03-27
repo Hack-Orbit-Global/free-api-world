@@ -1,0 +1,28 @@
+{
+  "slug": "mail-gw-index",
+  "name": "mail.gw",
+  "category": "Index",
+  "description": "10 Minute Mail",
+  "longDescription": "10 Minute Mail",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.mail.gw",
+  "docsUrl": "https://docs.mail.gw",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "10",
+    "minute",
+    "mail"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.mail.gw",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "mailjet-index",
+  "name": "mailjet",
+  "category": "Index",
+  "description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
+  "longDescription": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mailjet.com/",
+  "docsUrl": "https://www.mailjet.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "marketing",
+    "email",
+    "can",
+    "be",
+    "sent",
+    "and",
+    "mail",
+    "templates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mailjet.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

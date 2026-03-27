@@ -1,0 +1,30 @@
+{
+  "slug": "city-bikes-index",
+  "name": "City Bikes",
+  "category": "Index",
+  "description": "City Bikes around the world",
+  "longDescription": "City Bikes around the world",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.citybik.es/v2/",
+  "docsUrl": "https://api.citybik.es/v2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "city",
+    "bikes",
+    "around",
+    "the",
+    "world"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.citybik.es/v2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

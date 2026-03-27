@@ -1,0 +1,33 @@
+{
+  "slug": "sportmonks-cricket-index",
+  "name": "Sportmonks Cricket",
+  "category": "Index",
+  "description": "Live cricket score, player statistics and fantasy API",
+  "longDescription": "Live cricket score, player statistics and fantasy API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.sportmonks.com/cricket/",
+  "docsUrl": "https://docs.sportmonks.com/cricket/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "live",
+    "cricket",
+    "score",
+    "player",
+    "statistics",
+    "and",
+    "fantasy",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.sportmonks.com/cricket/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

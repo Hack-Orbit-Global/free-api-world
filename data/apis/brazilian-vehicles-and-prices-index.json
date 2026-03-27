@@ -1,0 +1,33 @@
+{
+  "slug": "brazilian-vehicles-and-prices-index",
+  "name": "Brazilian Vehicles and Prices",
+  "category": "Index",
+  "description": "Vehicles information from Funda\u00e7\u00e3o Instituto de Pesquisas Econ\u00f4micas - Fipe",
+  "longDescription": "Vehicles information from Funda\u00e7\u00e3o Instituto de Pesquisas Econ\u00f4micas - Fipe",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://deividfortuna.github.io/fipe/",
+  "docsUrl": "https://deividfortuna.github.io/fipe/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "vehicles",
+    "information",
+    "from",
+    "funda\u00e7\u00e3o",
+    "instituto",
+    "de",
+    "pesquisas",
+    "econ\u00f4micas"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://deividfortuna.github.io/fipe/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

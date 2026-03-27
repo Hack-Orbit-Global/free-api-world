@@ -1,0 +1,33 @@
+{
+  "slug": "google-photos-index",
+  "name": "Google Photos",
+  "category": "Index",
+  "description": "Integrate Google Photos with your apps or devices",
+  "longDescription": "Integrate Google Photos with your apps or devices",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.google.com/photos",
+  "docsUrl": "https://developers.google.com/photos",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "integrate",
+    "google",
+    "photos",
+    "with",
+    "your",
+    "apps",
+    "or",
+    "devices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.google.com/photos",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

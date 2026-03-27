@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-usa-index",
+  "name": "Open Government, USA",
+  "category": "Index",
+  "description": "United States Government Open Data",
+  "longDescription": "United States Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.gov/",
+  "docsUrl": "https://www.data.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "united",
+    "states",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

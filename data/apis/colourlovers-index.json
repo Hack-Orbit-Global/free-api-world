@@ -1,0 +1,31 @@
+{
+  "slug": "colourlovers-index",
+  "name": "ColourLovers",
+  "category": "Index",
+  "description": "Get various patterns, palettes and images",
+  "longDescription": "Get various patterns, palettes and images",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.colourlovers.com/api",
+  "docsUrl": "http://www.colourlovers.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "various",
+    "patterns",
+    "palettes",
+    "and",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.colourlovers.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

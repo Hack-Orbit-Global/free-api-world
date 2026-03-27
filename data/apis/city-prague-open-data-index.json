@@ -1,0 +1,30 @@
+{
+  "slug": "city-prague-open-data-index",
+  "name": "City, Prague Open Data",
+  "category": "Index",
+  "description": "Prague(CZ) City Open Data",
+  "longDescription": "Prague(CZ) City Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://opendata.praha.eu/en",
+  "docsUrl": "http://opendata.praha.eu/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "prague",
+    "cz",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://opendata.praha.eu/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

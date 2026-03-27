@@ -1,0 +1,30 @@
+{
+  "slug": "quickchart-index",
+  "name": "QuickChart",
+  "category": "Index",
+  "description": "Generate chart and graph images",
+  "longDescription": "Generate chart and graph images",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quickchart.io/",
+  "docsUrl": "https://quickchart.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "chart",
+    "and",
+    "graph",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quickchart.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pokeapi-index",
+  "name": "Pok\u00e9api",
+  "category": "Index",
+  "description": "Pok\u00e9mon Information",
+  "longDescription": "Pok\u00e9mon Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pokeapi.co",
+  "docsUrl": "https://pokeapi.co",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "pok\u00e9mon",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pokeapi.co",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

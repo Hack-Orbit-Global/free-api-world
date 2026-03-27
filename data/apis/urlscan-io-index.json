@@ -1,0 +1,29 @@
+{
+  "slug": "urlscan-io-index",
+  "name": "URLScan.io",
+  "category": "Index",
+  "description": "Scan and Analyse URLs",
+  "longDescription": "Scan and Analyse URLs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://urlscan.io/about-api/",
+  "docsUrl": "https://urlscan.io/about-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "scan",
+    "and",
+    "analyse",
+    "urls"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://urlscan.io/about-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

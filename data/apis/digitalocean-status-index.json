@@ -1,0 +1,30 @@
+{
+  "slug": "digitalocean-status-index",
+  "name": "DigitalOcean Status",
+  "category": "Index",
+  "description": "Status of all DigitalOcean services",
+  "longDescription": "Status of all DigitalOcean services",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://status.digitalocean.com/api",
+  "docsUrl": "https://status.digitalocean.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "status",
+    "of",
+    "all",
+    "digitalocean",
+    "services"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://status.digitalocean.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

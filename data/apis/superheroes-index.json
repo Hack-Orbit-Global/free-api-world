@@ -1,0 +1,33 @@
+{
+  "slug": "superheroes-index",
+  "name": "SuperHeroes",
+  "category": "Index",
+  "description": "All SuperHeroes and Villains data from all universes under a single API",
+  "longDescription": "All SuperHeroes and Villains data from all universes under a single API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://superheroapi.com",
+  "docsUrl": "https://superheroapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "superheroes",
+    "and",
+    "villains",
+    "data",
+    "from",
+    "universes",
+    "under"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://superheroapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

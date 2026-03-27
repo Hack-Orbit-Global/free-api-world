@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-romania-index",
+  "name": "Open Government, Romania",
+  "category": "Index",
+  "description": "Romania Government Open Data",
+  "longDescription": "Romania Government Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://data.gov.ro/",
+  "docsUrl": "http://data.gov.ro/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "romania",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://data.gov.ro/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

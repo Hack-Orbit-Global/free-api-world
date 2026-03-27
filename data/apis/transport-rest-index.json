@@ -1,0 +1,32 @@
+{
+  "slug": "transport-rest-index",
+  "name": "transport.rest",
+  "category": "Index",
+  "description": "Community maintained, developer-friendly public transport API",
+  "longDescription": "Community maintained, developer-friendly public transport API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://transport.rest",
+  "docsUrl": "https://transport.rest",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "community",
+    "maintained",
+    "developer",
+    "friendly",
+    "public",
+    "transport",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://transport.rest",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

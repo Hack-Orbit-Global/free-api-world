@@ -1,0 +1,33 @@
+{
+  "slug": "weather-api-index",
+  "name": "weather-api",
+  "category": "Index",
+  "description": "A RESTful free API to check the weather",
+  "longDescription": "A RESTful free API to check the weather",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/robertoduessmann/weather-api",
+  "docsUrl": "https://github.com/robertoduessmann/weather-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "restful",
+    "free",
+    "api",
+    "to",
+    "check",
+    "the",
+    "weather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/robertoduessmann/weather-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "shrtlnk-index",
+  "name": "Shrtlnk",
+  "category": "Index",
+  "description": "Simple and efficient short link creation",
+  "longDescription": "Simple and efficient short link creation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://shrtlnk.dev/developer",
+  "docsUrl": "https://shrtlnk.dev/developer",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "and",
+    "efficient",
+    "short",
+    "link",
+    "creation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://shrtlnk.dev/developer",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

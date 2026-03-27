@@ -1,0 +1,27 @@
+{
+  "slug": "drupal-org-index",
+  "name": "Drupal.org",
+  "category": "Index",
+  "description": "Drupal.org",
+  "longDescription": "Drupal.org",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.drupal.org/drupalorg/docs/api",
+  "docsUrl": "https://www.drupal.org/drupalorg/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "drupal",
+    "org"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.drupal.org/drupalorg/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

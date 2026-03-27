@@ -1,0 +1,33 @@
+{
+  "slug": "placekeanu-index",
+  "name": "PlaceKeanu",
+  "category": "Index",
+  "description": "Resizable Keanu Reeves placeholder images with grayscale and young Keanu options",
+  "longDescription": "Resizable Keanu Reeves placeholder images with grayscale and young Keanu options",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://placekeanu.com/",
+  "docsUrl": "https://placekeanu.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "resizable",
+    "keanu",
+    "reeves",
+    "placeholder",
+    "images",
+    "with",
+    "grayscale",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://placekeanu.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

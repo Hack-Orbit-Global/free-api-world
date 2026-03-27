@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-canada-index",
+  "name": "Open Government, Canada",
+  "category": "Index",
+  "description": "Canadian Government Open Data",
+  "longDescription": "Canadian Government Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://open.canada.ca/en",
+  "docsUrl": "http://open.canada.ca/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "canadian",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://open.canada.ca/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

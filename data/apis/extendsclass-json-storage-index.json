@@ -1,0 +1,30 @@
+{
+  "slug": "extendsclass-json-storage-index",
+  "name": "ExtendsClass JSON Storage",
+  "category": "Index",
+  "description": "A simple JSON store API",
+  "longDescription": "A simple JSON store API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://extendsclass.com/json-storage.html",
+  "docsUrl": "https://extendsclass.com/json-storage.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "json",
+    "store",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://extendsclass.com/json-storage.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "dangerous-discord-database-index",
+  "name": "Dangerous Discord Database",
+  "category": "Index",
+  "description": "Database of malicious Discord accounts",
+  "longDescription": "Database of malicious Discord accounts",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://discord.riverside.rocks/docs/index.php",
+  "docsUrl": "https://discord.riverside.rocks/docs/index.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "database",
+    "of",
+    "malicious",
+    "discord",
+    "accounts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://discord.riverside.rocks/docs/index.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

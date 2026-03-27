@@ -1,0 +1,28 @@
+{
+  "slug": "vatlayer-index",
+  "name": "VATlayer",
+  "category": "Index",
+  "description": "VAT number validation",
+  "longDescription": "VAT number validation",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://vatlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://vatlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "vat",
+    "number",
+    "validation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vatlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

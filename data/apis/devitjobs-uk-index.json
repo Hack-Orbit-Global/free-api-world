@@ -1,0 +1,28 @@
+{
+  "slug": "devitjobs-uk-index",
+  "name": "DevITjobs UK",
+  "category": "Index",
+  "description": "Jobs with GraphQL",
+  "longDescription": "Jobs with GraphQL",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://devitjobs.uk/job_feed.xml",
+  "docsUrl": "https://devitjobs.uk/job_feed.xml",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "jobs",
+    "with",
+    "graphql"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://devitjobs.uk/job_feed.xml",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

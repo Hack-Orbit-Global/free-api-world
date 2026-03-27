@@ -1,0 +1,28 @@
+{
+  "slug": "mercadobitcoin-index",
+  "name": "MercadoBitcoin",
+  "category": "Index",
+  "description": "Brazilian Cryptocurrency Information",
+  "longDescription": "Brazilian Cryptocurrency Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mercadobitcoin.com.br/api-doc/",
+  "docsUrl": "https://www.mercadobitcoin.com.br/api-doc/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "brazilian",
+    "cryptocurrency",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mercadobitcoin.com.br/api-doc/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

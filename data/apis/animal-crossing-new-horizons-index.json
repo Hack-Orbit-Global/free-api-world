@@ -1,0 +1,33 @@
+{
+  "slug": "animal-crossing-new-horizons-index",
+  "name": "Animal Crossing: New Horizons",
+  "category": "Index",
+  "description": "API for critters, fossils, art, music, furniture and villagers",
+  "longDescription": "API for critters, fossils, art, music, furniture and villagers",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://acnhapi.com/",
+  "docsUrl": "http://acnhapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "critters",
+    "fossils",
+    "art",
+    "music",
+    "furniture",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://acnhapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

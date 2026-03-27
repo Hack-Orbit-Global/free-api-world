@@ -1,0 +1,32 @@
+{
+  "slug": "serialif-color-index",
+  "name": "Serialif Color",
+  "category": "Index",
+  "description": "Color conversion, complementary, grayscale and contrasted text",
+  "longDescription": "Color conversion, complementary, grayscale and contrasted text",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://color.serialif.com/",
+  "docsUrl": "https://color.serialif.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "color",
+    "conversion",
+    "complementary",
+    "grayscale",
+    "and",
+    "contrasted",
+    "text"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://color.serialif.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

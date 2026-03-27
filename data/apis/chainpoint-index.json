@@ -1,0 +1,33 @@
+{
+  "slug": "chainpoint-index",
+  "name": "Chainpoint",
+  "category": "Index",
+  "description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
+  "longDescription": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tierion.com/chainpoint/",
+  "docsUrl": "https://tierion.com/chainpoint/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "chainpoint",
+    "is",
+    "a",
+    "global",
+    "network",
+    "for",
+    "anchoring",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tierion.com/chainpoint/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

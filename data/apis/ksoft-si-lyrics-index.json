@@ -1,0 +1,31 @@
+{
+  "slug": "ksoft-si-lyrics-index",
+  "name": "KSoft.Si Lyrics",
+  "category": "Index",
+  "description": "API to get lyrics for songs",
+  "longDescription": "API to get lyrics for songs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.ksoft.si/api/lyrics-api",
+  "docsUrl": "https://docs.ksoft.si/api/lyrics-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "get",
+    "lyrics",
+    "for",
+    "songs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.ksoft.si/api/lyrics-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

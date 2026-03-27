@@ -1,0 +1,33 @@
+{
+  "slug": "indodax-index",
+  "name": "Indodax",
+  "category": "Index",
+  "description": "Trade your Bitcoin and other assets with rupiah",
+  "longDescription": "Trade your Bitcoin and other assets with rupiah",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/btcid/indodax-official-api-docs",
+  "docsUrl": "https://github.com/btcid/indodax-official-api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "trade",
+    "your",
+    "bitcoin",
+    "and",
+    "other",
+    "assets",
+    "with",
+    "rupiah"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/btcid/indodax-official-api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

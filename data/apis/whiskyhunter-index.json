@@ -1,0 +1,31 @@
+{
+  "slug": "whiskyhunter-index",
+  "name": "WhiskyHunter",
+  "category": "Index",
+  "description": "Past online whisky auctions statistical data",
+  "longDescription": "Past online whisky auctions statistical data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://whiskyhunter.net/api/",
+  "docsUrl": "https://whiskyhunter.net/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "past",
+    "online",
+    "whisky",
+    "auctions",
+    "statistical",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://whiskyhunter.net/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

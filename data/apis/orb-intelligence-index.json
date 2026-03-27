@@ -1,0 +1,27 @@
+{
+  "slug": "orb-intelligence-index",
+  "name": "ORB Intelligence",
+  "category": "Index",
+  "description": "Company lookup",
+  "longDescription": "Company lookup",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.orb-intelligence.com/docs/",
+  "docsUrl": "https://api.orb-intelligence.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "company",
+    "lookup"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.orb-intelligence.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "microsoft-security-response-center-msrc-index",
+  "name": "Microsoft Security Response Center (MSRC)",
+  "category": "Index",
+  "description": "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)",
+  "longDescription": "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://msrc.microsoft.com/report/developer",
+  "docsUrl": "https://msrc.microsoft.com/report/developer",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "programmatic",
+    "interfaces",
+    "to",
+    "engage",
+    "with",
+    "the",
+    "microsoft",
+    "security"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://msrc.microsoft.com/report/developer",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

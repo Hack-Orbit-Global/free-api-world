@@ -1,0 +1,33 @@
+{
+  "slug": "github-readme-stats-index",
+  "name": "GitHub ReadMe Stats",
+  "category": "Index",
+  "description": "Add dynamically generated statistics to your GitHub profile ReadMe",
+  "longDescription": "Add dynamically generated statistics to your GitHub profile ReadMe",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/anuraghazra/github-readme-stats",
+  "docsUrl": "https://github.com/anuraghazra/github-readme-stats",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "add",
+    "dynamically",
+    "generated",
+    "statistics",
+    "to",
+    "your",
+    "github",
+    "profile"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/anuraghazra/github-readme-stats",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

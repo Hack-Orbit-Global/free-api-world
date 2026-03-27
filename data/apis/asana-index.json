@@ -1,0 +1,33 @@
+{
+  "slug": "asana-index",
+  "name": "Asana",
+  "category": "Index",
+  "description": "Programmatic access to all data in your asana system",
+  "longDescription": "Programmatic access to all data in your asana system",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.asana.com/docs",
+  "docsUrl": "https://developers.asana.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "programmatic",
+    "access",
+    "to",
+    "all",
+    "data",
+    "in",
+    "your",
+    "asana"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.asana.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "velib-metropolis-paris-france-index",
+  "name": "Velib metropolis, Paris, France",
+  "category": "Index",
+  "description": "Velib Open Data API",
+  "longDescription": "Velib Open Data API",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+  "docsUrl": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "velib",
+    "open",
+    "data",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

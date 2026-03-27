@@ -1,0 +1,29 @@
+{
+  "slug": "myvaccination-index",
+  "name": "MyVaccination",
+  "category": "Index",
+  "description": "Vaccination data for Malaysia",
+  "longDescription": "Vaccination data for Malaysia",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
+  "docsUrl": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "vaccination",
+    "data",
+    "for",
+    "malaysia"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

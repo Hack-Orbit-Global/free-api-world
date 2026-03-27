@@ -1,0 +1,31 @@
+{
+  "slug": "gofile-index",
+  "name": "GoFile",
+  "category": "Index",
+  "description": "Unlimited size file uploads for free",
+  "longDescription": "Unlimited size file uploads for free",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gofile.io/api",
+  "docsUrl": "https://gofile.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unlimited",
+    "size",
+    "file",
+    "uploads",
+    "for",
+    "free"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gofile.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

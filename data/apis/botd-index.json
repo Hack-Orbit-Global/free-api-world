@@ -1,0 +1,33 @@
+{
+  "slug": "botd-index",
+  "name": "Botd",
+  "category": "Index",
+  "description": "Botd is a browser library for JavaScript bot detection",
+  "longDescription": "Botd is a browser library for JavaScript bot detection",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/fingerprintjs/botd",
+  "docsUrl": "https://github.com/fingerprintjs/botd",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "botd",
+    "is",
+    "a",
+    "browser",
+    "library",
+    "for",
+    "javascript",
+    "bot"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/fingerprintjs/botd",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

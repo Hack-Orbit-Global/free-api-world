@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-slovenia-index",
+  "name": "Open Government, Slovenia",
+  "category": "Index",
+  "description": "Slovenia Government Open Data",
+  "longDescription": "Slovenia Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://podatki.gov.si/",
+  "docsUrl": "https://podatki.gov.si/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "slovenia",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://podatki.gov.si/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "mojang-index",
+  "name": "Mojang",
+  "category": "Index",
+  "description": "Mojang / Minecraft API",
+  "longDescription": "Mojang / Minecraft API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://wiki.vg/Mojang_API",
+  "docsUrl": "https://wiki.vg/Mojang_API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mojang",
+    "minecraft",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wiki.vg/Mojang_API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "citi-index",
+  "name": "Citi",
+  "category": "Index",
+  "description": "All Citigroup account and statement data APIs",
+  "longDescription": "All Citigroup account and statement data APIs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sandbox.developerhub.citi.com/api-catalog-list",
+  "docsUrl": "https://sandbox.developerhub.citi.com/api-catalog-list",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "citigroup",
+    "account",
+    "and",
+    "statement",
+    "data",
+    "apis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sandbox.developerhub.citi.com/api-catalog-list",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

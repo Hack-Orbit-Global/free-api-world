@@ -1,0 +1,31 @@
+{
+  "slug": "vadivelu-http-codes-index",
+  "name": "Vadivelu HTTP Codes",
+  "category": "Index",
+  "description": "On demand HTTP Codes with images",
+  "longDescription": "On demand HTTP Codes with images",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://vadivelu.anoram.com/",
+  "docsUrl": "https://vadivelu.anoram.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "on",
+    "demand",
+    "http",
+    "codes",
+    "with",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vadivelu.anoram.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

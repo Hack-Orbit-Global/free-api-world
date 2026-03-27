@@ -1,0 +1,32 @@
+{
+  "slug": "thronesapi-index",
+  "name": "ThronesApi",
+  "category": "Index",
+  "description": "Game Of Thrones Characters Data with imagery",
+  "longDescription": "Game Of Thrones Characters Data with imagery",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://thronesapi.com/",
+  "docsUrl": "https://thronesapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "game",
+    "of",
+    "thrones",
+    "characters",
+    "data",
+    "with",
+    "imagery"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://thronesapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

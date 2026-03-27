@@ -1,0 +1,32 @@
+{
+  "slug": "administrative-divisons-db-index",
+  "name": "administrative-divisons-db",
+  "category": "Index",
+  "description": "Get all administrative divisions of a country",
+  "longDescription": "Get all administrative divisions of a country",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/kamikazechaser/administrative-divisions-db",
+  "docsUrl": "https://github.com/kamikazechaser/administrative-divisions-db",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "all",
+    "administrative",
+    "divisions",
+    "of",
+    "a",
+    "country"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/kamikazechaser/administrative-divisions-db",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

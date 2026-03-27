@@ -1,0 +1,29 @@
+{
+  "slug": "1forge-index",
+  "name": "1Forge",
+  "category": "Index",
+  "description": "Forex currency market data",
+  "longDescription": "Forex currency market data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://1forge.com/forex-data-api/api-documentation",
+  "docsUrl": "https://1forge.com/forex-data-api/api-documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "forex",
+    "currency",
+    "market",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://1forge.com/forex-data-api/api-documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

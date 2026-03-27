@@ -1,0 +1,33 @@
+{
+  "slug": "the-bible-index",
+  "name": "The Bible",
+  "category": "Index",
+  "description": "Everything you need from the Bible in one discoverable place",
+  "longDescription": "Everything you need from the Bible in one discoverable place",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.api.bible",
+  "docsUrl": "https://docs.api.bible",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "everything",
+    "you",
+    "need",
+    "from",
+    "the",
+    "bible",
+    "in",
+    "one"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.api.bible",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

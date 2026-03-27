@@ -1,0 +1,33 @@
+{
+  "slug": "fakestoreapi-index",
+  "name": "FakeStoreAPI",
+  "category": "Index",
+  "description": "Fake store rest API for your e-commerce or shopping website prototype",
+  "longDescription": "Fake store rest API for your e-commerce or shopping website prototype",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://fakestoreapi.com/",
+  "docsUrl": "https://fakestoreapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fake",
+    "store",
+    "rest",
+    "api",
+    "for",
+    "your",
+    "e",
+    "commerce"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://fakestoreapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

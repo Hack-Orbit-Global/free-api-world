@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-live-data-index",
+  "name": "Covid-19 Live Data",
+  "category": "Index",
+  "description": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",
+  "longDescription": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/mathdroid/covid-19-api",
+  "docsUrl": "https://github.com/mathdroid/covid-19-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "global",
+    "and",
+    "countrywise",
+    "data",
+    "of",
+    "covid",
+    "19",
+    "daily"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/mathdroid/covid-19-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

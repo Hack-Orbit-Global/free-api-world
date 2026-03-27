@@ -1,0 +1,28 @@
+{
+  "slug": "anilist-index",
+  "name": "AniList",
+  "category": "Index",
+  "description": "Anime discovery & tracking",
+  "longDescription": "Anime discovery & tracking",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+  "docsUrl": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "anime",
+    "discovery",
+    "tracking"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

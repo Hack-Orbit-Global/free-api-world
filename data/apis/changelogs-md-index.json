@@ -1,0 +1,32 @@
+{
+  "slug": "changelogs-md-index",
+  "name": "Changelogs.md",
+  "category": "Index",
+  "description": "Structured changelog metadata from open source projects",
+  "longDescription": "Structured changelog metadata from open source projects",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://changelogs.md",
+  "docsUrl": "https://changelogs.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "structured",
+    "changelog",
+    "metadata",
+    "from",
+    "open",
+    "source",
+    "projects"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://changelogs.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

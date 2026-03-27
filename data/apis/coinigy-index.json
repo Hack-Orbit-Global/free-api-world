@@ -1,0 +1,32 @@
+{
+  "slug": "coinigy-index",
+  "name": "Coinigy",
+  "category": "Index",
+  "description": "Interacting with Coinigy Accounts and Exchange Directly",
+  "longDescription": "Interacting with Coinigy Accounts and Exchange Directly",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://coinigy.docs.apiary.io",
+  "docsUrl": "https://coinigy.docs.apiary.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "interacting",
+    "with",
+    "coinigy",
+    "accounts",
+    "and",
+    "exchange",
+    "directly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://coinigy.docs.apiary.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

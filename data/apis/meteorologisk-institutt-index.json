@@ -1,0 +1,29 @@
+{
+  "slug": "meteorologisk-institutt-index",
+  "name": "Meteorologisk Institutt",
+  "category": "Index",
+  "description": "Weather and climate data",
+  "longDescription": "Weather and climate data",
+  "auth": "`user-agent`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.met.no/weatherapi/documentation",
+  "docsUrl": "https://api.met.no/weatherapi/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "and",
+    "climate",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.met.no/weatherapi/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

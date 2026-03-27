@@ -1,0 +1,28 @@
+{
+  "slug": "carto-index",
+  "name": "CARTO",
+  "category": "Index",
+  "description": "Location Information Prediction",
+  "longDescription": "Location Information Prediction",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://carto.com/",
+  "docsUrl": "https://carto.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "location",
+    "information",
+    "prediction"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://carto.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

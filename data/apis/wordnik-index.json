@@ -1,0 +1,27 @@
+{
+  "slug": "wordnik-index",
+  "name": "Wordnik",
+  "category": "Index",
+  "description": "Dictionary Data",
+  "longDescription": "Dictionary Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.wordnik.com",
+  "docsUrl": "https://developer.wordnik.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "dictionary",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.wordnik.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

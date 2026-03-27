@@ -1,0 +1,30 @@
+{
+  "slug": "pokeapi-graphql-index",
+  "name": "Pok\u00e9API (GraphQL)",
+  "category": "Index",
+  "description": "The Unofficial GraphQL for PokeAPI",
+  "longDescription": "The Unofficial GraphQL for PokeAPI",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/mazipan/graphql-pokeapi",
+  "docsUrl": "https://github.com/mazipan/graphql-pokeapi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "unofficial",
+    "graphql",
+    "for",
+    "pokeapi"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/mazipan/graphql-pokeapi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

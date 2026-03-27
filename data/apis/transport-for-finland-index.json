@@ -1,0 +1,28 @@
+{
+  "slug": "transport-for-finland-index",
+  "name": "Transport for Finland",
+  "category": "Index",
+  "description": "Finnish transport API",
+  "longDescription": "Finnish transport API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://digitransit.fi/en/developers/",
+  "docsUrl": "https://digitransit.fi/en/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "finnish",
+    "transport",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://digitransit.fi/en/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

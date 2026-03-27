@@ -1,0 +1,31 @@
+{
+  "slug": "libretranslate-index",
+  "name": "LibreTranslate",
+  "category": "Index",
+  "description": "Translation tool with 17 available languages",
+  "longDescription": "Translation tool with 17 available languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://libretranslate.com/docs",
+  "docsUrl": "https://libretranslate.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translation",
+    "tool",
+    "with",
+    "17",
+    "available",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://libretranslate.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

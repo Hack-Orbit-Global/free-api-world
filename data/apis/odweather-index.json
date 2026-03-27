@@ -1,0 +1,28 @@
+{
+  "slug": "odweather-index",
+  "name": "ODWeather",
+  "category": "Index",
+  "description": "Weather and weather webcams",
+  "longDescription": "Weather and weather webcams",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://api.oceandrivers.com/static/docs.html",
+  "docsUrl": "http://api.oceandrivers.com/static/docs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "and",
+    "webcams"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.oceandrivers.com/static/docs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

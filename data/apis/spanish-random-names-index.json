@@ -1,0 +1,31 @@
+{
+  "slug": "spanish-random-names-index",
+  "name": "Spanish random names",
+  "category": "Index",
+  "description": "Generate spanish names (with gender) randomly",
+  "longDescription": "Generate spanish names (with gender) randomly",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://random-names-api.herokuapp.com/public",
+  "docsUrl": "https://random-names-api.herokuapp.com/public",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "spanish",
+    "names",
+    "with",
+    "gender",
+    "randomly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://random-names-api.herokuapp.com/public",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

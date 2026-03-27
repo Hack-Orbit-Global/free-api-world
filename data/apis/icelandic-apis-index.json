@@ -1,0 +1,33 @@
+{
+  "slug": "icelandic-apis-index",
+  "name": "Icelandic APIs",
+  "category": "Index",
+  "description": "Open APIs that deliver services in or regarding Iceland",
+  "longDescription": "Open APIs that deliver services in or regarding Iceland",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://docs.apis.is/",
+  "docsUrl": "http://docs.apis.is/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "apis",
+    "that",
+    "deliver",
+    "services",
+    "in",
+    "or",
+    "regarding"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://docs.apis.is/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

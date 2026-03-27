@@ -1,0 +1,30 @@
+{
+  "slug": "launch-library-2-index",
+  "name": "Launch Library 2",
+  "category": "Index",
+  "description": "Spaceflight launches and events database",
+  "longDescription": "Spaceflight launches and events database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://thespacedevs.com/llapi",
+  "docsUrl": "https://thespacedevs.com/llapi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "spaceflight",
+    "launches",
+    "and",
+    "events",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://thespacedevs.com/llapi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

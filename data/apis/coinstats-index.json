@@ -1,0 +1,27 @@
+{
+  "slug": "coinstats-index",
+  "name": "CoinStats",
+  "category": "Index",
+  "description": "Crypto Tracker",
+  "longDescription": "Crypto Tracker",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest",
+  "docsUrl": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "crypto",
+    "tracker"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

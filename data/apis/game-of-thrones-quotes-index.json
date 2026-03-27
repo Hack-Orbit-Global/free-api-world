@@ -1,0 +1,30 @@
+{
+  "slug": "game-of-thrones-quotes-index",
+  "name": "Game of Thrones Quotes",
+  "category": "Index",
+  "description": "Some Game of Thrones quotes",
+  "longDescription": "Some Game of Thrones quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gameofthronesquotes.xyz/",
+  "docsUrl": "https://gameofthronesquotes.xyz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "some",
+    "game",
+    "of",
+    "thrones",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gameofthronesquotes.xyz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "contentful-images-index",
+  "name": "Contentful Images",
+  "category": "Index",
+  "description": "Used to retrieve and apply transformations to images",
+  "longDescription": "Used to retrieve and apply transformations to images",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.contentful.com/developers/docs/references/images-api/",
+  "docsUrl": "https://www.contentful.com/developers/docs/references/images-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "used",
+    "to",
+    "retrieve",
+    "and",
+    "apply",
+    "transformations",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.contentful.com/developers/docs/references/images-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

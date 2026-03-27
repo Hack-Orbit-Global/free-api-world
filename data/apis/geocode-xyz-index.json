@@ -1,0 +1,33 @@
+{
+  "slug": "geocode-xyz-index",
+  "name": "Geocode.xyz",
+  "category": "Index",
+  "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
+  "longDescription": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geocode.xyz/api",
+  "docsUrl": "https://geocode.xyz/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "worldwide",
+    "forward",
+    "reverse",
+    "geocoding",
+    "batch",
+    "and",
+    "geoparsing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geocode.xyz/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

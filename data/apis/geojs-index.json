@@ -1,0 +1,30 @@
+{
+  "slug": "geojs-index",
+  "name": "GeoJS",
+  "category": "Index",
+  "description": "IP geolocation with ChatOps integration",
+  "longDescription": "IP geolocation with ChatOps integration",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.geojs.io/",
+  "docsUrl": "https://www.geojs.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "geolocation",
+    "with",
+    "chatops",
+    "integration"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.geojs.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

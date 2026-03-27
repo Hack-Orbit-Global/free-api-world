@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-act-index",
+  "name": "Open Government, ACT",
+  "category": "Index",
+  "description": "Australian Capital Territory Open Data",
+  "longDescription": "Australian Capital Territory Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.act.gov.au/",
+  "docsUrl": "https://www.data.act.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "australian",
+    "capital",
+    "territory",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.act.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

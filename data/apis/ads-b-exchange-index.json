@@ -1,0 +1,33 @@
+{
+  "slug": "ads-b-exchange-index",
+  "name": "ADS-B Exchange",
+  "category": "Index",
+  "description": "Access real-time and historical data of any and all airborne aircraft",
+  "longDescription": "Access real-time and historical data of any and all airborne aircraft",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.adsbexchange.com/data/",
+  "docsUrl": "https://www.adsbexchange.com/data/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "real",
+    "time",
+    "and",
+    "historical",
+    "data",
+    "of",
+    "any"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.adsbexchange.com/data/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

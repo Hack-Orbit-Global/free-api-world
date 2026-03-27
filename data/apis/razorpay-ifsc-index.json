@@ -1,0 +1,32 @@
+{
+  "slug": "razorpay-ifsc-index",
+  "name": "Razorpay IFSC",
+  "category": "Index",
+  "description": "Indian Financial Systems Code (Bank Branch Codes)",
+  "longDescription": "Indian Financial Systems Code (Bank Branch Codes)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://razorpay.com/docs/",
+  "docsUrl": "https://razorpay.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "indian",
+    "financial",
+    "systems",
+    "code",
+    "bank",
+    "branch",
+    "codes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://razorpay.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

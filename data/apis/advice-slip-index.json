@@ -1,0 +1,29 @@
+{
+  "slug": "advice-slip-index",
+  "name": "Advice Slip",
+  "category": "Index",
+  "description": "Generate random advice slips",
+  "longDescription": "Generate random advice slips",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://api.adviceslip.com/",
+  "docsUrl": "http://api.adviceslip.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "random",
+    "advice",
+    "slips"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.adviceslip.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

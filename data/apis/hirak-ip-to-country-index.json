@@ -1,0 +1,33 @@
+{
+  "slug": "hirak-ip-to-country-index",
+  "name": "Hirak IP to Country",
+  "category": "Index",
+  "description": "Ip to location with country code, currency code & currency name, fast response, unlimited requests",
+  "longDescription": "Ip to location with country code, currency code & currency name, fast response, unlimited requests",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://iplocation.hirak.site/",
+  "docsUrl": "https://iplocation.hirak.site/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "to",
+    "location",
+    "with",
+    "country",
+    "code",
+    "currency",
+    "name"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://iplocation.hirak.site/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

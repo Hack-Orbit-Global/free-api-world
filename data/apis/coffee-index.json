@@ -1,0 +1,29 @@
+{
+  "slug": "coffee-index",
+  "name": "Coffee",
+  "category": "Index",
+  "description": "Random pictures of coffee",
+  "longDescription": "Random pictures of coffee",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://coffee.alexflipnote.dev/",
+  "docsUrl": "https://coffee.alexflipnote.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "pictures",
+    "of",
+    "coffee"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://coffee.alexflipnote.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

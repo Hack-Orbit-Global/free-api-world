@@ -1,0 +1,33 @@
+{
+  "slug": "duply-index",
+  "name": "Duply",
+  "category": "Index",
+  "description": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",
+  "longDescription": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://duply.co/docs#getting-started-api",
+  "docsUrl": "https://duply.co/docs#getting-started-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "edit",
+    "scale",
+    "and",
+    "manage",
+    "images",
+    "videos",
+    "smarter"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://duply.co/docs#getting-started-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

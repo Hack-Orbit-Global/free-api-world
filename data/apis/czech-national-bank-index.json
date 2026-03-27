@@ -1,0 +1,30 @@
+{
+  "slug": "czech-national-bank-index",
+  "name": "Czech National Bank",
+  "category": "Index",
+  "description": "A collection of exchange rates",
+  "longDescription": "A collection of exchange rates",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+  "docsUrl": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "collection",
+    "of",
+    "exchange",
+    "rates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

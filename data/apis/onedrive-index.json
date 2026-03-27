@@ -1,0 +1,29 @@
+{
+  "slug": "onedrive-index",
+  "name": "OneDrive",
+  "category": "Index",
+  "description": "File Sharing and Storage",
+  "longDescription": "File Sharing and Storage",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.microsoft.com/onedrive",
+  "docsUrl": "https://developer.microsoft.com/onedrive",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "file",
+    "sharing",
+    "and",
+    "storage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.microsoft.com/onedrive",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

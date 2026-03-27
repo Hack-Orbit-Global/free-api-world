@@ -1,0 +1,33 @@
+{
+  "slug": "navitia-index",
+  "name": "Navitia",
+  "category": "Index",
+  "description": "The open API for building cool stuff with transport data",
+  "longDescription": "The open API for building cool stuff with transport data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://doc.navitia.io/",
+  "docsUrl": "https://doc.navitia.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "open",
+    "api",
+    "for",
+    "building",
+    "cool",
+    "stuff",
+    "with"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://doc.navitia.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

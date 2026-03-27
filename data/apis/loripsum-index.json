@@ -1,0 +1,33 @@
+{
+  "slug": "loripsum-index",
+  "name": "Loripsum",
+  "category": "Index",
+  "description": "The \"lorem ipsum\" generator that doesn't suck",
+  "longDescription": "The \"lorem ipsum\" generator that doesn't suck",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://loripsum.net/",
+  "docsUrl": "http://loripsum.net/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "lorem",
+    "ipsum",
+    "generator",
+    "that",
+    "doesn",
+    "t",
+    "suck"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://loripsum.net/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

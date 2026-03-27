@@ -1,0 +1,30 @@
+{
+  "slug": "intelligence-x-index",
+  "name": "Intelligence X",
+  "category": "Index",
+  "description": "Perform OSINT via Intelligence X",
+  "longDescription": "Perform OSINT via Intelligence X",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+  "docsUrl": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "perform",
+    "osint",
+    "via",
+    "intelligence",
+    "x"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

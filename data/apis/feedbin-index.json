@@ -1,0 +1,27 @@
+{
+  "slug": "feedbin-index",
+  "name": "Feedbin",
+  "category": "Index",
+  "description": "RSS reader",
+  "longDescription": "RSS reader",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/feedbin/feedbin-api",
+  "docsUrl": "https://github.com/feedbin/feedbin-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rss",
+    "reader"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/feedbin/feedbin-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

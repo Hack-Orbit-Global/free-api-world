@@ -1,0 +1,29 @@
+{
+  "slug": "mangadex-index",
+  "name": "MangaDex",
+  "category": "Index",
+  "description": "Manga Database and Community",
+  "longDescription": "Manga Database and Community",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.mangadex.org/docs.html",
+  "docsUrl": "https://api.mangadex.org/docs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "manga",
+    "database",
+    "and",
+    "community"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.mangadex.org/docs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

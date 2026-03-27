@@ -1,0 +1,30 @@
+{
+  "slug": "1inch-index",
+  "name": "1inch",
+  "category": "Index",
+  "description": "API for querying decentralize exchange",
+  "longDescription": "API for querying decentralize exchange",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://1inch.io/api/",
+  "docsUrl": "https://1inch.io/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "querying",
+    "decentralize",
+    "exchange"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://1inch.io/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

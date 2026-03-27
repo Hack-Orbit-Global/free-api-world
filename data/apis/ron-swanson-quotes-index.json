@@ -1,0 +1,26 @@
+{
+  "slug": "ron-swanson-quotes-index",
+  "name": "Ron Swanson Quotes",
+  "category": "Index",
+  "description": "Television",
+  "longDescription": "Television",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+  "docsUrl": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "television"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

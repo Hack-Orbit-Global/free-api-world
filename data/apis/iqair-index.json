@@ -1,0 +1,30 @@
+{
+  "slug": "iqair-index",
+  "name": "IQAir",
+  "category": "Index",
+  "description": "Air quality and weather data",
+  "longDescription": "Air quality and weather data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.iqair.com/air-pollution-data-api",
+  "docsUrl": "https://www.iqair.com/air-pollution-data-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "air",
+    "quality",
+    "and",
+    "weather",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.iqair.com/air-pollution-data-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

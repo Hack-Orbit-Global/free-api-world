@@ -1,0 +1,28 @@
+{
+  "slug": "deck-of-cards-index",
+  "name": "Deck of Cards",
+  "category": "Index",
+  "description": "Deck of Cards",
+  "longDescription": "Deck of Cards",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://deckofcardsapi.com/",
+  "docsUrl": "http://deckofcardsapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "deck",
+    "of",
+    "cards"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://deckofcardsapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

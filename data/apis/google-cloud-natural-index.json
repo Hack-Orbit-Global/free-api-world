@@ -1,0 +1,33 @@
+{
+  "slug": "google-cloud-natural-index",
+  "name": "Google Cloud Natural",
+  "category": "Index",
+  "description": "Natural language understanding technology, including sentiment, entity and syntax analysis",
+  "longDescription": "Natural language understanding technology, including sentiment, entity and syntax analysis",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cloud.google.com/natural-language/docs/",
+  "docsUrl": "https://cloud.google.com/natural-language/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "natural",
+    "language",
+    "understanding",
+    "technology",
+    "including",
+    "sentiment",
+    "entity",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cloud.google.com/natural-language/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

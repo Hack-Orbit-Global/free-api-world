@@ -1,0 +1,33 @@
+{
+  "slug": "scanii-index",
+  "name": "Scanii",
+  "category": "Index",
+  "description": "Simple REST API that can scan submitted documents/files for the presence of threats",
+  "longDescription": "Simple REST API that can scan submitted documents/files for the presence of threats",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.scanii.com/",
+  "docsUrl": "https://docs.scanii.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "rest",
+    "api",
+    "that",
+    "can",
+    "scan",
+    "submitted",
+    "documents"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.scanii.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

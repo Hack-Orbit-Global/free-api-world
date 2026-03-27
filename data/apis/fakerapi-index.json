@@ -1,0 +1,31 @@
+{
+  "slug": "fakerapi-index",
+  "name": "FakerAPI",
+  "category": "Index",
+  "description": "APIs collection to get fake data",
+  "longDescription": "APIs collection to get fake data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://fakerapi.it/en",
+  "docsUrl": "https://fakerapi.it/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "apis",
+    "collection",
+    "to",
+    "get",
+    "fake",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://fakerapi.it/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

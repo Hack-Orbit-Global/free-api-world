@@ -1,0 +1,30 @@
+{
+  "slug": "scraperapi-index",
+  "name": "ScraperApi",
+  "category": "Index",
+  "description": "Easily build scalable web scrapers",
+  "longDescription": "Easily build scalable web scrapers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.scraperapi.com",
+  "docsUrl": "https://www.scraperapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easily",
+    "build",
+    "scalable",
+    "web",
+    "scrapers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.scraperapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

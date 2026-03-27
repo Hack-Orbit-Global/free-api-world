@@ -1,0 +1,33 @@
+{
+  "slug": "fingerprintjs-pro-index",
+  "name": "FingerprintJS Pro",
+  "category": "Index",
+  "description": "Fraud detection API offering highly accurate browser fingerprinting",
+  "longDescription": "Fraud detection API offering highly accurate browser fingerprinting",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.fingerprintjs.com/docs",
+  "docsUrl": "https://dev.fingerprintjs.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fraud",
+    "detection",
+    "api",
+    "offering",
+    "highly",
+    "accurate",
+    "browser",
+    "fingerprinting"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.fingerprintjs.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

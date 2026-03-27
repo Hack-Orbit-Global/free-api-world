@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-index",
+  "name": "Covid-19",
+  "category": "Index",
+  "description": "Covid 19 cases, deaths and recovery per country",
+  "longDescription": "Covid 19 cases, deaths and recovery per country",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/M-Media-Group/Covid-19-API",
+  "docsUrl": "https://github.com/M-Media-Group/Covid-19-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "covid",
+    "19",
+    "cases",
+    "deaths",
+    "and",
+    "recovery",
+    "per",
+    "country"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/M-Media-Group/Covid-19-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "whatpulse-index",
+  "name": "WhatPulse",
+  "category": "Index",
+  "description": "Small application that measures your keyboard/mouse usage",
+  "longDescription": "Small application that measures your keyboard/mouse usage",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.whatpulse.org/#web-api",
+  "docsUrl": "https://developer.whatpulse.org/#web-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "small",
+    "application",
+    "that",
+    "measures",
+    "your",
+    "keyboard",
+    "mouse",
+    "usage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.whatpulse.org/#web-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

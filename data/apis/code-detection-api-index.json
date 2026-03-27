@@ -1,0 +1,33 @@
+{
+  "slug": "code-detection-api-index",
+  "name": "Code Detection API",
+  "category": "Index",
+  "description": "Detect, label, format and enrich the code in your app or in your data pipeline",
+  "longDescription": "Detect, label, format and enrich the code in your app or in your data pipeline",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://codedetectionapi.runtime.dev",
+  "docsUrl": "https://codedetectionapi.runtime.dev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "detect",
+    "label",
+    "format",
+    "and",
+    "enrich",
+    "the",
+    "code",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://codedetectionapi.runtime.dev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "fishwatch-index",
+  "name": "FishWatch",
+  "category": "Index",
+  "description": "Information and pictures about individual fish species",
+  "longDescription": "Information and pictures about individual fish species",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.fishwatch.gov/developers",
+  "docsUrl": "https://www.fishwatch.gov/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "information",
+    "and",
+    "pictures",
+    "about",
+    "individual",
+    "fish",
+    "species"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.fishwatch.gov/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

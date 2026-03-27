@@ -1,0 +1,31 @@
+{
+  "slug": "jsonplaceholder-index",
+  "name": "JSONPlaceholder",
+  "category": "Index",
+  "description": "Fake data for testing and prototyping",
+  "longDescription": "Fake data for testing and prototyping",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://jsonplaceholder.typicode.com/",
+  "docsUrl": "http://jsonplaceholder.typicode.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fake",
+    "data",
+    "for",
+    "testing",
+    "and",
+    "prototyping"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://jsonplaceholder.typicode.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

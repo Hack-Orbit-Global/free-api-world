@@ -1,0 +1,33 @@
+{
+  "slug": "suredbits-index",
+  "name": "SuredBits",
+  "category": "Index",
+  "description": "Query sports data, including teams, players, games, scores and statistics",
+  "longDescription": "Query sports data, including teams, players, games, scores and statistics",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://suredbits.com/api/",
+  "docsUrl": "https://suredbits.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "query",
+    "sports",
+    "data",
+    "including",
+    "teams",
+    "players",
+    "games",
+    "scores"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://suredbits.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

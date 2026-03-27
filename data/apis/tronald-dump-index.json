@@ -1,0 +1,33 @@
+{
+  "slug": "tronald-dump-index",
+  "name": "Tronald Dump",
+  "category": "Index",
+  "description": "The dumbest things Donald Trump has ever said",
+  "longDescription": "The dumbest things Donald Trump has ever said",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.tronalddump.io/",
+  "docsUrl": "https://www.tronalddump.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "dumbest",
+    "things",
+    "donald",
+    "trump",
+    "has",
+    "ever",
+    "said"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.tronalddump.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

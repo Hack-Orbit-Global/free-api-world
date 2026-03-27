@@ -1,0 +1,27 @@
+{
+  "slug": "cryptocompare-index",
+  "name": "CryptoCompare",
+  "category": "Index",
+  "description": "Cryptocurrencies Comparison",
+  "longDescription": "Cryptocurrencies Comparison",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cryptocompare.com/api#",
+  "docsUrl": "https://www.cryptocompare.com/api#",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "comparison"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cryptocompare.com/api#",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

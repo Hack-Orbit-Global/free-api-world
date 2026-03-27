@@ -1,0 +1,33 @@
+{
+  "slug": "digi-key-index",
+  "name": "Digi-Key",
+  "category": "Index",
+  "description": "Retrieve price and inventory of electronic components as well as place orders",
+  "longDescription": "Retrieve price and inventory of electronic components as well as place orders",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.digikey.com/en/resources/api-solutions",
+  "docsUrl": "https://www.digikey.com/en/resources/api-solutions",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "price",
+    "and",
+    "inventory",
+    "of",
+    "electronic",
+    "components",
+    "as"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.digikey.com/en/resources/api-solutions",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

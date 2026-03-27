@@ -1,0 +1,33 @@
+{
+  "slug": "facebook-index",
+  "name": "Facebook",
+  "category": "Index",
+  "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+  "longDescription": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.facebook.com/",
+  "docsUrl": "https://developers.facebook.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "facebook",
+    "login",
+    "share",
+    "on",
+    "fb",
+    "social",
+    "plugins",
+    "analytics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.facebook.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

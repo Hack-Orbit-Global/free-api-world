@@ -1,0 +1,33 @@
+{
+  "slug": "sentiment-analysis-index",
+  "name": "Sentiment Analysis",
+  "category": "Index",
+  "description": "Multilingual sentiment analysis of texts from different sources",
+  "longDescription": "Multilingual sentiment analysis of texts from different sources",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.meaningcloud.com/developer/sentiment-analysis",
+  "docsUrl": "https://www.meaningcloud.com/developer/sentiment-analysis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "multilingual",
+    "sentiment",
+    "analysis",
+    "of",
+    "texts",
+    "from",
+    "different",
+    "sources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.meaningcloud.com/developer/sentiment-analysis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

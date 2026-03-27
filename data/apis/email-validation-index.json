@@ -1,0 +1,32 @@
+{
+  "slug": "email-validation-index",
+  "name": "Email Validation",
+  "category": "Index",
+  "description": "Validate email addresses for deliverability and spam",
+  "longDescription": "Validate email addresses for deliverability and spam",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.abstractapi.com/email-verification-validation-api",
+  "docsUrl": "https://www.abstractapi.com/email-verification-validation-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "email",
+    "addresses",
+    "for",
+    "deliverability",
+    "and",
+    "spam"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.abstractapi.com/email-verification-validation-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

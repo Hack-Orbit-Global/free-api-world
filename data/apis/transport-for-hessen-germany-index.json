@@ -1,0 +1,31 @@
+{
+  "slug": "transport-for-hessen-germany-index",
+  "name": "Transport for Hessen, Germany",
+  "category": "Index",
+  "description": "RMV API (Public Transport in Hessen)",
+  "longDescription": "RMV API (Public Transport in Hessen)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opendata.rmv.de/site/start.html",
+  "docsUrl": "https://opendata.rmv.de/site/start.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rmv",
+    "api",
+    "public",
+    "transport",
+    "in",
+    "hessen"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.rmv.de/site/start.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

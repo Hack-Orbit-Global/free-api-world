@@ -1,0 +1,28 @@
+{
+  "slug": "motivational-quotes-index",
+  "name": "Motivational Quotes",
+  "category": "Index",
+  "description": "Random Motivational Quotes",
+  "longDescription": "Random Motivational Quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nodejs-quoteapp.herokuapp.com/",
+  "docsUrl": "https://nodejs-quoteapp.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "motivational",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nodejs-quoteapp.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

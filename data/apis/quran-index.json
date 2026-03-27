@@ -1,0 +1,31 @@
+{
+  "slug": "quran-index",
+  "name": "Quran",
+  "category": "Index",
+  "description": "RESTful Quran API with multiple languages",
+  "longDescription": "RESTful Quran API with multiple languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quran.api-docs.io/",
+  "docsUrl": "https://quran.api-docs.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "restful",
+    "quran",
+    "api",
+    "with",
+    "multiple",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quran.api-docs.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

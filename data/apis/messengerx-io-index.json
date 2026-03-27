@@ -1,0 +1,33 @@
+{
+  "slug": "messengerx-io-index",
+  "name": "MessengerX.io",
+  "category": "Index",
+  "description": "A FREE API for developers to build and monetize personalized ML based chat apps",
+  "longDescription": "A FREE API for developers to build and monetize personalized ML based chat apps",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://messengerx.rtfd.io",
+  "docsUrl": "https://messengerx.rtfd.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "free",
+    "api",
+    "for",
+    "developers",
+    "to",
+    "build",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://messengerx.rtfd.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

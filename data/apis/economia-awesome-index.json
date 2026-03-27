@@ -1,0 +1,33 @@
+{
+  "slug": "economia-awesome-index",
+  "name": "Economia.Awesome",
+  "category": "Index",
+  "description": "Portuguese free currency prices and conversion with no rate limits",
+  "longDescription": "Portuguese free currency prices and conversion with no rate limits",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.awesomeapi.com.br/api-de-moedas",
+  "docsUrl": "https://docs.awesomeapi.com.br/api-de-moedas",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "portuguese",
+    "free",
+    "currency",
+    "prices",
+    "and",
+    "conversion",
+    "with",
+    "no"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.awesomeapi.com.br/api-de-moedas",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

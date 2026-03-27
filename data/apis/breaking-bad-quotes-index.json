@@ -1,0 +1,29 @@
+{
+  "slug": "breaking-bad-quotes-index",
+  "name": "Breaking Bad Quotes",
+  "category": "Index",
+  "description": "Some Breaking Bad quotes",
+  "longDescription": "Some Breaking Bad quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/shevabam/breaking-bad-quotes",
+  "docsUrl": "https://github.com/shevabam/breaking-bad-quotes",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "some",
+    "breaking",
+    "bad",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/shevabam/breaking-bad-quotes",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

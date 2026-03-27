@@ -1,0 +1,31 @@
+{
+  "slug": "french-address-search-index",
+  "name": "French Address Search",
+  "category": "Index",
+  "description": "Address search via the French Government",
+  "longDescription": "Address search via the French Government",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geo.api.gouv.fr/adresse",
+  "docsUrl": "https://geo.api.gouv.fr/adresse",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "address",
+    "search",
+    "via",
+    "the",
+    "french",
+    "government"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geo.api.gouv.fr/adresse",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

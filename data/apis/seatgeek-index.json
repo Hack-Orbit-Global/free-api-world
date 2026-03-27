@@ -1,0 +1,30 @@
+{
+  "slug": "seatgeek-index",
+  "name": "SeatGeek",
+  "category": "Index",
+  "description": "Search events, venues and performers",
+  "longDescription": "Search events, venues and performers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://platform.seatgeek.com/",
+  "docsUrl": "https://platform.seatgeek.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "events",
+    "venues",
+    "and",
+    "performers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://platform.seatgeek.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

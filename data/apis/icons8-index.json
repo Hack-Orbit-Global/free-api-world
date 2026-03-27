@@ -1,0 +1,32 @@
+{
+  "slug": "icons8-index",
+  "name": "Icons8",
+  "category": "Index",
+  "description": "Icons (find \"search icon\" hyperlink in page)",
+  "longDescription": "Icons (find \"search icon\" hyperlink in page)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://img.icons8.com/",
+  "docsUrl": "https://img.icons8.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "icons",
+    "find",
+    "search",
+    "icon",
+    "hyperlink",
+    "in",
+    "page"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://img.icons8.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

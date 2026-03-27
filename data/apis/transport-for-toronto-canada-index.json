@@ -1,0 +1,26 @@
+{
+  "slug": "transport-for-toronto-canada-index",
+  "name": "Transport for Toronto, Canada",
+  "category": "Index",
+  "description": "TTC",
+  "longDescription": "TTC",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://myttc.ca/developers",
+  "docsUrl": "https://myttc.ca/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ttc"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://myttc.ca/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

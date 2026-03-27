@@ -1,0 +1,30 @@
+{
+  "slug": "vector-express-v2-0-index",
+  "name": "Vector Express v2.0",
+  "category": "Index",
+  "description": "Free vector file converting API",
+  "longDescription": "Free vector file converting API",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://vector.express",
+  "docsUrl": "https://vector.express",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "vector",
+    "file",
+    "converting",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vector.express",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

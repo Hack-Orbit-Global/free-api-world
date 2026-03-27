@@ -1,0 +1,33 @@
+{
+  "slug": "geokeo-index",
+  "name": "Geokeo",
+  "category": "Index",
+  "description": "Geokeo geocoding service- with 2500 free api requests daily",
+  "longDescription": "Geokeo geocoding service- with 2500 free api requests daily",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geokeo.com",
+  "docsUrl": "https://geokeo.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "geokeo",
+    "geocoding",
+    "service",
+    "with",
+    "2500",
+    "free",
+    "api",
+    "requests"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geokeo.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "purgomalum-index",
+  "name": "PurgoMalum",
+  "category": "Index",
+  "description": "Content validator against profanity & obscenity",
+  "longDescription": "Content validator against profanity & obscenity",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.purgomalum.com",
+  "docsUrl": "http://www.purgomalum.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "content",
+    "validator",
+    "against",
+    "profanity",
+    "obscenity"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.purgomalum.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

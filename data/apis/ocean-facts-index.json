@@ -1,0 +1,33 @@
+{
+  "slug": "ocean-facts-index",
+  "name": "Ocean Facts",
+  "category": "Index",
+  "description": "Facts pertaining to the physical science of Oceanography",
+  "longDescription": "Facts pertaining to the physical science of Oceanography",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://oceanfacts.herokuapp.com/",
+  "docsUrl": "https://oceanfacts.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "facts",
+    "pertaining",
+    "to",
+    "the",
+    "physical",
+    "science",
+    "of",
+    "oceanography"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://oceanfacts.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

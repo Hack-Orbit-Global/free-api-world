@@ -1,0 +1,31 @@
+{
+  "slug": "api-football-index",
+  "name": "API-FOOTBALL",
+  "category": "Index",
+  "description": "Get information about Football Leagues & Cups",
+  "longDescription": "Get information about Football Leagues & Cups",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.api-football.com/documentation-v3",
+  "docsUrl": "https://www.api-football.com/documentation-v3",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "information",
+    "about",
+    "football",
+    "leagues",
+    "cups"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.api-football.com/documentation-v3",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

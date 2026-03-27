@@ -1,0 +1,33 @@
+{
+  "slug": "chucknorris-io-index",
+  "name": "chucknorris.io",
+  "category": "Index",
+  "description": "JSON API for hand curated Chuck Norris jokes",
+  "longDescription": "JSON API for hand curated Chuck Norris jokes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.chucknorris.io",
+  "docsUrl": "https://api.chucknorris.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "json",
+    "api",
+    "for",
+    "hand",
+    "curated",
+    "chuck",
+    "norris",
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.chucknorris.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

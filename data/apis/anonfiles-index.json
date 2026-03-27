@@ -1,0 +1,31 @@
+{
+  "slug": "anonfiles-index",
+  "name": "AnonFiles",
+  "category": "Index",
+  "description": "Upload and share your files anonymously",
+  "longDescription": "Upload and share your files anonymously",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://anonfiles.com/docs/api",
+  "docsUrl": "https://anonfiles.com/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "upload",
+    "and",
+    "share",
+    "your",
+    "files",
+    "anonymously"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://anonfiles.com/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

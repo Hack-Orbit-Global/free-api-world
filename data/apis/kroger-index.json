@@ -1,0 +1,27 @@
+{
+  "slug": "kroger-index",
+  "name": "Kroger",
+  "category": "Index",
+  "description": "Supermarket Data",
+  "longDescription": "Supermarket Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.kroger.com/reference",
+  "docsUrl": "https://developer.kroger.com/reference",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "supermarket",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.kroger.com/reference",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

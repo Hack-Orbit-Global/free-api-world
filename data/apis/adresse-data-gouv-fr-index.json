@@ -1,0 +1,32 @@
+{
+  "slug": "adresse-data-gouv-fr-index",
+  "name": "adresse.data.gouv.fr",
+  "category": "Index",
+  "description": "Address database of France, geocoding and reverse",
+  "longDescription": "Address database of France, geocoding and reverse",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://adresse.data.gouv.fr",
+  "docsUrl": "https://adresse.data.gouv.fr",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "address",
+    "database",
+    "of",
+    "france",
+    "geocoding",
+    "and",
+    "reverse"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://adresse.data.gouv.fr",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

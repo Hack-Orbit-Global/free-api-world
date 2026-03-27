@@ -1,0 +1,33 @@
+{
+  "slug": "idigbio-index",
+  "name": "iDigBio",
+  "category": "Index",
+  "description": "Access millions of museum specimens from organizations around the world",
+  "longDescription": "Access millions of museum specimens from organizations around the world",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/idigbio/idigbio-search-api/wiki",
+  "docsUrl": "https://github.com/idigbio/idigbio-search-api/wiki",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "millions",
+    "of",
+    "museum",
+    "specimens",
+    "from",
+    "organizations",
+    "around"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/idigbio/idigbio-search-api/wiki",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

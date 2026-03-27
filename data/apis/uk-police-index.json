@@ -1,0 +1,28 @@
+{
+  "slug": "uk-police-index",
+  "name": "UK Police",
+  "category": "Index",
+  "description": "UK Police data",
+  "longDescription": "UK Police data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.police.uk/docs/",
+  "docsUrl": "https://data.police.uk/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "uk",
+    "police",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.police.uk/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

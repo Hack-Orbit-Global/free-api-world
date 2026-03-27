@@ -1,0 +1,30 @@
+{
+  "slug": "peakmetrics-index",
+  "name": "PeakMetrics",
+  "category": "Index",
+  "description": "News articles and public datasets",
+  "longDescription": "News articles and public datasets",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news",
+  "docsUrl": "https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "news",
+    "articles",
+    "and",
+    "public",
+    "datasets"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

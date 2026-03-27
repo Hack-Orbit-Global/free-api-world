@@ -1,0 +1,33 @@
+{
+  "slug": "dune-index",
+  "name": "Dune",
+  "category": "Index",
+  "description": "A simple API which provides you with book, character, movie and quotes JSON data",
+  "longDescription": "A simple API which provides you with book, character, movie and quotes JSON data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/ywalia01/dune-api",
+  "docsUrl": "https://github.com/ywalia01/dune-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "api",
+    "which",
+    "provides",
+    "you",
+    "with",
+    "book"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/ywalia01/dune-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

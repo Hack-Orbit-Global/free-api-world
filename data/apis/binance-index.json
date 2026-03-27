@@ -1,0 +1,32 @@
+{
+  "slug": "binance-index",
+  "name": "Binance",
+  "category": "Index",
+  "description": "Exchange for Trading Cryptocurrencies based in China",
+  "longDescription": "Exchange for Trading Cryptocurrencies based in China",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/binance/binance-spot-api-docs",
+  "docsUrl": "https://github.com/binance/binance-spot-api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "exchange",
+    "for",
+    "trading",
+    "cryptocurrencies",
+    "based",
+    "in",
+    "china"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/binance/binance-spot-api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

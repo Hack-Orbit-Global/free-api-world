@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-switzerland-index",
+  "name": "Open Government, Switzerland",
+  "category": "Index",
+  "description": "Switzerland Government Open Data",
+  "longDescription": "Switzerland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html",
+  "docsUrl": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "switzerland",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

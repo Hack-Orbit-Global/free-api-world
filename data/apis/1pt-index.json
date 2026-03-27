@@ -1,0 +1,29 @@
+{
+  "slug": "1pt-index",
+  "name": "1pt",
+  "category": "Index",
+  "description": "A simple URL shortener",
+  "longDescription": "A simple URL shortener",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/1pt-co/api/blob/main/README.md",
+  "docsUrl": "https://github.com/1pt-co/api/blob/main/README.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "url",
+    "shortener"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/1pt-co/api/blob/main/README.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

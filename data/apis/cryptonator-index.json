@@ -1,0 +1,28 @@
+{
+  "slug": "cryptonator-index",
+  "name": "Cryptonator",
+  "category": "Index",
+  "description": "Cryptocurrencies Exchange Rates",
+  "longDescription": "Cryptocurrencies Exchange Rates",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cryptonator.com/api/",
+  "docsUrl": "https://www.cryptonator.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "exchange",
+    "rates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cryptonator.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

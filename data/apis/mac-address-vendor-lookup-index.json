@@ -1,0 +1,33 @@
+{
+  "slug": "mac-address-vendor-lookup-index",
+  "name": "MAC address vendor lookup",
+  "category": "Index",
+  "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+  "longDescription": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://macaddress.io/api",
+  "docsUrl": "https://macaddress.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "vendor",
+    "details",
+    "and",
+    "other",
+    "information",
+    "regarding",
+    "a"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://macaddress.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

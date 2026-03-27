@@ -1,0 +1,33 @@
+{
+  "slug": "minecraft-server-status-index",
+  "name": "Minecraft Server Status",
+  "category": "Index",
+  "description": "API to get Information about a Minecraft Server",
+  "longDescription": "API to get Information about a Minecraft Server",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://api.mcsrvstat.us",
+  "docsUrl": "https://api.mcsrvstat.us",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "get",
+    "information",
+    "about",
+    "a",
+    "minecraft",
+    "server"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.mcsrvstat.us",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "owen-wilson-wow-index",
+  "name": "Owen Wilson Wow",
+  "category": "Index",
+  "description": "API for actor Owen Wilson's \"wow\" exclamations in movies",
+  "longDescription": "API for actor Owen Wilson's \"wow\" exclamations in movies",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://owen-wilson-wow-api.herokuapp.com",
+  "docsUrl": "https://owen-wilson-wow-api.herokuapp.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "actor",
+    "owen",
+    "wilson",
+    "s",
+    "wow",
+    "exclamations"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://owen-wilson-wow-api.herokuapp.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

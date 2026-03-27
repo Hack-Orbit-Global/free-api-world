@@ -1,0 +1,32 @@
+{
+  "slug": "geocodify-com-index",
+  "name": "Geocodify.com",
+  "category": "Index",
+  "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+  "longDescription": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geocodify.com/",
+  "docsUrl": "https://geocodify.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "worldwide",
+    "geocoding",
+    "geoparsing",
+    "and",
+    "autocomplete",
+    "for",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geocodify.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

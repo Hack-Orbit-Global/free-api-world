@@ -1,0 +1,32 @@
+{
+  "slug": "psychonauts-index",
+  "name": "Psychonauts",
+  "category": "Index",
+  "description": "Psychonauts World Characters Information and PSI Powers",
+  "longDescription": "Psychonauts World Characters Information and PSI Powers",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://psychonauts-api.netlify.app/",
+  "docsUrl": "https://psychonauts-api.netlify.app/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "psychonauts",
+    "world",
+    "characters",
+    "information",
+    "and",
+    "psi",
+    "powers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://psychonauts-api.netlify.app/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

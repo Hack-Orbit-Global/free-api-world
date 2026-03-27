@@ -1,0 +1,33 @@
+{
+  "slug": "best-buy-index",
+  "name": "Best Buy",
+  "category": "Index",
+  "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+  "longDescription": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bestbuyapis.github.io/api-documentation/#overview",
+  "docsUrl": "https://bestbuyapis.github.io/api-documentation/#overview",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "products",
+    "buying",
+    "options",
+    "categories",
+    "recommendations",
+    "stores",
+    "and",
+    "commerce"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bestbuyapis.github.io/api-documentation/#overview",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

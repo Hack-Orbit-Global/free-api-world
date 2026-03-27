@@ -1,0 +1,33 @@
+{
+  "slug": "sawo-labs-index",
+  "name": "SAWO Labs",
+  "category": "Index",
+  "description": "Simplify login and improve user experience by integrating passwordless authentication in your app",
+  "longDescription": "Simplify login and improve user experience by integrating passwordless authentication in your app",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sawolabs.com",
+  "docsUrl": "https://sawolabs.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simplify",
+    "login",
+    "and",
+    "improve",
+    "user",
+    "experience",
+    "by",
+    "integrating"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sawolabs.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

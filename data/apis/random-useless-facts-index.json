@@ -1,0 +1,30 @@
+{
+  "slug": "random-useless-facts-index",
+  "name": "Random Useless Facts",
+  "category": "Index",
+  "description": "Get useless, but true facts",
+  "longDescription": "Get useless, but true facts",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://uselessfacts.jsph.pl/",
+  "docsUrl": "https://uselessfacts.jsph.pl/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "useless",
+    "but",
+    "true",
+    "facts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://uselessfacts.jsph.pl/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

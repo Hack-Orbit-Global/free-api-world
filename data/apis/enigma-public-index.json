@@ -1,0 +1,30 @@
+{
+  "slug": "enigma-public-index",
+  "name": "Enigma Public",
+  "category": "Index",
+  "description": "Broadest collection of public data",
+  "longDescription": "Broadest collection of public data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.enigma.com/docs",
+  "docsUrl": "https://developers.enigma.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "broadest",
+    "collection",
+    "of",
+    "public",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.enigma.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "placebear-index",
+  "name": "PlaceBear",
+  "category": "Index",
+  "description": "Placeholder bear pictures",
+  "longDescription": "Placeholder bear pictures",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://placebear.com/",
+  "docsUrl": "https://placebear.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "placeholder",
+    "bear",
+    "pictures"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://placebear.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

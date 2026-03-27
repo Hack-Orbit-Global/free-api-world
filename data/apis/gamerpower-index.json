@@ -1,0 +1,28 @@
+{
+  "slug": "gamerpower-index",
+  "name": "GamerPower",
+  "category": "Index",
+  "description": "Game Giveaways Tracker",
+  "longDescription": "Game Giveaways Tracker",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.gamerpower.com/api-read",
+  "docsUrl": "https://www.gamerpower.com/api-read",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "game",
+    "giveaways",
+    "tracker"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.gamerpower.com/api-read",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

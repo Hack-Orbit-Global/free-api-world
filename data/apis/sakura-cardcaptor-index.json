@@ -1,0 +1,29 @@
+{
+  "slug": "sakura-cardcaptor-index",
+  "name": "Sakura CardCaptor",
+  "category": "Index",
+  "description": "Sakura CardCaptor Cards Information",
+  "longDescription": "Sakura CardCaptor Cards Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/JessVel/sakura-card-captor-api",
+  "docsUrl": "https://github.com/JessVel/sakura-card-captor-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sakura",
+    "cardcaptor",
+    "cards",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/JessVel/sakura-card-captor-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

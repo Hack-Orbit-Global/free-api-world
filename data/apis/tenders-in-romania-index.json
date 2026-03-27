@@ -1,0 +1,33 @@
+{
+  "slug": "tenders-in-romania-index",
+  "name": "Tenders in Romania",
+  "category": "Index",
+  "description": "Get data for procurements in Romania in JSON format",
+  "longDescription": "Get data for procurements in Romania in JSON format",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tenders.guru/ro/api",
+  "docsUrl": "https://tenders.guru/ro/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "data",
+    "for",
+    "procurements",
+    "in",
+    "romania",
+    "json",
+    "format"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tenders.guru/ro/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

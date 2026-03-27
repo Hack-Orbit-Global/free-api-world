@@ -1,0 +1,33 @@
+{
+  "slug": "the-dog-index",
+  "name": "The Dog",
+  "category": "Index",
+  "description": "A public service all about Dogs, free to use when making your fancy new App, Website or Service",
+  "longDescription": "A public service all about Dogs, free to use when making your fancy new App, Website or Service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://thedogapi.com/",
+  "docsUrl": "https://thedogapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "public",
+    "service",
+    "all",
+    "about",
+    "dogs",
+    "free",
+    "to"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://thedogapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

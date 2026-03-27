@@ -1,0 +1,32 @@
+{
+  "slug": "geographql-index",
+  "name": "GeographQL",
+  "category": "Index",
+  "description": "A Country, State, and City GraphQL API",
+  "longDescription": "A Country, State, and City GraphQL API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geographql.netlify.app",
+  "docsUrl": "https://geographql.netlify.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "country",
+    "state",
+    "and",
+    "city",
+    "graphql",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geographql.netlify.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

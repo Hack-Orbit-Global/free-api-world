@@ -1,0 +1,33 @@
+{
+  "slug": "bhagavad-gita-telugu-index",
+  "name": "Bhagavad Gita telugu",
+  "category": "Index",
+  "description": "Bhagavad Gita API in telugu and odia languages",
+  "longDescription": "Bhagavad Gita API in telugu and odia languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gita-api.vercel.app",
+  "docsUrl": "https://gita-api.vercel.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bhagavad",
+    "gita",
+    "api",
+    "in",
+    "telugu",
+    "and",
+    "odia",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gita-api.vercel.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

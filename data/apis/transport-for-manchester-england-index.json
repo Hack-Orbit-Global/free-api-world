@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-manchester-england-index",
+  "name": "Transport for Manchester, England",
+  "category": "Index",
+  "description": "TfGM transport network data",
+  "longDescription": "TfGM transport network data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://developer.tfgm.com/",
+  "docsUrl": "https://developer.tfgm.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tfgm",
+    "transport",
+    "network",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.tfgm.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

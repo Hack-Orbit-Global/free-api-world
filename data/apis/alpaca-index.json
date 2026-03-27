@@ -1,0 +1,33 @@
+{
+  "slug": "alpaca-index",
+  "name": "Alpaca",
+  "category": "Index",
+  "description": "Realtime and historical market data on all US equities and ETFs",
+  "longDescription": "Realtime and historical market data on all US equities and ETFs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/",
+  "docsUrl": "https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "realtime",
+    "and",
+    "historical",
+    "market",
+    "data",
+    "on",
+    "all",
+    "us"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

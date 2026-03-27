@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-chicago-us-index",
+  "name": "Transport for Chicago, US",
+  "category": "Index",
+  "description": "Chicago Transit Authority (CTA)",
+  "longDescription": "Chicago Transit Authority (CTA)",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.transitchicago.com/developers/",
+  "docsUrl": "http://www.transitchicago.com/developers/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "chicago",
+    "transit",
+    "authority",
+    "cta"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.transitchicago.com/developers/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

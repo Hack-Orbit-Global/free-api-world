@@ -1,0 +1,30 @@
+{
+  "slug": "inspirehep-net-index",
+  "name": "inspirehep.net",
+  "category": "Index",
+  "description": "High Energy Physics info. system",
+  "longDescription": "High Energy Physics info. system",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/inspirehep/rest-api-doc",
+  "docsUrl": "https://github.com/inspirehep/rest-api-doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "high",
+    "energy",
+    "physics",
+    "info",
+    "system"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/inspirehep/rest-api-doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

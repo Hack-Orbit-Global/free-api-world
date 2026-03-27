@@ -1,0 +1,26 @@
+{
+  "slug": "metaweather-index",
+  "name": "MetaWeather",
+  "category": "Index",
+  "description": "Weather",
+  "longDescription": "Weather",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.metaweather.com/api/",
+  "docsUrl": "https://www.metaweather.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.metaweather.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

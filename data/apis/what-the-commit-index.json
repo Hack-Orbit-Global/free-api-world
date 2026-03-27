@@ -1,0 +1,29 @@
+{
+  "slug": "what-the-commit-index",
+  "name": "What The Commit",
+  "category": "Index",
+  "description": "Random commit message generator",
+  "longDescription": "Random commit message generator",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://whatthecommit.com/index.txt",
+  "docsUrl": "http://whatthecommit.com/index.txt",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "commit",
+    "message",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://whatthecommit.com/index.txt",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

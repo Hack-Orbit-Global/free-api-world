@@ -1,0 +1,32 @@
+{
+  "slug": "spacetradersapi-index",
+  "name": "SpaceTradersAPI",
+  "category": "Index",
+  "description": "A playable inter-galactic space trading MMOAPI",
+  "longDescription": "A playable inter-galactic space trading MMOAPI",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://spacetraders.io?rel=pub-apis",
+  "docsUrl": "https://spacetraders.io?rel=pub-apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "playable",
+    "inter",
+    "galactic",
+    "space",
+    "trading",
+    "mmoapi"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://spacetraders.io?rel=pub-apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

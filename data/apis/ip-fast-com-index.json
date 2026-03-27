@@ -1,0 +1,30 @@
+{
+  "slug": "ip-fast-com-index",
+  "name": "ip-fast.com",
+  "category": "Index",
+  "description": "IP address, country and city",
+  "longDescription": "IP address, country and city",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ip-fast.com/docs/",
+  "docsUrl": "https://ip-fast.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ip",
+    "address",
+    "country",
+    "and",
+    "city"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ip-fast.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

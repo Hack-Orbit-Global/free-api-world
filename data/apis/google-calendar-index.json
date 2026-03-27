@@ -1,0 +1,32 @@
+{
+  "slug": "google-calendar-index",
+  "name": "Google Calendar",
+  "category": "Index",
+  "description": "Display, create and modify Google calendar events",
+  "longDescription": "Display, create and modify Google calendar events",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.google.com/google-apps/calendar/",
+  "docsUrl": "https://developers.google.com/google-apps/calendar/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "display",
+    "create",
+    "and",
+    "modify",
+    "google",
+    "calendar",
+    "events"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.google.com/google-apps/calendar/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "watchmode-index",
+  "name": "Watchmode",
+  "category": "Index",
+  "description": "API for finding out the streaming availability of movies & shows",
+  "longDescription": "API for finding out the streaming availability of movies & shows",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.watchmode.com/",
+  "docsUrl": "https://api.watchmode.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "finding",
+    "out",
+    "the",
+    "streaming",
+    "availability",
+    "of"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.watchmode.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

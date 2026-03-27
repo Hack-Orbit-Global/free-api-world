@@ -1,0 +1,30 @@
+{
+  "slug": "xkcd-index",
+  "name": "xkcd",
+  "category": "Index",
+  "description": "Retrieve xkcd comics as JSON",
+  "longDescription": "Retrieve xkcd comics as JSON",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://xkcd.com/json.html",
+  "docsUrl": "https://xkcd.com/json.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "xkcd",
+    "comics",
+    "as",
+    "json"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://xkcd.com/json.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

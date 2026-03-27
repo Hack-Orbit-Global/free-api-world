@@ -1,0 +1,30 @@
+{
+  "slug": "ziprecruiter-index",
+  "name": "ZipRecruiter",
+  "category": "Index",
+  "description": "Job search app and website",
+  "longDescription": "Job search app and website",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ziprecruiter.com/publishers",
+  "docsUrl": "https://www.ziprecruiter.com/publishers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "job",
+    "search",
+    "app",
+    "and",
+    "website"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ziprecruiter.com/publishers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

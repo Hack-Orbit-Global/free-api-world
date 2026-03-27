@@ -1,0 +1,32 @@
+{
+  "slug": "opensensemap-index",
+  "name": "openSenseMap",
+  "category": "Index",
+  "description": "Data from Personal Weather Stations called senseBoxes",
+  "longDescription": "Data from Personal Weather Stations called senseBoxes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.opensensemap.org/",
+  "docsUrl": "https://api.opensensemap.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "from",
+    "personal",
+    "weather",
+    "stations",
+    "called",
+    "senseboxes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.opensensemap.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

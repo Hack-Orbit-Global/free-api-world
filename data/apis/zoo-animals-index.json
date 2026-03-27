@@ -1,0 +1,31 @@
+{
+  "slug": "zoo-animals-index",
+  "name": "Zoo Animals",
+  "category": "Index",
+  "description": "Facts and pictures of zoo animals",
+  "longDescription": "Facts and pictures of zoo animals",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://zoo-animal-api.herokuapp.com/",
+  "docsUrl": "https://zoo-animal-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "facts",
+    "and",
+    "pictures",
+    "of",
+    "zoo",
+    "animals"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://zoo-animal-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

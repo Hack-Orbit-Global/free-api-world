@@ -1,0 +1,29 @@
+{
+  "slug": "pm25-in-index",
+  "name": "PM25.in",
+  "category": "Index",
+  "description": "Air quality of China",
+  "longDescription": "Air quality of China",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.pm25.in/api_doc",
+  "docsUrl": "http://www.pm25.in/api_doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "air",
+    "quality",
+    "of",
+    "china"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.pm25.in/api_doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

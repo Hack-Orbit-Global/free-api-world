@@ -1,0 +1,31 @@
+{
+  "slug": "boston-mbta-transit-index",
+  "name": "Boston MBTA Transit",
+  "category": "Index",
+  "description": "Stations and predicted arrivals for MBTA",
+  "longDescription": "Stations and predicted arrivals for MBTA",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mbta.com/developers/v3-api",
+  "docsUrl": "https://www.mbta.com/developers/v3-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "stations",
+    "and",
+    "predicted",
+    "arrivals",
+    "for",
+    "mbta"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mbta.com/developers/v3-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

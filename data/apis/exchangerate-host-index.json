@@ -1,0 +1,31 @@
+{
+  "slug": "exchangerate-host-index",
+  "name": "Exchangerate.host",
+  "category": "Index",
+  "description": "Free foreign exchange & crypto rates API",
+  "longDescription": "Free foreign exchange & crypto rates API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "foreign",
+    "exchange",
+    "crypto",
+    "rates",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "okex-index",
+  "name": "OKEx",
+  "category": "Index",
+  "description": "Cryptocurrency exchange based in Seychelles",
+  "longDescription": "Cryptocurrency exchange based in Seychelles",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.okex.com/docs/",
+  "docsUrl": "https://www.okex.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "exchange",
+    "based",
+    "in",
+    "seychelles"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.okex.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

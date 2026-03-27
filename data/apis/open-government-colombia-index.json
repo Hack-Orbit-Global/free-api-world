@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-colombia-index",
+  "name": "Open Government, Colombia",
+  "category": "Index",
+  "description": "Colombia Government Open Data",
+  "longDescription": "Colombia Government Open Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://www.dane.gov.co/",
+  "docsUrl": "https://www.dane.gov.co/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "colombia",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.dane.gov.co/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

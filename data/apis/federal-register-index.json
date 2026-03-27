@@ -1,0 +1,32 @@
+{
+  "slug": "federal-register-index",
+  "name": "Federal Register",
+  "category": "Index",
+  "description": "The Daily Journal of the United States Government",
+  "longDescription": "The Daily Journal of the United States Government",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+  "docsUrl": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "daily",
+    "journal",
+    "of",
+    "united",
+    "states",
+    "government"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "numbers-index",
+  "name": "Numbers",
+  "category": "Index",
+  "description": "Facts about numbers",
+  "longDescription": "Facts about numbers",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "http://numbersapi.com",
+  "docsUrl": "http://numbersapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "facts",
+    "about",
+    "numbers"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://numbersapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-graph-index",
+  "name": "The Graph",
+  "category": "Index",
+  "description": "Indexing protocol for querying networks like Ethereum with GraphQL",
+  "longDescription": "Indexing protocol for querying networks like Ethereum with GraphQL",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://thegraph.com",
+  "docsUrl": "https://thegraph.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "indexing",
+    "protocol",
+    "for",
+    "querying",
+    "networks",
+    "like",
+    "ethereum",
+    "with"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://thegraph.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

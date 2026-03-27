@@ -1,0 +1,33 @@
+{
+  "slug": "google-fonts-index",
+  "name": "Google Fonts",
+  "category": "Index",
+  "description": "Metadata for all families served by Google Fonts",
+  "longDescription": "Metadata for all families served by Google Fonts",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.google.com/fonts/docs/developer_api",
+  "docsUrl": "https://developers.google.com/fonts/docs/developer_api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "metadata",
+    "for",
+    "all",
+    "families",
+    "served",
+    "by",
+    "google",
+    "fonts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.google.com/fonts/docs/developer_api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "jobs2careers-index",
+  "name": "Jobs2Careers",
+  "category": "Index",
+  "description": "Job aggregator",
+  "longDescription": "Job aggregator",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://api.jobs2careers.com/api/spec.pdf",
+  "docsUrl": "http://api.jobs2careers.com/api/spec.pdf",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "job",
+    "aggregator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.jobs2careers.com/api/spec.pdf",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

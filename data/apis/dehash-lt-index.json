@@ -1,0 +1,33 @@
+{
+  "slug": "dehash-lt-index",
+  "name": "Dehash.lt",
+  "category": "Index",
+  "description": "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",
+  "longDescription": "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Dehash-lt/api",
+  "docsUrl": "https://github.com/Dehash-lt/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hash",
+    "decryption",
+    "md5",
+    "sha1",
+    "sha3",
+    "sha256",
+    "sha384",
+    "sha512"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Dehash-lt/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

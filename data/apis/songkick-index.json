@@ -1,0 +1,27 @@
+{
+  "slug": "songkick-index",
+  "name": "Songkick",
+  "category": "Index",
+  "description": "Music Events",
+  "longDescription": "Music Events",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.songkick.com/developer/",
+  "docsUrl": "https://www.songkick.com/developer/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music",
+    "events"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.songkick.com/developer/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

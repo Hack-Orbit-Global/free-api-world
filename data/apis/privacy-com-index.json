@@ -1,0 +1,33 @@
+{
+  "slug": "privacy-com-index",
+  "name": "Privacy.com",
+  "category": "Index",
+  "description": "Generate merchant-specific and one-time use credit card numbers that link back to your bank",
+  "longDescription": "Generate merchant-specific and one-time use credit card numbers that link back to your bank",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://privacy.com/developer/docs",
+  "docsUrl": "https://privacy.com/developer/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "merchant",
+    "specific",
+    "and",
+    "one",
+    "time",
+    "use",
+    "credit"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://privacy.com/developer/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

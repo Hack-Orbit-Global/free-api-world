@@ -1,0 +1,29 @@
+{
+  "slug": "mozilla-tls-scanner-index",
+  "name": "Mozilla tls scanner",
+  "category": "Index",
+  "description": "Mozilla observatory tls scanner",
+  "longDescription": "Mozilla observatory tls scanner",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/mozilla/tls-observatory#api-endpoints",
+  "docsUrl": "https://github.com/mozilla/tls-observatory#api-endpoints",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mozilla",
+    "observatory",
+    "tls",
+    "scanner"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/mozilla/tls-observatory#api-endpoints",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

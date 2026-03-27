@@ -1,0 +1,33 @@
+{
+  "slug": "shopee-index",
+  "name": "Shopee",
+  "category": "Index",
+  "description": "Shopee's official API for integration of various services from Shopee",
+  "longDescription": "Shopee's official API for integration of various services from Shopee",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open.shopee.com/documents?version=1",
+  "docsUrl": "https://open.shopee.com/documents?version=1",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "shopee",
+    "s",
+    "official",
+    "api",
+    "for",
+    "integration",
+    "of",
+    "various"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open.shopee.com/documents?version=1",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

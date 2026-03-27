@@ -1,0 +1,32 @@
+{
+  "slug": "ip-api-index",
+  "name": "ip-api",
+  "category": "Index",
+  "description": "Find location with IP address or domain",
+  "longDescription": "Find location with IP address or domain",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://ip-api.com/docs",
+  "docsUrl": "https://ip-api.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "find",
+    "location",
+    "with",
+    "ip",
+    "address",
+    "or",
+    "domain"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ip-api.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

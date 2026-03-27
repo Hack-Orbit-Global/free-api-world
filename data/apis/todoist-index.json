@@ -1,0 +1,27 @@
+{
+  "slug": "todoist-index",
+  "name": "Todoist",
+  "category": "Index",
+  "description": "Todo Lists",
+  "longDescription": "Todo Lists",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.todoist.com",
+  "docsUrl": "https://developer.todoist.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "todo",
+    "lists"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.todoist.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

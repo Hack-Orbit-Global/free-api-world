@@ -1,0 +1,28 @@
+{
+  "slug": "xcolors-index",
+  "name": "xColors",
+  "category": "Index",
+  "description": "Generate & convert colors",
+  "longDescription": "Generate & convert colors",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://x-colors.herokuapp.com/",
+  "docsUrl": "https://x-colors.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "convert",
+    "colors"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://x-colors.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

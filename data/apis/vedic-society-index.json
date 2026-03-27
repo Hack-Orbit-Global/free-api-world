@@ -1,0 +1,33 @@
+{
+  "slug": "vedic-society-index",
+  "name": "Vedic Society",
+  "category": "Index",
+  "description": "Descriptions of all nouns (names, places, animals, things) from vedic literature",
+  "longDescription": "Descriptions of all nouns (names, places, animals, things) from vedic literature",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aninditabasu.github.io/indica/html/vs.html",
+  "docsUrl": "https://aninditabasu.github.io/indica/html/vs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "descriptions",
+    "of",
+    "all",
+    "nouns",
+    "names",
+    "places",
+    "animals",
+    "things"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aninditabasu.github.io/indica/html/vs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "checkiday-national-holiday-api-index",
+  "name": "Checkiday - National Holiday API",
+  "category": "Index",
+  "description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World\u2019s leading companies",
+  "longDescription": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World\u2019s leading companies",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apilayer.com/marketplace/checkiday-api",
+  "docsUrl": "https://apilayer.com/marketplace/checkiday-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "industry",
+    "leading",
+    "holiday",
+    "api",
+    "over",
+    "5",
+    "000",
+    "holidays"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apilayer.com/marketplace/checkiday-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "postman-index",
+  "name": "Postman",
+  "category": "Index",
+  "description": "Tool for testing APIs",
+  "longDescription": "Tool for testing APIs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+  "docsUrl": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tool",
+    "for",
+    "testing",
+    "apis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

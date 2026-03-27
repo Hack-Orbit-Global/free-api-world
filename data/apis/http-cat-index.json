@@ -1,0 +1,30 @@
+{
+  "slug": "http-cat-index",
+  "name": "HTTP Cat",
+  "category": "Index",
+  "description": "Cat for every HTTP Status",
+  "longDescription": "Cat for every HTTP Status",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://http.cat/",
+  "docsUrl": "https://http.cat/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cat",
+    "for",
+    "every",
+    "http",
+    "status"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://http.cat/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

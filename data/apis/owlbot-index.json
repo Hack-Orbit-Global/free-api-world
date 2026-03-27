@@ -1,0 +1,33 @@
+{
+  "slug": "owlbot-index",
+  "name": "OwlBot",
+  "category": "Index",
+  "description": "Definitions with example sentence and photo if available",
+  "longDescription": "Definitions with example sentence and photo if available",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://owlbot.info/",
+  "docsUrl": "https://owlbot.info/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "definitions",
+    "with",
+    "example",
+    "sentence",
+    "and",
+    "photo",
+    "if",
+    "available"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://owlbot.info/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

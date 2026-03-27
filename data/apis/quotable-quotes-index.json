@@ -1,0 +1,33 @@
+{
+  "slug": "quotable-quotes-index",
+  "name": "Quotable Quotes",
+  "category": "Index",
+  "description": "Quotable is a free, open source quotations API",
+  "longDescription": "Quotable is a free, open source quotations API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/lukePeavey/quotable",
+  "docsUrl": "https://github.com/lukePeavey/quotable",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "quotable",
+    "is",
+    "a",
+    "free",
+    "open",
+    "source",
+    "quotations",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/lukePeavey/quotable",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

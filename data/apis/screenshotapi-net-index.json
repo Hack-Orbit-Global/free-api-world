@@ -1,0 +1,30 @@
+{
+  "slug": "screenshotapi-net-index",
+  "name": "ScreenshotAPI.net",
+  "category": "Index",
+  "description": "Create pixel-perfect website screenshots",
+  "longDescription": "Create pixel-perfect website screenshots",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://screenshotapi.net/",
+  "docsUrl": "https://screenshotapi.net/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "create",
+    "pixel",
+    "perfect",
+    "website",
+    "screenshots"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://screenshotapi.net/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

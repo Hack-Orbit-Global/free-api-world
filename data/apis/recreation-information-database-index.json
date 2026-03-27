@@ -1,0 +1,33 @@
+{
+  "slug": "recreation-information-database-index",
+  "name": "Recreation Information Database",
+  "category": "Index",
+  "description": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",
+  "longDescription": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ridb.recreation.gov/",
+  "docsUrl": "https://ridb.recreation.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "recreational",
+    "areas",
+    "federal",
+    "lands",
+    "historic",
+    "sites",
+    "museums",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ridb.recreation.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

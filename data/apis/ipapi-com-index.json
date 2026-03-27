@@ -1,0 +1,33 @@
+{
+  "slug": "ipapi-com-index",
+  "name": "ipapi.com",
+  "category": "Index",
+  "description": "Real-time Geolocation & Reverse IP Lookup REST API",
+  "longDescription": "Real-time Geolocation & Reverse IP Lookup REST API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "geolocation",
+    "reverse",
+    "ip",
+    "lookup",
+    "rest",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

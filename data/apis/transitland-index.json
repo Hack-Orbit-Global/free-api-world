@@ -1,0 +1,27 @@
+{
+  "slug": "transitland-index",
+  "name": "TransitLand",
+  "category": "Index",
+  "description": "Transit Aggregation",
+  "longDescription": "Transit Aggregation",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.transit.land/documentation/datastore/api-endpoints.html",
+  "docsUrl": "https://www.transit.land/documentation/datastore/api-endpoints.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "transit",
+    "aggregation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.transit.land/documentation/datastore/api-endpoints.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

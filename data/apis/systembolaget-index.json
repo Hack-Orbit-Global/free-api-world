@@ -1,0 +1,31 @@
+{
+  "slug": "systembolaget-index",
+  "name": "Systembolaget",
+  "category": "Index",
+  "description": "Govornment owned liqour store in Sweden",
+  "longDescription": "Govornment owned liqour store in Sweden",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api-portal.systembolaget.se",
+  "docsUrl": "https://api-portal.systembolaget.se",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "govornment",
+    "owned",
+    "liqour",
+    "store",
+    "in",
+    "sweden"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api-portal.systembolaget.se",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

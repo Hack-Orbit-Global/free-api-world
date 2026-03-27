@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-uk-index",
+  "name": "Open Government, UK",
+  "category": "Index",
+  "description": "UK Government Open Data",
+  "longDescription": "UK Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.uk/",
+  "docsUrl": "https://data.gov.uk/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "uk",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.uk/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "traitify-index",
+  "name": "Traitify",
+  "category": "Index",
+  "description": "Assess, collect and analyze Personality",
+  "longDescription": "Assess, collect and analyze Personality",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://app.traitify.com/developer",
+  "docsUrl": "https://app.traitify.com/developer",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "assess",
+    "collect",
+    "and",
+    "analyze",
+    "personality"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://app.traitify.com/developer",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

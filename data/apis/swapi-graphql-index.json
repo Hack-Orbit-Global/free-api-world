@@ -1,0 +1,29 @@
+{
+  "slug": "swapi-graphql-index",
+  "name": "SWAPI GraphQL",
+  "category": "Index",
+  "description": "Star Wars GraphQL API",
+  "longDescription": "Star Wars GraphQL API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://graphql.org/swapi-graphql",
+  "docsUrl": "https://graphql.org/swapi-graphql",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "star",
+    "wars",
+    "graphql",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://graphql.org/swapi-graphql",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

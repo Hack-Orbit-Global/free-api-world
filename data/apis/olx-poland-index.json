@@ -1,0 +1,33 @@
+{
+  "slug": "olx-poland-index",
+  "name": "OLX Poland",
+  "category": "Index",
+  "description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+  "longDescription": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.olx.pl/api/doc#section/",
+  "docsUrl": "https://developer.olx.pl/api/doc#section/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "integrate",
+    "with",
+    "local",
+    "sites",
+    "by",
+    "posting",
+    "managing",
+    "adverts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.olx.pl/api/doc#section/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

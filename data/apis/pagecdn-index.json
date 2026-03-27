@@ -1,0 +1,33 @@
+{
+  "slug": "pagecdn-index",
+  "name": "PageCDN",
+  "category": "Index",
+  "description": "Public API for javascript, css and font libraries on PageCDN",
+  "longDescription": "Public API for javascript, css and font libraries on PageCDN",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pagecdn.com/docs/public-api",
+  "docsUrl": "https://pagecdn.com/docs/public-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "public",
+    "api",
+    "for",
+    "javascript",
+    "css",
+    "and",
+    "font",
+    "libraries"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pagecdn.com/docs/public-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

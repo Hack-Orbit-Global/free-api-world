@@ -1,0 +1,33 @@
+{
+  "slug": "apis-guru-index",
+  "name": "APIs.guru",
+  "category": "Index",
+  "description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
+  "longDescription": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apis.guru/api-doc/",
+  "docsUrl": "https://apis.guru/api-doc/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "wikipedia",
+    "for",
+    "web",
+    "apis",
+    "openapi",
+    "swagger",
+    "specs",
+    "public"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apis.guru/api-doc/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

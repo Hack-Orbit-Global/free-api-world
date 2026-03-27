@@ -1,0 +1,27 @@
+{
+  "slug": "coinmarketcap-index",
+  "name": "CoinMarketCap",
+  "category": "Index",
+  "description": "Cryptocurrencies Prices",
+  "longDescription": "Cryptocurrencies Prices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://coinmarketcap.com/api/",
+  "docsUrl": "https://coinmarketcap.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "prices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://coinmarketcap.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

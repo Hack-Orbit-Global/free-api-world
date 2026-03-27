@@ -1,0 +1,33 @@
+{
+  "slug": "btcturk-index",
+  "name": "BtcTurk",
+  "category": "Index",
+  "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+  "longDescription": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.btcturk.com/",
+  "docsUrl": "https://docs.btcturk.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "cryptocurrency",
+    "data",
+    "graphs",
+    "and",
+    "api",
+    "that"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.btcturk.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

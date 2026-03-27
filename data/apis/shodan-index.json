@@ -1,0 +1,31 @@
+{
+  "slug": "shodan-index",
+  "name": "Shodan",
+  "category": "Index",
+  "description": "Search engine for Internet connected devices",
+  "longDescription": "Search engine for Internet connected devices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.shodan.io/",
+  "docsUrl": "https://developer.shodan.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "engine",
+    "for",
+    "internet",
+    "connected",
+    "devices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.shodan.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

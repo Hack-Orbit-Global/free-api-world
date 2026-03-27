@@ -1,0 +1,30 @@
+{
+  "slug": "magic-the-gathering-index",
+  "name": "Magic The Gathering",
+  "category": "Index",
+  "description": "Magic The Gathering Game Information",
+  "longDescription": "Magic The Gathering Game Information",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://magicthegathering.io/",
+  "docsUrl": "http://magicthegathering.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "magic",
+    "the",
+    "gathering",
+    "game",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://magicthegathering.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-singapore-index",
+  "name": "Open Government, Singapore",
+  "category": "Index",
+  "description": "Singapore Government Open Data",
+  "longDescription": "Singapore Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.sg/developer",
+  "docsUrl": "https://data.gov.sg/developer",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "singapore",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.sg/developer",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

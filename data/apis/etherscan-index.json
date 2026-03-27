@@ -1,0 +1,28 @@
+{
+  "slug": "etherscan-index",
+  "name": "Etherscan",
+  "category": "Index",
+  "description": "Ethereum explorer API",
+  "longDescription": "Ethereum explorer API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://etherscan.io/apis",
+  "docsUrl": "https://etherscan.io/apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ethereum",
+    "explorer",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://etherscan.io/apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

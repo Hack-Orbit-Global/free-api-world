@@ -1,0 +1,32 @@
+{
+  "slug": "forza-index",
+  "name": "Forza",
+  "category": "Index",
+  "description": "Show random image of car from Forza",
+  "longDescription": "Show random image of car from Forza",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.forza-api.tk",
+  "docsUrl": "https://docs.forza-api.tk",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "show",
+    "random",
+    "image",
+    "of",
+    "car",
+    "from",
+    "forza"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.forza-api.tk",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

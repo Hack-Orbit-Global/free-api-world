@@ -1,0 +1,31 @@
+{
+  "slug": "pantry-index",
+  "name": "Pantry",
+  "category": "Index",
+  "description": "Free JSON storage for small projects",
+  "longDescription": "Free JSON storage for small projects",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://getpantry.cloud/",
+  "docsUrl": "https://getpantry.cloud/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "json",
+    "storage",
+    "for",
+    "small",
+    "projects"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://getpantry.cloud/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

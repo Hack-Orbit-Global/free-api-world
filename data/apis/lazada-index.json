@@ -1,0 +1,32 @@
+{
+  "slug": "lazada-index",
+  "name": "Lazada",
+  "category": "Index",
+  "description": "Retrieve product ratings and seller performance metrics",
+  "longDescription": "Retrieve product ratings and seller performance metrics",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open.lazada.com/doc/doc.htm",
+  "docsUrl": "https://open.lazada.com/doc/doc.htm",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "product",
+    "ratings",
+    "and",
+    "seller",
+    "performance",
+    "metrics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open.lazada.com/doc/doc.htm",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

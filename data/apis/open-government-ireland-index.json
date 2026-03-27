@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-ireland-index",
+  "name": "Open Government, Ireland",
+  "category": "Index",
+  "description": "Ireland Government Open Data",
+  "longDescription": "Ireland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.ie/pages/developers",
+  "docsUrl": "https://data.gov.ie/pages/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ireland",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.ie/pages/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

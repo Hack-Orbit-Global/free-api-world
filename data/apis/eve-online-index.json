@@ -1,0 +1,29 @@
+{
+  "slug": "eve-online-index",
+  "name": "Eve Online",
+  "category": "Index",
+  "description": "Third-Party Developer Documentation",
+  "longDescription": "Third-Party Developer Documentation",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://esi.evetech.net/ui",
+  "docsUrl": "https://esi.evetech.net/ui",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "third",
+    "party",
+    "developer",
+    "documentation"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://esi.evetech.net/ui",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

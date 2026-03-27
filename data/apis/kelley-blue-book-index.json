@@ -1,0 +1,32 @@
+{
+  "slug": "kelley-blue-book-index",
+  "name": "Kelley Blue Book",
+  "category": "Index",
+  "description": "Vehicle info, pricing, configuration, plus much more",
+  "longDescription": "Vehicle info, pricing, configuration, plus much more",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "http://developer.kbb.com/#!/data/1-Default",
+  "docsUrl": "http://developer.kbb.com/#!/data/1-Default",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "vehicle",
+    "info",
+    "pricing",
+    "configuration",
+    "plus",
+    "much",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://developer.kbb.com/#!/data/1-Default",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

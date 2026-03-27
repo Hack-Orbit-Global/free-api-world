@@ -1,0 +1,33 @@
+{
+  "slug": "24-pull-requests-index",
+  "name": "24 Pull Requests",
+  "category": "Index",
+  "description": "Project to promote open source collaboration during December",
+  "longDescription": "Project to promote open source collaboration during December",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://24pullrequests.com/api",
+  "docsUrl": "https://24pullrequests.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "project",
+    "to",
+    "promote",
+    "open",
+    "source",
+    "collaboration",
+    "during",
+    "december"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://24pullrequests.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

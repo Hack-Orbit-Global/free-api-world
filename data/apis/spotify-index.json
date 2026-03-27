@@ -1,0 +1,33 @@
+{
+  "slug": "spotify-index",
+  "name": "Spotify",
+  "category": "Index",
+  "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+  "longDescription": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://beta.developer.spotify.com/documentation/web-api/",
+  "docsUrl": "https://beta.developer.spotify.com/documentation/web-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "view",
+    "spotify",
+    "music",
+    "catalog",
+    "manage",
+    "users",
+    "libraries",
+    "get"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://beta.developer.spotify.com/documentation/web-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

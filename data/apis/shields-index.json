@@ -1,0 +1,33 @@
+{
+  "slug": "shields-index",
+  "name": "Shields",
+  "category": "Index",
+  "description": "Concise, consistent, and legible badges in SVG and raster format",
+  "longDescription": "Concise, consistent, and legible badges in SVG and raster format",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://shields.io/",
+  "docsUrl": "https://shields.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "concise",
+    "consistent",
+    "and",
+    "legible",
+    "badges",
+    "in",
+    "svg",
+    "raster"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://shields.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

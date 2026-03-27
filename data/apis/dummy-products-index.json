@@ -1,0 +1,33 @@
+{
+  "slug": "dummy-products-index",
+  "name": "Dummy Products",
+  "category": "Index",
+  "description": "An api to fetch dummy e-commerce products JSON data with placeholder images",
+  "longDescription": "An api to fetch dummy e-commerce products JSON data with placeholder images",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dummyproducts-api.herokuapp.com/",
+  "docsUrl": "https://dummyproducts-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "api",
+    "to",
+    "fetch",
+    "dummy",
+    "e",
+    "commerce",
+    "products"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dummyproducts-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

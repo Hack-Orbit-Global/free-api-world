@@ -1,0 +1,32 @@
+{
+  "slug": "noctua-index",
+  "name": "Noctua",
+  "category": "Index",
+  "description": "REST API used to access NoctuaSky features",
+  "longDescription": "REST API used to access NoctuaSky features",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.noctuasky.com/api/v1/swaggerdoc/",
+  "docsUrl": "https://api.noctuasky.com/api/v1/swaggerdoc/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "used",
+    "to",
+    "access",
+    "noctuasky",
+    "features"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.noctuasky.com/api/v1/swaggerdoc/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

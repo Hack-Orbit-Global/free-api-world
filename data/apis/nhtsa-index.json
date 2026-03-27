@@ -1,0 +1,32 @@
+{
+  "slug": "nhtsa-index",
+  "name": "NHTSA",
+  "category": "Index",
+  "description": "NHTSA Product Information Catalog and Vehicle Listing",
+  "longDescription": "NHTSA Product Information Catalog and Vehicle Listing",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://vpic.nhtsa.dot.gov/api/",
+  "docsUrl": "https://vpic.nhtsa.dot.gov/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nhtsa",
+    "product",
+    "information",
+    "catalog",
+    "and",
+    "vehicle",
+    "listing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://vpic.nhtsa.dot.gov/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hg-weather-index",
+  "name": "HG Weather",
+  "category": "Index",
+  "description": "Provides weather forecast data for cities in Brazil",
+  "longDescription": "Provides weather forecast data for cities in Brazil",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hgbrasil.com/status/weather",
+  "docsUrl": "https://hgbrasil.com/status/weather",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "weather",
+    "forecast",
+    "data",
+    "for",
+    "cities",
+    "in",
+    "brazil"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hgbrasil.com/status/weather",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

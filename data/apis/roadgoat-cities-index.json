@@ -1,0 +1,29 @@
+{
+  "slug": "roadgoat-cities-index",
+  "name": "RoadGoat Cities",
+  "category": "Index",
+  "description": "Cities content & photos API",
+  "longDescription": "Cities content & photos API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.roadgoat.com/business/cities-api",
+  "docsUrl": "https://www.roadgoat.com/business/cities-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cities",
+    "content",
+    "photos",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.roadgoat.com/business/cities-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

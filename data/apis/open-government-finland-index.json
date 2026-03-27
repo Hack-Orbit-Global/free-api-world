@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-finland-index",
+  "name": "Open Government, Finland",
+  "category": "Index",
+  "description": "Finland Government Open Data",
+  "longDescription": "Finland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.avoindata.fi/en",
+  "docsUrl": "https://www.avoindata.fi/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "finland",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.avoindata.fi/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "chuck-norris-database-index",
+  "name": "Chuck Norris Database",
+  "category": "Index",
+  "description": "Jokes",
+  "longDescription": "Jokes",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.icndb.com/api/",
+  "docsUrl": "http://www.icndb.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.icndb.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

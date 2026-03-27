@@ -1,0 +1,28 @@
+{
+  "slug": "eva-index",
+  "name": "EVA",
+  "category": "Index",
+  "description": "Validate email addresses",
+  "longDescription": "Validate email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://eva.pingutil.com/",
+  "docsUrl": "https://eva.pingutil.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "validate",
+    "email",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://eva.pingutil.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

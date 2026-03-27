@@ -1,0 +1,33 @@
+{
+  "slug": "socrata-index",
+  "name": "Socrata",
+  "category": "Index",
+  "description": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+  "longDescription": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.socrata.com/",
+  "docsUrl": "https://dev.socrata.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "to",
+    "open",
+    "data",
+    "from",
+    "governments",
+    "non",
+    "profits"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.socrata.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

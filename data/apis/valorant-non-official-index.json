@@ -1,0 +1,33 @@
+{
+  "slug": "valorant-non-official-index",
+  "name": "Valorant (non-official)",
+  "category": "Index",
+  "description": "An extensive API containing data of most Valorant in-game items, assets and more",
+  "longDescription": "An extensive API containing data of most Valorant in-game items, assets and more",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://valorant-api.com",
+  "docsUrl": "https://valorant-api.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "extensive",
+    "api",
+    "containing",
+    "data",
+    "of",
+    "most",
+    "valorant"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://valorant-api.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

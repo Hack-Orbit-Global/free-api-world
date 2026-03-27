@@ -1,0 +1,33 @@
+{
+  "slug": "irisnet-index",
+  "name": "Irisnet",
+  "category": "Index",
+  "description": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+  "longDescription": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://irisnet.de/api/",
+  "docsUrl": "https://irisnet.de/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "realtime",
+    "content",
+    "moderation",
+    "api",
+    "that",
+    "blocks",
+    "or",
+    "blurs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://irisnet.de/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

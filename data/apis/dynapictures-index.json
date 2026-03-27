@@ -1,0 +1,32 @@
+{
+  "slug": "dynapictures-index",
+  "name": "DynaPictures",
+  "category": "Index",
+  "description": "Generate Hundreds of Personalized Images in Minutes",
+  "longDescription": "Generate Hundreds of Personalized Images in Minutes",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dynapictures.com/docs/",
+  "docsUrl": "https://dynapictures.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "hundreds",
+    "of",
+    "personalized",
+    "images",
+    "in",
+    "minutes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dynapictures.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

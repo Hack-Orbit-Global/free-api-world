@@ -1,0 +1,33 @@
+{
+  "slug": "postmon-index",
+  "name": "Postmon",
+  "category": "Index",
+  "description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
+  "longDescription": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://postmon.com.br",
+  "docsUrl": "http://postmon.com.br",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "api",
+    "to",
+    "query",
+    "brazilian",
+    "zip",
+    "codes",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://postmon.com.br",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

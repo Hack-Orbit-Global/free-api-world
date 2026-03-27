@@ -1,0 +1,33 @@
+{
+  "slug": "jiosaavn-index",
+  "name": "JioSaavn",
+  "category": "Index",
+  "description": "API to retrieve song information, album meta data and many more from JioSaavn",
+  "longDescription": "API to retrieve song information, album meta data and many more from JioSaavn",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/cyberboysumanjay/JioSaavnAPI",
+  "docsUrl": "https://github.com/cyberboysumanjay/JioSaavnAPI",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "retrieve",
+    "song",
+    "information",
+    "album",
+    "meta",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/cyberboysumanjay/JioSaavnAPI",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

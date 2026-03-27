@@ -1,0 +1,33 @@
+{
+  "slug": "kaggle-index",
+  "name": "Kaggle",
+  "category": "Index",
+  "description": "Create and interact with Datasets, Notebooks, and connect with Kaggle",
+  "longDescription": "Create and interact with Datasets, Notebooks, and connect with Kaggle",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.kaggle.com/docs/api",
+  "docsUrl": "https://www.kaggle.com/docs/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "create",
+    "and",
+    "interact",
+    "with",
+    "datasets",
+    "notebooks",
+    "connect",
+    "kaggle"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.kaggle.com/docs/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

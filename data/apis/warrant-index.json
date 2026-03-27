@@ -1,0 +1,31 @@
+{
+  "slug": "warrant-index",
+  "name": "Warrant",
+  "category": "Index",
+  "description": "APIs for authorization and access control",
+  "longDescription": "APIs for authorization and access control",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://warrant.dev/",
+  "docsUrl": "https://warrant.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "apis",
+    "for",
+    "authorization",
+    "and",
+    "access",
+    "control"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://warrant.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

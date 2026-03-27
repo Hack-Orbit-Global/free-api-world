@@ -1,0 +1,28 @@
+{
+  "slug": "genrenator-index",
+  "name": "Genrenator",
+  "category": "Index",
+  "description": "Music genre generator",
+  "longDescription": "Music genre generator",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://binaryjazz.us/genrenator-api/",
+  "docsUrl": "https://binaryjazz.us/genrenator-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music",
+    "genre",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://binaryjazz.us/genrenator-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

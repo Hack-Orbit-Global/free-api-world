@@ -1,0 +1,33 @@
+{
+  "slug": "dungeons-and-dragons-index",
+  "name": "Dungeons and Dragons",
+  "category": "Index",
+  "description": "Reference for 5th edition spells, classes, monsters, and more",
+  "longDescription": "Reference for 5th edition spells, classes, monsters, and more",
+  "auth": "No",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://www.dnd5eapi.co/docs/",
+  "docsUrl": "https://www.dnd5eapi.co/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "reference",
+    "for",
+    "5th",
+    "edition",
+    "spells",
+    "classes",
+    "monsters",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.dnd5eapi.co/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

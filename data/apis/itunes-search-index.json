@@ -1,0 +1,27 @@
+{
+  "slug": "itunes-search-index",
+  "name": "iTunes Search",
+  "category": "Index",
+  "description": "Software products",
+  "longDescription": "Software products",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
+  "docsUrl": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "software",
+    "products"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

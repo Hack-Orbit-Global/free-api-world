@@ -1,0 +1,33 @@
+{
+  "slug": "quickmocker-index",
+  "name": "QuickMocker",
+  "category": "Index",
+  "description": "API mocking tool to generate contextual, fake or random data",
+  "longDescription": "API mocking tool to generate contextual, fake or random data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quickmocker.com",
+  "docsUrl": "https://quickmocker.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "mocking",
+    "tool",
+    "to",
+    "generate",
+    "contextual",
+    "fake",
+    "or"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quickmocker.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "urlhaus-index",
+  "name": "URLhaus",
+  "category": "Index",
+  "description": "Bulk queries and Download Malware Samples",
+  "longDescription": "Bulk queries and Download Malware Samples",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://urlhaus-api.abuse.ch/",
+  "docsUrl": "https://urlhaus-api.abuse.ch/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bulk",
+    "queries",
+    "and",
+    "download",
+    "malware",
+    "samples"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://urlhaus-api.abuse.ch/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

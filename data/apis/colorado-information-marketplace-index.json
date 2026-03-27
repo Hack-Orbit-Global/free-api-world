@@ -1,0 +1,30 @@
+{
+  "slug": "colorado-information-marketplace-index",
+  "name": "Colorado Information Marketplace",
+  "category": "Index",
+  "description": "Colorado State Government Open Data",
+  "longDescription": "Colorado State Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.colorado.gov/",
+  "docsUrl": "https://data.colorado.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "colorado",
+    "state",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.colorado.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

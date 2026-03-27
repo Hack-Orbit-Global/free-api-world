@@ -1,0 +1,29 @@
+{
+  "slug": "swapi-index",
+  "name": "SWAPI",
+  "category": "Index",
+  "description": "All things Star Wars",
+  "longDescription": "All things Star Wars",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.swapi.tech",
+  "docsUrl": "https://www.swapi.tech",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "things",
+    "star",
+    "wars"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.swapi.tech",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

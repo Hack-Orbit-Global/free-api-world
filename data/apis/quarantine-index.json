@@ -1,0 +1,33 @@
+{
+  "slug": "quarantine-index",
+  "name": "Quarantine",
+  "category": "Index",
+  "description": "Coronavirus API with free COVID-19 live updates",
+  "longDescription": "Coronavirus API with free COVID-19 live updates",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://quarantine.country/coronavirus/api/",
+  "docsUrl": "https://quarantine.country/coronavirus/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "coronavirus",
+    "api",
+    "with",
+    "free",
+    "covid",
+    "19",
+    "live",
+    "updates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://quarantine.country/coronavirus/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

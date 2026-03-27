@@ -1,0 +1,32 @@
+{
+  "slug": "kanye-rest-index",
+  "name": "kanye.rest",
+  "category": "Index",
+  "description": "REST API for random Kanye West quotes",
+  "longDescription": "REST API for random Kanye West quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://kanye.rest",
+  "docsUrl": "https://kanye.rest",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "random",
+    "kanye",
+    "west",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://kanye.rest",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

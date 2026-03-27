@@ -1,0 +1,33 @@
+{
+  "slug": "age-of-empires-ii-index",
+  "name": "Age of Empires II",
+  "category": "Index",
+  "description": "Get information about Age of Empires II resources",
+  "longDescription": "Get information about Age of Empires II resources",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://age-of-empires-2-api.herokuapp.com",
+  "docsUrl": "https://age-of-empires-2-api.herokuapp.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "information",
+    "about",
+    "age",
+    "of",
+    "empires",
+    "ii",
+    "resources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://age-of-empires-2-api.herokuapp.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "scrapestack-index",
+  "name": "scrapestack",
+  "category": "Index",
+  "description": "Real-time, Scalable Proxy & Web Scraping REST API",
+  "longDescription": "Real-time, Scalable Proxy & Web Scraping REST API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://scrapestack.com/",
+  "docsUrl": "https://scrapestack.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "scalable",
+    "proxy",
+    "web",
+    "scraping",
+    "rest",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://scrapestack.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

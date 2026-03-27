@@ -1,0 +1,29 @@
+{
+  "slug": "toolcarton-index",
+  "name": "Toolcarton",
+  "category": "Index",
+  "description": "Generate random testimonial data",
+  "longDescription": "Generate random testimonial data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://testimonialapi.toolcarton.com/",
+  "docsUrl": "https://testimonialapi.toolcarton.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "random",
+    "testimonial",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://testimonialapi.toolcarton.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

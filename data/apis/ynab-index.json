@@ -1,0 +1,27 @@
+{
+  "slug": "ynab-index",
+  "name": "YNAB",
+  "category": "Index",
+  "description": "Budgeting & Planning",
+  "longDescription": "Budgeting & Planning",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.youneedabudget.com/",
+  "docsUrl": "https://api.youneedabudget.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "budgeting",
+    "planning"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.youneedabudget.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

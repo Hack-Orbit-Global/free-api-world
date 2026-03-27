@@ -1,0 +1,27 @@
+{
+  "slug": "transport-for-auckland-new-zealand-index",
+  "name": "Transport for Auckland, New Zealand",
+  "category": "Index",
+  "description": "Auckland Transport",
+  "longDescription": "Auckland Transport",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev-portal.at.govt.nz/",
+  "docsUrl": "https://dev-portal.at.govt.nz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "auckland",
+    "transport"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev-portal.at.govt.nz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

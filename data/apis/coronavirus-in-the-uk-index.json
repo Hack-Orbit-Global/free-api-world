@@ -1,0 +1,33 @@
+{
+  "slug": "coronavirus-in-the-uk-index",
+  "name": "Coronavirus in the UK",
+  "category": "Index",
+  "description": "UK Government coronavirus data, including deaths and cases by region",
+  "longDescription": "UK Government coronavirus data, including deaths and cases by region",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://coronavirus.data.gov.uk/details/developers-guide",
+  "docsUrl": "https://coronavirus.data.gov.uk/details/developers-guide",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "uk",
+    "government",
+    "coronavirus",
+    "data",
+    "including",
+    "deaths",
+    "and",
+    "cases"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://coronavirus.data.gov.uk/details/developers-guide",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

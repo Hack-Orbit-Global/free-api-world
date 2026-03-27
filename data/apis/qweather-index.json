@@ -1,0 +1,29 @@
+{
+  "slug": "qweather-index",
+  "name": "QWeather",
+  "category": "Index",
+  "description": "Location-based weather data",
+  "longDescription": "Location-based weather data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dev.qweather.com/en/",
+  "docsUrl": "https://dev.qweather.com/en/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "location",
+    "based",
+    "weather",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dev.qweather.com/en/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

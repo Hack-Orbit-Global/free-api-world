@@ -1,0 +1,33 @@
+{
+  "slug": "graphs-for-coronavirus-index",
+  "name": "Graphs for Coronavirus",
+  "category": "Index",
+  "description": "Each Country separately and Worldwide Graphs for Coronavirus. Daily updates",
+  "longDescription": "Each Country separately and Worldwide Graphs for Coronavirus. Daily updates",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://corona.dnsforfamily.com/api.txt",
+  "docsUrl": "https://corona.dnsforfamily.com/api.txt",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "each",
+    "country",
+    "separately",
+    "and",
+    "worldwide",
+    "graphs",
+    "for",
+    "coronavirus"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://corona.dnsforfamily.com/api.txt",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

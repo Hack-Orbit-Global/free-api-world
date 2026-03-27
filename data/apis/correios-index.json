@@ -1,0 +1,33 @@
+{
+  "slug": "correios-index",
+  "name": "Correios",
+  "category": "Index",
+  "description": "Integration to provide information and prepare shipments using Correio's services",
+  "longDescription": "Integration to provide information and prepare shipments using Correio's services",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cws.correios.com.br/ajuda",
+  "docsUrl": "https://cws.correios.com.br/ajuda",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "integration",
+    "to",
+    "provide",
+    "information",
+    "and",
+    "prepare",
+    "shipments",
+    "using"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cws.correios.com.br/ajuda",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

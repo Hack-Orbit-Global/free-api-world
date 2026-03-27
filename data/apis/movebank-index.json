@@ -1,0 +1,31 @@
+{
+  "slug": "movebank-index",
+  "name": "Movebank",
+  "category": "Index",
+  "description": "Movement and Migration data of animals",
+  "longDescription": "Movement and Migration data of animals",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/movebank/movebank-api-doc",
+  "docsUrl": "https://github.com/movebank/movebank-api-doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "movement",
+    "and",
+    "migration",
+    "data",
+    "of",
+    "animals"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/movebank/movebank-api-doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

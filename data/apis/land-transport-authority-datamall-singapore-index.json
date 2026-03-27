@@ -1,0 +1,28 @@
+{
+  "slug": "land-transport-authority-datamall-singapore-index",
+  "name": "Land Transport Authority DataMall, Singapore",
+  "category": "Index",
+  "description": "Singapore transport information",
+  "longDescription": "Singapore transport information",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
+  "docsUrl": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "singapore",
+    "transport",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

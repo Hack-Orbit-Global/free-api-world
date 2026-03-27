@@ -1,0 +1,29 @@
+{
+  "slug": "animefacts-index",
+  "name": "AnimeFacts",
+  "category": "Index",
+  "description": "Anime Facts (over 100+)",
+  "longDescription": "Anime Facts (over 100+)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://chandan-02.github.io/anime-facts-rest-api/",
+  "docsUrl": "https://chandan-02.github.io/anime-facts-rest-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "anime",
+    "facts",
+    "over",
+    "100"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://chandan-02.github.io/anime-facts-rest-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

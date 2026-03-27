@@ -1,0 +1,31 @@
+{
+  "slug": "fooddata-central-index",
+  "name": "FoodData Central",
+  "category": "Index",
+  "description": "National Nutrient Database for Standard Reference",
+  "longDescription": "National Nutrient Database for Standard Reference",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://fdc.nal.usda.gov/",
+  "docsUrl": "https://fdc.nal.usda.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "national",
+    "nutrient",
+    "database",
+    "for",
+    "standard",
+    "reference"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://fdc.nal.usda.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

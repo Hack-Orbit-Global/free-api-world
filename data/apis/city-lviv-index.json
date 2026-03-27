@@ -1,0 +1,30 @@
+{
+  "slug": "city-lviv-index",
+  "name": "City, Lviv",
+  "category": "Index",
+  "description": "Lviv(UA) City Open Data",
+  "longDescription": "Lviv(UA) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opendata.city-adm.lviv.ua/",
+  "docsUrl": "https://opendata.city-adm.lviv.ua/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "lviv",
+    "ua",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.city-adm.lviv.ua/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

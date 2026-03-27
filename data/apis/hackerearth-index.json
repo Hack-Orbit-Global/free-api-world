@@ -1,0 +1,33 @@
+{
+  "slug": "hackerearth-index",
+  "name": "Hackerearth",
+  "category": "Index",
+  "description": "For compiling and running code in several languages",
+  "longDescription": "For compiling and running code in several languages",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.hackerearth.com/docs/wiki/developers/v4/",
+  "docsUrl": "https://www.hackerearth.com/docs/wiki/developers/v4/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "for",
+    "compiling",
+    "and",
+    "running",
+    "code",
+    "in",
+    "several",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.hackerearth.com/docs/wiki/developers/v4/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

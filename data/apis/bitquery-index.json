@@ -1,0 +1,29 @@
+{
+  "slug": "bitquery-index",
+  "name": "Bitquery",
+  "category": "Index",
+  "description": "Onchain GraphQL APIs & DEX APIs",
+  "longDescription": "Onchain GraphQL APIs & DEX APIs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://graphql.bitquery.io/ide",
+  "docsUrl": "https://graphql.bitquery.io/ide",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "onchain",
+    "graphql",
+    "apis",
+    "dex"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://graphql.bitquery.io/ide",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

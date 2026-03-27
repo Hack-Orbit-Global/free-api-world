@@ -1,0 +1,33 @@
+{
+  "slug": "actinia-grass-gis-index",
+  "name": "Actinia Grass GIS",
+  "category": "Index",
+  "description": "Actinia is an open source REST API for geographical data that uses GRASS GIS",
+  "longDescription": "Actinia is an open source REST API for geographical data that uses GRASS GIS",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://actinia.mundialis.de/api_docs/",
+  "docsUrl": "https://actinia.mundialis.de/api_docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "actinia",
+    "is",
+    "an",
+    "open",
+    "source",
+    "rest",
+    "api",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://actinia.mundialis.de/api_docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

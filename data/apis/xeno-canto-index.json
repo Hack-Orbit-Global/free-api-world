@@ -1,0 +1,27 @@
+{
+  "slug": "xeno-canto-index",
+  "name": "xeno-canto",
+  "category": "Index",
+  "description": "Bird recordings",
+  "longDescription": "Bird recordings",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://xeno-canto.org/explore/api",
+  "docsUrl": "https://xeno-canto.org/explore/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bird",
+    "recordings"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://xeno-canto.org/explore/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

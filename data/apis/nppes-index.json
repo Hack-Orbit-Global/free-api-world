@@ -1,0 +1,33 @@
+{
+  "slug": "nppes-index",
+  "name": "NPPES",
+  "category": "Index",
+  "description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
+  "longDescription": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://npiregistry.cms.hhs.gov/registry/help-api",
+  "docsUrl": "https://npiregistry.cms.hhs.gov/registry/help-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "national",
+    "plan",
+    "provider",
+    "enumeration",
+    "system",
+    "info",
+    "on",
+    "healthcare"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://npiregistry.cms.hhs.gov/registry/help-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

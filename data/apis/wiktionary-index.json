@@ -1,0 +1,28 @@
+{
+  "slug": "wiktionary-index",
+  "name": "Wiktionary",
+  "category": "Index",
+  "description": "Collaborative dictionary data",
+  "longDescription": "Collaborative dictionary data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://en.wiktionary.org/w/api.php",
+  "docsUrl": "https://en.wiktionary.org/w/api.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "collaborative",
+    "dictionary",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://en.wiktionary.org/w/api.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

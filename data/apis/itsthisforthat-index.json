@@ -1,0 +1,29 @@
+{
+  "slug": "itsthisforthat-index",
+  "name": "ItsThisForThat",
+  "category": "Index",
+  "description": "Generate Random startup ideas",
+  "longDescription": "Generate Random startup ideas",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://itsthisforthat.com/api.php",
+  "docsUrl": "https://itsthisforthat.com/api.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "random",
+    "startup",
+    "ideas"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://itsthisforthat.com/api.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

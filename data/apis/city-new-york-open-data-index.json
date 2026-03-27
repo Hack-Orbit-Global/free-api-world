@@ -1,0 +1,31 @@
+{
+  "slug": "city-new-york-open-data-index",
+  "name": "City, New York Open Data",
+  "category": "Index",
+  "description": "New York (US) City Open Data",
+  "longDescription": "New York (US) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opendata.cityofnewyork.us/",
+  "docsUrl": "https://opendata.cityofnewyork.us/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "new",
+    "york",
+    "us",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opendata.cityofnewyork.us/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

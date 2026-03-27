@@ -1,0 +1,30 @@
+{
+  "slug": "ipapi-co-index",
+  "name": "ipapi.co",
+  "category": "Index",
+  "description": "Find IP address location information",
+  "longDescription": "Find IP address location information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipapi.co/api/#introduction",
+  "docsUrl": "https://ipapi.co/api/#introduction",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "find",
+    "ip",
+    "address",
+    "location",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipapi.co/api/#introduction",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

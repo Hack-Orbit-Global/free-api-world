@@ -1,0 +1,27 @@
+{
+  "slug": "tle-index",
+  "name": "TLE",
+  "category": "Index",
+  "description": "Satellite information",
+  "longDescription": "Satellite information",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://tle.ivanstanojevic.me/#/docs",
+  "docsUrl": "https://tle.ivanstanojevic.me/#/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "satellite",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tle.ivanstanojevic.me/#/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

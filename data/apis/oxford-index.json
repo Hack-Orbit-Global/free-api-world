@@ -1,0 +1,27 @@
+{
+  "slug": "oxford-index",
+  "name": "Oxford",
+  "category": "Index",
+  "description": "Dictionary Data",
+  "longDescription": "Dictionary Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://developer.oxforddictionaries.com/",
+  "docsUrl": "https://developer.oxforddictionaries.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "dictionary",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.oxforddictionaries.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "theaudiodb-index",
+  "name": "TheAudioDB",
+  "category": "Index",
+  "description": "Music",
+  "longDescription": "Music",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.theaudiodb.com/api_guide.php",
+  "docsUrl": "https://www.theaudiodb.com/api_guide.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "music"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.theaudiodb.com/api_guide.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

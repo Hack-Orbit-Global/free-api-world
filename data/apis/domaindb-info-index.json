@@ -1,0 +1,33 @@
+{
+  "slug": "domaindb-info-index",
+  "name": "DomainDb Info",
+  "category": "Index",
+  "description": "Domain name search to find all domains containing particular words/phrases/etc",
+  "longDescription": "Domain name search to find all domains containing particular words/phrases/etc",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.domainsdb.info/",
+  "docsUrl": "https://api.domainsdb.info/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "domain",
+    "name",
+    "search",
+    "to",
+    "find",
+    "all",
+    "domains",
+    "containing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.domainsdb.info/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

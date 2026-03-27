@@ -1,0 +1,27 @@
+{
+  "slug": "themealdb-index",
+  "name": "TheMealDB",
+  "category": "Index",
+  "description": "Meal Recipes",
+  "longDescription": "Meal Recipes",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.themealdb.com/api.php",
+  "docsUrl": "https://www.themealdb.com/api.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "meal",
+    "recipes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.themealdb.com/api.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

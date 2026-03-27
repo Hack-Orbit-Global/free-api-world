@@ -1,0 +1,33 @@
+{
+  "slug": "associated-press-index",
+  "name": "Associated Press",
+  "category": "Index",
+  "description": "Search for news and metadata from Associated Press",
+  "longDescription": "Search for news and metadata from Associated Press",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.ap.org/",
+  "docsUrl": "https://developer.ap.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "for",
+    "news",
+    "and",
+    "metadata",
+    "from",
+    "associated",
+    "press"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.ap.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

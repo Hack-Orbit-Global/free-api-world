@@ -1,0 +1,31 @@
+{
+  "slug": "alchemy-ethereum-index",
+  "name": "Alchemy Ethereum",
+  "category": "Index",
+  "description": "Ethereum Node-as-a-Service Provider",
+  "longDescription": "Ethereum Node-as-a-Service Provider",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.alchemy.com/alchemy/",
+  "docsUrl": "https://docs.alchemy.com/alchemy/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "ethereum",
+    "node",
+    "as",
+    "a",
+    "service",
+    "provider"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.alchemy.com/alchemy/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

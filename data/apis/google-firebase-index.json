@@ -1,0 +1,33 @@
+{
+  "slug": "google-firebase-index",
+  "name": "Google Firebase",
+  "category": "Index",
+  "description": "Google's mobile application development platform that helps build, improve, and grow app",
+  "longDescription": "Google's mobile application development platform that helps build, improve, and grow app",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://firebase.google.com/docs",
+  "docsUrl": "https://firebase.google.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "google",
+    "s",
+    "mobile",
+    "application",
+    "development",
+    "platform",
+    "that",
+    "helps"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://firebase.google.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

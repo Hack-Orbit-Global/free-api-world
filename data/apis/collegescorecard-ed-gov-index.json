@@ -1,0 +1,33 @@
+{
+  "slug": "collegescorecard-ed-gov-index",
+  "name": "CollegeScoreCard.ed.gov",
+  "category": "Index",
+  "description": "Data on higher education institutions in the United States",
+  "longDescription": "Data on higher education institutions in the United States",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://collegescorecard.ed.gov/data/",
+  "docsUrl": "https://collegescorecard.ed.gov/data/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "on",
+    "higher",
+    "education",
+    "institutions",
+    "in",
+    "the",
+    "united"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://collegescorecard.ed.gov/data/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

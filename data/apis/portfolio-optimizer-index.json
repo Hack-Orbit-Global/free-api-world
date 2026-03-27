@@ -1,0 +1,29 @@
+{
+  "slug": "portfolio-optimizer-index",
+  "name": "Portfolio Optimizer",
+  "category": "Index",
+  "description": "Portfolio analysis and optimization",
+  "longDescription": "Portfolio analysis and optimization",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://portfoliooptimizer.io/",
+  "docsUrl": "https://portfoliooptimizer.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "portfolio",
+    "analysis",
+    "and",
+    "optimization"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://portfoliooptimizer.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

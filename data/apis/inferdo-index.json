@@ -1,0 +1,33 @@
+{
+  "slug": "inferdo-index",
+  "name": "Inferdo",
+  "category": "Index",
+  "description": "Computer Vision services like Facial detection, Image labeling, NSFW classification",
+  "longDescription": "Computer Vision services like Facial detection, Image labeling, NSFW classification",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/user/inferdo",
+  "docsUrl": "https://rapidapi.com/user/inferdo",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "computer",
+    "vision",
+    "services",
+    "like",
+    "facial",
+    "detection",
+    "image",
+    "labeling"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/user/inferdo",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

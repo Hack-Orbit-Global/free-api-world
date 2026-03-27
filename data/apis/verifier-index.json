@@ -1,0 +1,32 @@
+{
+  "slug": "verifier-index",
+  "name": "Verifier",
+  "category": "Index",
+  "description": "Verifies that a given email is real",
+  "longDescription": "Verifies that a given email is real",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://verifier.meetchopra.com/docs#/",
+  "docsUrl": "https://verifier.meetchopra.com/docs#/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "verifies",
+    "that",
+    "a",
+    "given",
+    "email",
+    "is",
+    "real"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://verifier.meetchopra.com/docs#/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

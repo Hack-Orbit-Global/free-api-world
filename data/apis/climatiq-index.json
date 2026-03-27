@@ -1,0 +1,33 @@
+{
+  "slug": "climatiq-index",
+  "name": "Climatiq",
+  "category": "Index",
+  "description": "Calculate the environmental footprint created by a broad range of emission-generating activities",
+  "longDescription": "Calculate the environmental footprint created by a broad range of emission-generating activities",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.climatiq.io",
+  "docsUrl": "https://docs.climatiq.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "calculate",
+    "the",
+    "environmental",
+    "footprint",
+    "created",
+    "by",
+    "a",
+    "broad"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.climatiq.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "data-gov-index",
+  "name": "Data.gov",
+  "category": "Index",
+  "description": "US Government Data",
+  "longDescription": "US Government Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.data.gov/",
+  "docsUrl": "https://api.data.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "government",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.data.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "utah-agrc-index",
+  "name": "Utah AGRC",
+  "category": "Index",
+  "description": "Utah Web API for geocoding Utah addresses",
+  "longDescription": "Utah Web API for geocoding Utah addresses",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.mapserv.utah.gov",
+  "docsUrl": "https://api.mapserv.utah.gov",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "utah",
+    "web",
+    "api",
+    "for",
+    "geocoding",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.mapserv.utah.gov",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

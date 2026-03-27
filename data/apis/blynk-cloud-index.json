@@ -1,0 +1,31 @@
+{
+  "slug": "blynk-cloud-index",
+  "name": "Blynk-Cloud",
+  "category": "Index",
+  "description": "Control IoT Devices from Blynk IoT Cloud",
+  "longDescription": "Control IoT Devices from Blynk IoT Cloud",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://blynkapi.docs.apiary.io/#",
+  "docsUrl": "https://blynkapi.docs.apiary.io/#",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "control",
+    "iot",
+    "devices",
+    "from",
+    "blynk",
+    "cloud"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://blynkapi.docs.apiary.io/#",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "open-disease-index",
+  "name": "Open Disease",
+  "category": "Index",
+  "description": "API for Current cases and more stuff about COVID-19 and Influenza",
+  "longDescription": "API for Current cases and more stuff about COVID-19 and Influenza",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://disease.sh/",
+  "docsUrl": "https://disease.sh/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "current",
+    "cases",
+    "and",
+    "more",
+    "stuff",
+    "about"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://disease.sh/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

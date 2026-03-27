@@ -1,0 +1,28 @@
+{
+  "slug": "dialogflow-index",
+  "name": "Dialogflow",
+  "category": "Index",
+  "description": "Natural Language Processing",
+  "longDescription": "Natural Language Processing",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cloud.google.com/dialogflow/docs/",
+  "docsUrl": "https://cloud.google.com/dialogflow/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "natural",
+    "language",
+    "processing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cloud.google.com/dialogflow/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

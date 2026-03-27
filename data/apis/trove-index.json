@@ -1,0 +1,33 @@
+{
+  "slug": "trove-index",
+  "name": "Trove",
+  "category": "Index",
+  "description": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+  "longDescription": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://trove.nla.gov.au/about/create-something/using-api",
+  "docsUrl": "https://trove.nla.gov.au/about/create-something/using-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "through",
+    "the",
+    "national",
+    "library",
+    "of",
+    "australia",
+    "collection"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://trove.nla.gov.au/about/create-something/using-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

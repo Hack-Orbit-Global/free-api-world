@@ -1,0 +1,33 @@
+{
+  "slug": "a-biblia-digital-index",
+  "name": "A B\u00edblia Digital",
+  "category": "Index",
+  "description": "Do not worry about managing the multiple versions of the Bible",
+  "longDescription": "Do not worry about managing the multiple versions of the Bible",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://www.abibliadigital.com.br/en",
+  "docsUrl": "https://www.abibliadigital.com.br/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "do",
+    "not",
+    "worry",
+    "about",
+    "managing",
+    "the",
+    "multiple",
+    "versions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.abibliadigital.com.br/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

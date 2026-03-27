@@ -1,0 +1,30 @@
+{
+  "slug": "revolt-index",
+  "name": "Revolt",
+  "category": "Index",
+  "description": "Revolt open source Discord alternative",
+  "longDescription": "Revolt open source Discord alternative",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.revolt.chat/api/",
+  "docsUrl": "https://developers.revolt.chat/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "revolt",
+    "open",
+    "source",
+    "discord",
+    "alternative"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.revolt.chat/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

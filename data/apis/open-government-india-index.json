@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-india-index",
+  "name": "Open Government, India",
+  "category": "Index",
+  "description": "Indian Government Open Data",
+  "longDescription": "Indian Government Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.in/",
+  "docsUrl": "https://data.gov.in/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "indian",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.in/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

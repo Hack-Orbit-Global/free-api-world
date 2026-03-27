@@ -1,0 +1,33 @@
+{
+  "slug": "ibge-index",
+  "name": "IBGE",
+  "category": "Index",
+  "description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+  "longDescription": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://servicodados.ibge.gov.br/api/docs/",
+  "docsUrl": "https://servicodados.ibge.gov.br/api/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "aggregate",
+    "services",
+    "of",
+    "ibge",
+    "brazilian",
+    "institute",
+    "geography",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://servicodados.ibge.gov.br/api/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

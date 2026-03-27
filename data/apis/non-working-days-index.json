@@ -1,0 +1,33 @@
+{
+  "slug": "non-working-days-index",
+  "name": "Non-Working Days",
+  "category": "Index",
+  "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+  "longDescription": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://isdayoff.ru",
+  "docsUrl": "https://isdayoff.ru",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "rest",
+    "api",
+    "for",
+    "checking",
+    "working",
+    "non",
+    "or"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://isdayoff.ru",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

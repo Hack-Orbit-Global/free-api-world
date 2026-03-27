@@ -1,0 +1,30 @@
+{
+  "slug": "purple-air-index",
+  "name": "Purple Air",
+  "category": "Index",
+  "description": "Real Time Air Quality Monitoring",
+  "longDescription": "Real Time Air Quality Monitoring",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www2.purpleair.com/",
+  "docsUrl": "https://www2.purpleair.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "air",
+    "quality",
+    "monitoring"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www2.purpleair.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

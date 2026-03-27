@@ -1,0 +1,29 @@
+{
+  "slug": "box-index",
+  "name": "Box",
+  "category": "Index",
+  "description": "File Sharing and Storage",
+  "longDescription": "File Sharing and Storage",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.box.com/",
+  "docsUrl": "https://developer.box.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "file",
+    "sharing",
+    "and",
+    "storage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.box.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

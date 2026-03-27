@@ -1,0 +1,33 @@
+{
+  "slug": "free-dictionary-index",
+  "name": "Free Dictionary",
+  "category": "Index",
+  "description": "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",
+  "longDescription": "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dictionaryapi.dev/",
+  "docsUrl": "https://dictionaryapi.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "definitions",
+    "phonetics",
+    "pronounciations",
+    "parts",
+    "of",
+    "speech",
+    "examples",
+    "synonyms"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dictionaryapi.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

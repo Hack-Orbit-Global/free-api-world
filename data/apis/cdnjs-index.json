@@ -1,0 +1,29 @@
+{
+  "slug": "cdnjs-index",
+  "name": "CDNJS",
+  "category": "Index",
+  "description": "Library info on CDNJS",
+  "longDescription": "Library info on CDNJS",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.cdnjs.com/libraries/jquery",
+  "docsUrl": "https://api.cdnjs.com/libraries/jquery",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "library",
+    "info",
+    "on",
+    "cdnjs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.cdnjs.com/libraries/jquery",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

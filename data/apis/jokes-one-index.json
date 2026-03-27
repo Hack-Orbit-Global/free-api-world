@@ -1,0 +1,33 @@
+{
+  "slug": "jokes-one-index",
+  "name": "Jokes One",
+  "category": "Index",
+  "description": "Joke of the day and large category of jokes accessible via REST API",
+  "longDescription": "Joke of the day and large category of jokes accessible via REST API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://jokes.one/api/joke/",
+  "docsUrl": "https://jokes.one/api/joke/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "joke",
+    "of",
+    "the",
+    "day",
+    "and",
+    "large",
+    "category",
+    "jokes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://jokes.one/api/joke/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

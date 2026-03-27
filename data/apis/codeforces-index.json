@@ -1,0 +1,30 @@
+{
+  "slug": "codeforces-index",
+  "name": "Codeforces",
+  "category": "Index",
+  "description": "Get access to Codeforces data",
+  "longDescription": "Get access to Codeforces data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://codeforces.com/apiHelp",
+  "docsUrl": "https://codeforces.com/apiHelp",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "access",
+    "to",
+    "codeforces",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://codeforces.com/apiHelp",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

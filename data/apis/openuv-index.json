@@ -1,0 +1,30 @@
+{
+  "slug": "openuv-index",
+  "name": "OpenUV",
+  "category": "Index",
+  "description": "Real-time UV Index Forecast",
+  "longDescription": "Real-time UV Index Forecast",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.openuv.io",
+  "docsUrl": "https://www.openuv.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "uv",
+    "index",
+    "forecast"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.openuv.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

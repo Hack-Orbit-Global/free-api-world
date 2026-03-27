@@ -1,0 +1,33 @@
+{
+  "slug": "marketaux-index",
+  "name": "MarketAux",
+  "category": "Index",
+  "description": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+  "longDescription": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.marketaux.com/",
+  "docsUrl": "https://www.marketaux.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "live",
+    "stock",
+    "market",
+    "news",
+    "with",
+    "tagged",
+    "tickers",
+    "sentiment"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.marketaux.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mailchimp-index",
+  "name": "Mailchimp",
+  "category": "Index",
+  "description": "Send marketing campaigns and transactional mails",
+  "longDescription": "Send marketing campaigns and transactional mails",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mailchimp.com/developer/",
+  "docsUrl": "https://mailchimp.com/developer/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "send",
+    "marketing",
+    "campaigns",
+    "and",
+    "transactional",
+    "mails"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mailchimp.com/developer/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

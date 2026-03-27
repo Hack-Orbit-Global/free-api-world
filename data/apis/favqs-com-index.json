@@ -1,0 +1,33 @@
+{
+  "slug": "favqs-com-index",
+  "name": "FavQs.com",
+  "category": "Index",
+  "description": "FavQs allows you to collect, discover and share your favorite quotes",
+  "longDescription": "FavQs allows you to collect, discover and share your favorite quotes",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://favqs.com/api",
+  "docsUrl": "https://favqs.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "favqs",
+    "allows",
+    "you",
+    "to",
+    "collect",
+    "discover",
+    "and",
+    "share"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://favqs.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

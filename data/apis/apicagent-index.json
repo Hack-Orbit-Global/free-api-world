@@ -1,0 +1,32 @@
+{
+  "slug": "apicagent-index",
+  "name": "ApicAgent",
+  "category": "Index",
+  "description": "Extract device details from user-agent string",
+  "longDescription": "Extract device details from user-agent string",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.apicagent.com",
+  "docsUrl": "https://www.apicagent.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "extract",
+    "device",
+    "details",
+    "from",
+    "user",
+    "agent",
+    "string"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.apicagent.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

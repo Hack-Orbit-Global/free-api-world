@@ -1,0 +1,30 @@
+{
+  "slug": "skybiometry-index",
+  "name": "SkyBiometry",
+  "category": "Index",
+  "description": "Face Detection, Face Recognition and Face Grouping",
+  "longDescription": "Face Detection, Face Recognition and Face Grouping",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://skybiometry.com/documentation/",
+  "docsUrl": "https://skybiometry.com/documentation/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "face",
+    "detection",
+    "recognition",
+    "and",
+    "grouping"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://skybiometry.com/documentation/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

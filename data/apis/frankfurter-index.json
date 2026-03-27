@@ -1,0 +1,32 @@
+{
+  "slug": "frankfurter-index",
+  "name": "Frankfurter",
+  "category": "Index",
+  "description": "Exchange rates, currency conversion and time series",
+  "longDescription": "Exchange rates, currency conversion and time series",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.frankfurter.app/docs",
+  "docsUrl": "https://www.frankfurter.app/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "exchange",
+    "rates",
+    "currency",
+    "conversion",
+    "and",
+    "time",
+    "series"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.frankfurter.app/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

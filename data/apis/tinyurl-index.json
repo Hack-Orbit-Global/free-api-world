@@ -1,0 +1,28 @@
+{
+  "slug": "tinyurl-index",
+  "name": "TinyURL",
+  "category": "Index",
+  "description": "Shorten long URLs",
+  "longDescription": "Shorten long URLs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://tinyurl.com/app/dev",
+  "docsUrl": "https://tinyurl.com/app/dev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "shorten",
+    "long",
+    "urls"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tinyurl.com/app/dev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "lucifer-quotes-index",
+  "name": "Lucifer Quotes",
+  "category": "Index",
+  "description": "Returns Lucifer quotes",
+  "longDescription": "Returns Lucifer quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/shadowoff09/lucifer-quotes",
+  "docsUrl": "https://github.com/shadowoff09/lucifer-quotes",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "returns",
+    "lucifer",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/shadowoff09/lucifer-quotes",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

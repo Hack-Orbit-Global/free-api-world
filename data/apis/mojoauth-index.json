@@ -1,0 +1,31 @@
+{
+  "slug": "mojoauth-index",
+  "name": "MojoAuth",
+  "category": "Index",
+  "description": "Secure and modern passwordless authentication platform",
+  "longDescription": "Secure and modern passwordless authentication platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mojoauth.com",
+  "docsUrl": "https://mojoauth.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "secure",
+    "and",
+    "modern",
+    "passwordless",
+    "authentication",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mojoauth.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "freelancer-index",
+  "name": "Freelancer",
+  "category": "Index",
+  "description": "Hire freelancers to get work done",
+  "longDescription": "Hire freelancers to get work done",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.freelancer.com",
+  "docsUrl": "https://developers.freelancer.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hire",
+    "freelancers",
+    "to",
+    "get",
+    "work",
+    "done"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.freelancer.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

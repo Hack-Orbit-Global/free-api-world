@@ -1,0 +1,33 @@
+{
+  "slug": "ipfind-io-index",
+  "name": "ipfind.io",
+  "category": "Index",
+  "description": "Geographic location of an IP address or any domain name along with some other useful information",
+  "longDescription": "Geographic location of an IP address or any domain name along with some other useful information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipfind.io",
+  "docsUrl": "https://ipfind.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "geographic",
+    "location",
+    "of",
+    "an",
+    "ip",
+    "address",
+    "or",
+    "any"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipfind.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

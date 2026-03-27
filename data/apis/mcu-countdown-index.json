@@ -1,0 +1,32 @@
+{
+  "slug": "mcu-countdown-index",
+  "name": "MCU Countdown",
+  "category": "Index",
+  "description": "A Countdown to the next MCU Film",
+  "longDescription": "A Countdown to the next MCU Film",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/DiljotSG/MCU-Countdown",
+  "docsUrl": "https://github.com/DiljotSG/MCU-Countdown",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "countdown",
+    "to",
+    "the",
+    "next",
+    "mcu",
+    "film"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/DiljotSG/MCU-Countdown",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

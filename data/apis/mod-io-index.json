@@ -1,0 +1,29 @@
+{
+  "slug": "mod-io-index",
+  "name": "mod.io",
+  "category": "Index",
+  "description": "Cross Platform Mod API",
+  "longDescription": "Cross Platform Mod API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.mod.io",
+  "docsUrl": "https://docs.mod.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cross",
+    "platform",
+    "mod",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.mod.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

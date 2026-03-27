@@ -1,0 +1,33 @@
+{
+  "slug": "octopart-index",
+  "name": "Octopart",
+  "category": "Index",
+  "description": "Electronic part data for manufacturing, design, and sourcing",
+  "longDescription": "Electronic part data for manufacturing, design, and sourcing",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://octopart.com/api/v4/reference",
+  "docsUrl": "https://octopart.com/api/v4/reference",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "electronic",
+    "part",
+    "data",
+    "for",
+    "manufacturing",
+    "design",
+    "and",
+    "sourcing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://octopart.com/api/v4/reference",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

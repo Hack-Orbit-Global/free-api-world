@@ -1,0 +1,32 @@
+{
+  "slug": "fbi-wanted-index",
+  "name": "FBI Wanted",
+  "category": "Index",
+  "description": "Access information on the FBI Wanted program",
+  "longDescription": "Access information on the FBI Wanted program",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.fbi.gov/wanted/api",
+  "docsUrl": "https://www.fbi.gov/wanted/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "information",
+    "on",
+    "the",
+    "fbi",
+    "wanted",
+    "program"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.fbi.gov/wanted/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

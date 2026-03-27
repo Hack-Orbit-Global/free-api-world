@@ -1,0 +1,33 @@
+{
+  "slug": "lanyard-index",
+  "name": "Lanyard",
+  "category": "Index",
+  "description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
+  "longDescription": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/Phineas/lanyard",
+  "docsUrl": "https://github.com/Phineas/lanyard",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "retrieve",
+    "your",
+    "presence",
+    "on",
+    "discord",
+    "through",
+    "an",
+    "http"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/Phineas/lanyard",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

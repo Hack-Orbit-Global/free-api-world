@@ -1,0 +1,33 @@
+{
+  "slug": "getping-index",
+  "name": "GETPing",
+  "category": "Index",
+  "description": "Trigger an email notification with a simple GET request",
+  "longDescription": "Trigger an email notification with a simple GET request",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.getping.info",
+  "docsUrl": "https://www.getping.info",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "trigger",
+    "an",
+    "email",
+    "notification",
+    "with",
+    "a",
+    "simple",
+    "get"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.getping.info",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

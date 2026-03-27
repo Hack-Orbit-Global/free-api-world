@@ -1,0 +1,33 @@
+{
+  "slug": "fraudlabs-pro-index",
+  "name": "FraudLabs Pro",
+  "category": "Index",
+  "description": "Screen order information using AI to detect frauds",
+  "longDescription": "Screen order information using AI to detect frauds",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.fraudlabspro.com/developer/api/screen-order",
+  "docsUrl": "https://www.fraudlabspro.com/developer/api/screen-order",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "screen",
+    "order",
+    "information",
+    "using",
+    "ai",
+    "to",
+    "detect",
+    "frauds"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.fraudlabspro.com/developer/api/screen-order",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

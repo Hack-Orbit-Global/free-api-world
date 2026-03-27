@@ -1,0 +1,31 @@
+{
+  "slug": "strava-index",
+  "name": "Strava",
+  "category": "Index",
+  "description": "Connect with athletes, activities and more",
+  "longDescription": "Connect with athletes, activities and more",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://strava.github.io/api/",
+  "docsUrl": "https://strava.github.io/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "connect",
+    "with",
+    "athletes",
+    "activities",
+    "and",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://strava.github.io/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

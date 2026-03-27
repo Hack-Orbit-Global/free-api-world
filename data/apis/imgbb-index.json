@@ -1,0 +1,31 @@
+{
+  "slug": "imgbb-index",
+  "name": "Imgbb",
+  "category": "Index",
+  "description": "Simple and quick private image sharing",
+  "longDescription": "Simple and quick private image sharing",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.imgbb.com/",
+  "docsUrl": "https://api.imgbb.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "and",
+    "quick",
+    "private",
+    "image",
+    "sharing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.imgbb.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

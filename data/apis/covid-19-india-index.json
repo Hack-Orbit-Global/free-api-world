@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-india-index",
+  "name": "Covid-19 India",
+  "category": "Index",
+  "description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
+  "longDescription": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.covid19india.org/",
+  "docsUrl": "https://data.covid19india.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "covid",
+    "19",
+    "statistics",
+    "state",
+    "and",
+    "district",
+    "wise",
+    "about"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.covid19india.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

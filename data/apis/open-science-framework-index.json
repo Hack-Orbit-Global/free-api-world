@@ -1,0 +1,33 @@
+{
+  "slug": "open-science-framework-index",
+  "name": "Open Science Framework",
+  "category": "Index",
+  "description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
+  "longDescription": "Repository and archive for study designs, research materials, data, manuscripts, etc",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.osf.io",
+  "docsUrl": "https://developer.osf.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "repository",
+    "and",
+    "archive",
+    "for",
+    "study",
+    "designs",
+    "research",
+    "materials"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.osf.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

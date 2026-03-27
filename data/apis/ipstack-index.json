@@ -1,0 +1,33 @@
+{
+  "slug": "ipstack-index",
+  "name": "ipstack",
+  "category": "Index",
+  "description": "Locate and identify website visitors by IP address",
+  "longDescription": "Locate and identify website visitors by IP address",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipstack.com/",
+  "docsUrl": "https://ipstack.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "locate",
+    "and",
+    "identify",
+    "website",
+    "visitors",
+    "by",
+    "ip",
+    "address"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipstack.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "disney-index",
+  "name": "Disney",
+  "category": "Index",
+  "description": "Information of Disney characters",
+  "longDescription": "Information of Disney characters",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://disneyapi.dev",
+  "docsUrl": "https://disneyapi.dev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "information",
+    "of",
+    "disney",
+    "characters"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://disneyapi.dev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

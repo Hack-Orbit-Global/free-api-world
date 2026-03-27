@@ -1,0 +1,31 @@
+{
+  "slug": "coinlayer-index",
+  "name": "Coinlayer",
+  "category": "Index",
+  "description": "Real-time Crypto Currency Exchange Rates",
+  "longDescription": "Real-time Crypto Currency Exchange Rates",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://coinlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://coinlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "crypto",
+    "currency",
+    "exchange",
+    "rates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://coinlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

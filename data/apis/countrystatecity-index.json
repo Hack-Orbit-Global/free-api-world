@@ -1,0 +1,33 @@
+{
+  "slug": "countrystatecity-index",
+  "name": "CountryStateCity",
+  "category": "Index",
+  "description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+  "longDescription": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://countrystatecity.in/",
+  "docsUrl": "https://countrystatecity.in/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "world",
+    "countries",
+    "states",
+    "regions",
+    "provinces",
+    "cities",
+    "towns",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://countrystatecity.in/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

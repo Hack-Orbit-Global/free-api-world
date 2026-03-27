@@ -1,0 +1,29 @@
+{
+  "slug": "randomfox-index",
+  "name": "RandomFox",
+  "category": "Index",
+  "description": "Random pictures of foxes",
+  "longDescription": "Random pictures of foxes",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://randomfox.ca/floof/",
+  "docsUrl": "https://randomfox.ca/floof/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "pictures",
+    "of",
+    "foxes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://randomfox.ca/floof/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "infura-ethereum-index",
+  "name": "INFURA Ethereum",
+  "category": "Index",
+  "description": "Interaction with the Ethereum mainnet and several testnets",
+  "longDescription": "Interaction with the Ethereum mainnet and several testnets",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://infura.io/product/ethereum",
+  "docsUrl": "https://infura.io/product/ethereum",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "interaction",
+    "with",
+    "the",
+    "ethereum",
+    "mainnet",
+    "and",
+    "several",
+    "testnets"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://infura.io/product/ethereum",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

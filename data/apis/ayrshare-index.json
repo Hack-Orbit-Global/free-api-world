@@ -1,0 +1,33 @@
+{
+  "slug": "ayrshare-index",
+  "name": "Ayrshare",
+  "category": "Index",
+  "description": "Social media APIs to post, get analytics, and manage multiple users social media accounts",
+  "longDescription": "Social media APIs to post, get analytics, and manage multiple users social media accounts",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ayrshare.com",
+  "docsUrl": "https://www.ayrshare.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "social",
+    "media",
+    "apis",
+    "to",
+    "post",
+    "get",
+    "analytics",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ayrshare.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

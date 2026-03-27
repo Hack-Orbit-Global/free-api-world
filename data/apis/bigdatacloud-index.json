@@ -1,0 +1,33 @@
+{
+  "slug": "bigdatacloud-index",
+  "name": "BigDataCloud",
+  "category": "Index",
+  "description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area",
+  "longDescription": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.bigdatacloud.com/ip-geolocation-apis",
+  "docsUrl": "https://www.bigdatacloud.com/ip-geolocation-apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "fast",
+    "and",
+    "accurate",
+    "ip",
+    "geolocation",
+    "apis",
+    "along"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.bigdatacloud.com/ip-geolocation-apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

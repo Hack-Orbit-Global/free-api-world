@@ -1,0 +1,33 @@
+{
+  "slug": "one-map-singapore-index",
+  "name": "One Map, Singapore",
+  "category": "Index",
+  "description": "Singapore Land Authority REST API services for Singapore addresses",
+  "longDescription": "Singapore Land Authority REST API services for Singapore addresses",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.onemap.gov.sg/docs/",
+  "docsUrl": "https://www.onemap.gov.sg/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "singapore",
+    "land",
+    "authority",
+    "rest",
+    "api",
+    "services",
+    "for",
+    "addresses"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.onemap.gov.sg/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

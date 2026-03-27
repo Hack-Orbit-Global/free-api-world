@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-victoria-state-government-index",
+  "name": "Open Government, Victoria State Government",
+  "category": "Index",
+  "description": "Victoria State Government Open Data",
+  "longDescription": "Victoria State Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.vic.gov.au/",
+  "docsUrl": "https://www.data.vic.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "victoria",
+    "state",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.vic.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

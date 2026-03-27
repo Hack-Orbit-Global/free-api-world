@@ -1,0 +1,33 @@
+{
+  "slug": "azure-devops-health-index",
+  "name": "Azure DevOps Health",
+  "category": "Index",
+  "description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
+  "longDescription": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": false,
+  "baseUrl": "https://docs.microsoft.com/en-us/rest/api/resourcehealth",
+  "docsUrl": "https://docs.microsoft.com/en-us/rest/api/resourcehealth",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "resource",
+    "health",
+    "helps",
+    "you",
+    "diagnose",
+    "and",
+    "get",
+    "support"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.microsoft.com/en-us/rest/api/resourcehealth",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

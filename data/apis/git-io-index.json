@@ -1,0 +1,29 @@
+{
+  "slug": "git-io-index",
+  "name": "Git.io",
+  "category": "Index",
+  "description": "Git.io URL shortener",
+  "longDescription": "Git.io URL shortener",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.blog/2011-11-10-git-io-github-url-shortener/",
+  "docsUrl": "https://github.blog/2011-11-10-git-io-github-url-shortener/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "git",
+    "io",
+    "url",
+    "shortener"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.blog/2011-11-10-git-io-github-url-shortener/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

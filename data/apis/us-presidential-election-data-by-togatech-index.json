@@ -1,0 +1,33 @@
+{
+  "slug": "us-presidential-election-data-by-togatech-index",
+  "name": "US Presidential Election Data by TogaTech",
+  "category": "Index",
+  "description": "Basic candidate data and live electoral vote counts for top two parties in US presidential election",
+  "longDescription": "Basic candidate data and live electoral vote counts for top two parties in US presidential election",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://uselection.togatech.org/api/",
+  "docsUrl": "https://uselection.togatech.org/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "basic",
+    "candidate",
+    "data",
+    "and",
+    "live",
+    "electoral",
+    "vote",
+    "counts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://uselection.togatech.org/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

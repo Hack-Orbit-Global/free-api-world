@@ -1,0 +1,33 @@
+{
+  "slug": "file-io-index",
+  "name": "File.io",
+  "category": "Index",
+  "description": "Super simple file sharing, convenient, anonymous and secure",
+  "longDescription": "Super simple file sharing, convenient, anonymous and secure",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.file.io",
+  "docsUrl": "https://www.file.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "super",
+    "simple",
+    "file",
+    "sharing",
+    "convenient",
+    "anonymous",
+    "and",
+    "secure"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.file.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

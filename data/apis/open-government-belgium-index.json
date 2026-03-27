@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-belgium-index",
+  "name": "Open Government, Belgium",
+  "category": "Index",
+  "description": "Belgium Government Open Data",
+  "longDescription": "Belgium Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.be/",
+  "docsUrl": "https://data.gov.be/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "belgium",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.be/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

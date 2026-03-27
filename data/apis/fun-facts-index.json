@@ -1,0 +1,28 @@
+{
+  "slug": "fun-facts-index",
+  "name": "Fun Facts",
+  "category": "Index",
+  "description": "Random Fun Facts",
+  "longDescription": "Random Fun Facts",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://asli-fun-fact-api.herokuapp.com/",
+  "docsUrl": "https://asli-fun-fact-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "fun",
+    "facts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://asli-fun-fact-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

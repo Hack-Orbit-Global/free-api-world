@@ -1,0 +1,33 @@
+{
+  "slug": "rest-countries-index",
+  "name": "REST Countries",
+  "category": "Index",
+  "description": "Get information about countries via a RESTful API",
+  "longDescription": "Get information about countries via a RESTful API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://restcountries.com",
+  "docsUrl": "https://restcountries.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "information",
+    "about",
+    "countries",
+    "via",
+    "a",
+    "restful",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://restcountries.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

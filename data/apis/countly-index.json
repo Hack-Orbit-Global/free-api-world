@@ -1,0 +1,28 @@
+{
+  "slug": "countly-index",
+  "name": "Countly",
+  "category": "Index",
+  "description": "Countly web analytics",
+  "longDescription": "Countly web analytics",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://api.count.ly/reference",
+  "docsUrl": "https://api.count.ly/reference",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "countly",
+    "web",
+    "analytics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.count.ly/reference",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

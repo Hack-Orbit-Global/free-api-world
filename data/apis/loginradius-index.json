@@ -1,0 +1,29 @@
+{
+  "slug": "loginradius-index",
+  "name": "LoginRadius",
+  "category": "Index",
+  "description": "Managed User Authentication Service",
+  "longDescription": "Managed User Authentication Service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.loginradius.com/docs/",
+  "docsUrl": "https://www.loginradius.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "managed",
+    "user",
+    "authentication",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.loginradius.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

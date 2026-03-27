@@ -1,0 +1,33 @@
+{
+  "slug": "exude-api-index",
+  "name": "EXUDE-API",
+  "category": "Index",
+  "description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
+  "longDescription": "Used for the primary ways for filtering the stopping, stemming words from the text data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://uttesh.com/exude-api/",
+  "docsUrl": "http://uttesh.com/exude-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "used",
+    "for",
+    "the",
+    "primary",
+    "ways",
+    "filtering",
+    "stopping",
+    "stemming"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://uttesh.com/exude-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

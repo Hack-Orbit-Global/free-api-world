@@ -1,0 +1,30 @@
+{
+  "slug": "bittrex-index",
+  "name": "Bittrex",
+  "category": "Index",
+  "description": "Next Generation Crypto Trading Platform",
+  "longDescription": "Next Generation Crypto Trading Platform",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bittrex.github.io/api/v3",
+  "docsUrl": "https://bittrex.github.io/api/v3",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "next",
+    "generation",
+    "crypto",
+    "trading",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bittrex.github.io/api/v3",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "graphql-jobs-index",
+  "name": "GraphQL Jobs",
+  "category": "Index",
+  "description": "Jobs with GraphQL",
+  "longDescription": "Jobs with GraphQL",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://graphql.jobs/docs/api/",
+  "docsUrl": "https://graphql.jobs/docs/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "jobs",
+    "with",
+    "graphql"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://graphql.jobs/docs/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

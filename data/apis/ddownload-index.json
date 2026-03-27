@@ -1,0 +1,29 @@
+{
+  "slug": "ddownload-index",
+  "name": "ddownload",
+  "category": "Index",
+  "description": "File Sharing and Storage",
+  "longDescription": "File Sharing and Storage",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ddownload.com/api",
+  "docsUrl": "https://ddownload.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "file",
+    "sharing",
+    "and",
+    "storage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ddownload.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

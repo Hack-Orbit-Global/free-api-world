@@ -1,0 +1,31 @@
+{
+  "slug": "ip-2-country-index",
+  "name": "IP 2 Country",
+  "category": "Index",
+  "description": "Map an IP to a country",
+  "longDescription": "Map an IP to a country",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ip2country.info",
+  "docsUrl": "https://ip2country.info",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "map",
+    "an",
+    "ip",
+    "to",
+    "a",
+    "country"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ip2country.info",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

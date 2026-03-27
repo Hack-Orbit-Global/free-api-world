@@ -1,0 +1,30 @@
+{
+  "slug": "ipinfo-index",
+  "name": "IPinfo",
+  "category": "Index",
+  "description": "Another simple IP Address API",
+  "longDescription": "Another simple IP Address API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipinfo.io/developers",
+  "docsUrl": "https://ipinfo.io/developers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "another",
+    "simple",
+    "ip",
+    "address",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipinfo.io/developers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

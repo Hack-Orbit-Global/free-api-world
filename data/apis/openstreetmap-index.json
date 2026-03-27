@@ -1,0 +1,30 @@
+{
+  "slug": "openstreetmap-index",
+  "name": "OpenStreetMap",
+  "category": "Index",
+  "description": "Navigation, geolocation and geographical data",
+  "longDescription": "Navigation, geolocation and geographical data",
+  "auth": "OAuth",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://wiki.openstreetmap.org/wiki/API",
+  "docsUrl": "http://wiki.openstreetmap.org/wiki/API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "navigation",
+    "geolocation",
+    "and",
+    "geographical",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://wiki.openstreetmap.org/wiki/API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

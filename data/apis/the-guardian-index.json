@@ -1,0 +1,33 @@
+{
+  "slug": "the-guardian-index",
+  "name": "The Guardian",
+  "category": "Index",
+  "description": "Access all the content the Guardian creates, categorised by tags and section",
+  "longDescription": "Access all the content the Guardian creates, categorised by tags and section",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://open-platform.theguardian.com/",
+  "docsUrl": "http://open-platform.theguardian.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "all",
+    "the",
+    "content",
+    "guardian",
+    "creates",
+    "categorised",
+    "by"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://open-platform.theguardian.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

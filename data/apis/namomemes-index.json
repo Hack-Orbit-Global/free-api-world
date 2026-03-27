@@ -1,0 +1,29 @@
+{
+  "slug": "namomemes-index",
+  "name": "NaMoMemes",
+  "category": "Index",
+  "description": "Memes on Narendra Modi",
+  "longDescription": "Memes on Narendra Modi",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/theIYD/NaMoMemes",
+  "docsUrl": "https://github.com/theIYD/NaMoMemes",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "memes",
+    "on",
+    "narendra",
+    "modi"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/theIYD/NaMoMemes",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

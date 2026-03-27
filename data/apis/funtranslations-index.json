@@ -1,0 +1,30 @@
+{
+  "slug": "funtranslations-index",
+  "name": "FunTranslations",
+  "category": "Index",
+  "description": "Translate Text into funny languages",
+  "longDescription": "Translate Text into funny languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.funtranslations.com/",
+  "docsUrl": "https://api.funtranslations.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translate",
+    "text",
+    "into",
+    "funny",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.funtranslations.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

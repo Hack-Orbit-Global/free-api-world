@@ -1,0 +1,28 @@
+{
+  "slug": "church-calendar-index",
+  "name": "Church Calendar",
+  "category": "Index",
+  "description": "Catholic liturgical calendar",
+  "longDescription": "Catholic liturgical calendar",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://calapi.inadiutorium.cz/",
+  "docsUrl": "http://calapi.inadiutorium.cz/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "catholic",
+    "liturgical",
+    "calendar"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://calapi.inadiutorium.cz/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

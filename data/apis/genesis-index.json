@@ -1,0 +1,29 @@
+{
+  "slug": "genesis-index",
+  "name": "GENESIS",
+  "category": "Index",
+  "description": "Federal Statistical Office Germany",
+  "longDescription": "Federal Statistical Office Germany",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+  "docsUrl": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "federal",
+    "statistical",
+    "office",
+    "germany"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.destatis.de/EN/Service/OpenData/api-webservice.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

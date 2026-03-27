@@ -1,0 +1,29 @@
+{
+  "slug": "open-collective-index",
+  "name": "Open Collective",
+  "category": "Index",
+  "description": "Get Open Collective data",
+  "longDescription": "Get Open Collective data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.opencollective.com/help/developers/api",
+  "docsUrl": "https://docs.opencollective.com/help/developers/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "open",
+    "collective",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.opencollective.com/help/developers/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

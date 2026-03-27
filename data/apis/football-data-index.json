@@ -1,0 +1,33 @@
+{
+  "slug": "football-data-index",
+  "name": "Football-Data",
+  "category": "Index",
+  "description": "Football data with matches info, players, teams, and competitions",
+  "longDescription": "Football data with matches info, players, teams, and competitions",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.football-data.org",
+  "docsUrl": "https://www.football-data.org",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "football",
+    "data",
+    "with",
+    "matches",
+    "info",
+    "players",
+    "teams",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.football-data.org",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

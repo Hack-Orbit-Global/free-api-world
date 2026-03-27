@@ -1,0 +1,28 @@
+{
+  "slug": "hypixel-index",
+  "name": "Hypixel",
+  "category": "Index",
+  "description": "Hypixel player stats",
+  "longDescription": "Hypixel player stats",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.hypixel.net/",
+  "docsUrl": "https://api.hypixel.net/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hypixel",
+    "player",
+    "stats"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.hypixel.net/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

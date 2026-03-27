@@ -1,0 +1,30 @@
+{
+  "slug": "shrtcode-index",
+  "name": "Shrtcode",
+  "category": "Index",
+  "description": "URl Shortener with multiple Domains",
+  "longDescription": "URl Shortener with multiple Domains",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://shrtco.de/docs",
+  "docsUrl": "https://shrtco.de/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "shortener",
+    "with",
+    "multiple",
+    "domains"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://shrtco.de/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

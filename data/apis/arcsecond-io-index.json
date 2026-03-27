@@ -1,0 +1,29 @@
+{
+  "slug": "arcsecond-io-index",
+  "name": "arcsecond.io",
+  "category": "Index",
+  "description": "Multiple astronomy data sources",
+  "longDescription": "Multiple astronomy data sources",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.arcsecond.io/",
+  "docsUrl": "https://api.arcsecond.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "multiple",
+    "astronomy",
+    "data",
+    "sources"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.arcsecond.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

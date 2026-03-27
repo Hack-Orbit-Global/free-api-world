@@ -1,0 +1,29 @@
+{
+  "slug": "usajobs-index",
+  "name": "USAJOBS",
+  "category": "Index",
+  "description": "US government job board",
+  "longDescription": "US government job board",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.usajobs.gov/",
+  "docsUrl": "https://developer.usajobs.gov/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "us",
+    "government",
+    "job",
+    "board"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.usajobs.gov/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "transport-for-philadelphia-us-index",
+  "name": "Transport for Philadelphia, US",
+  "category": "Index",
+  "description": "SEPTA APIs",
+  "longDescription": "SEPTA APIs",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www3.septa.org/hackathon/",
+  "docsUrl": "http://www3.septa.org/hackathon/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "septa",
+    "apis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www3.septa.org/hackathon/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rig-veda-index",
+  "name": "Rig Veda",
+  "category": "Index",
+  "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
+  "longDescription": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://aninditabasu.github.io/indica/html/rv.html",
+  "docsUrl": "https://aninditabasu.github.io/indica/html/rv.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gods",
+    "and",
+    "poets",
+    "their",
+    "categories",
+    "the",
+    "verse",
+    "meters"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://aninditabasu.github.io/indica/html/rv.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

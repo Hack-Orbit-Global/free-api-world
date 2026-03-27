@@ -1,0 +1,29 @@
+{
+  "slug": "indonesia-dictionary-index",
+  "name": "Indonesia Dictionary",
+  "category": "Index",
+  "description": "Indonesia dictionary many words",
+  "longDescription": "Indonesia dictionary many words",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://new-kbbi-api.herokuapp.com/",
+  "docsUrl": "https://new-kbbi-api.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "indonesia",
+    "dictionary",
+    "many",
+    "words"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://new-kbbi-api.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

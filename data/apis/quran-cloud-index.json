@@ -1,0 +1,33 @@
+{
+  "slug": "quran-cloud-index",
+  "name": "Quran Cloud",
+  "category": "Index",
+  "description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",
+  "longDescription": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://alquran.cloud/api",
+  "docsUrl": "https://alquran.cloud/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "restful",
+    "quran",
+    "api",
+    "to",
+    "retrieve",
+    "an",
+    "ayah"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://alquran.cloud/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

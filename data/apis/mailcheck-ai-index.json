@@ -1,0 +1,33 @@
+{
+  "slug": "mailcheck-ai-index",
+  "name": "MailCheck.ai",
+  "category": "Index",
+  "description": "Prevent users to sign up with temporary email addresses",
+  "longDescription": "Prevent users to sign up with temporary email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.mailcheck.ai/#documentation",
+  "docsUrl": "https://www.mailcheck.ai/#documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "prevent",
+    "users",
+    "to",
+    "sign",
+    "up",
+    "with",
+    "temporary",
+    "email"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.mailcheck.ai/#documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

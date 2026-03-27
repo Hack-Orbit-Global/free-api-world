@@ -1,0 +1,33 @@
+{
+  "slug": "tax-data-api-index",
+  "name": "Tax Data API",
+  "category": "Index",
+  "description": "Instant VAT number and tax validation across the globe",
+  "longDescription": "Instant VAT number and tax validation across the globe",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://apilayer.com/marketplace/tax_data-api",
+  "docsUrl": "https://apilayer.com/marketplace/tax_data-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "instant",
+    "vat",
+    "number",
+    "and",
+    "tax",
+    "validation",
+    "across",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apilayer.com/marketplace/tax_data-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

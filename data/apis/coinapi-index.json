@@ -1,0 +1,33 @@
+{
+  "slug": "coinapi-index",
+  "name": "CoinAPI",
+  "category": "Index",
+  "description": "All Currency Exchanges integrate under a single api",
+  "longDescription": "All Currency Exchanges integrate under a single api",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://docs.coinapi.io/",
+  "docsUrl": "https://docs.coinapi.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "currency",
+    "exchanges",
+    "integrate",
+    "under",
+    "a",
+    "single",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.coinapi.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

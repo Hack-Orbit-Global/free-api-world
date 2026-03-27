@@ -1,0 +1,29 @@
+{
+  "slug": "docker-hub-index",
+  "name": "Docker Hub",
+  "category": "Index",
+  "description": "Interact with Docker Hub",
+  "longDescription": "Interact with Docker Hub",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.docker.com/docker-hub/api/latest/",
+  "docsUrl": "https://docs.docker.com/docker-hub/api/latest/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "interact",
+    "with",
+    "docker",
+    "hub"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.docker.com/docker-hub/api/latest/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

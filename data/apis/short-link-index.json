@@ -1,0 +1,31 @@
+{
+  "slug": "short-link-index",
+  "name": "Short Link",
+  "category": "Index",
+  "description": "Short URLs support so many domains",
+  "longDescription": "Short URLs support so many domains",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/FayasNoushad/Short-Link-API",
+  "docsUrl": "https://github.com/FayasNoushad/Short-Link-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "short",
+    "urls",
+    "support",
+    "so",
+    "many",
+    "domains"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/FayasNoushad/Short-Link-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

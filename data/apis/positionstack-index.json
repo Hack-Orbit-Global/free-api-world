@@ -1,0 +1,31 @@
+{
+  "slug": "positionstack-index",
+  "name": "positionstack",
+  "category": "Index",
+  "description": "Forward & Reverse Batch Geocoding REST API",
+  "longDescription": "Forward & Reverse Batch Geocoding REST API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://positionstack.com/",
+  "docsUrl": "https://positionstack.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "forward",
+    "reverse",
+    "batch",
+    "geocoding",
+    "rest",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://positionstack.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "university-of-oslo-index",
+  "name": "University of Oslo",
+  "category": "Index",
+  "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+  "longDescription": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.uio.no/",
+  "docsUrl": "https://data.uio.no/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "courses",
+    "lecture",
+    "videos",
+    "detailed",
+    "information",
+    "for",
+    "etc",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.uio.no/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

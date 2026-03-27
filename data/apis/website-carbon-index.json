@@ -1,0 +1,33 @@
+{
+  "slug": "website-carbon-index",
+  "name": "Website Carbon",
+  "category": "Index",
+  "description": "API to estimate the carbon footprint of loading web pages",
+  "longDescription": "API to estimate the carbon footprint of loading web pages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.websitecarbon.com/",
+  "docsUrl": "https://api.websitecarbon.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "to",
+    "estimate",
+    "the",
+    "carbon",
+    "footprint",
+    "of",
+    "loading"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.websitecarbon.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

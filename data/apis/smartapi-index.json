@@ -1,0 +1,33 @@
+{
+  "slug": "smartapi-index",
+  "name": "SmartAPI",
+  "category": "Index",
+  "description": "Gain access to set of <SmartAPI> and create end-to-end broking services",
+  "longDescription": "Gain access to set of <SmartAPI> and create end-to-end broking services",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://smartapi.angelbroking.com/",
+  "docsUrl": "https://smartapi.angelbroking.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "gain",
+    "access",
+    "to",
+    "set",
+    "of",
+    "smartapi",
+    "and",
+    "create"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://smartapi.angelbroking.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

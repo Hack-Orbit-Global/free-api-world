@@ -1,0 +1,32 @@
+{
+  "slug": "localbitcoins-index",
+  "name": "Localbitcoins",
+  "category": "Index",
+  "description": "P2P platform to buy and sell Bitcoins",
+  "longDescription": "P2P platform to buy and sell Bitcoins",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://localbitcoins.com/api-docs/",
+  "docsUrl": "https://localbitcoins.com/api-docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "p2p",
+    "platform",
+    "to",
+    "buy",
+    "and",
+    "sell",
+    "bitcoins"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://localbitcoins.com/api-docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

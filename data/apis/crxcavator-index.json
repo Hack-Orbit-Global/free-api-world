@@ -1,0 +1,29 @@
+{
+  "slug": "crxcavator-index",
+  "name": "CRXcavator",
+  "category": "Index",
+  "description": "Chrome extension risk scoring",
+  "longDescription": "Chrome extension risk scoring",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://crxcavator.io/apidocs",
+  "docsUrl": "https://crxcavator.io/apidocs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "chrome",
+    "extension",
+    "risk",
+    "scoring"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://crxcavator.io/apidocs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

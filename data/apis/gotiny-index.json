@@ -1,0 +1,33 @@
+{
+  "slug": "gotiny-index",
+  "name": "GoTiny",
+  "category": "Index",
+  "description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
+  "longDescription": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/robvanbakel/gotiny-api",
+  "docsUrl": "https://github.com/robvanbakel/gotiny-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "lightweight",
+    "url",
+    "shortener",
+    "focused",
+    "on",
+    "ease",
+    "of"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/robvanbakel/gotiny-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

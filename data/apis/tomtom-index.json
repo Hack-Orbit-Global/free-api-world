@@ -1,0 +1,31 @@
+{
+  "slug": "tomtom-index",
+  "name": "TomTom",
+  "category": "Index",
+  "description": "Maps, Directions, Places and Traffic APIs",
+  "longDescription": "Maps, Directions, Places and Traffic APIs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.tomtom.com/",
+  "docsUrl": "https://developer.tomtom.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "maps",
+    "directions",
+    "places",
+    "and",
+    "traffic",
+    "apis"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.tomtom.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

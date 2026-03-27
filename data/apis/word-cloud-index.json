@@ -1,0 +1,29 @@
+{
+  "slug": "word-cloud-index",
+  "name": "Word Cloud",
+  "category": "Index",
+  "description": "Easily create word clouds",
+  "longDescription": "Easily create word clouds",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://wordcloudapi.com/",
+  "docsUrl": "https://wordcloudapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "easily",
+    "create",
+    "word",
+    "clouds"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wordcloudapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

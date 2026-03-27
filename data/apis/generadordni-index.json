@@ -1,0 +1,33 @@
+{
+  "slug": "generadordni-index",
+  "name": "GeneradorDNI",
+  "category": "Index",
+  "description": "Data generator API. Profiles, vehicles, banks and cards, etc",
+  "longDescription": "Data generator API. Profiles, vehicles, banks and cards, etc",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.generadordni.es",
+  "docsUrl": "https://api.generadordni.es",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "data",
+    "generator",
+    "api",
+    "profiles",
+    "vehicles",
+    "banks",
+    "and",
+    "cards"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.generadordni.es",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

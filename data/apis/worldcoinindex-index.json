@@ -1,0 +1,27 @@
+{
+  "slug": "worldcoinindex-index",
+  "name": "WorldCoinIndex",
+  "category": "Index",
+  "description": "Cryptocurrencies Prices",
+  "longDescription": "Cryptocurrencies Prices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.worldcoinindex.com/apiservice",
+  "docsUrl": "https://www.worldcoinindex.com/apiservice",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "prices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.worldcoinindex.com/apiservice",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

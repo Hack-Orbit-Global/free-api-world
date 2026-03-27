@@ -1,0 +1,33 @@
+{
+  "slug": "codeship-index",
+  "name": "Codeship",
+  "category": "Index",
+  "description": "Codeship is a Continuous Integration Platform in the cloud",
+  "longDescription": "Codeship is a Continuous Integration Platform in the cloud",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+  "docsUrl": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "codeship",
+    "is",
+    "a",
+    "continuous",
+    "integration",
+    "platform",
+    "in",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

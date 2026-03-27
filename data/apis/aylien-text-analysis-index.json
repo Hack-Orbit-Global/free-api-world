@@ -1,0 +1,33 @@
+{
+  "slug": "aylien-text-analysis-index",
+  "name": "Aylien Text Analysis",
+  "category": "Index",
+  "description": "A collection of information retrieval and natural language APIs",
+  "longDescription": "A collection of information retrieval and natural language APIs",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.aylien.com/textapi/#getting-started",
+  "docsUrl": "https://docs.aylien.com/textapi/#getting-started",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "collection",
+    "of",
+    "information",
+    "retrieval",
+    "and",
+    "natural",
+    "language"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.aylien.com/textapi/#getting-started",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

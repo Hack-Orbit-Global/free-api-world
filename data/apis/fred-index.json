@@ -1,0 +1,33 @@
+{
+  "slug": "fred-index",
+  "name": "FRED",
+  "category": "Index",
+  "description": "Economic data from the Federal Reserve Bank of St. Louis",
+  "longDescription": "Economic data from the Federal Reserve Bank of St. Louis",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://fred.stlouisfed.org/docs/api/fred/",
+  "docsUrl": "https://fred.stlouisfed.org/docs/api/fred/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "economic",
+    "data",
+    "from",
+    "the",
+    "federal",
+    "reserve",
+    "bank",
+    "of"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://fred.stlouisfed.org/docs/api/fred/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

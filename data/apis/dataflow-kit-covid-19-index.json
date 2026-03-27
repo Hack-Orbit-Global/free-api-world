@@ -1,0 +1,33 @@
+{
+  "slug": "dataflow-kit-covid-19-index",
+  "name": "Dataflow Kit COVID-19",
+  "category": "Index",
+  "description": "COVID-19 live statistics into sites per hour",
+  "longDescription": "COVID-19 live statistics into sites per hour",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://covid-19.dataflowkit.com",
+  "docsUrl": "https://covid-19.dataflowkit.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "covid",
+    "19",
+    "live",
+    "statistics",
+    "into",
+    "sites",
+    "per",
+    "hour"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://covid-19.dataflowkit.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

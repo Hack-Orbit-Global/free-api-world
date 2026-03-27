@@ -1,0 +1,33 @@
+{
+  "slug": "bitcoincharts-index",
+  "name": "BitcoinCharts",
+  "category": "Index",
+  "description": "Financial and Technical Data related to the Bitcoin Network",
+  "longDescription": "Financial and Technical Data related to the Bitcoin Network",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bitcoincharts.com/about/exchanges/",
+  "docsUrl": "https://bitcoincharts.com/about/exchanges/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "financial",
+    "and",
+    "technical",
+    "data",
+    "related",
+    "to",
+    "the",
+    "bitcoin"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bitcoincharts.com/about/exchanges/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

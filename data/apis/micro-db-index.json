@@ -1,0 +1,28 @@
+{
+  "slug": "micro-db-index",
+  "name": "Micro DB",
+  "category": "Index",
+  "description": "Simple database service",
+  "longDescription": "Simple database service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://m3o.com/db",
+  "docsUrl": "https://m3o.com/db",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simple",
+    "database",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://m3o.com/db",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "universalis-index",
+  "name": "Universalis",
+  "category": "Index",
+  "description": "Final Fantasy XIV market board data",
+  "longDescription": "Final Fantasy XIV market board data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://universalis.app/docs/index.html",
+  "docsUrl": "https://universalis.app/docs/index.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "final",
+    "fantasy",
+    "xiv",
+    "market",
+    "board",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://universalis.app/docs/index.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

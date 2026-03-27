@@ -1,0 +1,28 @@
+{
+  "slug": "mail-tm-index",
+  "name": "mail.tm",
+  "category": "Index",
+  "description": "Temporary Email Service",
+  "longDescription": "Temporary Email Service",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.mail.tm",
+  "docsUrl": "https://docs.mail.tm",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "temporary",
+    "email",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.mail.tm",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

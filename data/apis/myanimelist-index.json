@@ -1,0 +1,30 @@
+{
+  "slug": "myanimelist-index",
+  "name": "MyAnimeList",
+  "category": "Index",
+  "description": "Anime and Manga Database and Community",
+  "longDescription": "Anime and Manga Database and Community",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://myanimelist.net/clubs.php?cid=13727",
+  "docsUrl": "https://myanimelist.net/clubs.php?cid=13727",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "anime",
+    "and",
+    "manga",
+    "database",
+    "community"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://myanimelist.net/clubs.php?cid=13727",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

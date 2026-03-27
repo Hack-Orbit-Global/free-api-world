@@ -1,0 +1,33 @@
+{
+  "slug": "remote-calc-index",
+  "name": "Remote Calc",
+  "category": "Index",
+  "description": "Decodes base64 encoding and parses it to return a solution to the calculation in JSON",
+  "longDescription": "Decodes base64 encoding and parses it to return a solution to the calculation in JSON",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/elizabethadegbaju/remotecalc",
+  "docsUrl": "https://github.com/elizabethadegbaju/remotecalc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "decodes",
+    "base64",
+    "encoding",
+    "and",
+    "parses",
+    "it",
+    "to",
+    "return"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/elizabethadegbaju/remotecalc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

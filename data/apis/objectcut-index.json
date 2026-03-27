@@ -1,0 +1,28 @@
+{
+  "slug": "objectcut-index",
+  "name": "ObjectCut",
+  "category": "Index",
+  "description": "Image Background removal",
+  "longDescription": "Image Background removal",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://objectcut.com/",
+  "docsUrl": "https://objectcut.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "background",
+    "removal"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://objectcut.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

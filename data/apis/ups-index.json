@@ -1,0 +1,29 @@
+{
+  "slug": "ups-index",
+  "name": "UPS",
+  "category": "Index",
+  "description": "Shipment and Address information",
+  "longDescription": "Shipment and Address information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ups.com/upsdeveloperkit",
+  "docsUrl": "https://www.ups.com/upsdeveloperkit",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "shipment",
+    "and",
+    "address",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ups.com/upsdeveloperkit",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

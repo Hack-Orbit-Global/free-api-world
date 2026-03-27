@@ -1,0 +1,30 @@
+{
+  "slug": "scrapingdog-index",
+  "name": "ScrapingDog",
+  "category": "Index",
+  "description": "Proxy API for Web scraping",
+  "longDescription": "Proxy API for Web scraping",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.scrapingdog.com/",
+  "docsUrl": "https://www.scrapingdog.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "proxy",
+    "api",
+    "for",
+    "web",
+    "scraping"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.scrapingdog.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

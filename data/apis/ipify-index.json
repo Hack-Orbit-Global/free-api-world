@@ -1,0 +1,30 @@
+{
+  "slug": "ipify-index",
+  "name": "IPify",
+  "category": "Index",
+  "description": "A simple IP Address API",
+  "longDescription": "A simple IP Address API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.ipify.org/",
+  "docsUrl": "https://www.ipify.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "simple",
+    "ip",
+    "address",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.ipify.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

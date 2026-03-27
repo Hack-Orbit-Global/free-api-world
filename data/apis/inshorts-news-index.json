@@ -1,0 +1,29 @@
+{
+  "slug": "inshorts-news-index",
+  "name": "Inshorts News",
+  "category": "Index",
+  "description": "Provides news from inshorts",
+  "longDescription": "Provides news from inshorts",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+  "docsUrl": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "news",
+    "from",
+    "inshorts"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/cyberboysumanjay/Inshorts-News-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

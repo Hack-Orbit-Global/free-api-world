@@ -1,0 +1,33 @@
+{
+  "slug": "nownodes-index",
+  "name": "Nownodes",
+  "category": "Index",
+  "description": "Blockchain-as-a-service solution that provides high-quality connection via API",
+  "longDescription": "Blockchain-as-a-service solution that provides high-quality connection via API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nownodes.io/",
+  "docsUrl": "https://nownodes.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "blockchain",
+    "as",
+    "a",
+    "service",
+    "solution",
+    "that",
+    "provides",
+    "high"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nownodes.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

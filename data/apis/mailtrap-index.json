@@ -1,0 +1,33 @@
+{
+  "slug": "mailtrap-index",
+  "name": "Mailtrap",
+  "category": "Index",
+  "description": "A service for the safe testing of emails sent from the development and staging environments",
+  "longDescription": "A service for the safe testing of emails sent from the development and staging environments",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mailtrap.docs.apiary.io/#",
+  "docsUrl": "https://mailtrap.docs.apiary.io/#",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "service",
+    "for",
+    "the",
+    "safe",
+    "testing",
+    "of",
+    "emails"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mailtrap.docs.apiary.io/#",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

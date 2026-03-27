@@ -1,0 +1,33 @@
+{
+  "slug": "solana-json-rpc-index",
+  "name": "Solana JSON RPC",
+  "category": "Index",
+  "description": "Provides various endpoints to interact with the Solana Blockchain",
+  "longDescription": "Provides various endpoints to interact with the Solana Blockchain",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.solana.com/developing/clients/jsonrpc-api",
+  "docsUrl": "https://docs.solana.com/developing/clients/jsonrpc-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "various",
+    "endpoints",
+    "to",
+    "interact",
+    "with",
+    "the",
+    "solana"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.solana.com/developing/clients/jsonrpc-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

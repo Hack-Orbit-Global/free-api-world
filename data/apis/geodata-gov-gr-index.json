@@ -1,0 +1,33 @@
+{
+  "slug": "geodata-gov-gr-index",
+  "name": "Geodata.gov.gr",
+  "category": "Index",
+  "description": "Open geospatial data and API service for Greece",
+  "longDescription": "Open geospatial data and API service for Greece",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://geodata.gov.gr/en/",
+  "docsUrl": "https://geodata.gov.gr/en/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "geospatial",
+    "data",
+    "and",
+    "api",
+    "service",
+    "for",
+    "greece"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://geodata.gov.gr/en/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

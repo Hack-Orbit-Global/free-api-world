@@ -1,0 +1,30 @@
+{
+  "slug": "mexico-index",
+  "name": "Mexico",
+  "category": "Index",
+  "description": "Mexico RESTful zip codes API",
+  "longDescription": "Mexico RESTful zip codes API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/IcaliaLabs/sepomex",
+  "docsUrl": "https://github.com/IcaliaLabs/sepomex",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mexico",
+    "restful",
+    "zip",
+    "codes",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/IcaliaLabs/sepomex",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

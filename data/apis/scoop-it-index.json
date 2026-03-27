@@ -1,0 +1,28 @@
+{
+  "slug": "scoop-it-index",
+  "name": "Scoop.it",
+  "category": "Index",
+  "description": "Content Curation Service",
+  "longDescription": "Content Curation Service",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.scoop.it/dev",
+  "docsUrl": "http://www.scoop.it/dev",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "content",
+    "curation",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.scoop.it/dev",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

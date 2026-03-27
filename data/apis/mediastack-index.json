@@ -1,0 +1,33 @@
+{
+  "slug": "mediastack-index",
+  "name": "Mediastack",
+  "category": "Index",
+  "description": "Free, Simple REST API for Live News & Blog Articles",
+  "longDescription": "Free, Simple REST API for Live News & Blog Articles",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://mediastack.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "docsUrl": "https://mediastack.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "simple",
+    "rest",
+    "api",
+    "for",
+    "live",
+    "news",
+    "blog"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mediastack.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

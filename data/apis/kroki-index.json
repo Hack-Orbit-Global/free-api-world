@@ -1,0 +1,30 @@
+{
+  "slug": "kroki-index",
+  "name": "Kroki",
+  "category": "Index",
+  "description": "Creates diagrams from textual descriptions",
+  "longDescription": "Creates diagrams from textual descriptions",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://kroki.io",
+  "docsUrl": "https://kroki.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "creates",
+    "diagrams",
+    "from",
+    "textual",
+    "descriptions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://kroki.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

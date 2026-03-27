@@ -1,0 +1,28 @@
+{
+  "slug": "tvmaze-index",
+  "name": "TVMaze",
+  "category": "Index",
+  "description": "TV Show Data",
+  "longDescription": "TV Show Data",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.tvmaze.com/api",
+  "docsUrl": "http://www.tvmaze.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "tv",
+    "show",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.tvmaze.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

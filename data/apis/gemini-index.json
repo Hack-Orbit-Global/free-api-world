@@ -1,0 +1,27 @@
+{
+  "slug": "gemini-index",
+  "name": "Gemini",
+  "category": "Index",
+  "description": "Cryptocurrencies Exchange",
+  "longDescription": "Cryptocurrencies Exchange",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.gemini.com/rest-api/",
+  "docsUrl": "https://docs.gemini.com/rest-api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "exchange"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.gemini.com/rest-api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

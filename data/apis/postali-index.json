@@ -1,0 +1,29 @@
+{
+  "slug": "postali-index",
+  "name": "Postali",
+  "category": "Index",
+  "description": "Mexico Zip Codes API",
+  "longDescription": "Mexico Zip Codes API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://postali.app/api",
+  "docsUrl": "https://postali.app/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "mexico",
+    "zip",
+    "codes",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://postali.app/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

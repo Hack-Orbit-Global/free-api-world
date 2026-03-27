@@ -1,0 +1,33 @@
+{
+  "slug": "synonyms-index",
+  "name": "Synonyms",
+  "category": "Index",
+  "description": "Synonyms, thesaurus and antonyms information for any given word",
+  "longDescription": "Synonyms, thesaurus and antonyms information for any given word",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.synonyms.com/synonyms_api.php",
+  "docsUrl": "https://www.synonyms.com/synonyms_api.php",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "synonyms",
+    "thesaurus",
+    "and",
+    "antonyms",
+    "information",
+    "for",
+    "any",
+    "given"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.synonyms.com/synonyms_api.php",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

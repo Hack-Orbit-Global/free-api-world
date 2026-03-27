@@ -1,0 +1,31 @@
+{
+  "slug": "transport-for-norway-index",
+  "name": "Transport for Norway",
+  "category": "Index",
+  "description": "Transport APIs and dataset for Norway",
+  "longDescription": "Transport APIs and dataset for Norway",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.entur.org/",
+  "docsUrl": "https://developer.entur.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "transport",
+    "apis",
+    "and",
+    "dataset",
+    "for",
+    "norway"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.entur.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "reqres-index",
+  "name": "ReqRes",
+  "category": "Index",
+  "description": "A hosted REST-API ready to respond to your AJAX requests",
+  "longDescription": "A hosted REST-API ready to respond to your AJAX requests",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://reqres.in/",
+  "docsUrl": "https://reqres.in/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "hosted",
+    "rest",
+    "api",
+    "ready",
+    "to",
+    "respond",
+    "your"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://reqres.in/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

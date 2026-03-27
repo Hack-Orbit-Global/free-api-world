@@ -1,0 +1,32 @@
+{
+  "slug": "geodb-cities-index",
+  "name": "GeoDB Cities",
+  "category": "Index",
+  "description": "Get global city, region, and country data",
+  "longDescription": "Get global city, region, and country data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://geodb-cities-api.wirefreethought.com/",
+  "docsUrl": "http://geodb-cities-api.wirefreethought.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "global",
+    "city",
+    "region",
+    "and",
+    "country",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://geodb-cities-api.wirefreethought.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bic-boxtech-index",
+  "name": "BIC-Boxtech",
+  "category": "Index",
+  "description": "Container technical detail for the global container fleet",
+  "longDescription": "Container technical detail for the global container fleet",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.bic-boxtech.org/",
+  "docsUrl": "https://docs.bic-boxtech.org/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "container",
+    "technical",
+    "detail",
+    "for",
+    "the",
+    "global",
+    "fleet"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.bic-boxtech.org/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

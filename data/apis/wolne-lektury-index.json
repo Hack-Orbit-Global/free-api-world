@@ -1,0 +1,33 @@
+{
+  "slug": "wolne-lektury-index",
+  "name": "Wolne Lektury",
+  "category": "Index",
+  "description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+  "longDescription": "API for obtaining information about e-books available on the WolneLektury.pl website",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://wolnelektury.pl/api/",
+  "docsUrl": "https://wolnelektury.pl/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "obtaining",
+    "information",
+    "about",
+    "e",
+    "books",
+    "available"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wolnelektury.pl/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

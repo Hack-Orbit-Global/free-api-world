@@ -1,0 +1,33 @@
+{
+  "slug": "wolframalpha-index",
+  "name": "WolframAlpha",
+  "category": "Index",
+  "description": "Provides specific answers to questions using data and algorithms",
+  "longDescription": "Provides specific answers to questions using data and algorithms",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://products.wolframalpha.com/api/",
+  "docsUrl": "https://products.wolframalpha.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "specific",
+    "answers",
+    "to",
+    "questions",
+    "using",
+    "data",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://products.wolframalpha.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

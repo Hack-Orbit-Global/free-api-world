@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-tcg-index",
+  "name": "Pok\u00e9mon TCG",
+  "category": "Index",
+  "description": "Pok\u00e9mon TCG Information",
+  "longDescription": "Pok\u00e9mon TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pokemontcg.io",
+  "docsUrl": "https://pokemontcg.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "pok\u00e9mon",
+    "tcg",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pokemontcg.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

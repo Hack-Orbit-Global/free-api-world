@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-austria-index",
+  "name": "Open Government, Austria",
+  "category": "Index",
+  "description": "Austria Government Open Data",
+  "longDescription": "Austria Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.data.gv.at/",
+  "docsUrl": "https://www.data.gv.at/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "austria",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.data.gv.at/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

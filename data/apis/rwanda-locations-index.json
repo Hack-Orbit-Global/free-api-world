@@ -1,0 +1,33 @@
+{
+  "slug": "rwanda-locations-index",
+  "name": "Rwanda Locations",
+  "category": "Index",
+  "description": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",
+  "longDescription": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+  "docsUrl": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rwanda",
+    "provences",
+    "districts",
+    "cities",
+    "capital",
+    "city",
+    "sector",
+    "cells"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

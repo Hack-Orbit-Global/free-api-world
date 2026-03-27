@@ -1,0 +1,33 @@
+{
+  "slug": "sunrise-and-sunset-index",
+  "name": "Sunrise and Sunset",
+  "category": "Index",
+  "description": "Sunset and sunrise times for a given latitude and longitude",
+  "longDescription": "Sunset and sunrise times for a given latitude and longitude",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://sunrise-sunset.org/api",
+  "docsUrl": "https://sunrise-sunset.org/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "sunset",
+    "and",
+    "sunrise",
+    "times",
+    "for",
+    "a",
+    "given",
+    "latitude"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sunrise-sunset.org/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

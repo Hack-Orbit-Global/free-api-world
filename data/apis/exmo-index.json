@@ -1,0 +1,30 @@
+{
+  "slug": "exmo-index",
+  "name": "EXMO",
+  "category": "Index",
+  "description": "Cryptocurrencies exchange based in UK",
+  "longDescription": "Cryptocurrencies exchange based in UK",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+  "docsUrl": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "exchange",
+    "based",
+    "in",
+    "uk"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/10287440/SzYXWKPi",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "spanish-random-words-index",
+  "name": "Spanish random words",
+  "category": "Index",
+  "description": "Generate spanish words randomly",
+  "longDescription": "Generate spanish words randomly",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://palabras-aleatorias-public-api.herokuapp.com",
+  "docsUrl": "https://palabras-aleatorias-public-api.herokuapp.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "spanish",
+    "words",
+    "randomly"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://palabras-aleatorias-public-api.herokuapp.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "zippopotam-us-index",
+  "name": "Zippopotam.us",
+  "category": "Index",
+  "description": "Get information about place such as country, city, state, etc",
+  "longDescription": "Get information about place such as country, city, state, etc",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.zippopotam.us",
+  "docsUrl": "http://www.zippopotam.us",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "information",
+    "about",
+    "place",
+    "such",
+    "as",
+    "country",
+    "city"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.zippopotam.us",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

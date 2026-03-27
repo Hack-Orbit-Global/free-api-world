@@ -1,0 +1,33 @@
+{
+  "slug": "icanhazdadjoke-index",
+  "name": "icanhazdadjoke",
+  "category": "Index",
+  "description": "The largest selection of dad jokes on the internet",
+  "longDescription": "The largest selection of dad jokes on the internet",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://icanhazdadjoke.com/api",
+  "docsUrl": "https://icanhazdadjoke.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "largest",
+    "selection",
+    "of",
+    "dad",
+    "jokes",
+    "on",
+    "internet"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://icanhazdadjoke.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

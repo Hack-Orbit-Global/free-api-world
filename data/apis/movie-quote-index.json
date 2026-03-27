@@ -1,0 +1,30 @@
+{
+  "slug": "movie-quote-index",
+  "name": "Movie Quote",
+  "category": "Index",
+  "description": "Random Movie and Series Quotes",
+  "longDescription": "Random Movie and Series Quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/F4R4N/movie-quote/",
+  "docsUrl": "https://github.com/F4R4N/movie-quote/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "movie",
+    "and",
+    "series",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/F4R4N/movie-quote/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

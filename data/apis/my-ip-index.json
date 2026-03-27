@@ -1,0 +1,29 @@
+{
+  "slug": "my-ip-index",
+  "name": "MY IP",
+  "category": "Index",
+  "description": "Get IP address information",
+  "longDescription": "Get IP address information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.myip.com/api-docs/",
+  "docsUrl": "https://www.myip.com/api-docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "ip",
+    "address",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.myip.com/api-docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

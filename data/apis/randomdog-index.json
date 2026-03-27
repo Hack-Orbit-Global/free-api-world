@@ -1,0 +1,29 @@
+{
+  "slug": "randomdog-index",
+  "name": "RandomDog",
+  "category": "Index",
+  "description": "Random pictures of dogs",
+  "longDescription": "Random pictures of dogs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://random.dog/woof.json",
+  "docsUrl": "https://random.dog/woof.json",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "pictures",
+    "of",
+    "dogs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://random.dog/woof.json",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "postcodes-io-index",
+  "name": "Postcodes.io",
+  "category": "Index",
+  "description": "Postcode lookup & Geolocation for the UK",
+  "longDescription": "Postcode lookup & Geolocation for the UK",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://postcodes.io",
+  "docsUrl": "https://postcodes.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "postcode",
+    "lookup",
+    "geolocation",
+    "for",
+    "the",
+    "uk"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://postcodes.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

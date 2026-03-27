@@ -1,0 +1,33 @@
+{
+  "slug": "gutendex-index",
+  "name": "Gutendex",
+  "category": "Index",
+  "description": "Web-API for fetching data from Project Gutenberg Books Library",
+  "longDescription": "Web-API for fetching data from Project Gutenberg Books Library",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://gutendex.com/",
+  "docsUrl": "https://gutendex.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "web",
+    "api",
+    "for",
+    "fetching",
+    "data",
+    "from",
+    "project",
+    "gutenberg"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://gutendex.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

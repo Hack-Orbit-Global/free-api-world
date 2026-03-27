@@ -1,0 +1,33 @@
+{
+  "slug": "ais-hub-index",
+  "name": "AIS Hub",
+  "category": "Index",
+  "description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+  "longDescription": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://www.aishub.net/api",
+  "docsUrl": "http://www.aishub.net/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "data",
+    "of",
+    "any",
+    "marine",
+    "and",
+    "inland"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.aishub.net/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

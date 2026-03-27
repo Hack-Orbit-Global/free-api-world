@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-saudi-arabia-index",
+  "name": "Open Government, Saudi Arabia",
+  "category": "Index",
+  "description": "Saudi Arabia Government Open Data",
+  "longDescription": "Saudi Arabia Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.sa",
+  "docsUrl": "https://data.gov.sa",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "saudi",
+    "arabia",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.sa",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

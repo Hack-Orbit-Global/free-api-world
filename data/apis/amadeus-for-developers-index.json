@@ -1,0 +1,29 @@
+{
+  "slug": "amadeus-for-developers-index",
+  "name": "Amadeus for Developers",
+  "category": "Index",
+  "description": "Travel Search - Limited usage",
+  "longDescription": "Travel Search - Limited usage",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.amadeus.com/self-service",
+  "docsUrl": "https://developers.amadeus.com/self-service",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "travel",
+    "search",
+    "limited",
+    "usage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.amadeus.com/self-service",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

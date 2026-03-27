@@ -1,0 +1,31 @@
+{
+  "slug": "etsy-index",
+  "name": "Etsy",
+  "category": "Index",
+  "description": "Manage shop and interact with listings",
+  "longDescription": "Manage shop and interact with listings",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+  "docsUrl": "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "manage",
+    "shop",
+    "and",
+    "interact",
+    "with",
+    "listings"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

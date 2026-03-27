@@ -1,0 +1,31 @@
+{
+  "slug": "catch-the-show-index",
+  "name": "Catch The Show",
+  "category": "Index",
+  "description": "REST API for next-episode.net",
+  "longDescription": "REST API for next-episode.net",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://catchtheshow.herokuapp.com/api/documentation",
+  "docsUrl": "https://catchtheshow.herokuapp.com/api/documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rest",
+    "api",
+    "for",
+    "next",
+    "episode",
+    "net"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://catchtheshow.herokuapp.com/api/documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

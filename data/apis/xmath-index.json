@@ -1,0 +1,28 @@
+{
+  "slug": "xmath-index",
+  "name": "xMath",
+  "category": "Index",
+  "description": "Random mathematical expressions",
+  "longDescription": "Random mathematical expressions",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://x-math.herokuapp.com/",
+  "docsUrl": "https://x-math.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "random",
+    "mathematical",
+    "expressions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://x-math.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

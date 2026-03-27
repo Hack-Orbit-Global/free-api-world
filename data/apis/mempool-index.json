@@ -1,0 +1,33 @@
+{
+  "slug": "mempool-index",
+  "name": "Mempool",
+  "category": "Index",
+  "description": "Bitcoin API Service focusing on the transaction fee",
+  "longDescription": "Bitcoin API Service focusing on the transaction fee",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://mempool.space/api",
+  "docsUrl": "https://mempool.space/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bitcoin",
+    "api",
+    "service",
+    "focusing",
+    "on",
+    "the",
+    "transaction",
+    "fee"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://mempool.space/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

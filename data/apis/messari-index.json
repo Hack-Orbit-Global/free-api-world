@@ -1,0 +1,33 @@
+{
+  "slug": "messari-index",
+  "name": "Messari",
+  "category": "Index",
+  "description": "Provides API endpoints for thousands of crypto assets",
+  "longDescription": "Provides API endpoints for thousands of crypto assets",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://messari.io/api",
+  "docsUrl": "https://messari.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "api",
+    "endpoints",
+    "for",
+    "thousands",
+    "of",
+    "crypto",
+    "assets"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://messari.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

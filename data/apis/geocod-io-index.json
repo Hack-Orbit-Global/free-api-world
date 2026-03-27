@@ -1,0 +1,30 @@
+{
+  "slug": "geocod-io-index",
+  "name": "Geocod.io",
+  "category": "Index",
+  "description": "Address geocoding / reverse geocoding in bulk",
+  "longDescription": "Address geocoding / reverse geocoding in bulk",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.geocod.io/",
+  "docsUrl": "https://www.geocod.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "address",
+    "geocoding",
+    "reverse",
+    "in",
+    "bulk"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.geocod.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

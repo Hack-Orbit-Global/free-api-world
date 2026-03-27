@@ -1,0 +1,33 @@
+{
+  "slug": "flipkart-marketplace-index",
+  "name": "Flipkart Marketplace",
+  "category": "Index",
+  "description": "Product listing management, Order Fulfilment in the Flipkart Marketplace",
+  "longDescription": "Product listing management, Order Fulfilment in the Flipkart Marketplace",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://seller.flipkart.com/api-docs/FMSAPI.html",
+  "docsUrl": "https://seller.flipkart.com/api-docs/FMSAPI.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "product",
+    "listing",
+    "management",
+    "order",
+    "fulfilment",
+    "in",
+    "the",
+    "flipkart"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://seller.flipkart.com/api-docs/FMSAPI.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

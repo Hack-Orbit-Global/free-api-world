@@ -1,0 +1,33 @@
+{
+  "slug": "sport-data-index",
+  "name": "Sport Data",
+  "category": "Index",
+  "description": "Get sports data from all over the world",
+  "longDescription": "Get sports data from all over the world",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://sportdataapi.com",
+  "docsUrl": "https://sportdataapi.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "sports",
+    "data",
+    "from",
+    "all",
+    "over",
+    "the",
+    "world"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://sportdataapi.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

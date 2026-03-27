@@ -1,0 +1,30 @@
+{
+  "slug": "open-government-south-australian-government-index",
+  "name": "Open Government, South Australian Government",
+  "category": "Index",
+  "description": "South Australian Government Open Data",
+  "longDescription": "South Australian Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.sa.gov.au/",
+  "docsUrl": "https://data.sa.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "south",
+    "australian",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.sa.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

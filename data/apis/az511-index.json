@@ -1,0 +1,32 @@
+{
+  "slug": "az511-index",
+  "name": "AZ511",
+  "category": "Index",
+  "description": "Access traffic data from the ADOT API",
+  "longDescription": "Access traffic data from the ADOT API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.az511.com/developers/doc",
+  "docsUrl": "https://www.az511.com/developers/doc",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "traffic",
+    "data",
+    "from",
+    "the",
+    "adot",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.az511.com/developers/doc",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

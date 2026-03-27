@@ -1,0 +1,33 @@
+{
+  "slug": "currents-index",
+  "name": "Currents",
+  "category": "Index",
+  "description": "Latest news published in various news sources, blogs and forums",
+  "longDescription": "Latest news published in various news sources, blogs and forums",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://currentsapi.services/",
+  "docsUrl": "https://currentsapi.services/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "latest",
+    "news",
+    "published",
+    "in",
+    "various",
+    "sources",
+    "blogs",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://currentsapi.services/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

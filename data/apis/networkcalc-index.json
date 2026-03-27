@@ -1,0 +1,33 @@
+{
+  "slug": "networkcalc-index",
+  "name": "NetworkCalc",
+  "category": "Index",
+  "description": "Network calculators, including subnets, DNS, binary, and security tools",
+  "longDescription": "Network calculators, including subnets, DNS, binary, and security tools",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://networkcalc.com/api/docs",
+  "docsUrl": "https://networkcalc.com/api/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "network",
+    "calculators",
+    "including",
+    "subnets",
+    "dns",
+    "binary",
+    "and",
+    "security"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://networkcalc.com/api/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

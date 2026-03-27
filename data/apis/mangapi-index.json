@@ -1,0 +1,33 @@
+{
+  "slug": "mangapi-index",
+  "name": "Mangapi",
+  "category": "Index",
+  "description": "Translate manga pages from one language to another",
+  "longDescription": "Translate manga pages from one language to another",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+  "docsUrl": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translate",
+    "manga",
+    "pages",
+    "from",
+    "one",
+    "language",
+    "to",
+    "another"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

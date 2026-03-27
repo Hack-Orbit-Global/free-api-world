@@ -1,0 +1,33 @@
+{
+  "slug": "weatherapi-index",
+  "name": "WeatherAPI",
+  "category": "Index",
+  "description": "Weather API with other stuff like Astronomy and Geolocation API",
+  "longDescription": "Weather API with other stuff like Astronomy and Geolocation API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.weatherapi.com/",
+  "docsUrl": "https://www.weatherapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "api",
+    "with",
+    "other",
+    "stuff",
+    "like",
+    "astronomy",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.weatherapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

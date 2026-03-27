@@ -1,0 +1,33 @@
+{
+  "slug": "warface-non-official-index",
+  "name": "Warface (non-official)",
+  "category": "Index",
+  "description": "Official API proxy with better data structure and more features",
+  "longDescription": "Official API proxy with better data structure and more features",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://api.wfstats.cf",
+  "docsUrl": "https://api.wfstats.cf",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "official",
+    "api",
+    "proxy",
+    "with",
+    "better",
+    "data",
+    "structure",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.wfstats.cf",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

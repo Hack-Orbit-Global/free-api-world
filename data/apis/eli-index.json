@@ -1,0 +1,31 @@
+{
+  "slug": "eli-index",
+  "name": "ELI",
+  "category": "Index",
+  "description": "Natural Language Processing Tools for Thai Language",
+  "longDescription": "Natural Language Processing Tools for Thai Language",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nlp.insightera.co.th/docs/v1.0",
+  "docsUrl": "https://nlp.insightera.co.th/docs/v1.0",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "natural",
+    "language",
+    "processing",
+    "tools",
+    "for",
+    "thai"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nlp.insightera.co.th/docs/v1.0",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

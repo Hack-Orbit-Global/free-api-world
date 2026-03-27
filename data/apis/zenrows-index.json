@@ -1,0 +1,33 @@
+{
+  "slug": "zenrows-index",
+  "name": "ZenRows",
+  "category": "Index",
+  "description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+  "longDescription": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.zenrows.com/",
+  "docsUrl": "https://www.zenrows.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "web",
+    "scraping",
+    "api",
+    "that",
+    "bypasses",
+    "anti",
+    "bot",
+    "solutions"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.zenrows.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

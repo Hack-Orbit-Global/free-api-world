@@ -1,0 +1,33 @@
+{
+  "slug": "canadian-football-league-cfl-index",
+  "name": "Canadian Football League (CFL)",
+  "category": "Index",
+  "description": "Official JSON API providing real-time league, team and player statistics about the CFL",
+  "longDescription": "Official JSON API providing real-time league, team and player statistics about the CFL",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "http://api.cfl.ca/",
+  "docsUrl": "http://api.cfl.ca/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "official",
+    "json",
+    "api",
+    "providing",
+    "real",
+    "time",
+    "league",
+    "team"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.cfl.ca/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

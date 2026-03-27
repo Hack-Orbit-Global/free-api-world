@@ -1,0 +1,32 @@
+{
+  "slug": "danish-data-service-energi-index",
+  "name": "Danish data service Energi",
+  "category": "Index",
+  "description": "Open energy data from Energinet to society",
+  "longDescription": "Open energy data from Energinet to society",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.energidataservice.dk/",
+  "docsUrl": "https://www.energidataservice.dk/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "open",
+    "energy",
+    "data",
+    "from",
+    "energinet",
+    "to",
+    "society"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.energidataservice.dk/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

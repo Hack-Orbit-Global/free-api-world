@@ -1,0 +1,31 @@
+{
+  "slug": "uebermaps-index",
+  "name": "Uebermaps",
+  "category": "Index",
+  "description": "Discover and share maps with friends",
+  "longDescription": "Discover and share maps with friends",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://uebermaps.com/api/v2",
+  "docsUrl": "https://uebermaps.com/api/v2",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "discover",
+    "and",
+    "share",
+    "maps",
+    "with",
+    "friends"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://uebermaps.com/api/v2",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

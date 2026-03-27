@@ -1,0 +1,33 @@
+{
+  "slug": "tastedive-index",
+  "name": "TasteDive",
+  "category": "Index",
+  "description": "Similar artist API (also works for movies and TV shows)",
+  "longDescription": "Similar artist API (also works for movies and TV shows)",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tastedive.com/read/api",
+  "docsUrl": "https://tastedive.com/read/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "similar",
+    "artist",
+    "api",
+    "also",
+    "works",
+    "for",
+    "movies",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tastedive.com/read/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

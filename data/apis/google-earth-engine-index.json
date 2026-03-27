@@ -1,0 +1,33 @@
+{
+  "slug": "google-earth-engine-index",
+  "name": "Google Earth Engine",
+  "category": "Index",
+  "description": "A cloud-based platform for planetary-scale environmental data analysis",
+  "longDescription": "A cloud-based platform for planetary-scale environmental data analysis",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.google.com/earth-engine/",
+  "docsUrl": "https://developers.google.com/earth-engine/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "cloud",
+    "based",
+    "platform",
+    "for",
+    "planetary",
+    "scale",
+    "environmental"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.google.com/earth-engine/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

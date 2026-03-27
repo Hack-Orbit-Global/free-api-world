@@ -1,0 +1,26 @@
+{
+  "slug": "harvard-art-museums-index",
+  "name": "Harvard Art Museums",
+  "category": "Index",
+  "description": "Art",
+  "longDescription": "Art",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://github.com/harvardartmuseums/api-docs",
+  "docsUrl": "https://github.com/harvardartmuseums/api-docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "art"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/harvardartmuseums/api-docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

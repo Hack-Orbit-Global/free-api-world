@@ -1,0 +1,33 @@
+{
+  "slug": "coincap-index",
+  "name": "CoinCap",
+  "category": "Index",
+  "description": "Real time Cryptocurrency prices through a RESTful API",
+  "longDescription": "Real time Cryptocurrency prices through a RESTful API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.coincap.io/",
+  "docsUrl": "https://docs.coincap.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "cryptocurrency",
+    "prices",
+    "through",
+    "a",
+    "restful",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.coincap.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

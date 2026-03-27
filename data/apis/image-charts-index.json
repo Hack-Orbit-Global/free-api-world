@@ -1,0 +1,32 @@
+{
+  "slug": "image-charts-index",
+  "name": "Image-Charts",
+  "category": "Index",
+  "description": "Generate charts, QR codes and graph images",
+  "longDescription": "Generate charts, QR codes and graph images",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documentation.image-charts.com/",
+  "docsUrl": "https://documentation.image-charts.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "charts",
+    "qr",
+    "codes",
+    "and",
+    "graph",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documentation.image-charts.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

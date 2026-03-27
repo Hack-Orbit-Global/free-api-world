@@ -1,0 +1,29 @@
+{
+  "slug": "metropolitan-museum-of-art-index",
+  "name": "Metropolitan Museum of Art",
+  "category": "Index",
+  "description": "Met Museum of Art",
+  "longDescription": "Met Museum of Art",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://metmuseum.github.io/",
+  "docsUrl": "https://metmuseum.github.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "met",
+    "museum",
+    "of",
+    "art"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://metmuseum.github.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

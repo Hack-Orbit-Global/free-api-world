@@ -1,0 +1,29 @@
+{
+  "slug": "inspiration-index",
+  "name": "Inspiration",
+  "category": "Index",
+  "description": "Motivational and Inspirational quotes",
+  "longDescription": "Motivational and Inspirational quotes",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://inspiration.goprogram.ai/docs/",
+  "docsUrl": "https://inspiration.goprogram.ai/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "motivational",
+    "and",
+    "inspirational",
+    "quotes"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://inspiration.goprogram.ai/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

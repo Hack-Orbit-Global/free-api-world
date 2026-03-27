@@ -1,0 +1,31 @@
+{
+  "slug": "gun-policy-index",
+  "name": "Gun Policy",
+  "category": "Index",
+  "description": "International firearm injury prevention and policy",
+  "longDescription": "International firearm injury prevention and policy",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.gunpolicy.org/api",
+  "docsUrl": "https://www.gunpolicy.org/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "international",
+    "firearm",
+    "injury",
+    "prevention",
+    "and",
+    "policy"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.gunpolicy.org/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "telegram-bot-index",
+  "name": "Telegram Bot",
+  "category": "Index",
+  "description": "Simplified HTTP version of the MTProto API for bots",
+  "longDescription": "Simplified HTTP version of the MTProto API for bots",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://core.telegram.org/bots/api",
+  "docsUrl": "https://core.telegram.org/bots/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "simplified",
+    "http",
+    "version",
+    "of",
+    "the",
+    "mtproto",
+    "api",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://core.telegram.org/bots/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

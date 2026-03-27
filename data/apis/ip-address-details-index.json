@@ -1,0 +1,30 @@
+{
+  "slug": "ip-address-details-index",
+  "name": "IP Address Details",
+  "category": "Index",
+  "description": "Find geolocation with ip address",
+  "longDescription": "Find geolocation with ip address",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ipinfo.io/",
+  "docsUrl": "https://ipinfo.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "find",
+    "geolocation",
+    "with",
+    "ip",
+    "address"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ipinfo.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

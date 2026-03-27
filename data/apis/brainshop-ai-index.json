@@ -1,0 +1,30 @@
+{
+  "slug": "brainshop-ai-index",
+  "name": "Brainshop.ai",
+  "category": "Index",
+  "description": "Make A Free A.I Brain",
+  "longDescription": "Make A Free A.I Brain",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://brainshop.ai/",
+  "docsUrl": "https://brainshop.ai/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "make",
+    "a",
+    "free",
+    "i",
+    "brain"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://brainshop.ai/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

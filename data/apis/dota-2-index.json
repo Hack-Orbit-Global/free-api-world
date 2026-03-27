@@ -1,0 +1,33 @@
+{
+  "slug": "dota-2-index",
+  "name": "Dota 2",
+  "category": "Index",
+  "description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+  "longDescription": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.opendota.com/",
+  "docsUrl": "https://docs.opendota.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "information",
+    "about",
+    "player",
+    "stats",
+    "match",
+    "rankings",
+    "for"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.opendota.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

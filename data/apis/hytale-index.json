@@ -1,0 +1,30 @@
+{
+  "slug": "hytale-index",
+  "name": "Hytale",
+  "category": "Index",
+  "description": "Hytale blog posts and jobs",
+  "longDescription": "Hytale blog posts and jobs",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hytale-api.com/",
+  "docsUrl": "https://hytale-api.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "hytale",
+    "blog",
+    "posts",
+    "and",
+    "jobs"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hytale-api.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

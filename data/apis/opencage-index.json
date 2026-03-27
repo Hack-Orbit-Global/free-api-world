@@ -1,0 +1,32 @@
+{
+  "slug": "opencage-index",
+  "name": "OpenCage",
+  "category": "Index",
+  "description": "Forward and reverse geocoding using open data",
+  "longDescription": "Forward and reverse geocoding using open data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://opencagedata.com",
+  "docsUrl": "https://opencagedata.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "forward",
+    "and",
+    "reverse",
+    "geocoding",
+    "using",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://opencagedata.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

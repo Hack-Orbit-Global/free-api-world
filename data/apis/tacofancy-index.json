@@ -1,0 +1,29 @@
+{
+  "slug": "tacofancy-index",
+  "name": "TacoFancy",
+  "category": "Index",
+  "description": "Community-driven taco database",
+  "longDescription": "Community-driven taco database",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://github.com/evz/tacofancy-api",
+  "docsUrl": "https://github.com/evz/tacofancy-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "community",
+    "driven",
+    "taco",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/evz/tacofancy-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

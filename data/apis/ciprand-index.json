@@ -1,0 +1,29 @@
+{
+  "slug": "ciprand-index",
+  "name": "Ciprand",
+  "category": "Index",
+  "description": "Secure random string generator",
+  "longDescription": "Secure random string generator",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/polarspetroll/ciprand",
+  "docsUrl": "https://github.com/polarspetroll/ciprand",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "secure",
+    "random",
+    "string",
+    "generator"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/polarspetroll/ciprand",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

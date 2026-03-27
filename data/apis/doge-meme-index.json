@@ -1,0 +1,33 @@
+{
+  "slug": "doge-meme-index",
+  "name": "Doge-Meme",
+  "category": "Index",
+  "description": "Top meme posts from r/dogecoin which include 'Meme' flair",
+  "longDescription": "Top meme posts from r/dogecoin which include 'Meme' flair",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.doge-meme.lol/docs",
+  "docsUrl": "https://api.doge-meme.lol/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "top",
+    "meme",
+    "posts",
+    "from",
+    "r",
+    "dogecoin",
+    "which",
+    "include"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.doge-meme.lol/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

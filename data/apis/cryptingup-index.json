@@ -1,0 +1,27 @@
+{
+  "slug": "cryptingup-index",
+  "name": "CryptingUp",
+  "category": "Index",
+  "description": "Cryptocurrency data",
+  "longDescription": "Cryptocurrency data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.cryptingup.com/apidoc/#introduction",
+  "docsUrl": "https://www.cryptingup.com/apidoc/#introduction",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.cryptingup.com/apidoc/#introduction",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

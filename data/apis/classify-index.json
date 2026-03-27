@@ -1,0 +1,29 @@
+{
+  "slug": "classify-index",
+  "name": "Classify",
+  "category": "Index",
+  "description": "Encrypting & decrypting text messages",
+  "longDescription": "Encrypting & decrypting text messages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://classify-web.herokuapp.com/#/api",
+  "docsUrl": "https://classify-web.herokuapp.com/#/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "encrypting",
+    "decrypting",
+    "text",
+    "messages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://classify-web.herokuapp.com/#/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

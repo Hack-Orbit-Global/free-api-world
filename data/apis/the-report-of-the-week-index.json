@@ -1,0 +1,28 @@
+{
+  "slug": "the-report-of-the-week-index",
+  "name": "The Report of the Week",
+  "category": "Index",
+  "description": "Food & Drink Reviews",
+  "longDescription": "Food & Drink Reviews",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+  "docsUrl": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "food",
+    "drink",
+    "reviews"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

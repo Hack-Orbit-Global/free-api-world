@@ -1,0 +1,33 @@
+{
+  "slug": "metabase-index",
+  "name": "Metabase",
+  "category": "Index",
+  "description": "An open source Business Intelligence server to share data and analytics inside your company",
+  "longDescription": "An open source Business Intelligence server to share data and analytics inside your company",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.metabase.com/",
+  "docsUrl": "https://www.metabase.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "an",
+    "open",
+    "source",
+    "business",
+    "intelligence",
+    "server",
+    "to",
+    "share"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.metabase.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

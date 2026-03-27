@@ -1,0 +1,31 @@
+{
+  "slug": "covid-id-index",
+  "name": "COVID-ID",
+  "category": "Index",
+  "description": "Indonesian government Covid data per province",
+  "longDescription": "Indonesian government Covid data per province",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.covid19.go.id/public/api/prov.json",
+  "docsUrl": "https://data.covid19.go.id/public/api/prov.json",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "indonesian",
+    "government",
+    "covid",
+    "data",
+    "per",
+    "province"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.covid19.go.id/public/api/prov.json",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

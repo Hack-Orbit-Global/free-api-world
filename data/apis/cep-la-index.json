@@ -1,0 +1,33 @@
+{
+  "slug": "cep-la-index",
+  "name": "Cep.la",
+  "category": "Index",
+  "description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+  "longDescription": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://cep.la/",
+  "docsUrl": "http://cep.la/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "brazil",
+    "restful",
+    "api",
+    "to",
+    "find",
+    "information",
+    "about",
+    "streets"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://cep.la/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

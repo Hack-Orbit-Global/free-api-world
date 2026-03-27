@@ -1,0 +1,31 @@
+{
+  "slug": "gurbaninow-index",
+  "name": "GurbaniNow",
+  "category": "Index",
+  "description": "Fast and Accurate Gurbani RESTful API",
+  "longDescription": "Fast and Accurate Gurbani RESTful API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/GurbaniNow/api",
+  "docsUrl": "https://github.com/GurbaniNow/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fast",
+    "and",
+    "accurate",
+    "gurbani",
+    "restful",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/GurbaniNow/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

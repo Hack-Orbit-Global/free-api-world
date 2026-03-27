@@ -1,0 +1,33 @@
+{
+  "slug": "squiggle-index",
+  "name": "Squiggle",
+  "category": "Index",
+  "description": "Fixtures, results and predictions for Australian Football League matches",
+  "longDescription": "Fixtures, results and predictions for Australian Football League matches",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.squiggle.com.au",
+  "docsUrl": "https://api.squiggle.com.au",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "fixtures",
+    "results",
+    "and",
+    "predictions",
+    "for",
+    "australian",
+    "football",
+    "league"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.squiggle.com.au",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

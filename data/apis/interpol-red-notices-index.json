@@ -1,0 +1,31 @@
+{
+  "slug": "interpol-red-notices-index",
+  "name": "Interpol Red Notices",
+  "category": "Index",
+  "description": "Access and search Interpol Red Notices",
+  "longDescription": "Access and search Interpol Red Notices",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://interpol.api.bund.dev/",
+  "docsUrl": "https://interpol.api.bund.dev/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "access",
+    "and",
+    "search",
+    "interpol",
+    "red",
+    "notices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://interpol.api.bund.dev/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

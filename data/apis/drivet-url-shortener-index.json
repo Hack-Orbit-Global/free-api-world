@@ -1,0 +1,32 @@
+{
+  "slug": "drivet-url-shortener-index",
+  "name": "Drivet URL Shortener",
+  "category": "Index",
+  "description": "Shorten a long URL easily and fast",
+  "longDescription": "Shorten a long URL easily and fast",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://wiki.drivet.xyz/en/url-shortener/add-links",
+  "docsUrl": "https://wiki.drivet.xyz/en/url-shortener/add-links",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "shorten",
+    "a",
+    "long",
+    "url",
+    "easily",
+    "and",
+    "fast"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://wiki.drivet.xyz/en/url-shortener/add-links",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

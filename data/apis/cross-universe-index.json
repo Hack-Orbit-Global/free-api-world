@@ -1,0 +1,29 @@
+{
+  "slug": "cross-universe-index",
+  "name": "Cross Universe",
+  "category": "Index",
+  "description": "Cross Universe Card Data",
+  "longDescription": "Cross Universe Card Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://crossuniverse.psychpsyo.com/apiDocs.html",
+  "docsUrl": "https://crossuniverse.psychpsyo.com/apiDocs.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cross",
+    "universe",
+    "card",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://crossuniverse.psychpsyo.com/apiDocs.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

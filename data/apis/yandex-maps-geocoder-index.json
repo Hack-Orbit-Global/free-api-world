@@ -1,0 +1,33 @@
+{
+  "slug": "yandex-maps-geocoder-index",
+  "name": "Yandex.Maps Geocoder",
+  "category": "Index",
+  "description": "Use geocoding to get an object's coordinates from its address",
+  "longDescription": "Use geocoding to get an object's coordinates from its address",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://yandex.com/dev/maps/geocoder",
+  "docsUrl": "https://yandex.com/dev/maps/geocoder",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "use",
+    "geocoding",
+    "to",
+    "get",
+    "an",
+    "object",
+    "s",
+    "coordinates"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://yandex.com/dev/maps/geocoder",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

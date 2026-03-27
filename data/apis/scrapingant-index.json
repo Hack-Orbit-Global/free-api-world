@@ -1,0 +1,32 @@
+{
+  "slug": "scrapingant-index",
+  "name": "ScrapingAnt",
+  "category": "Index",
+  "description": "Headless Chrome scraping with a simple API",
+  "longDescription": "Headless Chrome scraping with a simple API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://scrapingant.com",
+  "docsUrl": "https://scrapingant.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "headless",
+    "chrome",
+    "scraping",
+    "with",
+    "a",
+    "simple",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://scrapingant.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

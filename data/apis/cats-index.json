@@ -1,0 +1,30 @@
+{
+  "slug": "cats-index",
+  "name": "Cats",
+  "category": "Index",
+  "description": "Pictures of cats from Tumblr",
+  "longDescription": "Pictures of cats from Tumblr",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://docs.thecatapi.com/",
+  "docsUrl": "https://docs.thecatapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "pictures",
+    "of",
+    "cats",
+    "from",
+    "tumblr"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.thecatapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

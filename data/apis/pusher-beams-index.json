@@ -1,0 +1,30 @@
+{
+  "slug": "pusher-beams-index",
+  "name": "Pusher Beams",
+  "category": "Index",
+  "description": "Push notifications for Android & iOS",
+  "longDescription": "Push notifications for Android & iOS",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pusher.com/beams",
+  "docsUrl": "https://pusher.com/beams",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "push",
+    "notifications",
+    "for",
+    "android",
+    "ios"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pusher.com/beams",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

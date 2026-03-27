@@ -1,0 +1,33 @@
+{
+  "slug": "tenders-in-poland-index",
+  "name": "Tenders in Poland",
+  "category": "Index",
+  "description": "Get data for procurements in Poland in JSON format",
+  "longDescription": "Get data for procurements in Poland in JSON format",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tenders.guru/pl/api",
+  "docsUrl": "https://tenders.guru/pl/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "data",
+    "for",
+    "procurements",
+    "in",
+    "poland",
+    "json",
+    "format"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tenders.guru/pl/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "words-index",
+  "name": "Words",
+  "category": "Index",
+  "description": "Definitions and synonyms for more than 150,000 words",
+  "longDescription": "Definitions and synonyms for more than 150,000 words",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.wordsapi.com/docs/",
+  "docsUrl": "https://www.wordsapi.com/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "definitions",
+    "and",
+    "synonyms",
+    "for",
+    "more",
+    "than",
+    "150",
+    "000"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.wordsapi.com/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

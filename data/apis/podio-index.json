@@ -1,0 +1,29 @@
+{
+  "slug": "podio-index",
+  "name": "Podio",
+  "category": "Index",
+  "description": "File sharing and productivity",
+  "longDescription": "File sharing and productivity",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.podio.com",
+  "docsUrl": "https://developers.podio.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "file",
+    "sharing",
+    "and",
+    "productivity"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.podio.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

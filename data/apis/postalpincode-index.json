@@ -1,0 +1,32 @@
+{
+  "slug": "postalpincode-index",
+  "name": "PostalPinCode",
+  "category": "Index",
+  "description": "API for getting Pincode details in India",
+  "longDescription": "API for getting Pincode details in India",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://www.postalpincode.in/Api-Details",
+  "docsUrl": "http://www.postalpincode.in/Api-Details",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "getting",
+    "pincode",
+    "details",
+    "in",
+    "india"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://www.postalpincode.in/Api-Details",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

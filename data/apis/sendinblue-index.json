@@ -1,0 +1,33 @@
+{
+  "slug": "sendinblue-index",
+  "name": "Sendinblue",
+  "category": "Index",
+  "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+  "longDescription": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.sendinblue.com/docs",
+  "docsUrl": "https://developers.sendinblue.com/docs",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "service",
+    "that",
+    "provides",
+    "solutions",
+    "relating",
+    "to",
+    "marketing"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.sendinblue.com/docs",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

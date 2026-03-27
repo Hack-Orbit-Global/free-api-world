@@ -1,0 +1,33 @@
+{
+  "slug": "hebrew-calendar-index",
+  "name": "Hebrew Calendar",
+  "category": "Index",
+  "description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+  "longDescription": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://www.hebcal.com/home/developer-apis",
+  "docsUrl": "https://www.hebcal.com/home/developer-apis",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "convert",
+    "between",
+    "gregorian",
+    "and",
+    "hebrew",
+    "fetch",
+    "shabbat",
+    "holiday"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.hebcal.com/home/developer-apis",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

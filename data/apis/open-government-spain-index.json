@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-spain-index",
+  "name": "Open Government, Spain",
+  "category": "Index",
+  "description": "Spain Government Open Data",
+  "longDescription": "Spain Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://datos.gob.es/en",
+  "docsUrl": "https://datos.gob.es/en",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "spain",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://datos.gob.es/en",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

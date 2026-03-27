@@ -1,0 +1,33 @@
+{
+  "slug": "geodatasource-index",
+  "name": "GeoDataSource",
+  "category": "Index",
+  "description": "Geocoding of city name by using latitude and longitude coordinates",
+  "longDescription": "Geocoding of city name by using latitude and longitude coordinates",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.geodatasource.com/web-service",
+  "docsUrl": "https://www.geodatasource.com/web-service",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "geocoding",
+    "of",
+    "city",
+    "name",
+    "by",
+    "using",
+    "latitude",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.geodatasource.com/web-service",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

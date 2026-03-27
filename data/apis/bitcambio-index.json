@@ -1,0 +1,33 @@
+{
+  "slug": "bitcambio-index",
+  "name": "Bitcambio",
+  "category": "Index",
+  "description": "Get the list of all traded assets in the exchange",
+  "longDescription": "Get the list of all traded assets in the exchange",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nova.bitcambio.com.br/api/v3/docs#a-public",
+  "docsUrl": "https://nova.bitcambio.com.br/api/v3/docs#a-public",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "the",
+    "list",
+    "of",
+    "all",
+    "traded",
+    "assets",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nova.bitcambio.com.br/api/v3/docs#a-public",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

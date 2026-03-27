@@ -1,0 +1,27 @@
+{
+  "slug": "tvdb-index",
+  "name": "TVDB",
+  "category": "Index",
+  "description": "Television data",
+  "longDescription": "Television data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://thetvdb.com/api-information",
+  "docsUrl": "https://thetvdb.com/api-information",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "television",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://thetvdb.com/api-information",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

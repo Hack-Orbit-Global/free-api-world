@@ -1,0 +1,33 @@
+{
+  "slug": "raider-index",
+  "name": "Raider",
+  "category": "Index",
+  "description": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft",
+  "longDescription": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://raider.io/api",
+  "docsUrl": "https://raider.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "detailed",
+    "character",
+    "and",
+    "guild",
+    "rankings",
+    "for",
+    "raiding"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://raider.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

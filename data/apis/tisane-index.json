@@ -1,0 +1,33 @@
+{
+  "slug": "tisane-index",
+  "name": "Tisane",
+  "category": "Index",
+  "description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+  "longDescription": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tisane.ai/",
+  "docsUrl": "https://tisane.ai/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "text",
+    "analytics",
+    "with",
+    "focus",
+    "on",
+    "detection",
+    "of",
+    "abusive"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tisane.ai/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

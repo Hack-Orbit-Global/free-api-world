@@ -1,0 +1,31 @@
+{
+  "slug": "bay-area-rapid-transit-index",
+  "name": "Bay Area Rapid Transit",
+  "category": "Index",
+  "description": "Stations and predicted arrivals for BART",
+  "longDescription": "Stations and predicted arrivals for BART",
+  "auth": "`apikey`",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://api.bart.gov",
+  "docsUrl": "http://api.bart.gov",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "stations",
+    "and",
+    "predicted",
+    "arrivals",
+    "for",
+    "bart"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.bart.gov",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

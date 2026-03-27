@@ -1,0 +1,33 @@
+{
+  "slug": "clearbit-logo-index",
+  "name": "Clearbit Logo",
+  "category": "Index",
+  "description": "Search for company logos and embed them in your projects",
+  "longDescription": "Search for company logos and embed them in your projects",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://clearbit.com/docs#logo-api",
+  "docsUrl": "https://clearbit.com/docs#logo-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "search",
+    "for",
+    "company",
+    "logos",
+    "and",
+    "embed",
+    "them",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://clearbit.com/docs#logo-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

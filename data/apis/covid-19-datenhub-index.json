@@ -1,0 +1,33 @@
+{
+  "slug": "covid-19-datenhub-index",
+  "name": "Covid-19 Datenhub",
+  "category": "Index",
+  "description": "Maps, datasets, applications and more in the context of COVID-19",
+  "longDescription": "Maps, datasets, applications and more in the context of COVID-19",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://npgeo-corona-npgeo-de.hub.arcgis.com",
+  "docsUrl": "https://npgeo-corona-npgeo-de.hub.arcgis.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "maps",
+    "datasets",
+    "applications",
+    "and",
+    "more",
+    "in",
+    "the",
+    "context"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://npgeo-corona-npgeo-de.hub.arcgis.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

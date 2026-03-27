@@ -1,0 +1,30 @@
+{
+  "slug": "nutritionix-index",
+  "name": "Nutritionix",
+  "category": "Index",
+  "description": "Worlds largest verified nutrition database",
+  "longDescription": "Worlds largest verified nutrition database",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.nutritionix.com/",
+  "docsUrl": "https://developer.nutritionix.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "worlds",
+    "largest",
+    "verified",
+    "nutrition",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.nutritionix.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

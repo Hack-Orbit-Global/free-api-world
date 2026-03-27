@@ -1,0 +1,30 @@
+{
+  "slug": "coinlore-index",
+  "name": "Coinlore",
+  "category": "Index",
+  "description": "Cryptocurrencies prices, volume and more",
+  "longDescription": "Cryptocurrencies prices, volume and more",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.coinlore.com/cryptocurrency-data-api",
+  "docsUrl": "https://www.coinlore.com/cryptocurrency-data-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrencies",
+    "prices",
+    "volume",
+    "and",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.coinlore.com/cryptocurrency-data-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

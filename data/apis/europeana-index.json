@@ -1,0 +1,30 @@
+{
+  "slug": "europeana-index",
+  "name": "Europeana",
+  "category": "Index",
+  "description": "European Museum and Galleries content",
+  "longDescription": "European Museum and Galleries content",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pro.europeana.eu/resources/apis/search",
+  "docsUrl": "https://pro.europeana.eu/resources/apis/search",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "european",
+    "museum",
+    "and",
+    "galleries",
+    "content"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pro.europeana.eu/resources/apis/search",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

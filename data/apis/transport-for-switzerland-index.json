@@ -1,0 +1,29 @@
+{
+  "slug": "transport-for-switzerland-index",
+  "name": "Transport for Switzerland",
+  "category": "Index",
+  "description": "Swiss public transport API",
+  "longDescription": "Swiss public transport API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://transport.opendata.ch/",
+  "docsUrl": "https://transport.opendata.ch/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "swiss",
+    "public",
+    "transport",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://transport.opendata.ch/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

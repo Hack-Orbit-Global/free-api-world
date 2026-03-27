@@ -1,0 +1,31 @@
+{
+  "slug": "coinbase-index",
+  "name": "Coinbase",
+  "category": "Index",
+  "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+  "longDescription": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.coinbase.com",
+  "docsUrl": "https://developers.coinbase.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bitcoin",
+    "cash",
+    "litecoin",
+    "and",
+    "ethereum",
+    "prices"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.coinbase.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

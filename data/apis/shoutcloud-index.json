@@ -1,0 +1,30 @@
+{
+  "slug": "shoutcloud-index",
+  "name": "SHOUTCLOUD",
+  "category": "Index",
+  "description": "ALL-CAPS AS A SERVICE",
+  "longDescription": "ALL-CAPS AS A SERVICE",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "http://shoutcloud.io/",
+  "docsUrl": "http://shoutcloud.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "caps",
+    "as",
+    "a",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://shoutcloud.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "catboy-index",
+  "name": "Catboy",
+  "category": "Index",
+  "description": "Neko images, funny GIFs & more",
+  "longDescription": "Neko images, funny GIFs & more",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://catboys.com/api",
+  "docsUrl": "https://catboys.com/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "neko",
+    "images",
+    "funny",
+    "gifs",
+    "more"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://catboys.com/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

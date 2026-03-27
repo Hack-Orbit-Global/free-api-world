@@ -1,0 +1,30 @@
+{
+  "slug": "imdbot-index",
+  "name": "IMDbOT",
+  "category": "Index",
+  "description": "Unofficial IMDb Movie / Series Information",
+  "longDescription": "Unofficial IMDb Movie / Series Information",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/SpEcHiDe/IMDbOT",
+  "docsUrl": "https://github.com/SpEcHiDe/IMDbOT",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "unofficial",
+    "imdb",
+    "movie",
+    "series",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/SpEcHiDe/IMDbOT",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

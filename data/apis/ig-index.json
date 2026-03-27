@@ -1,0 +1,30 @@
+{
+  "slug": "ig-index",
+  "name": "IG",
+  "category": "Index",
+  "description": "Spreadbetting and CFD Market Data",
+  "longDescription": "Spreadbetting and CFD Market Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://labs.ig.com/gettingstarted",
+  "docsUrl": "https://labs.ig.com/gettingstarted",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "spreadbetting",
+    "and",
+    "cfd",
+    "market",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://labs.ig.com/gettingstarted",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

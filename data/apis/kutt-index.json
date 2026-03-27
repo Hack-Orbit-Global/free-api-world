@@ -1,0 +1,29 @@
+{
+  "slug": "kutt-index",
+  "name": "Kutt",
+  "category": "Index",
+  "description": "Free Modern URL Shortener",
+  "longDescription": "Free Modern URL Shortener",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.kutt.it/",
+  "docsUrl": "https://docs.kutt.it/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "modern",
+    "url",
+    "shortener"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.kutt.it/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

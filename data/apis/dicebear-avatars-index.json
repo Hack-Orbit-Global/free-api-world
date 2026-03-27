@@ -1,0 +1,30 @@
+{
+  "slug": "dicebear-avatars-index",
+  "name": "Dicebear Avatars",
+  "category": "Index",
+  "description": "Generate random pixel-art avatars",
+  "longDescription": "Generate random pixel-art avatars",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://avatars.dicebear.com/",
+  "docsUrl": "https://avatars.dicebear.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "generate",
+    "random",
+    "pixel",
+    "art",
+    "avatars"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://avatars.dicebear.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

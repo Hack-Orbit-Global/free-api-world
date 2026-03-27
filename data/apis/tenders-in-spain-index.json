@@ -1,0 +1,33 @@
+{
+  "slug": "tenders-in-spain-index",
+  "name": "Tenders in Spain",
+  "category": "Index",
+  "description": "Get data for procurements in Spain in JSON format",
+  "longDescription": "Get data for procurements in Spain in JSON format",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tenders.guru/es/api",
+  "docsUrl": "https://tenders.guru/es/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "data",
+    "for",
+    "procurements",
+    "in",
+    "spain",
+    "json",
+    "format"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tenders.guru/es/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

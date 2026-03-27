@@ -1,0 +1,33 @@
+{
+  "slug": "trace-moe-index",
+  "name": "Trace Moe",
+  "category": "Index",
+  "description": "A useful tool to get the exact scene of an anime from a screenshot",
+  "longDescription": "A useful tool to get the exact scene of an anime from a screenshot",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://soruly.github.io/trace.moe-api/#/",
+  "docsUrl": "https://soruly.github.io/trace.moe-api/#/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "useful",
+    "tool",
+    "to",
+    "get",
+    "the",
+    "exact",
+    "scene"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://soruly.github.io/trace.moe-api/#/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "baconmockup-index",
+  "name": "BaconMockup",
+  "category": "Index",
+  "description": "Resizable bacon placeholder images",
+  "longDescription": "Resizable bacon placeholder images",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://baconmockup.com/",
+  "docsUrl": "https://baconmockup.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "resizable",
+    "bacon",
+    "placeholder",
+    "images"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://baconmockup.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

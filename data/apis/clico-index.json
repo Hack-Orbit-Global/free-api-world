@@ -1,0 +1,28 @@
+{
+  "slug": "clico-index",
+  "name": "Clico",
+  "category": "Index",
+  "description": "URL shortener service",
+  "longDescription": "URL shortener service",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config",
+  "docsUrl": "https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "shortener",
+    "service"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

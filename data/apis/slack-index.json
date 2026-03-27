@@ -1,0 +1,28 @@
+{
+  "slug": "slack-index",
+  "name": "Slack",
+  "category": "Index",
+  "description": "Team Instant Messaging",
+  "longDescription": "Team Instant Messaging",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.slack.com/",
+  "docsUrl": "https://api.slack.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "team",
+    "instant",
+    "messaging"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.slack.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

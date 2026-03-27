@@ -1,0 +1,33 @@
+{
+  "slug": "tomba-email-finder-index",
+  "name": "Tomba email finder",
+  "category": "Index",
+  "description": "Email Finder for B2B sales and email marketing and email verifier",
+  "longDescription": "Email Finder for B2B sales and email marketing and email verifier",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://tomba.io/api",
+  "docsUrl": "https://tomba.io/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "email",
+    "finder",
+    "for",
+    "b2b",
+    "sales",
+    "and",
+    "marketing",
+    "verifier"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://tomba.io/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

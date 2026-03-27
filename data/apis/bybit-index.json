@@ -1,0 +1,31 @@
+{
+  "slug": "bybit-index",
+  "name": "Bybit",
+  "category": "Index",
+  "description": "Cryptocurrency data feed and algorithmic trading",
+  "longDescription": "Cryptocurrency data feed and algorithmic trading",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bybit-exchange.github.io/docs/linear/#t-introduction",
+  "docsUrl": "https://bybit-exchange.github.io/docs/linear/#t-introduction",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "cryptocurrency",
+    "data",
+    "feed",
+    "and",
+    "algorithmic",
+    "trading"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bybit-exchange.github.io/docs/linear/#t-introduction",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

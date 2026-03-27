@@ -1,0 +1,30 @@
+{
+  "slug": "pexels-index",
+  "name": "Pexels",
+  "category": "Index",
+  "description": "Free Stock Photos and Videos",
+  "longDescription": "Free Stock Photos and Videos",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.pexels.com/api/",
+  "docsUrl": "https://www.pexels.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "stock",
+    "photos",
+    "and",
+    "videos"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.pexels.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

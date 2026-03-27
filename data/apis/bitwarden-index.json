@@ -1,0 +1,30 @@
+{
+  "slug": "bitwarden-index",
+  "name": "BitWarden",
+  "category": "Index",
+  "description": "Best open-source password manager",
+  "longDescription": "Best open-source password manager",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bitwarden.com/help/api/",
+  "docsUrl": "https://bitwarden.com/help/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "best",
+    "open",
+    "source",
+    "password",
+    "manager"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bitwarden.com/help/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

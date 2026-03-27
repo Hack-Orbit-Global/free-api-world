@@ -1,0 +1,30 @@
+{
+  "slug": "bitly-index",
+  "name": "Bitly",
+  "category": "Index",
+  "description": "URL shortener and link management",
+  "longDescription": "URL shortener and link management",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://dev.bitly.com/get_started.html",
+  "docsUrl": "http://dev.bitly.com/get_started.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "url",
+    "shortener",
+    "and",
+    "link",
+    "management"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://dev.bitly.com/get_started.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

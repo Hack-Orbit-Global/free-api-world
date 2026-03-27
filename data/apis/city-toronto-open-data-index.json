@@ -1,0 +1,30 @@
+{
+  "slug": "city-toronto-open-data-index",
+  "name": "City, Toronto Open Data",
+  "category": "Index",
+  "description": "Toronto (CA) City Open Data",
+  "longDescription": "Toronto (CA) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open.toronto.ca/",
+  "docsUrl": "https://open.toronto.ca/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "toronto",
+    "ca",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open.toronto.ca/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

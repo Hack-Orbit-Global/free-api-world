@@ -1,0 +1,33 @@
+{
+  "slug": "instatus-index",
+  "name": "Instatus",
+  "category": "Index",
+  "description": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
+  "longDescription": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://instatus.com/help/api",
+  "docsUrl": "https://instatus.com/help/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "post",
+    "to",
+    "and",
+    "update",
+    "maintenance",
+    "incidents",
+    "on",
+    "your"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://instatus.com/help/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

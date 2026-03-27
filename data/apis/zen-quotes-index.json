@@ -1,0 +1,32 @@
+{
+  "slug": "zen-quotes-index",
+  "name": "Zen Quotes",
+  "category": "Index",
+  "description": "Large collection of Zen quotes for inspiration",
+  "longDescription": "Large collection of Zen quotes for inspiration",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://zenquotes.io/",
+  "docsUrl": "https://zenquotes.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "large",
+    "collection",
+    "of",
+    "zen",
+    "quotes",
+    "for",
+    "inspiration"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://zenquotes.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

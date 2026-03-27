@@ -1,0 +1,33 @@
+{
+  "slug": "ziptastic-index",
+  "name": "Ziptastic",
+  "category": "Index",
+  "description": "Get the country, state, and city of any US zip-code",
+  "longDescription": "Get the country, state, and city of any US zip-code",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://ziptasticapi.com/",
+  "docsUrl": "https://ziptasticapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "the",
+    "country",
+    "state",
+    "and",
+    "city",
+    "of",
+    "any"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://ziptasticapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

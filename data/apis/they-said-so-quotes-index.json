@@ -1,0 +1,33 @@
+{
+  "slug": "they-said-so-quotes-index",
+  "name": "They Said So Quotes",
+  "category": "Index",
+  "description": "Quotes Trusted by many fortune brands around the world",
+  "longDescription": "Quotes Trusted by many fortune brands around the world",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://theysaidso.com/api/",
+  "docsUrl": "https://theysaidso.com/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "quotes",
+    "trusted",
+    "by",
+    "many",
+    "fortune",
+    "brands",
+    "around",
+    "the"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://theysaidso.com/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

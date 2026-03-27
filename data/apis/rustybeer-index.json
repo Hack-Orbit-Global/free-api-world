@@ -1,0 +1,28 @@
+{
+  "slug": "rustybeer-index",
+  "name": "Rustybeer",
+  "category": "Index",
+  "description": "Beer brewing tools",
+  "longDescription": "Beer brewing tools",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://rustybeer.herokuapp.com/",
+  "docsUrl": "https://rustybeer.herokuapp.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "beer",
+    "brewing",
+    "tools"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rustybeer.herokuapp.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

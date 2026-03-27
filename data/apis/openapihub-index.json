@@ -1,0 +1,31 @@
+{
+  "slug": "openapihub-index",
+  "name": "OpenAPIHub",
+  "category": "Index",
+  "description": "The All-in-one API Platform",
+  "longDescription": "The All-in-one API Platform",
+  "auth": "`x-mashape-key`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://hub.openapihub.com/",
+  "docsUrl": "https://hub.openapihub.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "all",
+    "in",
+    "one",
+    "api",
+    "platform"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://hub.openapihub.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

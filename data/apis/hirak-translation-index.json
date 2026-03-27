@@ -1,0 +1,33 @@
+{
+  "slug": "hirak-translation-index",
+  "name": "Hirak Translation",
+  "category": "Index",
+  "description": "Translate between 21 of most used languages, accurate, unlimited requests",
+  "longDescription": "Translate between 21 of most used languages, accurate, unlimited requests",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://translate.hirak.site/",
+  "docsUrl": "https://translate.hirak.site/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "translate",
+    "between",
+    "21",
+    "of",
+    "most",
+    "used",
+    "languages",
+    "accurate"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://translate.hirak.site/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

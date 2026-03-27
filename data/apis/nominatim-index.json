@@ -1,0 +1,30 @@
+{
+  "slug": "nominatim-index",
+  "name": "Nominatim",
+  "category": "Index",
+  "description": "Provides worldwide forward / reverse geocoding",
+  "longDescription": "Provides worldwide forward / reverse geocoding",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://nominatim.org/release-docs/latest/api/Overview/",
+  "docsUrl": "https://nominatim.org/release-docs/latest/api/Overview/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "worldwide",
+    "forward",
+    "reverse",
+    "geocoding"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://nominatim.org/release-docs/latest/api/Overview/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

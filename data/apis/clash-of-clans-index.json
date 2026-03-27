@@ -1,0 +1,30 @@
+{
+  "slug": "clash-of-clans-index",
+  "name": "Clash of Clans",
+  "category": "Index",
+  "description": "Clash of Clans Game Information",
+  "longDescription": "Clash of Clans Game Information",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.clashofclans.com",
+  "docsUrl": "https://developer.clashofclans.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "clash",
+    "of",
+    "clans",
+    "game",
+    "information"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.clashofclans.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "bored-index",
+  "name": "Bored",
+  "category": "Index",
+  "description": "Find random activities to fight boredom",
+  "longDescription": "Find random activities to fight boredom",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.boredapi.com/",
+  "docsUrl": "https://www.boredapi.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "find",
+    "random",
+    "activities",
+    "to",
+    "fight",
+    "boredom"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.boredapi.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

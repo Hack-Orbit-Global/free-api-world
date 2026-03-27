@@ -1,0 +1,27 @@
+{
+  "slug": "image-upload-index",
+  "name": "Image Upload",
+  "category": "Index",
+  "description": "Image Optimization",
+  "longDescription": "Image Optimization",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://apilayer.com/marketplace/image_upload-api",
+  "docsUrl": "https://apilayer.com/marketplace/image_upload-api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "optimization"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://apilayer.com/marketplace/image_upload-api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "times-adder-index",
+  "name": "Times Adder",
+  "category": "Index",
+  "description": "With this API you can add each of the times introduced in the array sended",
+  "longDescription": "With this API you can add each of the times introduced in the array sended",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://github.com/FranP-code/API-Times-Adder",
+  "docsUrl": "https://github.com/FranP-code/API-Times-Adder",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "with",
+    "this",
+    "api",
+    "you",
+    "can",
+    "add",
+    "each",
+    "of"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/FranP-code/API-Times-Adder",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

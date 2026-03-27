@@ -1,0 +1,33 @@
+{
+  "slug": "openwhyd-index",
+  "name": "Openwhyd",
+  "category": "Index",
+  "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
+  "longDescription": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://openwhyd.github.io/openwhyd/API",
+  "docsUrl": "https://openwhyd.github.io/openwhyd/API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "download",
+    "curated",
+    "playlists",
+    "of",
+    "streaming",
+    "tracks",
+    "youtube",
+    "soundcloud"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://openwhyd.github.io/openwhyd/API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

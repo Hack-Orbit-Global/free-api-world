@@ -1,0 +1,33 @@
+{
+  "slug": "currencyscoop-index",
+  "name": "CurrencyScoop",
+  "category": "Index",
+  "description": "Real-time and historical currency rates JSON API",
+  "longDescription": "Real-time and historical currency rates JSON API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://currencyscoop.com/api-documentation",
+  "docsUrl": "https://currencyscoop.com/api-documentation",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "real",
+    "time",
+    "and",
+    "historical",
+    "currency",
+    "rates",
+    "json",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://currencyscoop.com/api-documentation",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "bible-api-index",
+  "name": "Bible-api",
+  "category": "Index",
+  "description": "Free Bible API with multiple languages",
+  "longDescription": "Free Bible API with multiple languages",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://bible-api.com/",
+  "docsUrl": "https://bible-api.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "free",
+    "bible",
+    "api",
+    "with",
+    "multiple",
+    "languages"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://bible-api.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

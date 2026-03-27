@@ -1,0 +1,33 @@
+{
+  "slug": "dungeons-and-dragons-alternate-index",
+  "name": "Dungeons and Dragons (Alternate)",
+  "category": "Index",
+  "description": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API",
+  "longDescription": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://open5e.com/",
+  "docsUrl": "https://open5e.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "includes",
+    "all",
+    "monsters",
+    "and",
+    "spells",
+    "from",
+    "the",
+    "srd"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://open5e.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "webscraping-ai-index",
+  "name": "WebScraping.AI",
+  "category": "Index",
+  "description": "Web Scraping API with built-in proxies and JS rendering",
+  "longDescription": "Web Scraping API with built-in proxies and JS rendering",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://webscraping.ai/",
+  "docsUrl": "https://webscraping.ai/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "web",
+    "scraping",
+    "api",
+    "with",
+    "built",
+    "in",
+    "proxies",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://webscraping.ai/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "uk-companies-house-index",
+  "name": "UK Companies House",
+  "category": "Index",
+  "description": "UK Companies House Data from the UK government",
+  "longDescription": "UK Companies House Data from the UK government",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developer.company-information.service.gov.uk/",
+  "docsUrl": "https://developer.company-information.service.gov.uk/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "uk",
+    "companies",
+    "house",
+    "data",
+    "from",
+    "the",
+    "government"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developer.company-information.service.gov.uk/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

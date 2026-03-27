@@ -1,0 +1,32 @@
+{
+  "slug": "mercadolibre-index",
+  "name": "Mercadolibre",
+  "category": "Index",
+  "description": "Manage sales, ads, products, services and Shops",
+  "longDescription": "Manage sales, ads, products, services and Shops",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
+  "docsUrl": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "manage",
+    "sales",
+    "ads",
+    "products",
+    "services",
+    "and",
+    "shops"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

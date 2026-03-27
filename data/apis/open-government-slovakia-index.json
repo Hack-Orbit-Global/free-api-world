@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-slovakia-index",
+  "name": "Open Government, Slovakia",
+  "category": "Index",
+  "description": "Slovakia Government Open Data",
+  "longDescription": "Slovakia Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.sk/en/",
+  "docsUrl": "https://data.gov.sk/en/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "slovakia",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.sk/en/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

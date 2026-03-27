@@ -1,0 +1,28 @@
+{
+  "slug": "glitterly-index",
+  "name": "Glitterly",
+  "category": "Index",
+  "description": "Image generation API",
+  "longDescription": "Image generation API",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://developers.glitterly.app",
+  "docsUrl": "https://developers.glitterly.app",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "image",
+    "generation",
+    "api"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://developers.glitterly.app",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

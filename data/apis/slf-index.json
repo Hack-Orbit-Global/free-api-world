@@ -1,0 +1,30 @@
+{
+  "slug": "slf-index",
+  "name": "SLF",
+  "category": "Index",
+  "description": "German city, country, river, database",
+  "longDescription": "German city, country, river, database",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
+  "docsUrl": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "german",
+    "city",
+    "country",
+    "river",
+    "database"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

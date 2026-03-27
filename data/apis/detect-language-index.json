@@ -1,0 +1,28 @@
+{
+  "slug": "detect-language-index",
+  "name": "Detect Language",
+  "category": "Index",
+  "description": "Detects text language",
+  "longDescription": "Detects text language",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://detectlanguage.com/",
+  "docsUrl": "https://detectlanguage.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "detects",
+    "text",
+    "language"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://detectlanguage.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

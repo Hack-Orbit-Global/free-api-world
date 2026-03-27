@@ -1,0 +1,33 @@
+{
+  "slug": "spotsense-index",
+  "name": "SpotSense",
+  "category": "Index",
+  "description": "Add location based interactions to your mobile app",
+  "longDescription": "Add location based interactions to your mobile app",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://spotsense.io/",
+  "docsUrl": "https://spotsense.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "add",
+    "location",
+    "based",
+    "interactions",
+    "to",
+    "your",
+    "mobile",
+    "app"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://spotsense.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

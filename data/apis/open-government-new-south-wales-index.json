@@ -1,0 +1,31 @@
+{
+  "slug": "open-government-new-south-wales-index",
+  "name": "Open Government, New South Wales",
+  "category": "Index",
+  "description": "New South Wales Government Open Data",
+  "longDescription": "New South Wales Government Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://api.nsw.gov.au/",
+  "docsUrl": "https://api.nsw.gov.au/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "new",
+    "south",
+    "wales",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.nsw.gov.au/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "monster-hunter-world-index",
+  "name": "Monster Hunter World",
+  "category": "Index",
+  "description": "Monster Hunter World data",
+  "longDescription": "Monster Hunter World data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.mhw-db.com/",
+  "docsUrl": "https://docs.mhw-db.com/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "monster",
+    "hunter",
+    "world",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.mhw-db.com/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

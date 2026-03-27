@@ -1,0 +1,32 @@
+{
+  "slug": "songsterr-index",
+  "name": "Songsterr",
+  "category": "Index",
+  "description": "Provides guitar, bass and drums tabs and chords",
+  "longDescription": "Provides guitar, bass and drums tabs and chords",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.songsterr.com/a/wa/api/",
+  "docsUrl": "https://www.songsterr.com/a/wa/api/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "provides",
+    "guitar",
+    "bass",
+    "and",
+    "drums",
+    "tabs",
+    "chords"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.songsterr.com/a/wa/api/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

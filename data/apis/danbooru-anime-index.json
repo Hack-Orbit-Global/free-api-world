@@ -1,0 +1,33 @@
+{
+  "slug": "danbooru-anime-index",
+  "name": "Danbooru Anime",
+  "category": "Index",
+  "description": "Thousands of anime artist database to find good anime art",
+  "longDescription": "Thousands of anime artist database to find good anime art",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://danbooru.donmai.us/wiki_pages/help:api",
+  "docsUrl": "https://danbooru.donmai.us/wiki_pages/help:api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "thousands",
+    "of",
+    "anime",
+    "artist",
+    "database",
+    "to",
+    "find",
+    "good"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://danbooru.donmai.us/wiki_pages/help:api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "stream-index",
+  "name": "Stream",
+  "category": "Index",
+  "description": "Czech internet television, films, series and online videos for free",
+  "longDescription": "Czech internet television, films, series and online videos for free",
+  "auth": "No",
+  "https": true,
+  "cors": false,
+  "baseUrl": "https://api.stream.cz/graphiql",
+  "docsUrl": "https://api.stream.cz/graphiql",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "czech",
+    "internet",
+    "television",
+    "films",
+    "series",
+    "and",
+    "online",
+    "videos"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.stream.cz/graphiql",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

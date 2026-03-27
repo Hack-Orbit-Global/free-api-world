@@ -1,0 +1,33 @@
+{
+  "slug": "national-bank-of-poland-index",
+  "name": "National Bank of Poland",
+  "category": "Index",
+  "description": "A collection of currency exchange rates (data in XML and JSON)",
+  "longDescription": "A collection of currency exchange rates (data in XML and JSON)",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "http://api.nbp.pl/en.html",
+  "docsUrl": "http://api.nbp.pl/en.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "a",
+    "collection",
+    "of",
+    "currency",
+    "exchange",
+    "rates",
+    "data",
+    "in"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "http://api.nbp.pl/en.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

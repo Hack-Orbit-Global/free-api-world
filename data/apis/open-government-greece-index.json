@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-greece-index",
+  "name": "Open Government, Greece",
+  "category": "Index",
+  "description": "Greece Government Open Data",
+  "longDescription": "Greece Government Open Data",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.gr/",
+  "docsUrl": "https://data.gov.gr/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "greece",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.gr/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

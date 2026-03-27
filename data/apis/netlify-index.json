@@ -1,0 +1,33 @@
+{
+  "slug": "netlify-index",
+  "name": "Netlify",
+  "category": "Index",
+  "description": "Netlify is a hosting service for the programmable web",
+  "longDescription": "Netlify is a hosting service for the programmable web",
+  "auth": "OAuth",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.netlify.com/api/get-started/",
+  "docsUrl": "https://docs.netlify.com/api/get-started/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "netlify",
+    "is",
+    "a",
+    "hosting",
+    "service",
+    "for",
+    "the",
+    "programmable"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.netlify.com/api/get-started/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "proxykingdom-index",
+  "name": "ProxyKingdom",
+  "category": "Index",
+  "description": "Rotating Proxy API that produces a working proxy on every request",
+  "longDescription": "Rotating Proxy API that produces a working proxy on every request",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://proxykingdom.com",
+  "docsUrl": "https://proxykingdom.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "rotating",
+    "proxy",
+    "api",
+    "that",
+    "produces",
+    "a",
+    "working",
+    "on"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://proxykingdom.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

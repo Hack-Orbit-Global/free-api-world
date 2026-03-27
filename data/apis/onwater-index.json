@@ -1,0 +1,33 @@
+{
+  "slug": "onwater-index",
+  "name": "OnWater",
+  "category": "Index",
+  "description": "Determine if a lat/lon is on water or land",
+  "longDescription": "Determine if a lat/lon is on water or land",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://onwater.io/",
+  "docsUrl": "https://onwater.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "determine",
+    "if",
+    "a",
+    "lat",
+    "lon",
+    "is",
+    "on",
+    "water"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://onwater.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

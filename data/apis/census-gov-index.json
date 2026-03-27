@@ -1,0 +1,33 @@
+{
+  "slug": "census-gov-index",
+  "name": "Census.gov",
+  "category": "Index",
+  "description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
+  "longDescription": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://www.census.gov/data/developers/data-sets.html",
+  "docsUrl": "https://www.census.gov/data/developers/data-sets.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "the",
+    "us",
+    "census",
+    "bureau",
+    "provides",
+    "various",
+    "apis",
+    "and"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://www.census.gov/data/developers/data-sets.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pastebin-index",
+  "name": "Pastebin",
+  "category": "Index",
+  "description": "Plain Text Storage",
+  "longDescription": "Plain Text Storage",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://pastebin.com/doc_api",
+  "docsUrl": "https://pastebin.com/doc_api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "plain",
+    "text",
+    "storage"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://pastebin.com/doc_api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

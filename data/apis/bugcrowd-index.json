@@ -1,0 +1,33 @@
+{
+  "slug": "bugcrowd-index",
+  "name": "Bugcrowd",
+  "category": "Index",
+  "description": "Bugcrowd API for interacting and tracking the reported issues programmatically",
+  "longDescription": "Bugcrowd API for interacting and tracking the reported issues programmatically",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.bugcrowd.com/api/getting-started/",
+  "docsUrl": "https://docs.bugcrowd.com/api/getting-started/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "bugcrowd",
+    "api",
+    "for",
+    "interacting",
+    "and",
+    "tracking",
+    "the",
+    "reported"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.bugcrowd.com/api/getting-started/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "nba-data-index",
+  "name": "NBA Data",
+  "category": "Index",
+  "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+  "longDescription": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://rapidapi.com/api-sports/api/api-nba/",
+  "docsUrl": "https://rapidapi.com/api-sports/api/api-nba/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "all",
+    "nba",
+    "stats",
+    "data",
+    "games",
+    "livescore",
+    "standings",
+    "statistics"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://rapidapi.com/api-sports/api/api-nba/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

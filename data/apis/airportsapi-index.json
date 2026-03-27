@@ -1,0 +1,33 @@
+{
+  "slug": "airportsapi-index",
+  "name": "airportsapi",
+  "category": "Index",
+  "description": "Get name and website-URL for airports by ICAO code",
+  "longDescription": "Get name and website-URL for airports by ICAO code",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://airport-web.appspot.com/api/docs/",
+  "docsUrl": "https://airport-web.appspot.com/api/docs/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "get",
+    "name",
+    "and",
+    "website",
+    "url",
+    "for",
+    "airports",
+    "by"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://airport-web.appspot.com/api/docs/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

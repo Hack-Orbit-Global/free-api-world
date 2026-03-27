@@ -1,0 +1,31 @@
+{
+  "slug": "hackernews-index",
+  "name": "HackerNews",
+  "category": "Index",
+  "description": "Social news for CS and entrepreneurship",
+  "longDescription": "Social news for CS and entrepreneurship",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://github.com/HackerNews/API",
+  "docsUrl": "https://github.com/HackerNews/API",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "social",
+    "news",
+    "for",
+    "cs",
+    "and",
+    "entrepreneurship"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://github.com/HackerNews/API",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

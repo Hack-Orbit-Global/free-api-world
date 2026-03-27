@@ -1,0 +1,30 @@
+{
+  "slug": "city-nantes-open-data-index",
+  "name": "City, Nantes Open Data",
+  "category": "Index",
+  "description": "Nantes(FR) City Open Data",
+  "longDescription": "Nantes(FR) City Open Data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.nantesmetropole.fr/pages/home/",
+  "docsUrl": "https://data.nantesmetropole.fr/pages/home/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "nantes",
+    "fr",
+    "city",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.nantesmetropole.fr/pages/home/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

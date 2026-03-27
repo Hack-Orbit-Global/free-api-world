@@ -1,0 +1,32 @@
+{
+  "slug": "co2-offset-index",
+  "name": "CO2 Offset",
+  "category": "Index",
+  "description": "API calculates and validates the carbon footprint",
+  "longDescription": "API calculates and validates the carbon footprint",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://co2offset.io/api.html",
+  "docsUrl": "https://co2offset.io/api.html",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "calculates",
+    "and",
+    "validates",
+    "the",
+    "carbon",
+    "footprint"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://co2offset.io/api.html",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

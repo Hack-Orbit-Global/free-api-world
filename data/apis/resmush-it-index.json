@@ -1,0 +1,27 @@
+{
+  "slug": "resmush-it-index",
+  "name": "ReSmush.it",
+  "category": "Index",
+  "description": "Photo optimization",
+  "longDescription": "Photo optimization",
+  "auth": "No",
+  "https": false,
+  "cors": true,
+  "baseUrl": "https://resmush.it/api",
+  "docsUrl": "https://resmush.it/api",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "photo",
+    "optimization"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://resmush.it/api",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

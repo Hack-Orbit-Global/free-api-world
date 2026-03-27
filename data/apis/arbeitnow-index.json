@@ -1,0 +1,33 @@
+{
+  "slug": "arbeitnow-index",
+  "name": "Arbeitnow",
+  "category": "Index",
+  "description": "API for Job board aggregator in Europe / Remote",
+  "longDescription": "API for Job board aggregator in Europe / Remote",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://documenter.getpostman.com/view/18545278/UVJbJdKh",
+  "docsUrl": "https://documenter.getpostman.com/view/18545278/UVJbJdKh",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "job",
+    "board",
+    "aggregator",
+    "in",
+    "europe",
+    "remote"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://documenter.getpostman.com/view/18545278/UVJbJdKh",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

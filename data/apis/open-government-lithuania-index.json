@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-lithuania-index",
+  "name": "Open Government, Lithuania",
+  "category": "Index",
+  "description": "Lithuania Government Open Data",
+  "longDescription": "Lithuania Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://data.gov.lt/public/api/1",
+  "docsUrl": "https://data.gov.lt/public/api/1",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "lithuania",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://data.gov.lt/public/api/1",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

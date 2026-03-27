@@ -1,0 +1,31 @@
+{
+  "slug": "tomorrow-index",
+  "name": "Tomorrow",
+  "category": "Index",
+  "description": "Weather API Powered by Proprietary Technology",
+  "longDescription": "Weather API Powered by Proprietary Technology",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://docs.tomorrow.io",
+  "docsUrl": "https://docs.tomorrow.io",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "weather",
+    "api",
+    "powered",
+    "by",
+    "proprietary",
+    "technology"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://docs.tomorrow.io",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

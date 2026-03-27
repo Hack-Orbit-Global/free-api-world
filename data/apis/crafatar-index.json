@@ -1,0 +1,31 @@
+{
+  "slug": "crafatar-index",
+  "name": "Crafatar",
+  "category": "Index",
+  "description": "API for Minecraft skins and faces",
+  "longDescription": "API for Minecraft skins and faces",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://crafatar.com",
+  "docsUrl": "https://crafatar.com",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "api",
+    "for",
+    "minecraft",
+    "skins",
+    "and",
+    "faces"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://crafatar.com",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

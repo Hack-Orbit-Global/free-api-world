@@ -1,0 +1,29 @@
+{
+  "slug": "polygon-index",
+  "name": "Polygon",
+  "category": "Index",
+  "description": "Historical stock market data",
+  "longDescription": "Historical stock market data",
+  "auth": "`apikey`",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://polygon.io/",
+  "docsUrl": "https://polygon.io/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "historical",
+    "stock",
+    "market",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://polygon.io/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}

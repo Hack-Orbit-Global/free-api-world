@@ -1,0 +1,29 @@
+{
+  "slug": "open-government-portugal-index",
+  "name": "Open Government, Portugal",
+  "category": "Index",
+  "description": "Portugal Government Open Data",
+  "longDescription": "Portugal Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": true,
+  "baseUrl": "https://dados.gov.pt/en/docapi/",
+  "docsUrl": "https://dados.gov.pt/en/docapi/",
+  "version": "1.0",
+  "pricing": "Unknown",
+  "tags": [
+    "portugal",
+    "government",
+    "open",
+    "data"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://dados.gov.pt/en/docapi/",
+    "response": "{}"
+  },
+  "relatedSlugs": [],
+  "alsoSearched": [],
+  "affiliateText": "",
+  "featured": false
+}
