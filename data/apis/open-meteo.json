@@ -1,10 +1,41 @@
 {
-  "name": "Open-Meteo",
   "slug": "open-meteo",
-  "category": "weather",
-  "description": "Global weather forecast API for non-commercial use",
+  "name": "Open-Meteo",
+  "category": "Weather",
+  "description": "Completely free weather API with global coverage \u2014 no API key required, up to 10,000 daily requests.",
+  "longDescription": "Open-Meteo is an open-source weather API offering free access for non-commercial use. It aggregates data from national weather services around the world including NOAA, Copernicus, and DWD. The API provides current weather, hourly forecast up to 16 days, historical data from 1940, air quality, marine, and flood APIs. No registration needed.",
   "auth": "No",
   "https": true,
-  "cors": "Yes",
-  "link": "https://open-meteo.com/"
+  "cors": true,
+  "baseUrl": "https://api.open-meteo.com/v1",
+  "docsUrl": "https://open-meteo.com/en/docs",
+  "version": "1",
+  "pricing": "Free: 10,000 req/day for non-commercial; commercial plans available",
+  "tags": [
+    "weather",
+    "forecast",
+    "no-auth",
+    "historical",
+    "open-source",
+    "climate"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true",
+    "response": "{\n  \"latitude\": 52.52,\n  \"longitude\": 13.419998,\n  \"current_weather\": {\n    \"temperature\": 8.3,\n    \"windspeed\": 12.5,\n    \"winddirection\": 220,\n    \"weathercode\": 61,\n    \"time\": \"2024-01-15T12:00\"\n  }\n}"
+  },
+  "relatedSlugs": [
+    "openweathermap",
+    "weatherapi",
+    "open-notify"
+  ],
+  "alsoSearched": [
+    "free weather api no key",
+    "open source weather api",
+    "weather api without registration",
+    "historical weather api",
+    "climate data api"
+  ],
+  "affiliateText": "No API key? Perfect for rapid prototyping. Deploy your weather app on Netlify for free.",
+  "featured": false
 }

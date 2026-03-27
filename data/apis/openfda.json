@@ -1,10 +1,41 @@
 {
-  "name": "openFDA",
   "slug": "openfda",
-  "category": "health",
-  "description": "Public FDA data about drugs, devices and foods",
-  "auth": "`apiKey`",
+  "name": "openFDA",
+  "category": "Health",
+  "description": "FDA drug, food, device, and recall data API with adverse events, labels, and enforcement reports.",
+  "longDescription": "openFDA is a public API from the U.S. Food and Drug Administration (FDA) providing access to regulatory data including drug adverse events, drug labeling, drug NDC (National Drug Code) directory, food enforcement (recalls), device adverse events, device recalls, tobacco problem reports, and animal drug adverse events. The API returns JSON and supports full-text search and complex filtering.",
+  "auth": "apiKey",
   "https": true,
-  "cors": "Unknown",
-  "link": "https://open.fda.gov"
+  "cors": true,
+  "baseUrl": "https://api.fda.gov",
+  "docsUrl": "https://open.fda.gov/apis/",
+  "version": "1",
+  "pricing": "Free: 1,000 requests/day without key; 120,000/day with free API key",
+  "tags": [
+    "health",
+    "fda",
+    "drugs",
+    "recalls",
+    "adverse events",
+    "medical",
+    "regulatory"
+  ],
+  "exampleRequest": {
+    "method": "GET",
+    "endpoint": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:aspirin&limit=1",
+    "response": "{\n  \"meta\": { \"total\": 94 },\n  \"results\": [{\n    \"openfda\": {\n      \"brand_name\": [\"ASPIRIN\"],\n      \"generic_name\": [\"ASPIRIN\"],\n      \"manufacturer_name\": [\"Bayer HealthCare LLC\"]\n    },\n    \"warnings\": [\"Reye's syndrome warning...\"],\n    \"dosage_and_administration\": [\"Adults and children...\"]\n  }]\n}"
+  },
+  "relatedSlugs": [
+    "disease-sh",
+    "open-notify"
+  ],
+  "alsoSearched": [
+    "fda api",
+    "drug label api",
+    "medication api",
+    "pharmaceutical api",
+    "drug recall api"
+  ],
+  "affiliateText": "Building a health app? Ensure HIPAA compliance \u2014 Supabase offers secure hosting.",
+  "featured": false
 }
