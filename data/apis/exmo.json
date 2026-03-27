@@ -1,0 +1,10 @@
+{
+  "name": "EXMO",
+  "slug": "exmo",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies exchange based in UK",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://documenter.getpostman.com/view/10287440/SzYXWKPi"
+}

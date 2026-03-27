@@ -1,0 +1,10 @@
+{
+  "name": "Telize",
+  "slug": "telize",
+  "category": "geocoding",
+  "description": "Telize offers location information from any IP address",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://rapidapi.com/fcambus/api/telize/"
+}

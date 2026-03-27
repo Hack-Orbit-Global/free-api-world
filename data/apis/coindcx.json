@@ -1,0 +1,10 @@
+{
+  "name": "CoinDCX",
+  "slug": "coindcx",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency Trading Platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.coindcx.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Corporate Buzz Words",
+  "slug": "corporate-buzz-words",
+  "category": "entertainment",
+  "description": "REST API for Corporate Buzz Words",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/sameerkumar18/corporate-bs-generator-api"
+}

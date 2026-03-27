@@ -1,0 +1,10 @@
+{
+  "name": "EVA",
+  "slug": "eva",
+  "category": "email",
+  "description": "Validate email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://eva.pingutil.com/"
+}

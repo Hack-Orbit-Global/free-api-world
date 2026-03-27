@@ -1,0 +1,10 @@
+{
+  "name": "inspirehep.net",
+  "slug": "inspirehepnet",
+  "category": "science-&-math",
+  "description": "High Energy Physics info. system",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/inspirehep/rest-api-doc"
+}

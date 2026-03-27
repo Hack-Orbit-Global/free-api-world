@@ -1,0 +1,10 @@
+{
+  "name": "ScrapingAnt",
+  "slug": "scrapingant",
+  "category": "development",
+  "description": "Headless Chrome scraping with a simple API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://scrapingant.com"
+}

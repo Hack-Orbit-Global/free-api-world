@@ -1,0 +1,10 @@
+{
+  "name": "RainViewer",
+  "slug": "rainviewer",
+  "category": "weather",
+  "description": "Radar data collected from different websites across the Internet",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.rainviewer.com/api.html"
+}

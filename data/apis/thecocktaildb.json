@@ -1,0 +1,10 @@
+{
+  "name": "TheCocktailDB",
+  "slug": "thecocktaildb",
+  "category": "food-&-drink",
+  "description": "Cocktail Recipes",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.thecocktaildb.com/api.php"
+}

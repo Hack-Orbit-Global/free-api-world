@@ -1,0 +1,10 @@
+{
+  "name": "Clarifai",
+  "slug": "clarifai",
+  "category": "machine-learning",
+  "description": "Computer Vision",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.clarifai.com/api-guide/api-overview"
+}

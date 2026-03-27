@@ -1,0 +1,10 @@
+{
+  "name": "Dataflow Kit COVID-19",
+  "slug": "dataflow-kit-covid-19",
+  "category": "health",
+  "description": "COVID-19 live statistics into sites per hour",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://covid-19.dataflowkit.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "IBGE",
+  "slug": "ibge",
+  "category": "geocoding",
+  "description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://servicodados.ibge.gov.br/api/docs/"
+}

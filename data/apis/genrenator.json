@@ -1,0 +1,10 @@
+{
+  "name": "Genrenator",
+  "slug": "genrenator",
+  "category": "music",
+  "description": "Music genre generator",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://binaryjazz.us/genrenator-api/"
+}

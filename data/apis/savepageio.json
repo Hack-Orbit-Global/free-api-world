@@ -1,0 +1,10 @@
+{
+  "name": "SavePage.io",
+  "slug": "savepageio",
+  "category": "development",
+  "description": "A free, RESTful API used to screenshot any desktop, or mobile website",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.savepage.io"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "RSS feed to JSON",
+  "slug": "rss-feed-to-json",
+  "category": "development",
+  "description": "Returns RSS feed in JSON format using feed URL",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://rss-to-json-serverless-api.vercel.app"
+}

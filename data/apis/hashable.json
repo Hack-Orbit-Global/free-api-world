@@ -1,0 +1,10 @@
+{
+  "name": "Hashable",
+  "slug": "hashable",
+  "category": "security",
+  "description": "A REST API to access high level cryptographic functions and methods",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://hashable.space/pages/api/"
+}

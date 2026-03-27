@@ -1,0 +1,10 @@
+{
+  "name": "Untappd",
+  "slug": "untappd",
+  "category": "food-&-drink",
+  "description": "Social beer sharing",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://untappd.com/api/docs"
+}

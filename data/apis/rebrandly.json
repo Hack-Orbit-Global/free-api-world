@@ -1,0 +1,10 @@
+{
+  "name": "Rebrandly",
+  "slug": "rebrandly",
+  "category": "url-shorteners",
+  "description": "Custom URL shortener for sharing branded links",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.rebrandly.com/v1/docs"
+}

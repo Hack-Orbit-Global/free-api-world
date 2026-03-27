@@ -1,0 +1,10 @@
+{
+  "name": "GitHub ReadMe Stats",
+  "slug": "github-readme-stats",
+  "category": "open-source-projects",
+  "description": "Add dynamically generated statistics to your GitHub profile ReadMe",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/anuraghazra/github-readme-stats"
+}

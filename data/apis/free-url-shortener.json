@@ -1,0 +1,10 @@
+{
+  "name": "Free Url Shortener",
+  "slug": "free-url-shortener",
+  "category": "url-shorteners",
+  "description": "Free URL Shortener offers a powerful API to interact with other sites",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ulvis.net/developer.html"
+}

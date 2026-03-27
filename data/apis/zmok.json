@@ -1,0 +1,10 @@
+{
+  "name": "ZMOK",
+  "slug": "zmok",
+  "category": "cryptocurrency",
+  "description": "Ethereum JSON RPC API and Web3 provider",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://zmok.io"
+}

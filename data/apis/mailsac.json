@@ -1,0 +1,10 @@
+{
+  "name": "Mailsac",
+  "slug": "mailsac",
+  "category": "test-data",
+  "description": "Disposable Email",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://mailsac.com/docs/api"
+}

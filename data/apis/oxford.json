@@ -1,0 +1,10 @@
+{
+  "name": "Oxford",
+  "slug": "oxford",
+  "category": "dictionaries",
+  "description": "Dictionary Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://developer.oxforddictionaries.com/"
+}

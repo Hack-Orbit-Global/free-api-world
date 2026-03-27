@@ -1,0 +1,10 @@
+{
+  "name": "URLhaus",
+  "slug": "urlhaus",
+  "category": "anti-malware",
+  "description": "Bulk queries and Download Malware Samples",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://urlhaus-api.abuse.ch/"
+}

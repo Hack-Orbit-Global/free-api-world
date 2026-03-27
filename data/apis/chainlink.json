@@ -1,0 +1,10 @@
+{
+  "name": "Chainlink",
+  "slug": "chainlink",
+  "category": "blockchain",
+  "description": "Build hybrid smart contracts with Chainlink",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://chain.link/developer-resources"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "1inch",
+  "slug": "1inch",
+  "category": "cryptocurrency",
+  "description": "API for querying decentralize exchange",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://1inch.io/api/"
+}

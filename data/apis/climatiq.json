@@ -1,0 +1,10 @@
+{
+  "name": "Climatiq",
+  "slug": "climatiq",
+  "category": "environment",
+  "description": "Calculate the environmental footprint created by a broad range of emission-generating activities",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.climatiq.io"
+}

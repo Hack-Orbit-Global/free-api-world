@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Washington, US",
+  "slug": "transport-for-washington-us",
+  "category": "transportation",
+  "description": "Washington Metro transport API",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.wmata.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Newton",
+  "slug": "newton",
+  "category": "science-&-math",
+  "description": "Symbolic and Arithmetic Math Calculator",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://newton.vercel.app"
+}

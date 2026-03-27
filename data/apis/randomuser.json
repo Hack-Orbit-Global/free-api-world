@@ -1,24 +1,10 @@
 {
+  "name": "RandomUser",
   "slug": "randomuser",
-  "name": "Random User Generator",
-  "category": "Development",
-  "description": "Generate random user data including names, emails, photos, addresses, and more for use in mockups, prototypes, and testing. Free with no API key required.",
-  "longDescription": "Random User Generator is the developer's best friend for creating realistic test data. It generates complete user profiles including first/last names, email addresses, phone numbers, profile pictures (using real photos), street addresses, usernames, passwords, dates of birth, and more. You can filter by nationality, gender, and request specific fields.",
+  "category": "test-data",
+  "description": "Generates and list user data",
   "auth": "No",
   "https": true,
-  "cors": true,
-  "baseUrl": "https://randomuser.me/api",
-  "docsUrl": "https://randomuser.me/documentation",
-  "version": "1.4",
-  "pricing": "Free, fair use",
-  "tags": ["fake users", "testing", "mock data", "prototype", "user data"],
-  "exampleRequest": {
-    "method": "GET",
-    "endpoint": "https://randomuser.me/api/?results=1&nat=us",
-    "response": "{\n  \"results\": [{\n    \"name\": { \"first\": \"James\", \"last\": \"Wilson\" },\n    \"email\": \"james.wilson@example.com\",\n    \"location\": { \"city\": \"Portland\", \"country\": \"United States\" },\n    \"dob\": { \"date\": \"1985-03-12\", \"age\": 39 }\n  }]\n}"
-  },
-  "relatedSlugs": ["jsonplaceholder", "httpbin", "github"],
-  "alsoSearched": ["random user api", "fake profile api", "mock user data", "test data generator", "dummy user api"],
-  "affiliateText": "Use this API to seed your app's database. Host your backend for free on Railway.",
-  "featured": false
+  "cors": "Unknown",
+  "link": "https://randomuser.me"
 }

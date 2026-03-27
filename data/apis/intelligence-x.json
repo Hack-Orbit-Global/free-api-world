@@ -1,0 +1,10 @@
+{
+  "name": "Intelligence X",
+  "slug": "intelligence-x",
+  "category": "security",
+  "description": "Perform OSINT via Intelligence X",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf"
+}

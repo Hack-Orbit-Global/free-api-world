@@ -1,0 +1,10 @@
+{
+  "name": "Cloudflare Trace",
+  "slug": "cloudflare-trace",
+  "category": "development",
+  "description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/fawazahmed0/cloudflare-trace-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "AniDB",
+  "slug": "anidb",
+  "category": "anime",
+  "description": "Anime Database",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://wiki.anidb.net/HTTP_API_Definition"
+}

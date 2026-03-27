@@ -1,0 +1,10 @@
+{
+  "name": "CheetahO",
+  "slug": "cheetaho",
+  "category": "photography",
+  "description": "Photo optimization and resize",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://cheetaho.com/docs/getting-started/"
+}

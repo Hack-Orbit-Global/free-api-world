@@ -1,0 +1,10 @@
+{
+  "name": "ExtendsClass JSON Storage",
+  "slug": "extendsclass-json-storage",
+  "category": "development",
+  "description": "A simple JSON store API",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://extendsclass.com/json-storage.html"
+}

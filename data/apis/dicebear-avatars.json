@@ -1,0 +1,10 @@
+{
+  "name": "Dicebear Avatars",
+  "slug": "dicebear-avatars",
+  "category": "test-data",
+  "description": "Generate random pixel-art avatars",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://avatars.dicebear.com/"
+}

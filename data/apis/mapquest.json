@@ -1,0 +1,10 @@
+{
+  "name": "MapQuest",
+  "slug": "mapquest",
+  "category": "geocoding",
+  "description": "To access tools and resources to map the world",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://developer.mapquest.com/"
+}

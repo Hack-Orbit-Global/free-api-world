@@ -1,0 +1,10 @@
+{
+  "name": "New York Times",
+  "slug": "new-york-times",
+  "category": "news",
+  "description": "The New York Times Developer Network",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.nytimes.com/"
+}

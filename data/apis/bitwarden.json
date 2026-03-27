@@ -1,0 +1,10 @@
+{
+  "name": "BitWarden",
+  "slug": "bitwarden",
+  "category": "security",
+  "description": "Best open-source password manager",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bitwarden.com/help/api/"
+}

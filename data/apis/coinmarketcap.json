@@ -1,0 +1,10 @@
+{
+  "name": "CoinMarketCap",
+  "slug": "coinmarketcap",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies Prices",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://coinmarketcap.com/api/"
+}

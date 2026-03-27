@@ -1,0 +1,10 @@
+{
+  "name": "Pixela",
+  "slug": "pixela",
+  "category": "tracking",
+  "description": "API for recording and tracking habits or effort, routines",
+  "auth": "`X-Mashape-Key`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://pixe.la"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Coronavirus",
+  "slug": "coronavirus",
+  "category": "health",
+  "description": "HTTP API for Latest Covid-19 Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme"
+}

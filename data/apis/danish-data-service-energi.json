@@ -1,0 +1,10 @@
+{
+  "name": "Danish data service Energi",
+  "slug": "danish-data-service-energi",
+  "category": "environment",
+  "description": "Open energy data from Energinet to society",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.energidataservice.dk/"
+}

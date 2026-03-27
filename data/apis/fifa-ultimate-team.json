@@ -1,0 +1,10 @@
+{
+  "name": "FIFA Ultimate Team",
+  "slug": "fifa-ultimate-team",
+  "category": "games-&-comics",
+  "description": "FIFA Ultimate Team items API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.easports.com/fifa/ultimate-team/api/fut/item"
+}

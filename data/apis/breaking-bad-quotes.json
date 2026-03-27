@@ -1,0 +1,10 @@
+{
+  "name": "Breaking Bad Quotes",
+  "slug": "breaking-bad-quotes",
+  "category": "video",
+  "description": "Some Breaking Bad quotes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/shevabam/breaking-bad-quotes"
+}

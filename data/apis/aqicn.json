@@ -1,0 +1,10 @@
+{
+  "name": "AQICN",
+  "slug": "aqicn",
+  "category": "weather",
+  "description": "Air Quality Index Data for over 1000 cities",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://aqicn.org/api/"
+}

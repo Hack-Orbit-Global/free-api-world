@@ -1,0 +1,10 @@
+{
+  "name": "ipgeolocation",
+  "slug": "ipgeolocation",
+  "category": "geocoding",
+  "description": "IP Geolocation AP with free plan 30k requests per month",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://ipgeolocation.io/"
+}

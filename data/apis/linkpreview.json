@@ -1,0 +1,10 @@
+{
+  "name": "LinkPreview",
+  "slug": "linkpreview",
+  "category": "open-data",
+  "description": "Get JSON formatted summary with title, description and preview image for any requested URL",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.linkpreview.net"
+}

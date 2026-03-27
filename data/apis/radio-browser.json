@@ -1,0 +1,10 @@
+{
+  "name": "Radio Browser",
+  "slug": "radio-browser",
+  "category": "music",
+  "description": "List of internet radio stations",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.radio-browser.info/"
+}

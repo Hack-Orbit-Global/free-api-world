@@ -1,0 +1,10 @@
+{
+  "name": "Associated Press",
+  "slug": "associated-press",
+  "category": "news",
+  "description": "Search for news and metadata from Associated Press",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.ap.org/"
+}

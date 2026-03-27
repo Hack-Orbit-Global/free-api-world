@@ -1,0 +1,10 @@
+{
+  "name": "Geodata.gov.gr",
+  "slug": "geodatagovgr",
+  "category": "geocoding",
+  "description": "Open geospatial data and API service for Greece",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://geodata.gov.gr/en/"
+}

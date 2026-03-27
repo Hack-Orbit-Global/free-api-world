@@ -1,0 +1,10 @@
+{
+  "name": "Shrtlnk",
+  "slug": "shrtlnk",
+  "category": "url-shorteners",
+  "description": "Simple and efficient short link creation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://shrtlnk.dev/developer"
+}

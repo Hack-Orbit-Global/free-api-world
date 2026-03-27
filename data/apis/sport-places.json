@@ -1,0 +1,10 @@
+{
+  "name": "Sport Places",
+  "slug": "sport-places",
+  "category": "sports-&-fitness",
+  "description": "Crowd-source sports places around the world",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://developers.decathlon.com/products/sport-places"
+}

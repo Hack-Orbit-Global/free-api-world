@@ -1,0 +1,10 @@
+{
+  "name": "Yo Momma Jokes",
+  "slug": "yo-momma-jokes",
+  "category": "entertainment",
+  "description": "REST API for Yo Momma Jokes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/beanboi7/yomomma-apiv2"
+}

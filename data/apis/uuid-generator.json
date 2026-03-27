@@ -1,0 +1,10 @@
+{
+  "name": "UUID Generator",
+  "slug": "uuid-generator",
+  "category": "test-data",
+  "description": "Generate UUIDs",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://www.uuidtools.com/docs"
+}

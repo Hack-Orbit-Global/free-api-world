@@ -1,0 +1,10 @@
+{
+  "name": "Kakao",
+  "slug": "kakao",
+  "category": "social",
+  "description": "Kakao Login, Share on KakaoTalk, Social Plugins and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.kakao.com/"
+}

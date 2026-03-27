@@ -1,0 +1,10 @@
+{
+  "name": "Tredict",
+  "slug": "tredict",
+  "category": "sports-&-fitness",
+  "description": "Get and set activities, health data and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.tredict.com/blog/oauth_docs/"
+}

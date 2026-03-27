@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, India",
+  "slug": "open-government-india",
+  "category": "government",
+  "description": "Indian Government Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.in/"
+}

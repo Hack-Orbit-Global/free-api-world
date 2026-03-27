@@ -1,0 +1,10 @@
+{
+  "name": "Host.io",
+  "slug": "hostio",
+  "category": "development",
+  "description": "Domains Data API for Developers",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://host.io"
+}

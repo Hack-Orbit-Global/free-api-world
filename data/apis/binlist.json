@@ -1,0 +1,10 @@
+{
+  "name": "Binlist",
+  "slug": "binlist",
+  "category": "finance",
+  "description": "Public access to a database of IIN/BIN information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://binlist.net/"
+}

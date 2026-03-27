@@ -1,0 +1,10 @@
+{
+  "name": "Apiip",
+  "slug": "apiip",
+  "category": "geocoding",
+  "description": "Get location information by IP address",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://apiip.net/"
+}

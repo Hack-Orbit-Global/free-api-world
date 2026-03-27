@@ -1,0 +1,10 @@
+{
+  "name": "Stromberg Quotes",
+  "slug": "stromberg-quotes",
+  "category": "video",
+  "description": "Returns Stromberg quotes and more",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.stromberg-api.de/"
+}

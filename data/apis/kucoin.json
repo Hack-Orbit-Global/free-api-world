@@ -1,0 +1,10 @@
+{
+  "name": "KuCoin",
+  "slug": "kucoin",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency Trading Platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.kucoin.com/"
+}

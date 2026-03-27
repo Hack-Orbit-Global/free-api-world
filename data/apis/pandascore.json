@@ -1,0 +1,10 @@
+{
+  "name": "PandaScore",
+  "slug": "pandascore",
+  "category": "games-&-comics",
+  "description": "E-sports games and results",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.pandascore.co/"
+}

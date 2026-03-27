@@ -1,0 +1,10 @@
+{
+  "name": "Vagalume",
+  "slug": "vagalume",
+  "category": "music",
+  "description": "Crowdsourced lyrics and music knowledge",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.vagalume.com.br/docs/"
+}

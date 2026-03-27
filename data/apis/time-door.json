@@ -1,0 +1,10 @@
+{
+  "name": "Time Door",
+  "slug": "time-door",
+  "category": "machine-learning",
+  "description": "A time series analysis API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://timedoor.io"
+}

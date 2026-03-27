@@ -1,0 +1,10 @@
+{
+  "name": "Bitfinex",
+  "slug": "bitfinex",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency Trading Platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.bitfinex.com/docs"
+}

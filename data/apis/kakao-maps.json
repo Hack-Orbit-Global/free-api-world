@@ -1,0 +1,10 @@
+{
+  "name": "Kakao Maps",
+  "slug": "kakao-maps",
+  "category": "geocoding",
+  "description": "Kakao Maps provide multiple APIs for Korean maps",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apis.map.kakao.com"
+}

@@ -1,24 +1,10 @@
 {
-  "slug": "openweathermap",
   "name": "OpenWeatherMap",
-  "category": "Weather",
-  "description": "OpenWeatherMap provides current weather data, 5-day forecasts, historical data, and weather maps for any location on Earth. With over 2 million active users and data from 40,000+ weather stations, it's the most popular weather API for developers.",
-  "longDescription": "OpenWeatherMap is the go-to weather API for developers building location-aware applications. It provides real-time weather data, hourly and daily forecasts, historical weather data going back to 1979, weather maps, and satellite imagery. The API supports over 200,000 cities globally and can also query by coordinates, zip code, or city name.",
-  "auth": "apiKey",
+  "slug": "openweathermap",
+  "category": "weather",
+  "description": "Weather",
+  "auth": "`apiKey`",
   "https": true,
-  "cors": true,
-  "baseUrl": "https://api.openweathermap.org/data/2.5",
-  "docsUrl": "https://openweathermap.org/api",
-  "version": "2.5",
-  "pricing": "Free tier: 1,000 calls/day, 60 calls/min",
-  "tags": ["weather", "forecast", "temperature", "climate", "meteorology"],
-  "exampleRequest": {
-    "method": "GET",
-    "endpoint": "https://api.openweathermap.org/data/2.5/weather?q=London&appid={YOUR_API_KEY}&units=metric",
-    "response": "{\n  \"weather\": [{ \"main\": \"Clouds\", \"description\": \"overcast clouds\" }],\n  \"main\": {\n    \"temp\": 12.4,\n    \"feels_like\": 10.1,\n    \"humidity\": 76\n  },\n  \"wind\": { \"speed\": 5.2 },\n  \"name\": \"London\"\n}"
-  },
-  "relatedSlugs": ["weatherapi", "open-meteo", "open-notify"],
-  "alsoSearched": ["weather forecast api", "temperature api", "free weather api", "rain api", "climate data api"],
-  "affiliateText": "Building a weather app or dashboard? Deploy instantly on Vercel or Railway with zero config.",
-  "featured": true
+  "cors": "Unknown",
+  "link": "https://openweathermap.org/api"
 }

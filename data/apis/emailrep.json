@@ -1,0 +1,10 @@
+{
+  "name": "EmailRep",
+  "slug": "emailrep",
+  "category": "security",
+  "description": "Email address threat and risk prediction",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.emailrep.io/"
+}

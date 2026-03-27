@@ -1,0 +1,10 @@
+{
+  "name": "Final Space",
+  "slug": "final-space",
+  "category": "video",
+  "description": "Final Space API",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://finalspaceapi.com/docs/"
+}

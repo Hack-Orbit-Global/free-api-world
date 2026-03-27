@@ -1,0 +1,10 @@
+{
+  "name": "Covid-19 Philippines",
+  "slug": "covid-19-philippines",
+  "category": "health",
+  "description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH"
+}

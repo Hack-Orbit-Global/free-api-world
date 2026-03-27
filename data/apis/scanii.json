@@ -1,0 +1,10 @@
+{
+  "name": "Scanii",
+  "slug": "scanii",
+  "category": "anti-malware",
+  "description": "Simple REST API that can scan submitted documents/files for the presence of threats",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.scanii.com/"
+}

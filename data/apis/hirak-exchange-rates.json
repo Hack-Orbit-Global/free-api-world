@@ -1,0 +1,10 @@
+{
+  "name": "Hirak Exchange Rates",
+  "slug": "hirak-exchange-rates",
+  "category": "cryptocurrency",
+  "description": "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rates.hirak.site/"
+}

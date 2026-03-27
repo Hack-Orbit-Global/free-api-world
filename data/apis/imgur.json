@@ -1,0 +1,10 @@
+{
+  "name": "Imgur",
+  "slug": "imgur",
+  "category": "photography",
+  "description": "Images",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apidocs.imgur.com/"
+}

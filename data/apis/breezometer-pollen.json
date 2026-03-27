@@ -1,0 +1,10 @@
+{
+  "name": "BreezoMeter Pollen",
+  "slug": "breezometer-pollen",
+  "category": "environment",
+  "description": "Daily Forecast pollen conditions data for a specific location",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.breezometer.com/api-documentation/pollen-api/v2/"
+}

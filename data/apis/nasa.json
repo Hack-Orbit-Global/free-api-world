@@ -1,24 +1,10 @@
 {
+  "name": "NASA",
   "slug": "nasa",
-  "name": "NASA APIs",
-  "category": "Science",
-  "description": "NASA's public APIs provide access to astronomical data, Mars rover photos, APOD (Astronomy Picture of the Day), Earth satellite imagery, near-Earth asteroids, and more. All powered by official NASA data.",
-  "longDescription": "NASA offers a suite of APIs that give developers direct access to the vast catalog of NASA data and imagery. From daily astronomy pictures to Mars mission telemetry, the NASA API suite is one of the most feature-rich free API collections available. Popular endpoints include APOD (the most requested NASA endpoint), Mars Rover Photos, Earth imagery via Landsat, and the NeoWs asteroid data API.",
-  "auth": "apiKey",
+  "category": "science-&-math",
+  "description": "NASA data, including imagery",
+  "auth": "No",
   "https": true,
-  "cors": true,
-  "baseUrl": "https://api.nasa.gov",
-  "docsUrl": "https://api.nasa.gov",
-  "version": "1",
-  "pricing": "Free: 1,000 requests/hour with demo key; Unlimited with registered API key",
-  "tags": ["space", "astronomy", "mars", "apod", "nasa", "science", "satellite"],
-  "exampleRequest": {
-    "method": "GET",
-    "endpoint": "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY",
-    "response": "{\n  \"date\": \"2024-01-15\",\n  \"title\": \"NGC 1232: A Grand Design Spiral Galaxy\",\n  \"explanation\": \"One of the largest galaxies nearby...\",\n  \"url\": \"https://apod.nasa.gov/apod/image/2401/ngc1232.jpg\",\n  \"media_type\": \"image\"\n}"
-  },
-  "relatedSlugs": ["spacex", "open-notify", "open-meteo"],
-  "alsoSearched": ["space api", "astronomy api", "apod api", "mars photo api", "asteroid api"],
-  "affiliateText": "Need a backend to cache or proxy NASA API responses? Try Railway — free tier available.",
-  "featured": true
+  "cors": "No",
+  "link": "https://api.nasa.gov"
 }

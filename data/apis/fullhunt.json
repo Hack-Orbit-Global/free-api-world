@@ -1,0 +1,10 @@
+{
+  "name": "FullHunt",
+  "slug": "fullhunt",
+  "category": "security",
+  "description": "Searchable attack surface database of the entire internet",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api-docs.fullhunt.io/#introduction"
+}

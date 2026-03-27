@@ -1,0 +1,10 @@
+{
+  "name": "Comic Vine",
+  "slug": "comic-vine",
+  "category": "games-&-comics",
+  "description": "Comics",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://comicvine.gamespot.com/api/documentation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GraphHopper",
+  "slug": "graphhopper",
+  "category": "transportation",
+  "description": "A-to-B routing with turn-by-turn instructions",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.graphhopper.com/"
+}

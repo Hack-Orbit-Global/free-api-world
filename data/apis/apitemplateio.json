@@ -1,0 +1,10 @@
+{
+  "name": "APITemplate.io",
+  "slug": "apitemplateio",
+  "category": "photography",
+  "description": "Dynamically generate images and PDFs from templates with a simple API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://apitemplate.io"
+}

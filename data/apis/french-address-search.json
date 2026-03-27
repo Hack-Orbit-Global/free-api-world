@@ -1,0 +1,10 @@
+{
+  "name": "French Address Search",
+  "slug": "french-address-search",
+  "category": "open-data",
+  "description": "Address search via the French Government",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://geo.api.gouv.fr/adresse"
+}

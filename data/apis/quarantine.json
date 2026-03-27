@@ -1,0 +1,10 @@
+{
+  "name": "Quarantine",
+  "slug": "quarantine",
+  "category": "health",
+  "description": "Coronavirus API with free COVID-19 live updates",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quarantine.country/coronavirus/api/"
+}

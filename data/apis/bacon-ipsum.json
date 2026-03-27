@@ -1,0 +1,10 @@
+{
+  "name": "Bacon Ipsum",
+  "slug": "bacon-ipsum",
+  "category": "test-data",
+  "description": "A Meatier Lorem Ipsum Generator",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://baconipsum.com/json-api/"
+}

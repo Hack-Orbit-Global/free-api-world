@@ -1,0 +1,10 @@
+{
+  "name": "Spotify",
+  "slug": "spotify",
+  "category": "music",
+  "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://beta.developer.spotify.com/documentation/web-api/"
+}

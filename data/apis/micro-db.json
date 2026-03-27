@@ -1,0 +1,10 @@
+{
+  "name": "Micro DB",
+  "slug": "micro-db",
+  "category": "development",
+  "description": "Simple database service",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://m3o.com/db"
+}

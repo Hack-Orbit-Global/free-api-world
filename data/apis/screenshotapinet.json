@@ -1,0 +1,10 @@
+{
+  "name": "ScreenshotAPI.net",
+  "slug": "screenshotapinet",
+  "category": "development",
+  "description": "Create pixel-perfect website screenshots",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://screenshotapi.net/"
+}

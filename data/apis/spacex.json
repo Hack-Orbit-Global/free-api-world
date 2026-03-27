@@ -1,41 +1,10 @@
 {
+  "name": "SpaceX",
   "slug": "spacex",
-  "name": "SpaceX API",
-  "category": "Science",
-  "description": "Open-source REST API for SpaceX launches, rockets, capsules, starlink, launchpads, and company data.",
-  "longDescription": "The SpaceX REST API (r-SpaceX) is a community-created, open-source project providing free access to all publicly available SpaceX data. It covers launches (upcoming and historical), rockets (Falcon 9, Falcon Heavy, Starship), Dragon capsules, Starlink satellites, launch and landing pad data, crew members, payloads, cores, and company information. Updated in near real-time after each launch.",
+  "category": "science-&-math",
+  "description": "GraphQL, Company, Ships, launchpad and launch data",
   "auth": "No",
   "https": true,
-  "cors": true,
-  "baseUrl": "https://api.spacexdata.com/v4",
-  "docsUrl": "https://github.com/r-spacex/SpaceX-API/tree/master/docs",
-  "version": "4",
-  "pricing": "Free, open source",
-  "tags": [
-    "space",
-    "rockets",
-    "launches",
-    "elon musk",
-    "starlink",
-    "falcon"
-  ],
-  "exampleRequest": {
-    "method": "GET",
-    "endpoint": "https://api.spacexdata.com/v4/launches/latest",
-    "response": "{\n  \"flight_number\": 200,\n  \"name\": \"Starlink Group 6-52\",\n  \"rocket\": \"5e9d0d95eda69973a809d1ec\",\n  \"success\": true,\n  \"date_utc\": \"2024-01-15T06:00:00.000Z\",\n  \"launchpad\": \"5e9e4502f509094188566f88\",\n  \"details\": \"Successful Falcon 9 launch and booster recovery.\"\n}"
-  },
-  "relatedSlugs": [
-    "nasa",
-    "open-notify",
-    "open-meteo"
-  ],
-  "alsoSearched": [
-    "spacex api",
-    "rocket launch api",
-    "space api free",
-    "starlink api",
-    "falcon 9 api"
-  ],
-  "affiliateText": "Deploy a SpaceX tracker app on Railway \u2014 zero config, free tier available.",
-  "featured": false
+  "cors": "Unknown",
+  "link": "https://api.spacex.land/graphql/"
 }

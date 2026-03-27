@@ -1,0 +1,10 @@
+{
+  "name": "Dribbble",
+  "slug": "dribbble",
+  "category": "art-&-design",
+  "description": "Discover the world\u2019s top designers & creatives",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.dribbble.com"
+}

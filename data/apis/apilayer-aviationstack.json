@@ -1,0 +1,10 @@
+{
+  "name": "apilayer aviationstack",
+  "slug": "apilayer-aviationstack",
+  "category": "transportation",
+  "description": "Real-time Flight Status & Global Aviation Data API",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://aviationstack.com/"
+}

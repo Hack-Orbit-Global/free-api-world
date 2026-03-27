@@ -1,0 +1,10 @@
+{
+  "name": "MyVaccination",
+  "slug": "myvaccination",
+  "category": "health",
+  "description": "Vaccination data for Malaysia",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u"
+}

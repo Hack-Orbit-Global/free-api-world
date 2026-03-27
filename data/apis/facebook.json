@@ -1,0 +1,10 @@
+{
+  "name": "Facebook",
+  "slug": "facebook",
+  "category": "social",
+  "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.facebook.com/"
+}

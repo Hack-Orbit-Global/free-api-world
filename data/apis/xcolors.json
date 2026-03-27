@@ -1,0 +1,10 @@
+{
+  "name": "xColors",
+  "slug": "xcolors",
+  "category": "art-&-design",
+  "description": "Generate & convert colors",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://x-colors.herokuapp.com/"
+}

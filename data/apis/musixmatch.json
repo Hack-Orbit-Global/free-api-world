@@ -1,0 +1,10 @@
+{
+  "name": "Musixmatch",
+  "slug": "musixmatch",
+  "category": "music",
+  "description": "Music",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.musixmatch.com/"
+}

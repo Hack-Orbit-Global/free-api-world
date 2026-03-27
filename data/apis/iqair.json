@@ -1,0 +1,10 @@
+{
+  "name": "IQAir",
+  "slug": "iqair",
+  "category": "environment",
+  "description": "Air quality and weather data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.iqair.com/air-pollution-data-api"
+}

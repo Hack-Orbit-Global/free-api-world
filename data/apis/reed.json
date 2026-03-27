@@ -1,0 +1,10 @@
+{
+  "name": "Reed",
+  "slug": "reed",
+  "category": "jobs",
+  "description": "Job board aggregator",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.reed.co.uk/developers"
+}

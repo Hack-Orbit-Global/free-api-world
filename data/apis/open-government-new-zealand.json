@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, New Zealand",
+  "slug": "open-government-new-zealand",
+  "category": "government",
+  "description": "New Zealand Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.data.govt.nz/"
+}

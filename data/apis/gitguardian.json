@@ -1,0 +1,10 @@
+{
+  "name": "GitGuardian",
+  "slug": "gitguardian",
+  "category": "security",
+  "description": "Scan files for secrets (API Keys, database credentials)",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://api.gitguardian.com/doc"
+}

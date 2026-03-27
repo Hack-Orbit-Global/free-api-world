@@ -1,0 +1,10 @@
+{
+  "name": "GraphQL Jobs",
+  "slug": "graphql-jobs",
+  "category": "jobs",
+  "description": "Jobs with GraphQL",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://graphql.jobs/docs/api/"
+}

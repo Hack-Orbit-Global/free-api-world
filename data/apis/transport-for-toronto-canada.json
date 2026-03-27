@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Toronto, Canada",
+  "slug": "transport-for-toronto-canada",
+  "category": "transportation",
+  "description": "TTC",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://myttc.ca/developers"
+}

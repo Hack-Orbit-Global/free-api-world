@@ -1,0 +1,10 @@
+{
+  "name": "Cartes.io",
+  "slug": "cartesio",
+  "category": "geocoding",
+  "description": "Create maps and markers for anything",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/M-Media-Group/Cartes.io/wiki/API"
+}

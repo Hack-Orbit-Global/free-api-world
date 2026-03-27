@@ -1,0 +1,10 @@
+{
+  "name": "UK Police",
+  "slug": "uk-police",
+  "category": "security",
+  "description": "UK Police data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.police.uk/docs/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CryptoMarket",
+  "slug": "cryptomarket",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies Trading platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.exchange.cryptomkt.com/"
+}

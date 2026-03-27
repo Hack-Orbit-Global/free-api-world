@@ -1,0 +1,10 @@
+{
+  "name": "Geek-Jokes",
+  "slug": "geek-jokes",
+  "category": "games-&-comics",
+  "description": "Fetch a random geeky/programming related joke for use in all sorts of applications",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/sameerkumar18/geek-joke-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ITIS",
+  "slug": "itis",
+  "category": "science-&-math",
+  "description": "Integrated Taxonomic Information System",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.itis.gov/ws_description.html"
+}

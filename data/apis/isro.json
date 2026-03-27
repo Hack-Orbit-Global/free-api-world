@@ -1,0 +1,10 @@
+{
+  "name": "ISRO",
+  "slug": "isro",
+  "category": "science-&-math",
+  "description": "ISRO Space Crafts Information",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://isro.vercel.app"
+}

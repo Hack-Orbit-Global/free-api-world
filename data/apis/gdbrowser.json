@@ -1,0 +1,10 @@
+{
+  "name": "GDBrowser",
+  "slug": "gdbrowser",
+  "category": "games-&-comics",
+  "description": "Easy way to use the Geometry Dash Servers",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://gdbrowser.com/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CDNJS",
+  "slug": "cdnjs",
+  "category": "development",
+  "description": "Library info on CDNJS",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.cdnjs.com/libraries/jquery"
+}

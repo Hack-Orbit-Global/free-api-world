@@ -1,0 +1,10 @@
+{
+  "name": "Ron Swanson Quotes",
+  "slug": "ron-swanson-quotes",
+  "category": "video",
+  "description": "Television",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mocky",
+  "slug": "mocky",
+  "category": "development",
+  "description": "Mock user defined test JSON for REST API endpoints",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://designer.mocky.io/"
+}

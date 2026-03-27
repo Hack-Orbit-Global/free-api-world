@@ -1,0 +1,10 @@
+{
+  "name": "OpenVisionAPI",
+  "slug": "openvisionapi",
+  "category": "machine-learning",
+  "description": "Open source computer vision API based on open source models",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://openvisionapi.com"
+}

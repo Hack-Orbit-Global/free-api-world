@@ -1,0 +1,10 @@
+{
+  "name": "IPS Online",
+  "slug": "ips-online",
+  "category": "machine-learning",
+  "description": "Face and License Plate Anonymization",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.identity.ps/docs"
+}

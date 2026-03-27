@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Switzerland",
+  "slug": "transport-for-switzerland",
+  "category": "transportation",
+  "description": "Swiss public transport API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://transport.opendata.ch/"
+}

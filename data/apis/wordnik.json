@@ -1,0 +1,10 @@
+{
+  "name": "Wordnik",
+  "slug": "wordnik",
+  "category": "dictionaries",
+  "description": "Dictionary Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.wordnik.com"
+}

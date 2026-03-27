@@ -1,0 +1,10 @@
+{
+  "name": "Monday",
+  "slug": "monday",
+  "category": "documents-&-productivity",
+  "description": "Programmatically access and update data inside a monday.com account",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.developer.monday.com/docs"
+}

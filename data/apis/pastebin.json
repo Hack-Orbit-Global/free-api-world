@@ -1,0 +1,10 @@
+{
+  "name": "Pastebin",
+  "slug": "pastebin",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Plain Text Storage",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://pastebin.com/doc_api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Studio Ghibli",
+  "slug": "studio-ghibli",
+  "category": "anime",
+  "description": "Resources from Studio Ghibli films",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://ghibliapi.herokuapp.com"
+}

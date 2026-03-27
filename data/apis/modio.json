@@ -1,0 +1,10 @@
+{
+  "name": "mod.io",
+  "slug": "modio",
+  "category": "games-&-comics",
+  "description": "Cross Platform Mod API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.mod.io"
+}

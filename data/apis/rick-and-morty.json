@@ -1,0 +1,10 @@
+{
+  "name": "Rick and Morty",
+  "slug": "rick-and-morty",
+  "category": "games-&-comics",
+  "description": "All the Rick and Morty information, including images",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://rickandmortyapi.com"
+}

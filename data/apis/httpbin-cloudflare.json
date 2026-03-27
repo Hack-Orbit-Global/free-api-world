@@ -1,0 +1,10 @@
+{
+  "name": "Httpbin Cloudflare",
+  "slug": "httpbin-cloudflare",
+  "category": "development",
+  "description": "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://cloudflare-quic.com/b/"
+}

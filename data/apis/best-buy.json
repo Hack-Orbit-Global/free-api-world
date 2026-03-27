@@ -1,0 +1,10 @@
+{
+  "name": "Best Buy",
+  "slug": "best-buy",
+  "category": "shopping",
+  "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bestbuyapis.github.io/api-documentation/#overview"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Jamendo",
+  "slug": "jamendo",
+  "category": "music",
+  "description": "Music",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.jamendo.com/v3.0/docs"
+}

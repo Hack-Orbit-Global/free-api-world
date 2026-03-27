@@ -1,0 +1,10 @@
+{
+  "name": "Puyo Nexus",
+  "slug": "puyo-nexus",
+  "category": "games-&-comics",
+  "description": "Puyo Puyo information from Puyo Nexus Wiki",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/deltadex7/puyodb-api-deno"
+}

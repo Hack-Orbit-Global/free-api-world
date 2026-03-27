@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Singapore",
+  "slug": "open-government-singapore",
+  "category": "government",
+  "description": "Singapore Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.sg/developer"
+}

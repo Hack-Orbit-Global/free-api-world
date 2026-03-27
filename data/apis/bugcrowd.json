@@ -1,0 +1,10 @@
+{
+  "name": "Bugcrowd",
+  "slug": "bugcrowd",
+  "category": "security",
+  "description": "Bugcrowd API for interacting and tracking the reported issues programmatically",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.bugcrowd.com/api/getting-started/"
+}

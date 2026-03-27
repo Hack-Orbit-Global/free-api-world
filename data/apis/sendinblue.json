@@ -1,0 +1,10 @@
+{
+  "name": "Sendinblue",
+  "slug": "sendinblue",
+  "category": "email",
+  "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.sendinblue.com/docs"
+}

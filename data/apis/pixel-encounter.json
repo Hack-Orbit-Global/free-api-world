@@ -1,0 +1,10 @@
+{
+  "name": "Pixel Encounter",
+  "slug": "pixel-encounter",
+  "category": "art-&-design",
+  "description": "SVG Icon Generator",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://pixelencounter.com/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Premier League Standings ",
+  "slug": "premier-league-standings-",
+  "category": "sports-&-fitness",
+  "description": "All Current Premier League Standings and Statistics",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/"
+}

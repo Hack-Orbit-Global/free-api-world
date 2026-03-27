@@ -1,0 +1,10 @@
+{
+  "name": "Cloudmersive Natural Language Processing",
+  "slug": "cloudmersive-natural-language-processing",
+  "category": "text-analysis",
+  "description": "Natural language processing and text analysis",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.cloudmersive.com/nlp-api"
+}

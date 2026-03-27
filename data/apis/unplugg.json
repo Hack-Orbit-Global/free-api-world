@@ -1,0 +1,10 @@
+{
+  "name": "Unplugg",
+  "slug": "unplugg",
+  "category": "machine-learning",
+  "description": "Forecasting API for timeseries data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://unplu.gg/test_api.html"
+}

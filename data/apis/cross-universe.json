@@ -1,0 +1,10 @@
+{
+  "name": "Cross Universe",
+  "slug": "cross-universe",
+  "category": "games-&-comics",
+  "description": "Cross Universe Card Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://crossuniverse.psychpsyo.com/apiDocs.html"
+}

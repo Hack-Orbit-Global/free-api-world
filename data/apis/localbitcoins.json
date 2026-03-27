@@ -1,0 +1,10 @@
+{
+  "name": "Localbitcoins",
+  "slug": "localbitcoins",
+  "category": "cryptocurrency",
+  "description": "P2P platform to buy and sell Bitcoins",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://localbitcoins.com/api-docs/"
+}

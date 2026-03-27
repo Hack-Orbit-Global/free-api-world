@@ -1,42 +1,10 @@
 {
+  "name": "GitHub",
   "slug": "github",
-  "name": "GitHub REST API",
-  "category": "Development",
-  "description": "Access GitHub repositories, users, issues, pull requests, actions, and the entire GitHub platform.",
-  "longDescription": "The GitHub REST API provides programmatic access to virtually everything on GitHub \u2014 repositories, issues, pull requests, commits, branches, releases, GitHub Actions, Gists, notifications, organizations, and user data. The API is widely used for building developer tools, bots, CI/CD integrations, portfolio sites, and GitHub Apps. Unauthenticated requests are rate limited to 60/hour; with OAuth token up to 5,000/hour.",
-  "auth": "OAuth",
+  "category": "development",
+  "description": "Make use of GitHub repositories, code and user info programmatically",
+  "auth": "`OAuth`",
   "https": true,
-  "cors": true,
-  "baseUrl": "https://api.github.com",
-  "docsUrl": "https://docs.github.com/en/rest",
-  "version": "2022-11-28",
-  "pricing": "Free: 60 req/hour unauthenticated; 5,000 req/hour with token",
-  "tags": [
-    "github",
-    "git",
-    "repositories",
-    "code",
-    "open source",
-    "developer",
-    "version control"
-  ],
-  "exampleRequest": {
-    "method": "GET",
-    "endpoint": "https://api.github.com/repos/vercel/next.js",
-    "response": "{\n  \"id\": 70107786,\n  \"name\": \"next.js\",\n  \"full_name\": \"vercel/next.js\",\n  \"stargazers_count\": 119000,\n  \"forks_count\": 25600,\n  \"language\": \"JavaScript\",\n  \"description\": \"The React Framework\",\n  \"open_issues_count\": 2847\n}"
-  },
-  "relatedSlugs": [
-    "jsonplaceholder",
-    "httpbin",
-    "randomuser"
-  ],
-  "alsoSearched": [
-    "github api",
-    "git api",
-    "repository api",
-    "code search api",
-    "github oauth api"
-  ],
-  "affiliateText": "Deploy your GitHub-powered app on Vercel with automatic GitHub integration.",
-  "featured": false
+  "cors": "Yes",
+  "link": "https://docs.github.com/en/free-pro-team@latest/rest"
 }

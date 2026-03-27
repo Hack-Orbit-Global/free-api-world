@@ -1,0 +1,10 @@
+{
+  "name": "Open Data Minneapolis",
+  "slug": "open-data-minneapolis",
+  "category": "open-data",
+  "description": "Spatial (GIS) and non-spatial city data for Minneapolis",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://opendata.minneapolismn.gov/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ItsThisForThat",
+  "slug": "itsthisforthat",
+  "category": "test-data",
+  "description": "Generate Random startup ideas",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://itsthisforthat.com/api.php"
+}

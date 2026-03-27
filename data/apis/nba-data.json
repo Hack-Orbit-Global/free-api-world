@@ -1,0 +1,10 @@
+{
+  "name": "NBA Data",
+  "slug": "nba-data",
+  "category": "sports-&-fitness",
+  "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/api-sports/api/api-nba/"
+}

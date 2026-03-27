@@ -1,0 +1,10 @@
+{
+  "name": "Teleport",
+  "slug": "teleport",
+  "category": "open-data",
+  "description": "Quality of Life Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.teleport.org/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Postali",
+  "slug": "postali",
+  "category": "geocoding",
+  "description": "Mexico Zip Codes API",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://postali.app/api"
+}

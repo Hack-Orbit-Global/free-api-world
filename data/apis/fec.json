@@ -1,0 +1,10 @@
+{
+  "name": "FEC",
+  "slug": "fec",
+  "category": "government",
+  "description": "Information on campaign donations in federal elections",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.open.fec.gov/developers/"
+}

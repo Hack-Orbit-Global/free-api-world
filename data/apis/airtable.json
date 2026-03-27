@@ -1,0 +1,10 @@
+{
+  "name": "Airtable",
+  "slug": "airtable",
+  "category": "documents-&-productivity",
+  "description": "Integrate with Airtable",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://airtable.com/api"
+}

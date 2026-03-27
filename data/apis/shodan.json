@@ -1,0 +1,10 @@
+{
+  "name": "Shodan",
+  "slug": "shodan",
+  "category": "security",
+  "description": "Search engine for Internet connected devices",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.shodan.io/"
+}

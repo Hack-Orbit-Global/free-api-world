@@ -1,0 +1,10 @@
+{
+  "name": "IMDb-API",
+  "slug": "imdb-api",
+  "category": "video",
+  "description": "API for receiving movie, serial and cast information",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://imdb-api.com/"
+}

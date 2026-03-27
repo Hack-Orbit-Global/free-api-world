@@ -1,0 +1,10 @@
+{
+  "name": "IP2WHOIS Information Lookup",
+  "slug": "ip2whois-information-lookup",
+  "category": "development",
+  "description": "WHOIS domain name lookup",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.ip2whois.com/"
+}

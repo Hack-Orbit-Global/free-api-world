@@ -1,0 +1,10 @@
+{
+  "name": "apilayer pdflayer",
+  "slug": "apilayer-pdflayer",
+  "category": "documents-&-productivity",
+  "description": "HTML/URL to PDF",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://pdflayer.com"
+}

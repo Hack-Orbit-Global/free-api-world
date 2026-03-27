@@ -1,0 +1,10 @@
+{
+  "name": "Auth0",
+  "slug": "auth0",
+  "category": "authentication-&-authorization",
+  "description": "Easy to implement, adaptable authentication and authorization platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://auth0.com"
+}

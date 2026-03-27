@@ -1,0 +1,10 @@
+{
+  "name": "Bittrex",
+  "slug": "bittrex",
+  "category": "cryptocurrency",
+  "description": "Next Generation Crypto Trading Platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bittrex.github.io/api/v3"
+}

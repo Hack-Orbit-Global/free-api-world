@@ -1,0 +1,10 @@
+{
+  "name": "City, Gda\u0144sk",
+  "slug": "city-gdask",
+  "category": "government",
+  "description": "Gda\u0144sk (PL) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ckan.multimediagdansk.pl/en"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tripadvisor",
+  "slug": "tripadvisor",
+  "category": "transportation",
+  "description": "Rating content for a hotel, restaurant, attraction or destination",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer-tripadvisor.com/home/"
+}

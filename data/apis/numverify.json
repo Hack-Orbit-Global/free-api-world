@@ -1,0 +1,10 @@
+{
+  "name": "Numverify",
+  "slug": "numverify",
+  "category": "phone",
+  "description": "Phone number validation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://numverify.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+}

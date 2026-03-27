@@ -1,0 +1,10 @@
+{
+  "name": "Harry Potter Charactes",
+  "slug": "harry-potter-charactes",
+  "category": "video",
+  "description": "Harry Potter Characters Data with with imagery",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://hp-api.herokuapp.com/"
+}

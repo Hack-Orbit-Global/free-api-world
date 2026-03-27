@@ -1,0 +1,10 @@
+{
+  "name": "CheapShark",
+  "slug": "cheapshark",
+  "category": "games-&-comics",
+  "description": "Steam/PC Game Prices and Deals",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.cheapshark.com/api"
+}

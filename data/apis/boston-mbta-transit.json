@@ -1,0 +1,10 @@
+{
+  "name": "Boston MBTA Transit",
+  "slug": "boston-mbta-transit",
+  "category": "transportation",
+  "description": "Stations and predicted arrivals for MBTA",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.mbta.com/developers/v3-api"
+}

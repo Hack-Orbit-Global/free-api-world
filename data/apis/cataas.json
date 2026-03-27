@@ -1,0 +1,10 @@
+{
+  "name": "Cataas",
+  "slug": "cataas",
+  "category": "animals",
+  "description": "Cat as a service (cats pictures and gifs)",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://cataas.com/"
+}

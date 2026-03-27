@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Belgium",
+  "slug": "transport-for-belgium",
+  "category": "transportation",
+  "description": "The iRail API is a third-party API for Belgian public transport by train",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.irail.be/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Songkick",
+  "slug": "songkick",
+  "category": "music",
+  "description": "Music Events",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.songkick.com/developer/"
+}

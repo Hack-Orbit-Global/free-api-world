@@ -1,0 +1,10 @@
+{
+  "name": "CORS Proxy",
+  "slug": "cors-proxy",
+  "category": "development",
+  "description": "Get around the dreaded CORS error by using this proxy as a middle man",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/burhanuday/cors-proxy"
+}

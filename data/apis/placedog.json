@@ -1,0 +1,10 @@
+{
+  "name": "PlaceDog",
+  "slug": "placedog",
+  "category": "animals",
+  "description": "Placeholder Dog pictures",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://place.dog"
+}

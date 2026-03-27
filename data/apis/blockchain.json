@@ -1,0 +1,10 @@
+{
+  "name": "Blockchain",
+  "slug": "blockchain",
+  "category": "cryptocurrency",
+  "description": "Bitcoin Payment, Wallet & Transaction Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.blockchain.com/api"
+}

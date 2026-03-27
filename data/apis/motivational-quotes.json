@@ -1,0 +1,10 @@
+{
+  "name": "Motivational Quotes",
+  "slug": "motivational-quotes",
+  "category": "video",
+  "description": "Random Motivational Quotes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://nodejs-quoteapp.herokuapp.com/"
+}

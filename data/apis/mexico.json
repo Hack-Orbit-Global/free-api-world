@@ -1,0 +1,10 @@
+{
+  "name": "Mexico",
+  "slug": "mexico",
+  "category": "geocoding",
+  "description": "Mexico RESTful zip codes API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/IcaliaLabs/sepomex"
+}

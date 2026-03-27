@@ -1,0 +1,10 @@
+{
+  "name": "The Vampire Diaries",
+  "slug": "the-vampire-diaries",
+  "category": "video",
+  "description": "TV Show Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://vampire-diaries-api.netlify.app/"
+}

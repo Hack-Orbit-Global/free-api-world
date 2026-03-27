@@ -1,0 +1,10 @@
+{
+  "name": "MusicBrainz",
+  "slug": "musicbrainz",
+  "category": "music",
+  "description": "Music",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2"
+}

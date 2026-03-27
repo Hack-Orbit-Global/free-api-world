@@ -1,0 +1,10 @@
+{
+  "name": "PlayerDB",
+  "slug": "playerdb",
+  "category": "games-&-comics",
+  "description": "Query Minecraft, Steam and XBox Accounts",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://playerdb.co/"
+}

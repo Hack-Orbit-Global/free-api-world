@@ -1,0 +1,10 @@
+{
+  "name": "Crafatar",
+  "slug": "crafatar",
+  "category": "games-&-comics",
+  "description": "API for Minecraft skins and faces",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://crafatar.com"
+}

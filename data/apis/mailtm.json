@@ -1,0 +1,10 @@
+{
+  "name": "mail.tm",
+  "slug": "mailtm",
+  "category": "email",
+  "description": "Temporary Email Service",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.mail.tm"
+}

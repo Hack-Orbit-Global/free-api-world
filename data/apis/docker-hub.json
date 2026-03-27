@@ -1,0 +1,10 @@
+{
+  "name": "Docker Hub",
+  "slug": "docker-hub",
+  "category": "development",
+  "description": "Interact with Docker Hub",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.docker.com/docker-hub/api/latest/"
+}

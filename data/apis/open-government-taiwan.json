@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Taiwan",
+  "slug": "open-government-taiwan",
+  "category": "government",
+  "description": "Taiwan Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.tw/"
+}

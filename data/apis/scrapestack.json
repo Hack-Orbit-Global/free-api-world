@@ -1,0 +1,10 @@
+{
+  "name": "scrapestack",
+  "slug": "scrapestack",
+  "category": "development",
+  "description": "Real-time, Scalable Proxy & Web Scraping REST API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://scrapestack.com/"
+}

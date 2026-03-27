@@ -1,0 +1,10 @@
+{
+  "name": "Times Adder",
+  "slug": "times-adder",
+  "category": "science-&-math",
+  "description": "With this API you can add each of the times introduced in the array sended",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://github.com/FranP-code/API-Times-Adder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Short Link",
+  "slug": "short-link",
+  "category": "url-shorteners",
+  "description": "Short URLs support so many domains",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/FayasNoushad/Short-Link-API"
+}

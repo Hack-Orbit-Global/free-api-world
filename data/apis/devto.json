@@ -1,0 +1,10 @@
+{
+  "name": "Dev.to",
+  "slug": "devto",
+  "category": "personality",
+  "description": "Access Forem articles, users and other resources via API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.forem.com/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TLE",
+  "slug": "tle",
+  "category": "science-&-math",
+  "description": "Satellite information",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://tle.ivanstanojevic.me/#/docs"
+}

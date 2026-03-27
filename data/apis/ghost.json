@@ -1,0 +1,10 @@
+{
+  "name": "Ghost",
+  "slug": "ghost",
+  "category": "development",
+  "description": "Get Published content into your Website, App or other embedded media",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://ghost.org/"
+}

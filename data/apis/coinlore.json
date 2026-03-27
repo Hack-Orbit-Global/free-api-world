@@ -1,0 +1,10 @@
+{
+  "name": "Coinlore",
+  "slug": "coinlore",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies prices, volume and more",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.coinlore.com/cryptocurrency-data-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "World Bank",
+  "slug": "world-bank",
+  "category": "science-&-math",
+  "description": "World Data",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589"
+}

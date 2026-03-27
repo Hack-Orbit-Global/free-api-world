@@ -1,0 +1,10 @@
+{
+  "name": "SpotSense",
+  "slug": "spotsense",
+  "category": "geocoding",
+  "description": "Add location based interactions to your mobile app",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://spotsense.io/"
+}

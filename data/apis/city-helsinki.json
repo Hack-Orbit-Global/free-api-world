@@ -1,0 +1,10 @@
+{
+  "name": "City, Helsinki",
+  "slug": "city-helsinki",
+  "category": "government",
+  "description": "Helsinki(FI) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://hri.fi/en_gb/"
+}

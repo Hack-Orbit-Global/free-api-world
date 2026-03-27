@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, USA",
+  "slug": "open-government-usa",
+  "category": "government",
+  "description": "United States Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.data.gov/"
+}

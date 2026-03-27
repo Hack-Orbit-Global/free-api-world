@@ -1,0 +1,10 @@
+{
+  "name": "Ziptastic",
+  "slug": "ziptastic",
+  "category": "geocoding",
+  "description": "Get the country, state, and city of any US zip-code",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ziptasticapi.com/"
+}

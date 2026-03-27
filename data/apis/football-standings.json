@@ -1,0 +1,10 @@
+{
+  "name": "Football Standings",
+  "slug": "football-standings",
+  "category": "sports-&-fitness",
+  "description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/azharimm/football-standings-api"
+}

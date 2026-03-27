@@ -1,0 +1,10 @@
+{
+  "name": "Hashnode",
+  "slug": "hashnode",
+  "category": "social",
+  "description": "A blogging platform built for developers",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://hashnode.com"
+}

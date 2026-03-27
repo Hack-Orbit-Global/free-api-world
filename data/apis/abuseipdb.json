@@ -1,0 +1,10 @@
+{
+  "name": "AbuseIPDB",
+  "slug": "abuseipdb",
+  "category": "anti-malware",
+  "description": "IP/domain/URL reputation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.abuseipdb.com/"
+}

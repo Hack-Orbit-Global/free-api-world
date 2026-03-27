@@ -1,0 +1,10 @@
+{
+  "name": "Yandex.Weather",
+  "slug": "yandexweather",
+  "category": "weather",
+  "description": "Assesses weather condition in specific locations",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://yandex.com/dev/weather/"
+}

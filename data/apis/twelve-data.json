@@ -1,0 +1,10 @@
+{
+  "name": "Twelve Data",
+  "slug": "twelve-data",
+  "category": "finance",
+  "description": "Stock market data (real-time & historical)",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://twelvedata.com/"
+}

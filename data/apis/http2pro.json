@@ -1,0 +1,10 @@
+{
+  "name": "HTTP2.Pro",
+  "slug": "http2pro",
+  "category": "development",
+  "description": "Test endpoints for client and server HTTP/2 protocol support",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://http2.pro/doc/api"
+}

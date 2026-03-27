@@ -1,0 +1,10 @@
+{
+  "name": "Revolt",
+  "slug": "revolt",
+  "category": "social",
+  "description": "Revolt open source Discord alternative",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.revolt.chat/api/"
+}

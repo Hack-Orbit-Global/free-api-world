@@ -1,0 +1,10 @@
+{
+  "name": "Lingua Robot",
+  "slug": "lingua-robot",
+  "category": "dictionaries",
+  "description": "Word definitions, pronunciations, synonyms, antonyms and others",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.linguarobot.io"
+}

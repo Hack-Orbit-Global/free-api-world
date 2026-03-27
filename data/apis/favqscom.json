@@ -1,0 +1,10 @@
+{
+  "name": "FavQs.com",
+  "slug": "favqscom",
+  "category": "personality",
+  "description": "FavQs allows you to collect, discover and share your favorite quotes",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://favqs.com/api"
+}

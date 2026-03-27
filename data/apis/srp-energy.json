@@ -1,0 +1,10 @@
+{
+  "name": "Srp Energy",
+  "slug": "srp-energy",
+  "category": "environment",
+  "description": "Hourly usage energy report for Srp customers",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Contentful Images",
+  "slug": "contentful-images",
+  "category": "development",
+  "description": "Used to retrieve and apply transformations to images",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.contentful.com/developers/docs/references/images-api/"
+}

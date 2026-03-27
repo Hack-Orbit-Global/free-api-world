@@ -1,0 +1,10 @@
+{
+  "name": "HackerOne",
+  "slug": "hackerone",
+  "category": "security",
+  "description": "The industry\u2019s first hacker API that helps increase productivity towards creative bug bounty hunting",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.hackerone.com/"
+}

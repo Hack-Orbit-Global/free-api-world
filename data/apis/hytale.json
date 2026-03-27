@@ -1,0 +1,10 @@
+{
+  "name": "Hytale",
+  "slug": "hytale",
+  "category": "games-&-comics",
+  "description": "Hytale blog posts and jobs",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://hytale-api.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "WhiskyHunter",
+  "slug": "whiskyhunter",
+  "category": "food-&-drink",
+  "description": "Past online whisky auctions statistical data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://whiskyhunter.net/api/"
+}

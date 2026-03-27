@@ -1,0 +1,10 @@
+{
+  "name": "iTunes Search",
+  "slug": "itunes-search",
+  "category": "music",
+  "description": "Software products",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Autochess VNG",
+  "slug": "autochess-vng",
+  "category": "games-&-comics",
+  "description": "Rest Api for Autochess VNG",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/didadadida93/autochess-vng-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cooper Hewitt",
+  "slug": "cooper-hewitt",
+  "category": "art-&-design",
+  "description": "Smithsonian Design Museum",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://collection.cooperhewitt.org/api"
+}

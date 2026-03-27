@@ -1,0 +1,10 @@
+{
+  "name": "Spoonacular",
+  "slug": "spoonacular",
+  "category": "food-&-drink",
+  "description": "Recipes, Food Products, and Meal Planning",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://spoonacular.com/food-api"
+}

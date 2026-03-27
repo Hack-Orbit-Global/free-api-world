@@ -1,0 +1,10 @@
+{
+  "name": "Logs.to",
+  "slug": "logsto",
+  "category": "development",
+  "description": "Generate logs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://logs.to/"
+}

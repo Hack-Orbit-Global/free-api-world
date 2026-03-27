@@ -1,0 +1,10 @@
+{
+  "name": "CollegeScoreCard.ed.gov",
+  "slug": "collegescorecardedgov",
+  "category": "open-data",
+  "description": "Data on higher education institutions in the United States",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://collegescorecard.ed.gov/data/"
+}

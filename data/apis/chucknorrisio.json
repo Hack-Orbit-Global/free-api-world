@@ -1,0 +1,10 @@
+{
+  "name": "chucknorris.io",
+  "slug": "chucknorrisio",
+  "category": "entertainment",
+  "description": "JSON API for hand curated Chuck Norris jokes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.chucknorris.io"
+}

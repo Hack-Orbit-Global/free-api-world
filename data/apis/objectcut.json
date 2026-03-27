@@ -1,0 +1,10 @@
+{
+  "name": "ObjectCut",
+  "slug": "objectcut",
+  "category": "photography",
+  "description": "Image Background removal",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://objectcut.com/"
+}

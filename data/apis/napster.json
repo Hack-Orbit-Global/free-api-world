@@ -1,0 +1,10 @@
+{
+  "name": "Napster",
+  "slug": "napster",
+  "category": "music",
+  "description": "Music",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developer.napster.com/api/v2.2"
+}

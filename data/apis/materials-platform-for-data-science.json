@@ -1,0 +1,10 @@
+{
+  "name": "Materials Platform for Data Science",
+  "slug": "materials-platform-for-data-science",
+  "category": "science-&-math",
+  "description": "Curated experimental data for materials science",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://mpds.io"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Vector Express v2.0",
+  "slug": "vector-express-v20",
+  "category": "documents-&-productivity",
+  "description": "Free vector file converting API",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://vector.express"
+}

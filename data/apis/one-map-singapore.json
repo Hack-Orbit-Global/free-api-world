@@ -1,0 +1,10 @@
+{
+  "name": "One Map, Singapore",
+  "slug": "one-map-singapore",
+  "category": "geocoding",
+  "description": "Singapore Land Authority REST API services for Singapore addresses",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.onemap.gov.sg/docs/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Netherlands",
+  "slug": "open-government-netherlands",
+  "category": "government",
+  "description": "Netherlands Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api"
+}

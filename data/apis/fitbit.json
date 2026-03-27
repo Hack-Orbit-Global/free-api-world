@@ -1,0 +1,10 @@
+{
+  "name": "Fitbit",
+  "slug": "fitbit",
+  "category": "sports-&-fitness",
+  "description": "Fitbit Information",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://dev.fitbit.com/"
+}

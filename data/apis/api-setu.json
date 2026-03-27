@@ -1,0 +1,10 @@
+{
+  "name": "API Setu",
+  "slug": "api-setu",
+  "category": "open-data",
+  "description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.apisetu.gov.in/"
+}

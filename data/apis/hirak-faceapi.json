@@ -1,0 +1,10 @@
+{
+  "name": "Hirak FaceAPI",
+  "slug": "hirak-faceapi",
+  "category": "machine-learning",
+  "description": "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://faceapi.hirak.site/"
+}

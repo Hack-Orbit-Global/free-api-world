@@ -1,0 +1,10 @@
+{
+  "name": "CARTO",
+  "slug": "carto",
+  "category": "open-data",
+  "description": "Location Information Prediction",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://carto.com/"
+}

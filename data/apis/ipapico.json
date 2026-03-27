@@ -1,0 +1,10 @@
+{
+  "name": "ipapi.co",
+  "slug": "ipapico",
+  "category": "geocoding",
+  "description": "Find IP address location information",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://ipapi.co/api/#introduction"
+}

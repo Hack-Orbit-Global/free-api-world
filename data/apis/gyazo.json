@@ -1,0 +1,10 @@
+{
+  "name": "Gyazo",
+  "slug": "gyazo",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Save & Share screen captures instantly",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://gyazo.com/api/docs"
+}

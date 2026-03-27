@@ -1,0 +1,10 @@
+{
+  "name": "Sport Vision",
+  "slug": "sport-vision",
+  "category": "sports-&-fitness",
+  "description": "Identify sport, brands and gear in an image. Also does image sports captioning",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developers.decathlon.com/products/sport-vision"
+}

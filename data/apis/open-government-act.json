@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, ACT",
+  "slug": "open-government-act",
+  "category": "government",
+  "description": "Australian Capital Territory Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.data.act.gov.au/"
+}

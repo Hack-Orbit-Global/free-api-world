@@ -1,0 +1,10 @@
+{
+  "name": "BC Ferries",
+  "slug": "bc-ferries",
+  "category": "transportation",
+  "description": "Sailing times and capacities for BC Ferries",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.bcferriesapi.ca"
+}

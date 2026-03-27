@@ -1,0 +1,10 @@
+{
+  "name": "FreeForexAPI",
+  "slug": "freeforexapi",
+  "category": "currency-exchange",
+  "description": "Real-time foreign exchange rates for major currency pairs",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://freeforexapi.com/Home/Api"
+}

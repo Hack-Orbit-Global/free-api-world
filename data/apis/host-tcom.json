@@ -1,0 +1,10 @@
+{
+  "name": "host-t.com",
+  "slug": "host-tcom",
+  "category": "development",
+  "description": "Basic DNS query via HTTP GET request",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://host-t.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SLF",
+  "slug": "slf",
+  "category": "geocoding",
+  "description": "German city, country, river, database",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/slftool/slftool.github.io/blob/master/API.md"
+}

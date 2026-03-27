@@ -1,0 +1,10 @@
+{
+  "name": "Kroger",
+  "slug": "kroger",
+  "category": "food-&-drink",
+  "description": "Supermarket Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.kroger.com/reference"
+}

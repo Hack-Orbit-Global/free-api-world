@@ -1,0 +1,10 @@
+{
+  "name": "Bing Maps",
+  "slug": "bing-maps",
+  "category": "geocoding",
+  "description": "Create/customize digital maps based on Bing Maps data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.microsoft.com/maps/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Medium",
+  "slug": "medium",
+  "category": "personality",
+  "description": "Community of readers and writers offering unique perspectives on ideas",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/Medium/medium-api-docs"
+}

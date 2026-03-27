@@ -1,0 +1,10 @@
+{
+  "name": "Steam",
+  "slug": "steam",
+  "category": "games-&-comics",
+  "description": "Internal Steam Web API documentation",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+}

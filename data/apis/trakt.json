@@ -1,0 +1,10 @@
+{
+  "name": "Trakt",
+  "slug": "trakt",
+  "category": "video",
+  "description": "Movie and TV Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://trakt.docs.apiary.io/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Google Docs",
+  "slug": "google-docs",
+  "category": "development",
+  "description": "API to read, write, and format Google Docs documents",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.google.com/docs/api/reference/rest"
+}

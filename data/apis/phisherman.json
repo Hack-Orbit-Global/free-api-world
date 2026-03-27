@@ -1,0 +1,10 @@
+{
+  "name": "Phisherman",
+  "slug": "phisherman",
+  "category": "anti-malware",
+  "description": "IP/domain/URL reputation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://phisherman.gg/"
+}

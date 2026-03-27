@@ -1,0 +1,10 @@
+{
+  "name": "Hirak IP to Country",
+  "slug": "hirak-ip-to-country",
+  "category": "geocoding",
+  "description": "Ip to location with country code, currency code & currency name, fast response, unlimited requests",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://iplocation.hirak.site/"
+}

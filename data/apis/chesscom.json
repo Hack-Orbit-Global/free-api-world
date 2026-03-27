@@ -1,0 +1,10 @@
+{
+  "name": "Chess.com",
+  "slug": "chesscom",
+  "category": "games-&-comics",
+  "description": "Chess.com read-only REST API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.chess.com/news/view/published-data-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SeatGeek",
+  "slug": "seatgeek",
+  "category": "events",
+  "description": "Search events, venues and performers",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://platform.seatgeek.com/"
+}

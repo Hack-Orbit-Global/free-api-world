@@ -1,0 +1,10 @@
+{
+  "name": "Black History Facts",
+  "slug": "black-history-facts",
+  "category": "open-data",
+  "description": "Contribute or search one of the largest black history fact databases on the web",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.blackhistoryapi.io/docs"
+}

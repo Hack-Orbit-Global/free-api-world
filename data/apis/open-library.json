@@ -1,0 +1,10 @@
+{
+  "name": "Open Library",
+  "slug": "open-library",
+  "category": "books",
+  "description": "Books, book covers and related data",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://openlibrary.org/developers/api"
+}

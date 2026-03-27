@@ -1,0 +1,10 @@
+{
+  "name": "shutterstock",
+  "slug": "shutterstock",
+  "category": "photography",
+  "description": "Stock Photos and Videos",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api-reference.shutterstock.com/"
+}

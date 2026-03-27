@@ -1,0 +1,10 @@
+{
+  "name": "Euskalmet",
+  "slug": "euskalmet",
+  "category": "weather",
+  "description": "Meteorological data of the Basque Country",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/"
+}

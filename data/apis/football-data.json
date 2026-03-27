@@ -1,0 +1,10 @@
+{
+  "name": "Football-Data",
+  "slug": "football-data",
+  "category": "sports-&-fitness",
+  "description": "Football data with matches info, players, teams, and competitions",
+  "auth": "`X-Mashape-Key`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.football-data.org"
+}

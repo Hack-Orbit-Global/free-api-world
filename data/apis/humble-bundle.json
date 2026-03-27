@@ -1,0 +1,10 @@
+{
+  "name": "Humble Bundle",
+  "slug": "humble-bundle",
+  "category": "games-&-comics",
+  "description": "Humble Bundle's current bundles",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/Ziggoto/api/humble-bundle"
+}

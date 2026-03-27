@@ -1,0 +1,10 @@
+{
+  "name": "Football (Soccer) Videos",
+  "slug": "football-soccer-videos",
+  "category": "sports-&-fitness",
+  "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.scorebat.com/video-api/"
+}

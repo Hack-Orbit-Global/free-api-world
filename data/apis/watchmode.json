@@ -1,0 +1,10 @@
+{
+  "name": "Watchmode",
+  "slug": "watchmode",
+  "category": "video",
+  "description": "API for finding out the streaming availability of movies & shows",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.watchmode.com/"
+}

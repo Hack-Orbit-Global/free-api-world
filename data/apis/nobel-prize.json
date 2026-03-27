@@ -1,0 +1,10 @@
+{
+  "name": "Nobel Prize",
+  "slug": "nobel-prize",
+  "category": "open-data",
+  "description": "Open data about nobel prizes and events",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.nobelprize.org/about/developer-zone-2/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Estonia",
+  "slug": "open-government-estonia",
+  "category": "government",
+  "description": "Estonia Government Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://avaandmed.eesti.ee/instructions/opendata-dataset-api"
+}

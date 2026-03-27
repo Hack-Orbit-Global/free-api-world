@@ -1,0 +1,10 @@
+{
+  "name": "Brazil Receita WS",
+  "slug": "brazil-receita-ws",
+  "category": "government",
+  "description": "Consult companies by CNPJ for Brazilian companies",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.receitaws.com.br/"
+}

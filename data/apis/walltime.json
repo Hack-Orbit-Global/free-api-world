@@ -1,0 +1,10 @@
+{
+  "name": "Walltime",
+  "slug": "walltime",
+  "category": "blockchain",
+  "description": "To retrieve Walltime's market info",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://walltime.info/api.html"
+}

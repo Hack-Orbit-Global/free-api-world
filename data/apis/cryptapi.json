@@ -1,0 +1,10 @@
+{
+  "name": "CryptAPI",
+  "slug": "cryptapi",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency Payment Processor",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.cryptapi.io/"
+}

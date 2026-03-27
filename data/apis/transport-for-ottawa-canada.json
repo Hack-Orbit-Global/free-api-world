@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Ottawa, Canada",
+  "slug": "transport-for-ottawa-canada",
+  "category": "transportation",
+  "description": "OC Transpo API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.octranspo.com/en/plan-your-trip/travel-tools/developers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, New South Wales",
+  "slug": "open-government-new-south-wales",
+  "category": "government",
+  "description": "New South Wales Government Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.nsw.gov.au/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Micro User Service",
+  "slug": "micro-user-service",
+  "category": "authentication-&-authorization",
+  "description": "User management and authentication",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://m3o.com/user"
+}

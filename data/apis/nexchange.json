@@ -1,0 +1,10 @@
+{
+  "name": "Nexchange",
+  "slug": "nexchange",
+  "category": "cryptocurrency",
+  "description": "Automated cryptocurrency exchange service",
+  "auth": "No",
+  "https": false,
+  "cors": "Yes",
+  "link": "https://nexchange2.docs.apiary.io/"
+}

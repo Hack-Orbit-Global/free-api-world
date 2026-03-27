@@ -1,0 +1,10 @@
+{
+  "name": "ProxyCrawl",
+  "slug": "proxycrawl",
+  "category": "development",
+  "description": "Scraping and crawling anticaptcha service",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://proxycrawl.com"
+}

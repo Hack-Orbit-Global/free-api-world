@@ -1,0 +1,10 @@
+{
+  "name": "HTTP Cat",
+  "slug": "http-cat",
+  "category": "animals",
+  "description": "Cat for every HTTP Status",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://http.cat/"
+}

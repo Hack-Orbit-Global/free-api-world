@@ -1,0 +1,10 @@
+{
+  "name": "IGDB.com",
+  "slug": "igdbcom",
+  "category": "games-&-comics",
+  "description": "Video Game Database",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api-docs.igdb.com"
+}

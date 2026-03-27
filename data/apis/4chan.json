@@ -1,0 +1,10 @@
+{
+  "name": "4chan",
+  "slug": "4chan",
+  "category": "social",
+  "description": "Simple image-based bulletin board dedicated to a variety of topics",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/4chan/4chan-API"
+}

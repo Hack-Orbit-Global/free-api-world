@@ -1,0 +1,10 @@
+{
+  "name": "Wger",
+  "slug": "wger",
+  "category": "sports-&-fitness",
+  "description": "Workout manager data as exercises, muscles or equipment",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://wger.de/en/software/api"
+}

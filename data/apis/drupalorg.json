@@ -1,0 +1,10 @@
+{
+  "name": "Drupal.org",
+  "slug": "drupalorg",
+  "category": "open-source-projects",
+  "description": "Drupal.org",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.drupal.org/drupalorg/docs/api"
+}

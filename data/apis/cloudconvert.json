@@ -1,0 +1,10 @@
+{
+  "name": "CloudConvert",
+  "slug": "cloudconvert",
+  "category": "documents-&-productivity",
+  "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://cloudconvert.com/api/v2"
+}

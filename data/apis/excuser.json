@@ -1,0 +1,10 @@
+{
+  "name": "Excuser",
+  "slug": "excuser",
+  "category": "entertainment",
+  "description": "Get random excuses for various situations",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://excuser.herokuapp.com/"
+}

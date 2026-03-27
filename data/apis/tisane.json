@@ -1,0 +1,10 @@
+{
+  "name": "Tisane",
+  "slug": "tisane",
+  "category": "text-analysis",
+  "description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://tisane.ai/"
+}

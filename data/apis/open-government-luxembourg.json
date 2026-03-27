@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Luxembourg",
+  "slug": "open-government-luxembourg",
+  "category": "government",
+  "description": "Luxembourgish Government Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.public.lu"
+}

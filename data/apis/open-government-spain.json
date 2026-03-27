@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Spain",
+  "slug": "open-government-spain",
+  "category": "government",
+  "description": "Spain Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://datos.gob.es/en"
+}

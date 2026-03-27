@@ -1,0 +1,10 @@
+{
+  "name": "Google Books",
+  "slug": "google-books",
+  "category": "books",
+  "description": "Books",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.google.com/books/"
+}

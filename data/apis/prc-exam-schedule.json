@@ -1,0 +1,10 @@
+{
+  "name": "PRC Exam Schedule",
+  "slug": "prc-exam-schedule",
+  "category": "government",
+  "description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.whenisthenextboardexam.com/docs/"
+}

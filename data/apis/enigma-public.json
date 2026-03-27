@@ -1,0 +1,10 @@
+{
+  "name": "Enigma Public",
+  "slug": "enigma-public",
+  "category": "open-data",
+  "description": "Broadest collection of public data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developers.enigma.com/docs"
+}

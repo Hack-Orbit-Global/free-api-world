@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Switzerland",
+  "slug": "open-government-switzerland",
+  "category": "government",
+  "description": "Switzerland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html"
+}

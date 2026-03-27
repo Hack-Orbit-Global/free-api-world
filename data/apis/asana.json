@@ -1,0 +1,10 @@
+{
+  "name": "Asana",
+  "slug": "asana",
+  "category": "documents-&-productivity",
+  "description": "Programmatic access to all data in your asana system",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developers.asana.com/docs"
+}

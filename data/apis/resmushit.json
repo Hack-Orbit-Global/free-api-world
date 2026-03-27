@@ -1,0 +1,10 @@
+{
+  "name": "ReSmush.it",
+  "slug": "resmushit",
+  "category": "photography",
+  "description": "Photo optimization",
+  "auth": "No",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://resmush.it/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blague.xyz",
+  "slug": "blaguexyz",
+  "category": "development",
+  "description": "La plus grande API de Blagues FR/The biggest FR jokes API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://blague.xyz/"
+}

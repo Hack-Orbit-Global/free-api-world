@@ -1,0 +1,10 @@
+{
+  "name": "Web3 Storage",
+  "slug": "web3-storage",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "File Sharing and Storage for Free with 1TB Space",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://web3.storage/"
+}

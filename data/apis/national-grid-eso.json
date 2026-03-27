@@ -1,0 +1,10 @@
+{
+  "name": "National Grid ESO",
+  "slug": "national-grid-eso",
+  "category": "environment",
+  "description": "Open data from Great Britain\u2019s Electricity System Operator",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.nationalgrideso.com/"
+}

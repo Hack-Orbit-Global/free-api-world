@@ -1,0 +1,10 @@
+{
+  "name": "Irisnet",
+  "slug": "irisnet",
+  "category": "machine-learning",
+  "description": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://irisnet.de/api/"
+}

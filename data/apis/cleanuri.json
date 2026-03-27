@@ -1,0 +1,10 @@
+{
+  "name": "CleanURI",
+  "slug": "cleanuri",
+  "category": "url-shorteners",
+  "description": "URL shortener service",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://cleanuri.com/docs"
+}

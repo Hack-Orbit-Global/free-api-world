@@ -1,0 +1,10 @@
+{
+  "name": "Arbeitnow",
+  "slug": "arbeitnow",
+  "category": "jobs",
+  "description": "API for Job board aggregator in Europe / Remote",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://documenter.getpostman.com/view/18545278/UVJbJdKh"
+}

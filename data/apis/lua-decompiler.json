@@ -1,0 +1,10 @@
+{
+  "name": "Lua Decompiler",
+  "slug": "lua-decompiler",
+  "category": "development",
+  "description": "Online Lua 5.1 Decompiler",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://lua-decompiler.ferib.dev/"
+}

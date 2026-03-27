@@ -1,0 +1,10 @@
+{
+  "name": "ViaCep",
+  "slug": "viacep",
+  "category": "geocoding",
+  "description": "Brazil RESTful zip codes API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://viacep.com.br"
+}

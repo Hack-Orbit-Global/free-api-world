@@ -1,0 +1,10 @@
+{
+  "name": "Polygon",
+  "slug": "polygon",
+  "category": "finance",
+  "description": "Historical stock market data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://polygon.io/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ReqRes",
+  "slug": "reqres",
+  "category": "development",
+  "description": "A hosted REST-API ready to respond to your AJAX requests",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://reqres.in/ "
+}

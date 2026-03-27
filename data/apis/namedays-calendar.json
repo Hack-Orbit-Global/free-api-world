@@ -1,0 +1,10 @@
+{
+  "name": "Namedays Calendar",
+  "slug": "namedays-calendar",
+  "category": "calendar",
+  "description": "Provides namedays for multiple countries",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://nameday.abalin.net"
+}

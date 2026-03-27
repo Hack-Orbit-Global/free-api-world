@@ -1,0 +1,10 @@
+{
+  "name": "quizapi.io",
+  "slug": "quizapiio",
+  "category": "games-&-comics",
+  "description": "Access to various kind of quiz questions",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quizapi.io/"
+}

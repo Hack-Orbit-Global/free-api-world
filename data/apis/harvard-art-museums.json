@@ -1,0 +1,10 @@
+{
+  "name": "Harvard Art Museums",
+  "slug": "harvard-art-museums",
+  "category": "art-&-design",
+  "description": "Art",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://github.com/harvardartmuseums/api-docs"
+}

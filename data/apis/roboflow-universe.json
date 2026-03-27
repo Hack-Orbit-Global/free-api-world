@@ -1,0 +1,10 @@
+{
+  "name": "Roboflow Universe",
+  "slug": "roboflow-universe",
+  "category": "machine-learning",
+  "description": "Pre-trained computer vision models",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://universe.roboflow.com"
+}

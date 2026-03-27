@@ -1,0 +1,10 @@
+{
+  "name": "Covid-19",
+  "slug": "covid-19",
+  "category": "health",
+  "description": "Covid 19 cases, deaths and recovery per country",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/M-Media-Group/Covid-19-API"
+}

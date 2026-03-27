@@ -1,0 +1,10 @@
+{
+  "name": "GW2Spidy",
+  "slug": "gw2spidy",
+  "category": "games-&-comics",
+  "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/rubensayshi/gw2spidy/wiki"
+}

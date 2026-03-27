@@ -1,0 +1,10 @@
+{
+  "name": "Rwanda Locations",
+  "slug": "rwanda-locations",
+  "category": "geocoding",
+  "description": "Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/victorkarangwa4/api/rwanda"
+}

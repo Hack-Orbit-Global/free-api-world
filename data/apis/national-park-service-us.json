@@ -1,0 +1,10 @@
+{
+  "name": "National Park Service, US",
+  "slug": "national-park-service-us",
+  "category": "government",
+  "description": "Data from the US National Park Service",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.nps.gov/subjects/developer/"
+}

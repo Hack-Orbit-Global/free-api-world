@@ -1,0 +1,10 @@
+{
+  "name": "VALR",
+  "slug": "valr",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency Exchange based in South Africa",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.valr.com/"
+}

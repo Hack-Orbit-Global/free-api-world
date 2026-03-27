@@ -1,0 +1,10 @@
+{
+  "name": "Lichess",
+  "slug": "lichess",
+  "category": "games-&-comics",
+  "description": "Access to all data of users, games, puzzles and etc on Lichess",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://lichess.org/api"
+}

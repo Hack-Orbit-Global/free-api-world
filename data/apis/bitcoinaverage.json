@@ -1,0 +1,10 @@
+{
+  "name": "BitcoinAverage",
+  "slug": "bitcoinaverage",
+  "category": "cryptocurrency",
+  "description": "Digital Asset Price Data for the blockchain industry",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apiv2.bitcoinaverage.com/"
+}

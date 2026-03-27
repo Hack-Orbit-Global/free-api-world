@@ -1,0 +1,10 @@
+{
+  "name": "Lowy Asia Power Index",
+  "slug": "lowy-asia-power-index",
+  "category": "open-data",
+  "description": "Get measure resources and influence to rank the relative power of states in Asia",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/0x0is1/lowy-index-api-docs"
+}

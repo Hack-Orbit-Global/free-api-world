@@ -1,0 +1,10 @@
+{
+  "name": "Nomics",
+  "slug": "nomics",
+  "category": "cryptocurrency",
+  "description": "Historical and realtime cryptocurrency prices and market data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://nomics.com/docs/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Federal Register",
+  "slug": "federal-register",
+  "category": "government",
+  "description": "The Daily Journal of the United States Government",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api"
+}

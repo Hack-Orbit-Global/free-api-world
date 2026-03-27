@@ -1,0 +1,10 @@
+{
+  "name": "FilterLists",
+  "slug": "filterlists",
+  "category": "security",
+  "description": "Lists of filters for adblockers and firewalls",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://filterlists.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Poloniex",
+  "slug": "poloniex",
+  "category": "cryptocurrency",
+  "description": "US based digital asset exchange",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.poloniex.com"
+}

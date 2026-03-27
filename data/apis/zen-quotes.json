@@ -1,0 +1,10 @@
+{
+  "name": "Zen Quotes",
+  "slug": "zen-quotes",
+  "category": "personality",
+  "description": "Large collection of Zen quotes for inspiration",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://zenquotes.io/"
+}

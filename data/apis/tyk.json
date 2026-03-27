@@ -1,0 +1,10 @@
+{
+  "name": "Tyk",
+  "slug": "tyk",
+  "category": "development",
+  "description": "Api and service management platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://tyk.io/open-source/"
+}

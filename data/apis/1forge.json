@@ -1,0 +1,10 @@
+{
+  "name": "1Forge",
+  "slug": "1forge",
+  "category": "currency-exchange",
+  "description": "Forex currency market data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://1forge.com/forex-data-api/api-documentation"
+}

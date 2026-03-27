@@ -1,0 +1,10 @@
+{
+  "name": "Am\u00e9thyste",
+  "slug": "amthyste",
+  "category": "art-&-design",
+  "description": "Generate images for Discord users",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.amethyste.moe/"
+}

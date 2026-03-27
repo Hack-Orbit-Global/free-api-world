@@ -1,0 +1,10 @@
+{
+  "name": "Transport for United States",
+  "slug": "transport-for-united-states",
+  "category": "transportation",
+  "description": "NextBus API",
+  "auth": "No",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf"
+}

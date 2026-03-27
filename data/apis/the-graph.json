@@ -1,0 +1,10 @@
+{
+  "name": "The Graph",
+  "slug": "the-graph",
+  "category": "blockchain",
+  "description": "Indexing protocol for querying networks like Ethereum with GraphQL",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://thegraph.com"
+}

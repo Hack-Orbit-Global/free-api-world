@@ -1,0 +1,10 @@
+{
+  "name": "Phone Validation",
+  "slug": "phone-validation",
+  "category": "phone",
+  "description": "Validate phone numbers globally",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.abstractapi.com/phone-validation-api"
+}

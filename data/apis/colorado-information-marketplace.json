@@ -1,0 +1,10 @@
+{
+  "name": "Colorado Information Marketplace",
+  "slug": "colorado-information-marketplace",
+  "category": "government",
+  "description": "Colorado State Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.colorado.gov/"
+}

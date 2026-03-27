@@ -1,0 +1,10 @@
+{
+  "name": "Quran",
+  "slug": "quran",
+  "category": "books",
+  "description": "RESTful Quran API with multiple languages",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quran.api-docs.io/"
+}

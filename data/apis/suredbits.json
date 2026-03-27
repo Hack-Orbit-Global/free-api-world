@@ -1,0 +1,10 @@
+{
+  "name": "SuredBits",
+  "slug": "suredbits",
+  "category": "sports-&-fitness",
+  "description": "Query sports data, including teams, players, games, scores and statistics",
+  "auth": "No",
+  "https": false,
+  "cors": "No",
+  "link": "https://suredbits.com/api/"
+}

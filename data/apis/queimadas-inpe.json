@@ -1,0 +1,10 @@
+{
+  "name": "Queimadas INPE",
+  "slug": "queimadas-inpe",
+  "category": "geocoding",
+  "description": "Access to heat focus data (probable wildfire)",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/"
+}

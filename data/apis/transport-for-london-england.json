@@ -1,0 +1,10 @@
+{
+  "name": "Transport for London, England",
+  "slug": "transport-for-london-england",
+  "category": "transportation",
+  "description": "TfL API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.tfl.gov.uk"
+}

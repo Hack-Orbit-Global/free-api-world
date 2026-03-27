@@ -1,0 +1,10 @@
+{
+  "name": "MetaWeather",
+  "slug": "metaweather",
+  "category": "weather",
+  "description": "Weather",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://www.metaweather.com/api/"
+}

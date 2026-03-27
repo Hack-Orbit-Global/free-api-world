@@ -1,0 +1,10 @@
+{
+  "name": "Podio",
+  "slug": "podio",
+  "category": "documents-&-productivity",
+  "description": "File sharing and productivity",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.podio.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hackerearth",
+  "slug": "hackerearth",
+  "category": "programming",
+  "description": "For compiling and running code in several languages",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.hackerearth.com/docs/wiki/developers/v4/"
+}

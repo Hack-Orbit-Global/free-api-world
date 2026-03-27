@@ -1,0 +1,10 @@
+{
+  "name": "US Weather",
+  "slug": "us-weather",
+  "category": "weather",
+  "description": "US National Weather Service",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.weather.gov/documentation/services-web-api"
+}

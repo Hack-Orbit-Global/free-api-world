@@ -1,0 +1,10 @@
+{
+  "name": "Covalent",
+  "slug": "covalent",
+  "category": "blockchain",
+  "description": "Multi-blockchain data aggregator platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.covalenthq.com/docs/api/"
+}

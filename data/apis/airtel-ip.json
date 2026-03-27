@@ -1,0 +1,10 @@
+{
+  "name": "Airtel IP",
+  "slug": "airtel-ip",
+  "category": "geocoding",
+  "description": "IP Geolocation API. Collecting data from multiple sources",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Valorant (non-official)",
+  "slug": "valorant-non-official",
+  "category": "games-&-comics",
+  "description": "An extensive API containing data of most Valorant in-game items, assets and more",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://valorant-api.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ADS-B Exchange",
+  "slug": "ads-b-exchange",
+  "category": "transportation",
+  "description": "Access real-time and historical data of any and all airborne aircraft",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.adsbexchange.com/data/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, South Australian Government",
+  "slug": "open-government-south-australian-government",
+  "category": "government",
+  "description": "South Australian Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.sa.gov.au/"
+}

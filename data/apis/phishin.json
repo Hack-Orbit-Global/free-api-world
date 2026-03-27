@@ -1,0 +1,10 @@
+{
+  "name": "Phishin",
+  "slug": "phishin",
+  "category": "music",
+  "description": "A web-based archive of legal live audio recordings of the improvisational rock band Phish",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://phish.in/api-docs"
+}

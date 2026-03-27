@@ -1,0 +1,10 @@
+{
+  "name": "CMS.gov",
+  "slug": "cmsgov",
+  "category": "health",
+  "description": "Access to the data from the CMS - medicare.gov",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.cms.gov/provider-data/"
+}

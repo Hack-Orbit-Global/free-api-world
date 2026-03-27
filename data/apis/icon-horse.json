@@ -1,0 +1,10 @@
+{
+  "name": "Icon Horse",
+  "slug": "icon-horse",
+  "category": "art-&-design",
+  "description": "Favicons for any website, with fallbacks",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://icon.horse"
+}

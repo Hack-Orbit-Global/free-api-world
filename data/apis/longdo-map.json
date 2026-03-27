@@ -1,0 +1,10 @@
+{
+  "name": "Longdo Map",
+  "slug": "longdo-map",
+  "category": "geocoding",
+  "description": "Interactive map with detailed places and information portal in Thailand",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://map.longdo.com/docs/"
+}

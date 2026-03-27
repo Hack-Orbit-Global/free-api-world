@@ -1,0 +1,10 @@
+{
+  "name": "Bank Data API",
+  "slug": "bank-data-api",
+  "category": "finance",
+  "description": "Instant IBAN and SWIFT number validation across the globe",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apilayer.com/marketplace/bank_data-api"
+}

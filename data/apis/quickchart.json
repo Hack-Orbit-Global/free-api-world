@@ -1,0 +1,10 @@
+{
+  "name": "QuickChart",
+  "slug": "quickchart",
+  "category": "development",
+  "description": "Generate chart and graph images",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quickchart.io/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bugsnax",
+  "slug": "bugsnax",
+  "category": "games-&-comics",
+  "description": "Get information about Bugsnax",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.bugsnaxapi.com/"
+}

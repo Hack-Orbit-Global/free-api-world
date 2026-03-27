@@ -1,0 +1,10 @@
+{
+  "name": "KSoft.Si Lyrics",
+  "slug": "ksoftsi-lyrics",
+  "category": "music",
+  "description": "API to get lyrics for songs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.ksoft.si/api/lyrics-api"
+}

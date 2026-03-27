@@ -1,0 +1,10 @@
+{
+  "name": "Fixer",
+  "slug": "fixer",
+  "category": "currency-exchange",
+  "description": "Exchange rates and currency conversion",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://fixer.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+}

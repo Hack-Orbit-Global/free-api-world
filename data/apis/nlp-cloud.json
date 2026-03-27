@@ -1,0 +1,10 @@
+{
+  "name": "NLP Cloud",
+  "slug": "nlp-cloud",
+  "category": "machine-learning",
+  "description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://nlpcloud.io"
+}

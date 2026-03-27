@@ -1,0 +1,10 @@
+{
+  "name": "Postcodes.io",
+  "slug": "postcodesio",
+  "category": "geocoding",
+  "description": "Postcode lookup & Geolocation for the UK",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://postcodes.io"
+}

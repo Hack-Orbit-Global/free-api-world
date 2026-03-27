@@ -1,0 +1,10 @@
+{
+  "name": "Pinball Map",
+  "slug": "pinball-map",
+  "category": "geocoding",
+  "description": "A crowdsourced map of public pinball machines",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://pinballmap.com/api/v1/docs"
+}

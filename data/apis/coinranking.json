@@ -1,0 +1,10 @@
+{
+  "name": "CoinRanking",
+  "slug": "coinranking",
+  "category": "cryptocurrency",
+  "description": "Live Cryptocurrency data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.coinranking.com/api/documentation"
+}

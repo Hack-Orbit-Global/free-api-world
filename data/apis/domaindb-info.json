@@ -1,0 +1,10 @@
+{
+  "name": "DomainDb Info",
+  "slug": "domaindb-info",
+  "category": "development",
+  "description": "Domain name search to find all domains containing particular words/phrases/etc",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.domainsdb.info/"
+}

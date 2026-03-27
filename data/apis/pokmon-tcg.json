@@ -1,0 +1,10 @@
+{
+  "name": "Pok\u00e9mon TCG",
+  "slug": "pokmon-tcg",
+  "category": "games-&-comics",
+  "description": "Pok\u00e9mon TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://pokemontcg.io"
+}

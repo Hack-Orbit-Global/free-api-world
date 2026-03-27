@@ -1,0 +1,10 @@
+{
+  "name": "APIs.guru",
+  "slug": "apisguru",
+  "category": "development",
+  "description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apis.guru/api-doc/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Iconfinder",
+  "slug": "iconfinder",
+  "category": "art-&-design",
+  "description": "Icons",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.iconfinder.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ip-api",
+  "slug": "ip-api",
+  "category": "geocoding",
+  "description": "Find location with IP address or domain",
+  "auth": "No",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://ip-api.com/docs"
+}

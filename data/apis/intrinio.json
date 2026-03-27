@@ -1,0 +1,10 @@
+{
+  "name": "Intrinio",
+  "slug": "intrinio",
+  "category": "finance",
+  "description": "A wide selection of financial data feeds",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://intrinio.com/"
+}

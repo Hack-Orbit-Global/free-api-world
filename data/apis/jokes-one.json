@@ -1,0 +1,10 @@
+{
+  "name": "Jokes One",
+  "slug": "jokes-one",
+  "category": "games-&-comics",
+  "description": "Joke of the day and large category of jokes accessible via REST API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://jokes.one/api/joke/"
+}

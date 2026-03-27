@@ -1,0 +1,10 @@
+{
+  "name": "Inshorts News",
+  "slug": "inshorts-news",
+  "category": "news",
+  "description": "Provides news from inshorts",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/cyberboysumanjay/Inshorts-News-API"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GeoJS",
+  "slug": "geojs",
+  "category": "geocoding",
+  "description": "IP geolocation with ChatOps integration",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.geojs.io/"
+}

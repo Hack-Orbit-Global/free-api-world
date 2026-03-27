@@ -1,0 +1,10 @@
+{
+  "name": "NBA Stats",
+  "slug": "nba-stats",
+  "category": "sports-&-fitness",
+  "description": "Current and historical NBA Statistics",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://any-api.com/nba_com/nba_com/docs/API_Description"
+}

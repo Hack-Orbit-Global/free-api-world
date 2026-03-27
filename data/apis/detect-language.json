@@ -1,0 +1,10 @@
+{
+  "name": "Detect Language",
+  "slug": "detect-language",
+  "category": "text-analysis",
+  "description": "Detects text language",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://detectlanguage.com/"
+}

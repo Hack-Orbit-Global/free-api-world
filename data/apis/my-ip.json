@@ -1,0 +1,10 @@
+{
+  "name": "MY IP",
+  "slug": "my-ip",
+  "category": "development",
+  "description": "Get IP address information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.myip.com/api-docs/"
+}

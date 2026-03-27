@@ -1,0 +1,10 @@
+{
+  "name": "TCGdex",
+  "slug": "tcgdex",
+  "category": "games-&-comics",
+  "description": "Multi languages Pok\u00e9mon TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.tcgdex.net/docs"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Impala Hotel Bookings",
+  "slug": "impala-hotel-bookings",
+  "category": "transportation",
+  "description": "Hotel content, rates and room bookings",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://docs.impala.travel/docs/booking-api/"
+}

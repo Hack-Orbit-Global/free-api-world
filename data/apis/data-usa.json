@@ -1,0 +1,10 @@
+{
+  "name": "Data USA",
+  "slug": "data-usa",
+  "category": "government",
+  "description": "US Public Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://datausa.io/about/api/"
+}

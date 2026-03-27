@@ -1,0 +1,10 @@
+{
+  "name": "Image Upload",
+  "slug": "image-upload",
+  "category": "photography",
+  "description": "Image Optimization",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apilayer.com/marketplace/image_upload-api"
+}

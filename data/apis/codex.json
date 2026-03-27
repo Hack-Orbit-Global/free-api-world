@@ -1,0 +1,10 @@
+{
+  "name": "Codex",
+  "slug": "codex",
+  "category": "development",
+  "description": "Online Compiler for Various Languages",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/Jaagrav/CodeX"
+}

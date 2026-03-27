@@ -1,0 +1,10 @@
+{
+  "name": "City, Nantes Open Data",
+  "slug": "city-nantes-open-data",
+  "category": "government",
+  "description": "Nantes(FR) City Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.nantesmetropole.fr/pages/home/"
+}

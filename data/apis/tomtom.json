@@ -1,0 +1,10 @@
+{
+  "name": "TomTom",
+  "slug": "tomtom",
+  "category": "geocoding",
+  "description": "Maps, Directions, Places and Traffic APIs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developer.tomtom.com/"
+}

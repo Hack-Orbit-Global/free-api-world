@@ -1,0 +1,10 @@
+{
+  "name": "Gorest",
+  "slug": "gorest",
+  "category": "development",
+  "description": "Online REST API for Testing and Prototyping",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://gorest.co.in/"
+}

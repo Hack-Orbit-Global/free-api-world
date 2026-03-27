@@ -1,0 +1,10 @@
+{
+  "name": "Imgbb",
+  "slug": "imgbb",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Simple and quick private image sharing",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.imgbb.com/"
+}

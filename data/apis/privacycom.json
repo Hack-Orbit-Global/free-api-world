@@ -1,0 +1,10 @@
+{
+  "name": "Privacy.com",
+  "slug": "privacycom",
+  "category": "security",
+  "description": "Generate merchant-specific and one-time use credit card numbers that link back to your bank",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://privacy.com/developer/docs"
+}

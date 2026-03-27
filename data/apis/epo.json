@@ -1,0 +1,10 @@
+{
+  "name": "EPO",
+  "slug": "epo",
+  "category": "patent",
+  "description": "European patent search system api",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.epo.org/"
+}

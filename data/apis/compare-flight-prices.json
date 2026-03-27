@@ -1,0 +1,10 @@
+{
+  "name": "Compare Flight Prices",
+  "slug": "compare-flight-prices",
+  "category": "transportation",
+  "description": "API for comparing flight prices across platforms",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/"
+}

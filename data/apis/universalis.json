@@ -1,0 +1,10 @@
+{
+  "name": "Universalis",
+  "slug": "universalis",
+  "category": "games-&-comics",
+  "description": "Final Fantasy XIV market board data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://universalis.app/docs/index.html"
+}

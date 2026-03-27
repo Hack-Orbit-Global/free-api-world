@@ -1,0 +1,10 @@
+{
+  "name": "Songlink / Odesli",
+  "slug": "songlink--odesli",
+  "category": "music",
+  "description": "Get all the services on which a song is available",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741"
+}

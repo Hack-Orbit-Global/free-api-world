@@ -1,0 +1,10 @@
+{
+  "name": "Catalogopolis",
+  "slug": "catalogopolis",
+  "category": "video",
+  "description": "Doctor Who API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.catalogopolis.xyz/docs/"
+}

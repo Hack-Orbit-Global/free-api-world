@@ -1,0 +1,10 @@
+{
+  "name": "EPA",
+  "slug": "epa",
+  "category": "government",
+  "description": "Web services and data sets from the US Environmental Protection Agency",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.epa.gov/developers/data-data-products#apis"
+}

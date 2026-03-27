@@ -1,0 +1,10 @@
+{
+  "name": "Strava",
+  "slug": "strava",
+  "category": "sports-&-fitness",
+  "description": "Connect with athletes, activities and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://strava.github.io/api/"
+}

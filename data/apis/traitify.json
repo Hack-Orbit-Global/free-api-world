@@ -1,0 +1,10 @@
+{
+  "name": "Traitify",
+  "slug": "traitify",
+  "category": "personality",
+  "description": "Assess, collect and analyze Personality",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://app.traitify.com/developer"
+}

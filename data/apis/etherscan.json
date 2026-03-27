@@ -1,0 +1,10 @@
+{
+  "name": "Etherscan",
+  "slug": "etherscan",
+  "category": "blockchain",
+  "description": "Ethereum explorer API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://etherscan.io/apis"
+}

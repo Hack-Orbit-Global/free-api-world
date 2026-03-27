@@ -1,0 +1,10 @@
+{
+  "name": "Watchdata",
+  "slug": "watchdata",
+  "category": "blockchain",
+  "description": "Provide simple and reliable API access to Ethereum blockchain",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.watchdata.io"
+}

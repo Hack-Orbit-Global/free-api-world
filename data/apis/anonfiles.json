@@ -1,0 +1,10 @@
+{
+  "name": "AnonFiles",
+  "slug": "anonfiles",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Upload and share your files anonymously",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://anonfiles.com/docs/api"
+}

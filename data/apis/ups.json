@@ -1,0 +1,10 @@
+{
+  "name": "UPS",
+  "slug": "ups",
+  "category": "tracking",
+  "description": "Shipment and Address information",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.ups.com/upsdeveloperkit"
+}

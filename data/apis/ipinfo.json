@@ -1,0 +1,10 @@
+{
+  "name": "IPinfo",
+  "slug": "ipinfo",
+  "category": "development",
+  "description": "Another simple IP Address API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ipinfo.io/developers"
+}

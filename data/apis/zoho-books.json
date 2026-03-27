@@ -1,0 +1,10 @@
+{
+  "name": "Zoho Books",
+  "slug": "zoho-books",
+  "category": "finance",
+  "description": "Online accounting software, built for your business",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.zoho.com/books/api/v3/"
+}

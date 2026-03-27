@@ -1,0 +1,10 @@
+{
+  "name": "USPTO",
+  "slug": "uspto",
+  "category": "patent",
+  "description": "USA patent api services",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility"
+}

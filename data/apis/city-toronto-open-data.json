@@ -1,0 +1,10 @@
+{
+  "name": "City, Toronto Open Data",
+  "slug": "city-toronto-open-data",
+  "category": "government",
+  "description": "Toronto (CA) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://open.toronto.ca/"
+}

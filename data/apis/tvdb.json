@@ -1,0 +1,10 @@
+{
+  "name": "TVDB",
+  "slug": "tvdb",
+  "category": "video",
+  "description": "Television data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://thetvdb.com/api-information"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Programming Quotes",
+  "slug": "programming-quotes",
+  "category": "personality",
+  "description": "Programming Quotes API for open source projects",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/skolakoda/programming-quotes-api"
+}

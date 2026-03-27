@@ -1,0 +1,10 @@
+{
+  "name": "Stytch",
+  "slug": "stytch",
+  "category": "authentication-&-authorization",
+  "description": "User infrastructure for modern applications",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://stytch.com/"
+}

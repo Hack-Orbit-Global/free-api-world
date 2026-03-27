@@ -1,0 +1,10 @@
+{
+  "name": "Stream",
+  "slug": "stream",
+  "category": "video",
+  "description": "Czech internet television, films, series and online videos for free",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://api.stream.cz/graphiql"
+}

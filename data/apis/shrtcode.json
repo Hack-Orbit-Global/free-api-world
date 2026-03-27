@@ -1,0 +1,10 @@
+{
+  "name": "Shrtcode",
+  "slug": "shrtcode",
+  "category": "url-shorteners",
+  "description": "URl Shortener with multiple Domains",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://shrtco.de/docs"
+}

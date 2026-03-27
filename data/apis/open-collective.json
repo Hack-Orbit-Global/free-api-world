@@ -1,0 +1,10 @@
+{
+  "name": "Open Collective",
+  "slug": "open-collective",
+  "category": "social",
+  "description": "Get Open Collective data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.opencollective.com/help/developers/api"
+}

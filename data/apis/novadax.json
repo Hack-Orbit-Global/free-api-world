@@ -1,0 +1,10 @@
+{
+  "name": "NovaDax",
+  "slug": "novadax",
+  "category": "cryptocurrency",
+  "description": "NovaDAX API to access all market data, trading management endpoints",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://doc.novadax.com/en-US/#introduction"
+}

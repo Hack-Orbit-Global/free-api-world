@@ -1,0 +1,10 @@
+{
+  "name": "Gemini",
+  "slug": "gemini",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies Exchange",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.gemini.com/rest-api/"
+}

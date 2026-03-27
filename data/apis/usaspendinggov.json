@@ -1,0 +1,10 @@
+{
+  "name": "USAspending.gov",
+  "slug": "usaspendinggov",
+  "category": "government",
+  "description": "US federal spending data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.usaspending.gov/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Poland",
+  "slug": "open-government-poland",
+  "category": "government",
+  "description": "Poland Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://dane.gov.pl/en"
+}

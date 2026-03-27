@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Budapest, Hungary",
+  "slug": "transport-for-budapest-hungary",
+  "category": "transportation",
+  "description": "Budapest public transport API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bkkfutar.docs.apiary.io"
+}

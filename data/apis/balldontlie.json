@@ -1,0 +1,10 @@
+{
+  "name": "balldontlie",
+  "slug": "balldontlie",
+  "category": "sports-&-fitness",
+  "description": "Balldontlie provides access to stats data from the NBA",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.balldontlie.io"
+}

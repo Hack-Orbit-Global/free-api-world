@@ -1,0 +1,10 @@
+{
+  "name": "Zube",
+  "slug": "zube",
+  "category": "documents-&-productivity",
+  "description": "Full stack project management",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://zube.io/docs/api"
+}

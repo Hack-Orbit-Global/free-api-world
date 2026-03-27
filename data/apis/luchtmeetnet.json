@@ -1,0 +1,10 @@
+{
+  "name": "Luchtmeetnet",
+  "slug": "luchtmeetnet",
+  "category": "environment",
+  "description": "Predicted and actual air quality components for The Netherlands (RIVM)",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api-docs.luchtmeetnet.nl/"
+}

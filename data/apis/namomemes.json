@@ -1,0 +1,10 @@
+{
+  "name": "NaMoMemes",
+  "slug": "namomemes",
+  "category": "entertainment",
+  "description": "Memes on Narendra Modi",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/theIYD/NaMoMemes"
+}

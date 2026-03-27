@@ -1,0 +1,10 @@
+{
+  "name": "FBI Wanted",
+  "slug": "fbi-wanted",
+  "category": "government",
+  "description": "Access information on the FBI Wanted program",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.fbi.gov/wanted/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "NekosBest",
+  "slug": "nekosbest",
+  "category": "anime",
+  "description": "Neko Images & Anime roleplaying GIFs",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.nekos.best"
+}

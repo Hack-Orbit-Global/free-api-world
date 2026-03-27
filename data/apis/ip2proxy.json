@@ -1,0 +1,10 @@
+{
+  "name": "IP2Proxy",
+  "slug": "ip2proxy",
+  "category": "geocoding",
+  "description": "Detect proxy and VPN using IP address",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.ip2location.com/web-service/ip2proxy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Technical Analysis",
+  "slug": "technical-analysis",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency prices and technical analysis",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://technical-analysis-api.com"
+}

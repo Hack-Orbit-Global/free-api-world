@@ -1,0 +1,10 @@
+{
+  "name": "LAPIS",
+  "slug": "lapis",
+  "category": "health",
+  "description": "SARS-CoV-2 genomic sequences from public sources",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://cov-spectrum.ethz.ch/public"
+}

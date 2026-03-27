@@ -1,0 +1,10 @@
+{
+  "name": "Userstack",
+  "slug": "userstack",
+  "category": "development",
+  "description": "Secure User-Agent String Lookup JSON API",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UrlBae",
+  "slug": "urlbae",
+  "category": "url-shorteners",
+  "description": "Simple and efficient short link creation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://urlbae.com/developers"
+}

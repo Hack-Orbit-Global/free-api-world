@@ -1,0 +1,10 @@
+{
+  "name": "Cat Facts",
+  "slug": "cat-facts",
+  "category": "animals",
+  "description": "Daily cat facts",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://alexwohlbruck.github.io/cat-facts/"
+}

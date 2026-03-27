@@ -1,0 +1,10 @@
+{
+  "name": "AI For Thai",
+  "slug": "ai-for-thai",
+  "category": "machine-learning",
+  "description": "Free Various Thai AI API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://aiforthai.in.th/index.php"
+}

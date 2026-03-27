@@ -1,0 +1,10 @@
+{
+  "name": "AviationWeather",
+  "slug": "aviationweather",
+  "category": "weather",
+  "description": "NOAA aviation weather forecasts and observations",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.aviationweather.gov/dataserver"
+}

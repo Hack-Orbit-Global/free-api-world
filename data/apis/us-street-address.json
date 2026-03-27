@@ -1,0 +1,10 @@
+{
+  "name": "US Street Address",
+  "slug": "us-street-address",
+  "category": "data-validation",
+  "description": "Validate and append data for any US postal address",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.smarty.com/docs/cloud/us-street-api"
+}

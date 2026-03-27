@@ -1,0 +1,10 @@
+{
+  "name": "iDigBio",
+  "slug": "idigbio",
+  "category": "science-&-math",
+  "description": "Access millions of museum specimens from organizations around the world",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/idigbio/idigbio-search-api/wiki"
+}

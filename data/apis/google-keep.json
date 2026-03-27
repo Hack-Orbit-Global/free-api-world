@@ -1,0 +1,10 @@
+{
+  "name": "Google Keep",
+  "slug": "google-keep",
+  "category": "development",
+  "description": "API to read, write, and format Google Keep notes",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.google.com/keep/api/reference/rest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Edamam recipes",
+  "slug": "edamam-recipes",
+  "category": "food-&-drink",
+  "description": "Recipe Search",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.edamam.com/edamam-docs-recipe-api"
+}

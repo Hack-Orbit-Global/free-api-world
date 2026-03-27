@@ -1,0 +1,10 @@
+{
+  "name": "RAWG.io",
+  "slug": "rawgio",
+  "category": "games-&-comics",
+  "description": "500,000+ games for 50 platforms including mobiles",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rawg.io/apidocs"
+}

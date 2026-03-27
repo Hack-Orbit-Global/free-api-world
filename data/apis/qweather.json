@@ -1,0 +1,10 @@
+{
+  "name": "QWeather",
+  "slug": "qweather",
+  "category": "weather",
+  "description": "Location-based weather data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://dev.qweather.com/en/"
+}

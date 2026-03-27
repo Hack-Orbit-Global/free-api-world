@@ -1,0 +1,10 @@
+{
+  "name": "Coinlib",
+  "slug": "coinlib",
+  "category": "cryptocurrency",
+  "description": "Crypto Currency Prices",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://coinlib.io/apidocs"
+}

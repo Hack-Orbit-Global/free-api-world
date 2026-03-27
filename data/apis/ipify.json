@@ -1,0 +1,10 @@
+{
+  "name": "IPify",
+  "slug": "ipify",
+  "category": "development",
+  "description": "A simple IP Address API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.ipify.org/"
+}

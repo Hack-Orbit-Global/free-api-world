@@ -1,0 +1,10 @@
+{
+  "name": "Helipaddy sites",
+  "slug": "helipaddy-sites",
+  "category": "vehicle",
+  "description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://helipaddy.com/api/"
+}

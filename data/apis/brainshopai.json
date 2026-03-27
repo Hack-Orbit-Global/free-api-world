@@ -1,0 +1,10 @@
+{
+  "name": "Brainshop.ai",
+  "slug": "brainshopai",
+  "category": "development",
+  "description": "Make A Free A.I Brain",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://brainshop.ai/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HERE Maps",
+  "slug": "here-maps",
+  "category": "geocoding",
+  "description": "Create/customize digital maps based on HERE Maps data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.here.com"
+}

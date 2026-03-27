@@ -1,0 +1,10 @@
+{
+  "name": "Base",
+  "slug": "base",
+  "category": "development",
+  "description": "Building quick backends",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.base-api.io/"
+}

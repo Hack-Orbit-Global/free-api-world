@@ -1,0 +1,10 @@
+{
+  "name": "blockfrost Cardano",
+  "slug": "blockfrost-cardano",
+  "category": "cryptocurrency",
+  "description": "Interaction with the Cardano mainnet and several testnets",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://blockfrost.io/"
+}

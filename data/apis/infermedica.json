@@ -1,0 +1,10 @@
+{
+  "name": "Infermedica",
+  "slug": "infermedica",
+  "category": "health",
+  "description": "NLP based symptom checker and patient triage API for health diagnosis from text",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://developer.infermedica.com/docs/"
+}

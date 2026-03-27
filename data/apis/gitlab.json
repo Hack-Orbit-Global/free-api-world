@@ -1,0 +1,10 @@
+{
+  "name": "Gitlab",
+  "slug": "gitlab",
+  "category": "development",
+  "description": "Automate GitLab interaction programmatically",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.gitlab.com/ee/api/"
+}

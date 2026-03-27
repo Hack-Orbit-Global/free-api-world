@@ -1,0 +1,10 @@
+{
+  "name": "Countly",
+  "slug": "countly",
+  "category": "open-source-projects",
+  "description": "Countly web analytics",
+  "auth": "No",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://api.count.ly/reference"
+}

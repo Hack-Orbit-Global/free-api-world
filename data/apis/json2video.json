@@ -1,0 +1,10 @@
+{
+  "name": "JSON2Video",
+  "slug": "json2video",
+  "category": "video",
+  "description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://json2video.com"
+}

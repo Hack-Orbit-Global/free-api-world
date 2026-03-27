@@ -1,0 +1,10 @@
+{
+  "name": "Foreca",
+  "slug": "foreca",
+  "category": "weather",
+  "description": "Weather",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.foreca.com"
+}

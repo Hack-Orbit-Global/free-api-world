@@ -1,0 +1,10 @@
+{
+  "name": "IEX Cloud",
+  "slug": "iex-cloud",
+  "category": "finance",
+  "description": "Realtime & Historical Stock and Market Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://iexcloud.io/docs/api/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OwlBot",
+  "slug": "owlbot",
+  "category": "dictionaries",
+  "description": "Definitions with example sentence and photo if available",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://owlbot.info/"
+}

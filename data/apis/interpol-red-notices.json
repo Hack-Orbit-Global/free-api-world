@@ -1,0 +1,10 @@
+{
+  "name": "Interpol Red Notices",
+  "slug": "interpol-red-notices",
+  "category": "government",
+  "description": "Access and search Interpol Red Notices",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://interpol.api.bund.dev/"
+}

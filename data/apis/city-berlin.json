@@ -1,0 +1,10 @@
+{
+  "name": "City, Berlin",
+  "slug": "city-berlin",
+  "category": "government",
+  "description": "Berlin(DE) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://daten.berlin.de/"
+}

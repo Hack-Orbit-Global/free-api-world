@@ -1,0 +1,10 @@
+{
+  "name": "CryptingUp",
+  "slug": "cryptingup",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.cryptingup.com/apidoc/#introduction"
+}

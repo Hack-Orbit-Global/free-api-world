@@ -1,0 +1,10 @@
+{
+  "name": "MangaDex",
+  "slug": "mangadex",
+  "category": "anime",
+  "description": "Manga Database and Community",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.mangadex.org/docs.html"
+}

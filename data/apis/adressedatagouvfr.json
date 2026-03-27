@@ -1,0 +1,10 @@
+{
+  "name": "adresse.data.gouv.fr",
+  "slug": "adressedatagouvfr",
+  "category": "geocoding",
+  "description": "Address database of France, geocoding and reverse",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://adresse.data.gouv.fr"
+}

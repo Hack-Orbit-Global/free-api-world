@@ -1,0 +1,10 @@
+{
+  "name": "PhishStats",
+  "slug": "phishstats",
+  "category": "security",
+  "description": "Phishing database",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://phishstats.info/"
+}

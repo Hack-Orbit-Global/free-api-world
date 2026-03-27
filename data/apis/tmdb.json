@@ -1,0 +1,10 @@
+{
+  "name": "TMDb",
+  "slug": "tmdb",
+  "category": "video",
+  "description": "Community-based movie data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.themoviedb.org/documentation/api"
+}

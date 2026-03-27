@@ -1,0 +1,10 @@
+{
+  "name": "MojoAuth",
+  "slug": "mojoauth",
+  "category": "authentication-&-authorization",
+  "description": "Secure and modern passwordless authentication platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://mojoauth.com"
+}

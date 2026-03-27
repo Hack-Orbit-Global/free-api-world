@@ -1,0 +1,10 @@
+{
+  "name": "Buddy",
+  "slug": "buddy",
+  "category": "continuous-integration",
+  "description": "The fastest continuous integration and continuous delivery platform",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://buddy.works/docs/api/getting-started/overview"
+}

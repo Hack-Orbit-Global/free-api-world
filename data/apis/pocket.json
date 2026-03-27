@@ -1,0 +1,10 @@
+{
+  "name": "Pocket",
+  "slug": "pocket",
+  "category": "documents-&-productivity",
+  "description": "Bookmarking service",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://getpocket.com/developer/"
+}

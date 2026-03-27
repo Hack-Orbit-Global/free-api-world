@@ -1,0 +1,10 @@
+{
+  "name": "GoTiny",
+  "slug": "gotiny",
+  "category": "url-shorteners",
+  "description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/robvanbakel/gotiny-api"
+}

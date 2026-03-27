@@ -1,0 +1,10 @@
+{
+  "name": "TransitLand",
+  "slug": "transitland",
+  "category": "transportation",
+  "description": "Transit Aggregation",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.transit.land/documentation/datastore/api-endpoints.html"
+}

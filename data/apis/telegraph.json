@@ -1,0 +1,10 @@
+{
+  "name": "Telegraph",
+  "slug": "telegraph",
+  "category": "social",
+  "description": "Create attractive blogs easily, to share",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://telegra.ph/api"
+}

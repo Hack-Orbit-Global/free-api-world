@@ -1,0 +1,10 @@
+{
+  "name": "Messari",
+  "slug": "messari",
+  "category": "cryptocurrency",
+  "description": "Provides API endpoints for thousands of crypto assets",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://messari.io/api"
+}

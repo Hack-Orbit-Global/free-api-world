@@ -1,0 +1,10 @@
+{
+  "name": "Vimeo",
+  "slug": "vimeo",
+  "category": "video",
+  "description": "Vimeo Developer API",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.vimeo.com/"
+}

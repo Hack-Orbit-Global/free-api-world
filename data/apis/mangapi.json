@@ -1,0 +1,10 @@
+{
+  "name": "Mangapi",
+  "slug": "mangapi",
+  "category": "anime",
+  "description": "Translate manga pages from one language to another",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Checkiday - National Holiday API",
+  "slug": "checkiday---national-holiday-api",
+  "category": "calendar",
+  "description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World\u2019s leading companies",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apilayer.com/marketplace/checkiday-api"
+}

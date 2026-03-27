@@ -1,0 +1,10 @@
+{
+  "name": "Freesound",
+  "slug": "freesound",
+  "category": "music",
+  "description": "Music Samples",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://freesound.org/docs/api/"
+}

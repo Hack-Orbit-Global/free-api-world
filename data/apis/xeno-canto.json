@@ -1,0 +1,10 @@
+{
+  "name": "xeno-canto",
+  "slug": "xeno-canto",
+  "category": "animals",
+  "description": "Bird recordings",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://xeno-canto.org/explore/api"
+}

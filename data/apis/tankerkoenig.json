@@ -1,0 +1,10 @@
+{
+  "name": "Tankerkoenig",
+  "slug": "tankerkoenig",
+  "category": "transportation",
+  "description": "German realtime gas/diesel prices",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://creativecommons.tankerkoenig.de/swagger/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Waifu.pics",
+  "slug": "waifupics",
+  "category": "anime",
+  "description": "Image sharing platform for anime images",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://waifu.pics/docs"
+}

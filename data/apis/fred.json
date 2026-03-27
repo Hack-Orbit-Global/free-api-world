@@ -1,0 +1,10 @@
+{
+  "name": "FRED",
+  "slug": "fred",
+  "category": "finance",
+  "description": "Economic data from the Federal Reserve Bank of St. Louis",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://fred.stlouisfed.org/docs/api/fred/"
+}

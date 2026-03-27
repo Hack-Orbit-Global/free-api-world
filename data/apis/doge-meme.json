@@ -1,0 +1,10 @@
+{
+  "name": "Doge-Meme",
+  "slug": "doge-meme",
+  "category": "social",
+  "description": "Top meme posts from r/dogecoin which include 'Meme' flair",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.doge-meme.lol/docs"
+}

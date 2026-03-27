@@ -1,0 +1,10 @@
+{
+  "name": "GetOTP",
+  "slug": "getotp",
+  "category": "authentication-&-authorization",
+  "description": "Implement OTP flow quickly",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://otp.dev/en/docs/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Yes No",
+  "slug": "yes-no",
+  "category": "test-data",
+  "description": "Generate yes or no randomly",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://yesno.wtf/api"
+}

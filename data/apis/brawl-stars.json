@@ -1,0 +1,10 @@
+{
+  "name": "Brawl Stars",
+  "slug": "brawl-stars",
+  "category": "games-&-comics",
+  "description": "Brawl Stars Game Information",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.brawlstars.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Warrant",
+  "slug": "warrant",
+  "category": "authentication-&-authorization",
+  "description": "APIs for authorization and access control",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://warrant.dev/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Random Useless Facts",
+  "slug": "random-useless-facts",
+  "category": "entertainment",
+  "description": "Get useless, but true facts",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://uselessfacts.jsph.pl/"
+}

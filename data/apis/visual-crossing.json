@@ -1,0 +1,10 @@
+{
+  "name": "Visual Crossing",
+  "slug": "visual-crossing",
+  "category": "weather",
+  "description": "Global historical and weather forecast data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.visualcrossing.com/weather-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Line",
+  "slug": "line",
+  "category": "social",
+  "description": "Line Login, Share on Line, Social Plugins and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.line.biz/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "apilayer languagelayer",
+  "slug": "apilayer-languagelayer",
+  "category": "text-analysis",
+  "description": "Language Detection JSON API supporting 173 languages",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://languagelayer.com/"
+}

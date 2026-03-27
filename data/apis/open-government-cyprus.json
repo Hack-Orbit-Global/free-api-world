@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Cyprus",
+  "slug": "open-government-cyprus",
+  "category": "government",
+  "description": "Cyprus Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.cy/?language=en"
+}

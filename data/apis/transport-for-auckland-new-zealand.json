@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Auckland, New Zealand",
+  "slug": "transport-for-auckland-new-zealand",
+  "category": "transportation",
+  "description": "Auckland Transport",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://dev-portal.at.govt.nz/"
+}

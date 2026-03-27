@@ -1,0 +1,10 @@
+{
+  "name": "IBM Text to Speech",
+  "slug": "ibm-text-to-speech",
+  "category": "development",
+  "description": "Convert text to speech",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Economia.Awesome",
+  "slug": "economiaawesome",
+  "category": "currency-exchange",
+  "description": "Portuguese free currency prices and conversion with no rate limits",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.awesomeapi.com.br/api-de-moedas"
+}

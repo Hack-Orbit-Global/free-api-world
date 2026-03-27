@@ -1,0 +1,10 @@
+{
+  "name": "Mojang",
+  "slug": "mojang",
+  "category": "games-&-comics",
+  "description": "Mojang / Minecraft API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://wiki.vg/Mojang_API"
+}

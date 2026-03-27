@@ -1,0 +1,10 @@
+{
+  "name": "Weatherbit",
+  "slug": "weatherbit",
+  "category": "weather",
+  "description": "Weather",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.weatherbit.io/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Web of Trust",
+  "slug": "web-of-trust",
+  "category": "anti-malware",
+  "description": "IP/domain/URL reputation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://support.mywot.com/hc/en-us/sections/360004477734-API-"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "The Null Pointer",
+  "slug": "the-null-pointer",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "No-bullshit file hosting and URL shortening service",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://0x0.st"
+}

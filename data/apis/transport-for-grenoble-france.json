@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Grenoble, France",
+  "slug": "transport-for-grenoble-france",
+  "category": "transportation",
+  "description": "Grenoble public transport",
+  "auth": "No",
+  "https": false,
+  "cors": "No",
+  "link": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html"
+}

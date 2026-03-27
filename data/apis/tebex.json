@@ -1,0 +1,10 @@
+{
+  "name": "Tebex",
+  "slug": "tebex",
+  "category": "games-&-comics",
+  "description": "Tebex API for information about game purchases",
+  "auth": "`X-Mashape-Key`",
+  "https": true,
+  "cors": "No",
+  "link": "https://docs.tebex.io/plugin/"
+}

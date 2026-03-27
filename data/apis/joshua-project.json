@@ -1,0 +1,10 @@
+{
+  "name": "Joshua Project",
+  "slug": "joshua-project",
+  "category": "open-data",
+  "description": "People groups of the world with the fewest followers of Christ",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.joshuaproject.net/"
+}

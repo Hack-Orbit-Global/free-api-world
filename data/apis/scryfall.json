@@ -1,0 +1,10 @@
+{
+  "name": "Scryfall",
+  "slug": "scryfall",
+  "category": "games-&-comics",
+  "description": "Magic: The Gathering database",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://scryfall.com/docs/api"
+}

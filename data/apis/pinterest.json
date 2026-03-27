@@ -1,0 +1,10 @@
+{
+  "name": "Pinterest",
+  "slug": "pinterest",
+  "category": "social",
+  "description": "The world's catalog of ideas",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.pinterest.com/"
+}

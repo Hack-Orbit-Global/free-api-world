@@ -1,0 +1,10 @@
+{
+  "name": "DevITjobs UK",
+  "slug": "devitjobs-uk",
+  "category": "jobs",
+  "description": "Jobs with GraphQL",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://devitjobs.uk/job_feed.xml"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sunrise and Sunset",
+  "slug": "sunrise-and-sunset",
+  "category": "science-&-math",
+  "description": "Sunset and sunrise times for a given latitude and longitude",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://sunrise-sunset.org/api"
+}

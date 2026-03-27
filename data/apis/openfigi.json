@@ -1,0 +1,10 @@
+{
+  "name": "OpenFIGI",
+  "slug": "openfigi",
+  "category": "finance",
+  "description": "Equity, index, futures, options symbology from Bloomberg LP",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.openfigi.com/api"
+}

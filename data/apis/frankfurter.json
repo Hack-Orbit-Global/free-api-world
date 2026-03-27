@@ -1,0 +1,10 @@
+{
+  "name": "Frankfurter",
+  "slug": "frankfurter",
+  "category": "currency-exchange",
+  "description": "Exchange rates, currency conversion and time series",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.frankfurter.app/docs"
+}

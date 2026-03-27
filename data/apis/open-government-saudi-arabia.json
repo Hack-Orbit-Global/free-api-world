@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Saudi Arabia",
+  "slug": "open-government-saudi-arabia",
+  "category": "government",
+  "description": "Saudi Arabia Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.sa"
+}

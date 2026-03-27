@@ -1,0 +1,10 @@
+{
+  "name": "Halo",
+  "slug": "halo",
+  "category": "games-&-comics",
+  "description": "Halo 5 and Halo Wars 2 Information",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.haloapi.com/"
+}

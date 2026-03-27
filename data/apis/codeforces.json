@@ -1,0 +1,10 @@
+{
+  "name": "Codeforces",
+  "slug": "codeforces",
+  "category": "programming",
+  "description": "Get access to Codeforces data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://codeforces.com/apiHelp"
+}

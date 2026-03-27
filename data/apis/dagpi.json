@@ -1,0 +1,10 @@
+{
+  "name": "Dagpi",
+  "slug": "dagpi",
+  "category": "photography",
+  "description": "Image manipulation and processing",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://dagpi.xyz"
+}

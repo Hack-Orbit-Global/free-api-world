@@ -1,0 +1,10 @@
+{
+  "name": "Google Earth Engine",
+  "slug": "google-earth-engine",
+  "category": "geocoding",
+  "description": "A cloud-based platform for planetary-scale environmental data analysis",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.google.com/earth-engine/"
+}

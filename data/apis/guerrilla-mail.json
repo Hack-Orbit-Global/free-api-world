@@ -1,0 +1,10 @@
+{
+  "name": "Guerrilla Mail",
+  "slug": "guerrilla-mail",
+  "category": "email",
+  "description": "Disposable temporary Email addresses",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.guerrillamail.com/GuerrillaMailAPI.html"
+}

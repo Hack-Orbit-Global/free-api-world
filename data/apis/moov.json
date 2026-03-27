@@ -1,0 +1,10 @@
+{
+  "name": "Moov",
+  "slug": "moov",
+  "category": "finance",
+  "description": "The Moov API makes it simple for platforms to send, receive, and store money",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.moov.io/api/"
+}

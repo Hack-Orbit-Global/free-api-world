@@ -1,0 +1,10 @@
+{
+  "name": "Verifier",
+  "slug": "verifier",
+  "category": "email",
+  "description": "Verifies that a given email is real",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://verifier.meetchopra.com/docs#/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Telegram MTProto",
+  "slug": "telegram-mtproto",
+  "category": "social",
+  "description": "Read and write Telegram data",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://core.telegram.org/api#getting-started"
+}

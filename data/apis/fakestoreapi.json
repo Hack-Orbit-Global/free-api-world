@@ -1,0 +1,10 @@
+{
+  "name": "FakeStoreAPI",
+  "slug": "fakestoreapi",
+  "category": "test-data",
+  "description": "Fake store rest API for your e-commerce or shopping website prototype",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://fakestoreapi.com/"
+}

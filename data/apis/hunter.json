@@ -1,0 +1,10 @@
+{
+  "name": "Hunter",
+  "slug": "hunter",
+  "category": "development",
+  "description": "API for domain search, professional email finder, author finder and email verifier",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://hunter.io/api"
+}

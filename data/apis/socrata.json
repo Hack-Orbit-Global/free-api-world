@@ -1,0 +1,10 @@
+{
+  "name": "Socrata",
+  "slug": "socrata",
+  "category": "open-data",
+  "description": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://dev.socrata.com/"
+}

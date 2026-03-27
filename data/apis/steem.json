@@ -1,0 +1,10 @@
+{
+  "name": "Steem",
+  "slug": "steem",
+  "category": "blockchain",
+  "description": "Blockchain-based blogging and social media website",
+  "auth": "No",
+  "https": false,
+  "cors": "No",
+  "link": "https://developers.steem.io/"
+}

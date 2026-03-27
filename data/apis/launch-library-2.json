@@ -1,0 +1,10 @@
+{
+  "name": "Launch Library 2",
+  "slug": "launch-library-2",
+  "category": "science-&-math",
+  "description": "Spaceflight launches and events database",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://thespacedevs.com/llapi"
+}

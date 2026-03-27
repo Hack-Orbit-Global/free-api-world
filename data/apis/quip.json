@@ -1,0 +1,10 @@
+{
+  "name": "Quip",
+  "slug": "quip",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "File Sharing and Storage for groups",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quip.com/dev/automation/documentation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hypixel",
+  "slug": "hypixel",
+  "category": "games-&-comics",
+  "description": "Hypixel player stats",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.hypixel.net/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stranger Things Quotes",
+  "slug": "stranger-things-quotes",
+  "category": "video",
+  "description": "Returns Stranger Things quotes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/shadowoff09/strangerthings-quotes"
+}

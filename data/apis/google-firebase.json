@@ -1,0 +1,10 @@
+{
+  "name": "Google Firebase",
+  "slug": "google-firebase",
+  "category": "development",
+  "description": "Google's mobile application development platform that helps build, improve, and grow app",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://firebase.google.com/docs"
+}

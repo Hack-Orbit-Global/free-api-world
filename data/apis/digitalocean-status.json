@@ -1,0 +1,10 @@
+{
+  "name": "DigitalOcean Status",
+  "slug": "digitalocean-status",
+  "category": "development",
+  "description": "Status of all DigitalOcean services",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://status.digitalocean.com/api"
+}

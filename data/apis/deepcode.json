@@ -1,0 +1,10 @@
+{
+  "name": "Deepcode",
+  "slug": "deepcode",
+  "category": "machine-learning",
+  "description": "AI for code review",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.deepcode.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Indonesia Dictionary",
+  "slug": "indonesia-dictionary",
+  "category": "dictionaries",
+  "description": "Indonesia dictionary many words",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://new-kbbi-api.herokuapp.com/"
+}

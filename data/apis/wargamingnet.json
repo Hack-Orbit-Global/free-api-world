@@ -1,0 +1,10 @@
+{
+  "name": "Wargaming.net",
+  "slug": "wargamingnet",
+  "category": "games-&-comics",
+  "description": "Wargaming.net info and stats",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://developers.wargaming.net/"
+}

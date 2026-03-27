@@ -1,0 +1,10 @@
+{
+  "name": "Holidays",
+  "slug": "holidays",
+  "category": "calendar",
+  "description": "Historical data regarding holidays",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://holidayapi.com/"
+}

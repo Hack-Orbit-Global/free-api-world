@@ -1,0 +1,10 @@
+{
+  "name": "Wikipedia",
+  "slug": "wikipedia",
+  "category": "open-data",
+  "description": "Mediawiki Encyclopedia",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.mediawiki.org/wiki/API:Main_page"
+}

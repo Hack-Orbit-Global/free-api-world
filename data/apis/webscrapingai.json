@@ -1,0 +1,10 @@
+{
+  "name": "WebScraping.AI",
+  "slug": "webscrapingai",
+  "category": "development",
+  "description": "Web Scraping API with built-in proxies and JS rendering",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://webscraping.ai/"
+}

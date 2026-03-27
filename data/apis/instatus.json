@@ -1,0 +1,10 @@
+{
+  "name": "Instatus",
+  "slug": "instatus",
+  "category": "business",
+  "description": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://instatus.com/help/api"
+}

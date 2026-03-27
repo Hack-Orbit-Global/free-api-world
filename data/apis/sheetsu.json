@@ -1,0 +1,10 @@
+{
+  "name": "Sheetsu",
+  "slug": "sheetsu",
+  "category": "development",
+  "description": "Easy google sheets integration",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://sheetsu.com/"
+}

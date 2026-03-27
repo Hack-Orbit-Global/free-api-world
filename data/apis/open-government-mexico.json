@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Mexico",
+  "slug": "open-government-mexico",
+  "category": "government",
+  "description": "Mexico Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://datos.gob.mx/"
+}

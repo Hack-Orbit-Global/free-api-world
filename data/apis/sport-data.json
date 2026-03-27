@@ -1,0 +1,10 @@
+{
+  "name": "Sport Data",
+  "slug": "sport-data",
+  "category": "sports-&-fitness",
+  "description": "Get sports data from all over the world",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://sportdataapi.com"
+}

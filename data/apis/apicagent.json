@@ -1,0 +1,10 @@
+{
+  "name": "ApicAgent",
+  "slug": "apicagent",
+  "category": "development",
+  "description": "Extract device details from user-agent string",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.apicagent.com"
+}

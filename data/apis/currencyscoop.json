@@ -1,0 +1,10 @@
+{
+  "name": "CurrencyScoop",
+  "slug": "currencyscoop",
+  "category": "currency-exchange",
+  "description": "Real-time and historical currency rates JSON API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://currencyscoop.com/api-documentation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sentiment Analysis",
+  "slug": "sentiment-analysis",
+  "category": "text-analysis",
+  "description": "Multilingual sentiment analysis of texts from different sources",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.meaningcloud.com/developer/sentiment-analysis"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Geokeo",
+  "slug": "geokeo",
+  "category": "geocoding",
+  "description": "Geokeo geocoding service- with 2500 free api requests daily",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://geokeo.com"
+}

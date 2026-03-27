@@ -1,0 +1,10 @@
+{
+  "name": "Wallhaven",
+  "slug": "wallhaven",
+  "category": "photography",
+  "description": "Wallpapers",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://wallhaven.cc/help/api"
+}

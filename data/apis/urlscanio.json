@@ -1,0 +1,10 @@
+{
+  "name": "URLScan.io",
+  "slug": "urlscanio",
+  "category": "anti-malware",
+  "description": "Scan and Analyse URLs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://urlscan.io/about-api/"
+}

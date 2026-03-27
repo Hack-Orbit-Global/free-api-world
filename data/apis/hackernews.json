@@ -1,0 +1,10 @@
+{
+  "name": "HackerNews",
+  "slug": "hackernews",
+  "category": "social",
+  "description": "Social news for CS and entrepreneurship",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/HackerNews/API"
+}

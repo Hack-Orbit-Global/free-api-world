@@ -1,0 +1,10 @@
+{
+  "name": "Data.gov",
+  "slug": "datagov",
+  "category": "government",
+  "description": "US Government Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.data.gov/"
+}

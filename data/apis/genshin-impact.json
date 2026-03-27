@@ -1,0 +1,10 @@
+{
+  "name": "Genshin Impact",
+  "slug": "genshin-impact",
+  "category": "games-&-comics",
+  "description": "Genshin Impact game data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://genshin.dev"
+}

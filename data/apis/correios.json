@@ -1,0 +1,10 @@
+{
+  "name": "Correios",
+  "slug": "correios",
+  "category": "tracking",
+  "description": "Integration to provide information and prepare shipments using Correio's services",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://cws.correios.com.br/ajuda"
+}

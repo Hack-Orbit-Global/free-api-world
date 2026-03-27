@@ -1,0 +1,10 @@
+{
+  "name": "Api2Convert",
+  "slug": "api2convert",
+  "category": "documents-&-productivity",
+  "description": "Online File Conversion API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.api2convert.com/"
+}

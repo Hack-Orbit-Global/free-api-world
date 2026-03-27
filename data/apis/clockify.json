@@ -1,0 +1,10 @@
+{
+  "name": "Clockify",
+  "slug": "clockify",
+  "category": "documents-&-productivity",
+  "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://clockify.me/developers-api "
+}

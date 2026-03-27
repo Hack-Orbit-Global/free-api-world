@@ -1,0 +1,10 @@
+{
+  "name": "Fruityvice",
+  "slug": "fruityvice",
+  "category": "food-&-drink",
+  "description": "Data about all kinds of fruit",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.fruityvice.com"
+}

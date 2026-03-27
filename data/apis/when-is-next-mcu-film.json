@@ -1,0 +1,10 @@
+{
+  "name": "When is next MCU film",
+  "slug": "when-is-next-mcu-film",
+  "category": "games-&-comics",
+  "description": "Upcoming MCU film information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md"
+}

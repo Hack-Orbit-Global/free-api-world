@@ -1,0 +1,10 @@
+{
+  "name": "airportsapi",
+  "slug": "airportsapi",
+  "category": "transportation",
+  "description": "Get name and website-URL for airports by ICAO code",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://airport-web.appspot.com/api/docs/"
+}

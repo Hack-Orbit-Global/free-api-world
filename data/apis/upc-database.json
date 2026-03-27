@@ -1,0 +1,10 @@
+{
+  "name": "UPC database",
+  "slug": "upc-database",
+  "category": "open-data",
+  "description": "More than 1.5 million barcode numbers from all around the world",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://upcdatabase.org/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dungeons and Dragons",
+  "slug": "dungeons-and-dragons",
+  "category": "games-&-comics",
+  "description": "Reference for 5th edition spells, classes, monsters, and more",
+  "auth": "No",
+  "https": false,
+  "cors": "No",
+  "link": "https://www.dnd5eapi.co/docs/"
+}

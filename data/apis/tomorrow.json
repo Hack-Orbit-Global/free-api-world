@@ -1,0 +1,10 @@
+{
+  "name": "Tomorrow",
+  "slug": "tomorrow",
+  "category": "weather",
+  "description": "Weather API Powered by Proprietary Technology",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.tomorrow.io"
+}

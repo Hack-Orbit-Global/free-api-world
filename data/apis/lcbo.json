@@ -1,0 +1,10 @@
+{
+  "name": "LCBO",
+  "slug": "lcbo",
+  "category": "food-&-drink",
+  "description": "Alcohol",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://lcboapi.com/"
+}

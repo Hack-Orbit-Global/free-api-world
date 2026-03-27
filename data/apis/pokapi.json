@@ -1,0 +1,10 @@
+{
+  "name": "Pok\u00e9api",
+  "slug": "pokapi",
+  "category": "games-&-comics",
+  "description": "Pok\u00e9mon Information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://pokeapi.co"
+}

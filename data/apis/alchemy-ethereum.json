@@ -1,0 +1,10 @@
+{
+  "name": "Alchemy Ethereum",
+  "slug": "alchemy-ethereum",
+  "category": "cryptocurrency",
+  "description": "Ethereum Node-as-a-Service Provider",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.alchemy.com/alchemy/"
+}

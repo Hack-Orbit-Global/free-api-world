@@ -1,0 +1,10 @@
+{
+  "name": "JCDecaux Bike",
+  "slug": "jcdecaux-bike",
+  "category": "sports-&-fitness",
+  "description": "JCDecaux's self-service bicycles",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.jcdecaux.com/"
+}

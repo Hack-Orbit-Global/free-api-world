@@ -1,0 +1,10 @@
+{
+  "name": "Datamuse",
+  "slug": "datamuse",
+  "category": "open-source-projects",
+  "description": "Word-finding query engine",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.datamuse.com/api/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mailchimp",
+  "slug": "mailchimp",
+  "category": "business",
+  "description": "Send marketing campaigns and transactional mails",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://mailchimp.com/developer/"
+}

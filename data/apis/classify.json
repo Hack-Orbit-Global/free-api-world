@@ -1,0 +1,10 @@
+{
+  "name": "Classify",
+  "slug": "classify",
+  "category": "security",
+  "description": "Encrypting & decrypting text messages",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://classify-web.herokuapp.com/#/api"
+}

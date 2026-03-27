@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Lisbon, Portugal",
+  "slug": "transport-for-lisbon-portugal",
+  "category": "transportation",
+  "description": "Data about buses routes, parking and traffic",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://emel.city-platform.com/opendata/"
+}

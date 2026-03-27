@@ -1,0 +1,10 @@
+{
+  "name": "kanye.rest",
+  "slug": "kanyerest",
+  "category": "personality",
+  "description": "REST API for random Kanye West quotes",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://kanye.rest"
+}

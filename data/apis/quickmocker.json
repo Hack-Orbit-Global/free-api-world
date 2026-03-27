@@ -1,0 +1,10 @@
+{
+  "name": "QuickMocker",
+  "slug": "quickmocker",
+  "category": "test-data",
+  "description": "API mocking tool to generate contextual, fake or random data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://quickmocker.com"
+}

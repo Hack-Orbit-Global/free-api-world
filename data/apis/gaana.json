@@ -1,0 +1,10 @@
+{
+  "name": "Gaana",
+  "slug": "gaana",
+  "category": "music",
+  "description": "API to retrieve song information from Gaana",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/cyberboysumanjay/GaanaAPI"
+}

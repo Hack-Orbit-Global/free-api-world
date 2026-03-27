@@ -1,0 +1,10 @@
+{
+  "name": "Jooble",
+  "slug": "jooble",
+  "category": "jobs",
+  "description": "Job search engine",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://jooble.org/api/about"
+}

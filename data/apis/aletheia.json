@@ -1,0 +1,10 @@
+{
+  "name": "Aletheia",
+  "slug": "aletheia",
+  "category": "finance",
+  "description": "Insider trading data, earnings call analysis, financial statements, and more",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://aletheiaapi.com/"
+}

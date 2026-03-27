@@ -1,0 +1,10 @@
+{
+  "name": "Tax Data API",
+  "slug": "tax-data-api",
+  "category": "finance",
+  "description": "Instant VAT number and tax validation across the globe",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unkown",
+  "link": "https://apilayer.com/marketplace/tax_data-api"
+}

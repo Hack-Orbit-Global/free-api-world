@@ -1,0 +1,10 @@
+{
+  "name": "Netlify",
+  "slug": "netlify",
+  "category": "development",
+  "description": "Netlify is a hosting service for the programmable web",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.netlify.com/api/get-started/"
+}

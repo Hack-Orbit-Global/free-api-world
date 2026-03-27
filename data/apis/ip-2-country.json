@@ -1,0 +1,10 @@
+{
+  "name": "IP 2 Country",
+  "slug": "ip-2-country",
+  "category": "geocoding",
+  "description": "Map an IP to a country",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ip2country.info"
+}

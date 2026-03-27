@@ -1,0 +1,10 @@
+{
+  "name": "7digital",
+  "slug": "7digital",
+  "category": "music",
+  "description": "Api of Music store 7digital",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.7digital.com/reference"
+}

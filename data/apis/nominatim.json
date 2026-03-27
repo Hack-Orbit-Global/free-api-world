@@ -1,0 +1,10 @@
+{
+  "name": "Nominatim",
+  "slug": "nominatim",
+  "category": "geocoding",
+  "description": "Provides worldwide forward / reverse geocoding",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://nominatim.org/release-docs/latest/api/Overview/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SoundCloud",
+  "slug": "soundcloud",
+  "category": "music",
+  "description": "With SoundCloud API you can build applications that will give more power to control your content",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.soundcloud.com/docs/api/guide"
+}

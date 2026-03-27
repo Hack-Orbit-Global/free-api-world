@@ -1,0 +1,10 @@
+{
+  "name": "GeoDataSource",
+  "slug": "geodatasource",
+  "category": "geocoding",
+  "description": "Geocoding of city name by using latitude and longitude coordinates",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.geodatasource.com/web-service"
+}

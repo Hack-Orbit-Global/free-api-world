@@ -1,0 +1,10 @@
+{
+  "name": "Financial Modeling Prep",
+  "slug": "financial-modeling-prep",
+  "category": "finance",
+  "description": "Realtime and historical stock data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://site.financialmodelingprep.com/developer/docs"
+}

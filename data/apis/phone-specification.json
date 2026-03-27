@@ -1,0 +1,10 @@
+{
+  "name": "Phone Specification",
+  "slug": "phone-specification",
+  "category": "phone",
+  "description": "Rest Api for Phone specifications",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/azharimm/phone-specs-api"
+}

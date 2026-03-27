@@ -1,0 +1,10 @@
+{
+  "name": "xMath",
+  "slug": "xmath",
+  "category": "science-&-math",
+  "description": "Random mathematical expressions",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://x-math.herokuapp.com/"
+}

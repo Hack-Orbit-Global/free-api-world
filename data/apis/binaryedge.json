@@ -1,0 +1,10 @@
+{
+  "name": "BinaryEdge",
+  "slug": "binaryedge",
+  "category": "security",
+  "description": "Provide access to BinaryEdge 40fy scanning platform",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.binaryedge.io/api-v2.html"
+}

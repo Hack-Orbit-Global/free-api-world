@@ -1,0 +1,10 @@
+{
+  "name": "SHARE",
+  "slug": "share",
+  "category": "science-&-math",
+  "description": "A free, open, dataset about research and scholarly activities",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://share.osf.io/api/v2/"
+}

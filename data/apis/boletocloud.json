@@ -1,0 +1,10 @@
+{
+  "name": "Boleto.Cloud",
+  "slug": "boletocloud",
+  "category": "finance",
+  "description": "A api to generate boletos in Brazil",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://boleto.cloud/"
+}

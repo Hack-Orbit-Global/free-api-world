@@ -1,0 +1,10 @@
+{
+  "name": "Azure DevOps Health",
+  "slug": "azure-devops-health",
+  "category": "continuous-integration",
+  "description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "No",
+  "link": "https://docs.microsoft.com/en-us/rest/api/resourcehealth"
+}

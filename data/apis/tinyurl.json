@@ -1,0 +1,10 @@
+{
+  "name": "TinyURL",
+  "slug": "tinyurl",
+  "category": "url-shorteners",
+  "description": "Shorten long URLs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://tinyurl.com/app/dev"
+}

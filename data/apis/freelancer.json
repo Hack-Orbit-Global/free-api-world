@@ -1,0 +1,10 @@
+{
+  "name": "Freelancer",
+  "slug": "freelancer",
+  "category": "business",
+  "description": "Hire freelancers to get work done",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.freelancer.com"
+}

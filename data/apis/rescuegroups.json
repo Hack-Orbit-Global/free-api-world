@@ -1,0 +1,10 @@
+{
+  "name": "RescueGroups",
+  "slug": "rescuegroups",
+  "category": "animals",
+  "description": "Adoption",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+}

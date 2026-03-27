@@ -1,0 +1,10 @@
+{
+  "name": "IG",
+  "slug": "ig",
+  "category": "finance",
+  "description": "Spreadbetting and CFD Market Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://labs.ig.com/gettingstarted"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "City Bikes",
+  "slug": "city-bikes",
+  "category": "sports-&-fitness",
+  "description": "City Bikes around the world",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.citybik.es/v2/"
+}

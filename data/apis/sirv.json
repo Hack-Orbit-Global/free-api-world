@@ -1,0 +1,10 @@
+{
+  "name": "Sirv",
+  "slug": "sirv",
+  "category": "photography",
+  "description": "Image management solutions like optimization, manipulation, hosting",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apidocs.sirv.com/"
+}

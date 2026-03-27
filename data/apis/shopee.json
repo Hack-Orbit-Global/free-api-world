@@ -1,0 +1,10 @@
+{
+  "name": "Shopee",
+  "slug": "shopee",
+  "category": "shopping",
+  "description": "Shopee's official API for integration of various services from Shopee",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://open.shopee.com/documents?version=1"
+}

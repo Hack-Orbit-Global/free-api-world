@@ -1,0 +1,10 @@
+{
+  "name": "Imgflip",
+  "slug": "imgflip",
+  "category": "entertainment",
+  "description": "Gets an array of popular memes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://imgflip.com/api"
+}

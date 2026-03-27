@@ -1,0 +1,10 @@
+{
+  "name": "Graph Countries",
+  "slug": "graph-countries",
+  "category": "geocoding",
+  "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/lennertVanSever/graphcountries"
+}

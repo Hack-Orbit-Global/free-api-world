@@ -1,0 +1,10 @@
+{
+  "name": "IFTTT",
+  "slug": "ifttt",
+  "category": "development",
+  "description": "IFTTT Connect API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://platform.ifttt.com/docs/connect_api"
+}

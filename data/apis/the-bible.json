@@ -1,0 +1,10 @@
+{
+  "name": "The Bible",
+  "slug": "the-bible",
+  "category": "books",
+  "description": "Everything you need from the Bible in one discoverable place",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.api.bible"
+}

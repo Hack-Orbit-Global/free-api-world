@@ -1,0 +1,10 @@
+{
+  "name": "PVWatts",
+  "slug": "pvwatts",
+  "category": "environment",
+  "description": "Energy production photovoltaic (PV) energy systems",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.nrel.gov/docs/solar/pvwatts/v6/"
+}

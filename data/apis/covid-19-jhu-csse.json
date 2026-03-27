@@ -1,0 +1,10 @@
+{
+  "name": "Covid-19 JHU CSSE",
+  "slug": "covid-19-jhu-csse",
+  "category": "health",
+  "description": "Open-source API for exploring Covid19 cases based on JHU CSSE",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://nuttaphat.com/covid19-api/"
+}

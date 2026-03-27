@@ -1,0 +1,10 @@
+{
+  "name": "Block",
+  "slug": "block",
+  "category": "cryptocurrency",
+  "description": "Bitcoin Payment, Wallet & Transaction Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://block.io/docs/basic"
+}

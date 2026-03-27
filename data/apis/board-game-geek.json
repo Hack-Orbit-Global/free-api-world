@@ -1,0 +1,10 @@
+{
+  "name": "Board Game Geek",
+  "slug": "board-game-geek",
+  "category": "games-&-comics",
+  "description": "Board games, RPG and videogames",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://boardgamegeek.com/wiki/page/BGG_XML_API2"
+}

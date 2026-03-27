@@ -1,0 +1,10 @@
+{
+  "name": "MeowFacts",
+  "slug": "meowfacts",
+  "category": "animals",
+  "description": "Get random cat facts",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://github.com/wh-iterabb-it/meowfacts"
+}

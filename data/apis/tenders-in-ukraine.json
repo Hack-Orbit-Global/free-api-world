@@ -1,0 +1,10 @@
+{
+  "name": "Tenders in Ukraine",
+  "slug": "tenders-in-ukraine",
+  "category": "business",
+  "description": "Get data for procurements in Ukraine in JSON format",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://tenders.guru/ua/api"
+}

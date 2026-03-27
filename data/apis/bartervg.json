@@ -1,0 +1,10 @@
+{
+  "name": "Barter.VG",
+  "slug": "bartervg",
+  "category": "games-&-comics",
+  "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/bartervg/barter.vg/wiki"
+}

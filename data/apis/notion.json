@@ -1,0 +1,10 @@
+{
+  "name": "Notion",
+  "slug": "notion",
+  "category": "documents-&-productivity",
+  "description": "Integrate with Notion",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.notion.com/docs/getting-started"
+}

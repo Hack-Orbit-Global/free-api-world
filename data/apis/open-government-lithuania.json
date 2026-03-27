@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Lithuania",
+  "slug": "open-government-lithuania",
+  "category": "government",
+  "description": "Lithuania Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.lt/public/api/1"
+}

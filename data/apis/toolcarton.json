@@ -1,0 +1,10 @@
+{
+  "name": "Toolcarton",
+  "slug": "toolcarton",
+  "category": "test-data",
+  "description": "Generate random testimonial data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://testimonialapi.toolcarton.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GreyNoise",
+  "slug": "greynoise",
+  "category": "security",
+  "description": "Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.greynoise.io/reference/get_v3-community-ip"
+}

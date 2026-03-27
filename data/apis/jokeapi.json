@@ -1,0 +1,10 @@
+{
+  "name": "JokeAPI",
+  "slug": "jokeapi",
+  "category": "games-&-comics",
+  "description": "Programming, Miscellaneous and Dark Jokes",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://sv443.net/jokeapi/v2/"
+}

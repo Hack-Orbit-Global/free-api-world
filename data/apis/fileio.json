@@ -1,0 +1,10 @@
+{
+  "name": "File.io",
+  "slug": "fileio",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Super simple file sharing, convenient, anonymous and secure",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.file.io"
+}

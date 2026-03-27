@@ -1,0 +1,10 @@
+{
+  "name": "Citi",
+  "slug": "citi",
+  "category": "finance",
+  "description": "All Citigroup account and statement data APIs",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://sandbox.developerhub.citi.com/api-catalog-list"
+}

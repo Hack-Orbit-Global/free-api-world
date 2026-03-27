@@ -1,0 +1,10 @@
+{
+  "name": "Coinpaprika",
+  "slug": "coinpaprika",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies prices, volume and more",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.coinpaprika.com"
+}

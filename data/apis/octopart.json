@@ -1,0 +1,10 @@
+{
+  "name": "Octopart",
+  "slug": "octopart",
+  "category": "shopping",
+  "description": "Electronic part data for manufacturing, design, and sourcing",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://octopart.com/api/v4/reference"
+}

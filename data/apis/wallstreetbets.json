@@ -1,0 +1,10 @@
+{
+  "name": "WallstreetBets",
+  "slug": "wallstreetbets",
+  "category": "finance",
+  "description": "WallstreetBets Stock Comments Sentiment Analysis",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://dashboard.nbshare.io/apps/reddit/api/"
+}

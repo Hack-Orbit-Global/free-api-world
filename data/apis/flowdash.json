@@ -1,0 +1,10 @@
+{
+  "name": "Flowdash",
+  "slug": "flowdash",
+  "category": "documents-&-productivity",
+  "description": "Automate business workflows",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.flowdash.com/docs/api-introduction"
+}

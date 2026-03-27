@@ -1,0 +1,10 @@
+{
+  "name": "Crossref Metadata Search",
+  "slug": "crossref-metadata-search",
+  "category": "books",
+  "description": "Books & Articles Metadata",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/CrossRef/rest-api-doc"
+}

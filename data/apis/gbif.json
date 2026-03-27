@@ -1,0 +1,10 @@
+{
+  "name": "GBIF",
+  "slug": "gbif",
+  "category": "science-&-math",
+  "description": "Global Biodiversity Information Facility",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.gbif.org/developer/summary"
+}

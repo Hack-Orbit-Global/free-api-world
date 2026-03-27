@@ -1,0 +1,10 @@
+{
+  "name": "AniList",
+  "slug": "anilist",
+  "category": "anime",
+  "description": "Anime discovery & tracking",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/AniList/ApiV2-GraphQL-Docs"
+}

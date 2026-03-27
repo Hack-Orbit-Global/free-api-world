@@ -1,0 +1,10 @@
+{
+  "name": "Mintlify",
+  "slug": "mintlify",
+  "category": "programming",
+  "description": "For programmatically generating documentation for code",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.mintlify.com"
+}

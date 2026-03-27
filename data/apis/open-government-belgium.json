@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Belgium",
+  "slug": "open-government-belgium",
+  "category": "government",
+  "description": "Belgium Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.be/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Korea",
+  "slug": "open-government-korea",
+  "category": "government",
+  "description": "Korea Government Open Data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.data.go.kr/"
+}

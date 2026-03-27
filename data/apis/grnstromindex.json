@@ -1,0 +1,10 @@
+{
+  "name": "Gr\u00fcnstromIndex",
+  "slug": "grnstromindex",
+  "category": "environment",
+  "description": "Green Power Index for Germany (Gr\u00fcnstromindex/GSI)",
+  "auth": "No",
+  "https": false,
+  "cors": "Yes",
+  "link": "https://gruenstromindex.de/"
+}

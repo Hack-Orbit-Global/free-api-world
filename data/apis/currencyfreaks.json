@@ -1,0 +1,10 @@
+{
+  "name": "CurrencyFreaks",
+  "slug": "currencyfreaks",
+  "category": "currency-exchange",
+  "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://currencyfreaks.com/"
+}

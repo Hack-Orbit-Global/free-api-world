@@ -1,0 +1,10 @@
+{
+  "name": "Rejax",
+  "slug": "rejax",
+  "category": "development",
+  "description": "Reverse AJAX service to notify clients",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://rejax.io/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TETR.IO",
+  "slug": "tetrio",
+  "category": "games-&-comics",
+  "description": "TETR.IO Tetra Channel API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://tetr.io/about/api/"
+}

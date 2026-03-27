@@ -1,0 +1,10 @@
+{
+  "name": "icanhazdadjoke",
+  "slug": "icanhazdadjoke",
+  "category": "personality",
+  "description": "The largest selection of dad jokes on the internet",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://icanhazdadjoke.com/api"
+}

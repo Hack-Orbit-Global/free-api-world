@@ -1,0 +1,10 @@
+{
+  "name": "Currency-api",
+  "slug": "currency-api",
+  "category": "currency-exchange",
+  "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/fawazahmed0/currency-api#readme"
+}

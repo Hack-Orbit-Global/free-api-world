@@ -1,0 +1,10 @@
+{
+  "name": "NewsData",
+  "slug": "newsdata",
+  "category": "news",
+  "description": "News data API for live-breaking news and headlines from reputed  news sources",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://newsdata.io/docs"
+}

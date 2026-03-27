@@ -1,0 +1,10 @@
+{
+  "name": "Humor",
+  "slug": "humor",
+  "category": "games-&-comics",
+  "description": "Humor, Jokes, and Memes",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://humorapi.com"
+}

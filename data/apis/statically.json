@@ -1,0 +1,10 @@
+{
+  "name": "Statically",
+  "slug": "statically",
+  "category": "development",
+  "description": "A free CDN for developers",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://statically.io/"
+}

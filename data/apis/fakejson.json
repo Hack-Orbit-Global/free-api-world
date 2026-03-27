@@ -1,0 +1,10 @@
+{
+  "name": "FakeJSON",
+  "slug": "fakejson",
+  "category": "test-data",
+  "description": "Service to generate test and fake data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://fakejson.com"
+}

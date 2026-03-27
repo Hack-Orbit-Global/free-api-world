@@ -1,0 +1,10 @@
+{
+  "name": "OpenLigaDB",
+  "slug": "openligadb",
+  "category": "sports-&-fitness",
+  "description": "Crowd sourced sports league results",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.openligadb.de"
+}

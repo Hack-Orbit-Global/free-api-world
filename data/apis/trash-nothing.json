@@ -1,0 +1,10 @@
+{
+  "name": "Trash Nothing",
+  "slug": "trash-nothing",
+  "category": "social",
+  "description": "A freecycling community with thousands of free items posted every day",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://trashnothing.com/developer"
+}

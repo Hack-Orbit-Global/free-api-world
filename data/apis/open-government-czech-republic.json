@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Czech Republic",
+  "slug": "open-government-czech-republic",
+  "category": "government",
+  "description": "Czech Republic Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.gov.cz/english/"
+}

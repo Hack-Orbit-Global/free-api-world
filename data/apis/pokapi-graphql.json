@@ -1,0 +1,10 @@
+{
+  "name": "Pok\u00e9API (GraphQL)",
+  "slug": "pokapi-graphql",
+  "category": "games-&-comics",
+  "description": "The Unofficial GraphQL for PokeAPI",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://github.com/mazipan/graphql-pokeapi"
+}

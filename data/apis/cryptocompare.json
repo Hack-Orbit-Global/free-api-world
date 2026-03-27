@@ -1,0 +1,10 @@
+{
+  "name": "CryptoCompare",
+  "slug": "cryptocompare",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies Comparison",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.cryptocompare.com/api#"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Transport for UK",
+  "slug": "transport-for-uk",
+  "category": "transportation",
+  "description": "Transport API and dataset for UK",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.transportapi.com"
+}

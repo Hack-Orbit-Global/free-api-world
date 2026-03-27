@@ -1,0 +1,10 @@
+{
+  "name": "Hong Kong GeoData Store",
+  "slug": "hong-kong-geodata-store",
+  "category": "geocoding",
+  "description": "API for accessing geo-data of Hong Kong",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://geodata.gov.hk/gs/"
+}

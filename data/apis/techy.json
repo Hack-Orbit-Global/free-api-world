@@ -1,0 +1,10 @@
+{
+  "name": "Techy",
+  "slug": "techy",
+  "category": "entertainment",
+  "description": "JSON and Plaintext API for tech-savvy sounding phrases",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://techy-api.vercel.app/"
+}

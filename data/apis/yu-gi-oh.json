@@ -1,0 +1,10 @@
+{
+  "name": "Yu-Gi-Oh!",
+  "slug": "yu-gi-oh",
+  "category": "games-&-comics",
+  "description": "Yu-Gi-Oh! TCG Information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://db.ygoprodeck.com/api-guide/"
+}

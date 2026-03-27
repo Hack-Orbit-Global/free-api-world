@@ -1,0 +1,10 @@
+{
+  "name": "FakerAPI",
+  "slug": "fakerapi",
+  "category": "test-data",
+  "description": "APIs collection to get fake data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://fakerapi.it/en"
+}

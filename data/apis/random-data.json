@@ -1,0 +1,10 @@
+{
+  "name": "Random Data",
+  "slug": "random-data",
+  "category": "test-data",
+  "description": "Random data generator",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://random-data-api.com"
+}

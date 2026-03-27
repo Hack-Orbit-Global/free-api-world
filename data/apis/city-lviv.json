@@ -1,0 +1,10 @@
+{
+  "name": "City, Lviv",
+  "slug": "city-lviv",
+  "category": "government",
+  "description": "Lviv(UA) City Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://opendata.city-adm.lviv.ua/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GNews",
+  "slug": "gnews",
+  "category": "news",
+  "description": "Search for news from various sources",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://gnews.io/"
+}

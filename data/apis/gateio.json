@@ -1,0 +1,10 @@
+{
+  "name": "Gateio",
+  "slug": "gateio",
+  "category": "cryptocurrency",
+  "description": "API provides spot, margin and futures trading operations",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.gate.io/api2"
+}

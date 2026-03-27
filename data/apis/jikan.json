@@ -1,0 +1,10 @@
+{
+  "name": "Jikan",
+  "slug": "jikan",
+  "category": "anime",
+  "description": "Unofficial MyAnimeList API",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://jikan.moe"
+}

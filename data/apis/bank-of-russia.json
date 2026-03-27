@@ -1,0 +1,10 @@
+{
+  "name": "Bank of Russia",
+  "slug": "bank-of-russia",
+  "category": "currency-exchange",
+  "description": "Exchange rates and currency conversion",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.cbr.ru/development/SXML/"
+}

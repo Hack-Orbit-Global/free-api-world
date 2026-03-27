@@ -1,0 +1,10 @@
+{
+  "name": "Coffee",
+  "slug": "coffee",
+  "category": "food-&-drink",
+  "description": "Random pictures of coffee",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://coffee.alexflipnote.dev/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Randommer",
+  "slug": "randommer",
+  "category": "test-data",
+  "description": "Random data generator",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://randommer.io/randommer-api"
+}

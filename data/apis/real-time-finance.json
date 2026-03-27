@@ -1,0 +1,10 @@
+{
+  "name": "Real Time Finance",
+  "slug": "real-time-finance",
+  "category": "finance",
+  "description": "Websocket API to access realtime stock data",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://github.com/Real-time-finance/finance-websocket-API/"
+}

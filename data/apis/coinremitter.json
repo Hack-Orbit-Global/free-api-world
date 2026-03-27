@@ -1,0 +1,10 @@
+{
+  "name": "Coinremitter",
+  "slug": "coinremitter",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrencies Payment & Prices",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://coinremitter.com/docs"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "AlienVault Open Threat Exchange (OTX)",
+  "slug": "alienvault-open-threat-exchange-otx",
+  "category": "anti-malware",
+  "description": "IP/domain/URL reputation",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://otx.alienvault.com/api"
+}

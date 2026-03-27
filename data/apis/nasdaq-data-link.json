@@ -1,0 +1,10 @@
+{
+  "name": "Nasdaq Data Link",
+  "slug": "nasdaq-data-link",
+  "category": "open-data",
+  "description": "Stock market data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.data.nasdaq.com/"
+}

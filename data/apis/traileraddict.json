@@ -1,0 +1,10 @@
+{
+  "name": "TrailerAddict",
+  "slug": "traileraddict",
+  "category": "video",
+  "description": "Easily embed trailers from TrailerAddict",
+  "auth": "`apiKey`",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://www.traileraddict.com/trailerapi"
+}

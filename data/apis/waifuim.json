@@ -1,0 +1,10 @@
+{
+  "name": "Waifu.im",
+  "slug": "waifuim",
+  "category": "anime",
+  "description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://waifu.im/docs"
+}

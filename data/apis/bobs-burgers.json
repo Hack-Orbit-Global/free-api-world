@@ -1,0 +1,10 @@
+{
+  "name": "Bob's Burgers",
+  "slug": "bobs-burgers",
+  "category": "video",
+  "description": "Bob's Burgers API",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://bobs-burgers-api-ui.herokuapp.com"
+}

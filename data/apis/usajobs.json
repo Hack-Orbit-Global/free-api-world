@@ -1,0 +1,10 @@
+{
+  "name": "USAJOBS",
+  "slug": "usajobs",
+  "category": "jobs",
+  "description": "US government job board",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.usajobs.gov/"
+}

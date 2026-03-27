@@ -1,0 +1,10 @@
+{
+  "name": "OpenSanctions",
+  "slug": "opensanctions",
+  "category": "open-data",
+  "description": "Data on international sanctions, crime and politically exposed persons",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.opensanctions.org/docs/api/"
+}

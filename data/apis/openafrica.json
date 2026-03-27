@@ -1,0 +1,10 @@
+{
+  "name": "openAFRICA",
+  "slug": "openafrica",
+  "category": "open-data",
+  "description": "Large datasets repository of African open data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://africaopendata.org/"
+}

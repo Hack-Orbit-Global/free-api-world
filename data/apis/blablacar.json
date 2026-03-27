@@ -1,0 +1,10 @@
+{
+  "name": "BlaBlaCar",
+  "slug": "blablacar",
+  "category": "transportation",
+  "description": "Search car sharing trips",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://dev.blablacar.com"
+}

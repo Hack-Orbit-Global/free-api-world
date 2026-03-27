@@ -1,0 +1,10 @@
+{
+  "name": "MMO Games",
+  "slug": "mmo-games",
+  "category": "games-&-comics",
+  "description": "MMO Games Database, News and Giveaways",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://www.mmobomb.com/api"
+}

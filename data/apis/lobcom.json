@@ -1,0 +1,10 @@
+{
+  "name": "Lob.com",
+  "slug": "lobcom",
+  "category": "data-validation",
+  "description": "US Address Verification",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://lob.com/"
+}

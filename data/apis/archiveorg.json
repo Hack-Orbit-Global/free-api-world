@@ -1,0 +1,10 @@
+{
+  "name": "Archive.org",
+  "slug": "archiveorg",
+  "category": "open-data",
+  "description": "The Internet Archive",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://archive.readme.io/docs"
+}

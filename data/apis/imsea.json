@@ -1,0 +1,10 @@
+{
+  "name": "Imsea",
+  "slug": "imsea",
+  "category": "photography",
+  "description": "Free image search",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://imsea.herokuapp.com/"
+}

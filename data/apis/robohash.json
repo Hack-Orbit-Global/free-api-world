@@ -1,0 +1,10 @@
+{
+  "name": "RoboHash",
+  "slug": "robohash",
+  "category": "test-data",
+  "description": "Generate random robot/alien avatars",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://robohash.org/"
+}

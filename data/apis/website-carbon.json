@@ -1,0 +1,10 @@
+{
+  "name": "Website Carbon",
+  "slug": "website-carbon",
+  "category": "environment",
+  "description": "API to estimate the carbon footprint of loading web pages",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.websitecarbon.com/"
+}

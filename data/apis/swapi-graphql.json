@@ -1,0 +1,10 @@
+{
+  "name": "SWAPI GraphQL",
+  "slug": "swapi-graphql",
+  "category": "video",
+  "description": "Star Wars GraphQL API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://graphql.org/swapi-graphql"
+}

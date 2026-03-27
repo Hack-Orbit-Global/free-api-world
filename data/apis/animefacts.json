@@ -1,0 +1,10 @@
+{
+  "name": "AnimeFacts",
+  "slug": "animefacts",
+  "category": "anime",
+  "description": "Anime Facts (over 100+)",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://chandan-02.github.io/anime-facts-rest-api/"
+}

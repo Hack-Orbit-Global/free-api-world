@@ -1,0 +1,10 @@
+{
+  "name": "Clash Royale",
+  "slug": "clash-royale",
+  "category": "games-&-comics",
+  "description": "Clash Royale Game Information",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.clashroyale.com"
+}

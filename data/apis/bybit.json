@@ -1,0 +1,10 @@
+{
+  "name": "Bybit",
+  "slug": "bybit",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency data feed and algorithmic trading",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bybit-exchange.github.io/docs/linear/#t-introduction"
+}

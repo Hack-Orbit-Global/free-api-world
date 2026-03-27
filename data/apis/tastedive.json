@@ -1,0 +1,10 @@
+{
+  "name": "TasteDive",
+  "slug": "tastedive",
+  "category": "music",
+  "description": "Similar artist API (also works for movies and TV shows)",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://tastedive.com/read/api"
+}

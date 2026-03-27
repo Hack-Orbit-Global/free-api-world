@@ -1,0 +1,10 @@
+{
+  "name": "Gazette Data, UK",
+  "slug": "gazette-data-uk",
+  "category": "government",
+  "description": "UK official public record API",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.thegazette.co.uk/data"
+}

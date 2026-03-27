@@ -1,0 +1,10 @@
+{
+  "name": "Istanbul (\u0130BB) Open Data",
+  "slug": "istanbul-ibb-open-data",
+  "category": "government",
+  "description": "Data sets from the \u0130stanbul Metropolitan Municipality (\u0130BB)",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.ibb.gov.tr"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Creative Commons Catalog",
+  "slug": "creative-commons-catalog",
+  "category": "open-source-projects",
+  "description": "Search among openly licensed and public domain works",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.creativecommons.engineering/"
+}

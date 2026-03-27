@@ -1,0 +1,10 @@
+{
+  "name": "PunkAPI",
+  "slug": "punkapi",
+  "category": "food-&-drink",
+  "description": "Brewdog Beer Recipes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://punkapi.com/"
+}

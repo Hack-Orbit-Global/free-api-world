@@ -1,0 +1,10 @@
+{
+  "name": "Rig Veda",
+  "slug": "rig-veda",
+  "category": "books",
+  "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://aninditabasu.github.io/indica/html/rv.html"
+}

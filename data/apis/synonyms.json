@@ -1,0 +1,10 @@
+{
+  "name": "Synonyms",
+  "slug": "synonyms",
+  "category": "dictionaries",
+  "description": "Synonyms, thesaurus and antonyms information for any given word",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.synonyms.com/synonyms_api.php"
+}

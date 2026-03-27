@@ -1,0 +1,10 @@
+{
+  "name": "Lordicon",
+  "slug": "lordicon",
+  "category": "art-&-design",
+  "description": "Icons with predone Animations",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://lordicon.com/"
+}

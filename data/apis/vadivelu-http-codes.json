@@ -1,0 +1,10 @@
+{
+  "name": "Vadivelu HTTP Codes",
+  "slug": "vadivelu-http-codes",
+  "category": "personality",
+  "description": "On demand HTTP Codes with images",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://vadivelu.anoram.com/"
+}

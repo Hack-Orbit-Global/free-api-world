@@ -1,0 +1,10 @@
+{
+  "name": "Redash",
+  "slug": "redash",
+  "category": "business",
+  "description": "Access your queries and dashboards on Redash",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://redash.io/help/user-guide/integrations-and-api/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Universities List",
+  "slug": "universities-list",
+  "category": "open-data",
+  "description": "University names, countries and domains",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/Hipo/university-domains-list"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ducks Unlimited",
+  "slug": "ducks-unlimited",
+  "category": "geocoding",
+  "description": "API explorer that gives a query URL with a JSON response of locations and cities",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://gis.ducks.org/datasets/du-university-chapters/api"
+}

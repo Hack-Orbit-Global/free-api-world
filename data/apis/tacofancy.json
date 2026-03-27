@@ -1,0 +1,10 @@
+{
+  "name": "TacoFancy",
+  "slug": "tacofancy",
+  "category": "food-&-drink",
+  "description": "Community-driven taco database",
+  "auth": "No",
+  "https": false,
+  "cors": "Unknown",
+  "link": "https://github.com/evz/tacofancy-api"
+}

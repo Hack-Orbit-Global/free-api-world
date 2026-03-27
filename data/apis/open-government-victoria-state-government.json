@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Victoria State Government",
+  "slug": "open-government-victoria-state-government",
+  "category": "government",
+  "description": "Victoria State Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.data.vic.gov.au/"
+}

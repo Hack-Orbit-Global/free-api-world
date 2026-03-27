@@ -1,0 +1,10 @@
+{
+  "name": "Bored",
+  "slug": "bored",
+  "category": "development",
+  "description": "Find random activities to fight boredom",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.boredapi.com/"
+}

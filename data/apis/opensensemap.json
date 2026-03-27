@@ -1,0 +1,10 @@
+{
+  "name": "openSenseMap",
+  "slug": "opensensemap",
+  "category": "weather",
+  "description": "Data from Personal Weather Stations called senseBoxes",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://api.opensensemap.org/"
+}

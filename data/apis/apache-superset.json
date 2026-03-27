@@ -1,0 +1,10 @@
+{
+  "name": "Apache Superset",
+  "slug": "apache-superset",
+  "category": "business",
+  "description": "API to manage your BI dashboards and data sources on Superset",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://superset.apache.org/docs/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ocean Facts",
+  "slug": "ocean-facts",
+  "category": "science-&-math",
+  "description": "Facts pertaining to the physical science of Oceanography",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://oceanfacts.herokuapp.com/"
+}

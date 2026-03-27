@@ -1,0 +1,10 @@
+{
+  "name": "FreeToGame",
+  "slug": "freetogame",
+  "category": "games-&-comics",
+  "description": "Free-To-Play Games Database",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.freetogame.com/api-doc"
+}

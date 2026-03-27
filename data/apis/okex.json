@@ -1,0 +1,10 @@
+{
+  "name": "OKEx",
+  "slug": "okex",
+  "category": "cryptocurrency",
+  "description": "Cryptocurrency exchange based in Seychelles",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.okex.com/docs/"
+}

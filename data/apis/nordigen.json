@@ -1,0 +1,10 @@
+{
+  "name": "Nordigen",
+  "slug": "nordigen",
+  "category": "finance",
+  "description": "Connect to bank accounts using official bank APIs and get raw transaction data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/"
+}

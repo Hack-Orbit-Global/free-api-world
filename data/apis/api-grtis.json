@@ -1,0 +1,10 @@
+{
+  "name": "API Gr\u00e1tis",
+  "slug": "api-grtis",
+  "category": "development",
+  "description": "Multiples services and public APIs",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://apigratis.com.br/"
+}

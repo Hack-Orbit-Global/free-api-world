@@ -1,0 +1,10 @@
+{
+  "name": "PrexView",
+  "slug": "prexview",
+  "category": "documents-&-productivity",
+  "description": "Data from XML or JSON to PDF, HTML or Image",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://prexview.com"
+}

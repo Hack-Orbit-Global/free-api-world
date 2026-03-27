@@ -1,0 +1,10 @@
+{
+  "name": "ipapi.com",
+  "slug": "ipapicom",
+  "category": "geocoding",
+  "description": "Real-time Geolocation & Reverse IP Lookup REST API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+}

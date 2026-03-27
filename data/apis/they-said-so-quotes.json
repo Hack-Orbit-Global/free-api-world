@@ -1,0 +1,10 @@
+{
+  "name": "They Said So Quotes",
+  "slug": "they-said-so-quotes",
+  "category": "personality",
+  "description": "Quotes Trusted by many fortune brands around the world",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://theysaidso.com/api/"
+}

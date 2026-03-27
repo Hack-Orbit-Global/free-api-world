@@ -1,0 +1,10 @@
+{
+  "name": "Open Government, Germany",
+  "slug": "open-government-germany",
+  "category": "government",
+  "description": "Germany Government Open Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.govdata.de/daten/-/details/govdata-metadatenkatalog"
+}

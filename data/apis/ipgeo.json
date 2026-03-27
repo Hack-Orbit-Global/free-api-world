@@ -1,0 +1,10 @@
+{
+  "name": "IPGEO",
+  "slug": "ipgeo",
+  "category": "geocoding",
+  "description": "Unlimited free IP Address API with useful information",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://api.techniknews.net/ipgeo/"
+}

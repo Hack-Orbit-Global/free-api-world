@@ -1,0 +1,10 @@
+{
+  "name": "Cloudmersive Validate",
+  "slug": "cloudmersive-validate",
+  "category": "phone",
+  "description": "Validate international phone numbers",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://cloudmersive.com/phone-number-validation-API"
+}

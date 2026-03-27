@@ -1,0 +1,10 @@
+{
+  "name": "Unsplash",
+  "slug": "unsplash",
+  "category": "photography",
+  "description": "Photography",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://unsplash.com/developers"
+}

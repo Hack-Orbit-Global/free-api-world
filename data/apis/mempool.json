@@ -1,0 +1,10 @@
+{
+  "name": "Mempool",
+  "slug": "mempool",
+  "category": "cryptocurrency",
+  "description": "Bitcoin API Service focusing on the transaction fee",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://mempool.space/api"
+}

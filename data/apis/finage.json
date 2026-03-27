@@ -1,0 +1,10 @@
+{
+  "name": "Finage",
+  "slug": "finage",
+  "category": "finance",
+  "description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://finage.co.uk"
+}

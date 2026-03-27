@@ -1,0 +1,10 @@
+{
+  "name": "Brazil",
+  "slug": "brazil",
+  "category": "government",
+  "description": "Community driven API for Brazil Public Data",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://brasilapi.com.br/"
+}

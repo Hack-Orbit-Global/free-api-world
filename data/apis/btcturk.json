@@ -1,0 +1,10 @@
+{
+  "name": "BtcTurk",
+  "slug": "btcturk",
+  "category": "cryptocurrency",
+  "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://docs.btcturk.com/"
+}

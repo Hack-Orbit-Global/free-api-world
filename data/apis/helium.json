@@ -1,0 +1,10 @@
+{
+  "name": "Helium",
+  "slug": "helium",
+  "category": "blockchain",
+  "description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.helium.com/api/blockchain/introduction/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cats",
+  "slug": "cats",
+  "category": "animals",
+  "description": "Pictures of cats from Tumblr",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://docs.thecatapi.com/"
+}

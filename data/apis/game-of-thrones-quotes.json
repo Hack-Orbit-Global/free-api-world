@@ -1,0 +1,10 @@
+{
+  "name": "Game of Thrones Quotes",
+  "slug": "game-of-thrones-quotes",
+  "category": "video",
+  "description": "Some Game of Thrones quotes",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://gameofthronesquotes.xyz/"
+}

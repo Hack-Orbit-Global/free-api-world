@@ -1,0 +1,10 @@
+{
+  "name": "Breaking Bad",
+  "slug": "breaking-bad",
+  "category": "video",
+  "description": "Breaking Bad API",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://breakingbadapi.com/documentation"
+}

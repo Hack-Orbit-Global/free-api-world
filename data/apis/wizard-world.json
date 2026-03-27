@@ -1,0 +1,10 @@
+{
+  "name": "Wizard World",
+  "slug": "wizard-world",
+  "category": "books",
+  "description": "Get information from the Harry Potter universe",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://wizard-world-api.herokuapp.com/swagger/index.html"
+}

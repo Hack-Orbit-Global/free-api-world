@@ -1,0 +1,10 @@
+{
+  "name": "Marvel",
+  "slug": "marvel",
+  "category": "games-&-comics",
+  "description": "Marvel Comics",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.marvel.com"
+}

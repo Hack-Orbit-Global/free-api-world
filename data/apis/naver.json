@@ -1,0 +1,10 @@
+{
+  "name": "NAVER",
+  "slug": "naver",
+  "category": "social",
+  "description": "NAVER Login, Share on NAVER, Social Plugins and more",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developers.naver.com/main/"
+}

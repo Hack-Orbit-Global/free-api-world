@@ -1,0 +1,10 @@
+{
+  "name": "Bhagavad Gita",
+  "slug": "bhagavad-gita",
+  "category": "books",
+  "description": "Bhagavad Gita text",
+  "auth": "`OAuth`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://bhagavadgita.io/api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mozilla http scanner",
+  "slug": "mozilla-http-scanner",
+  "category": "security",
+  "description": "Mozilla observatory http scanner",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md"
+}

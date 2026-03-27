@@ -1,0 +1,10 @@
+{
+  "name": "BayFiles",
+  "slug": "bayfiles",
+  "category": "cloud-storage-&-file-sharing",
+  "description": "Upload and share your files",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://bayfiles.com/docs/api"
+}

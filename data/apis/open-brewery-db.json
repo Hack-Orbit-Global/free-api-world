@@ -1,0 +1,10 @@
+{
+  "name": "Open Brewery DB",
+  "slug": "open-brewery-db",
+  "category": "food-&-drink",
+  "description": "Breweries, Cideries and Craft Beer Bottle Shops",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://www.openbrewerydb.org"
+}

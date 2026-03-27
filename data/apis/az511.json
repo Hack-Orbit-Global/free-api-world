@@ -1,0 +1,10 @@
+{
+  "name": "AZ511",
+  "slug": "az511",
+  "category": "transportation",
+  "description": "Access traffic data from the ADOT API",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://www.az511.com/developers/doc"
+}

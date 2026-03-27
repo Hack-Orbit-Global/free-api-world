@@ -1,0 +1,10 @@
+{
+  "name": "SAWO Labs",
+  "slug": "sawo-labs",
+  "category": "authentication-&-authorization",
+  "description": "Simplify login and improve user experience by integrating passwordless authentication in your app",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://sawolabs.com"
+}

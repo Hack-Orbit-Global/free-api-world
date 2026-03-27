@@ -1,0 +1,10 @@
+{
+  "name": "University of Oslo",
+  "slug": "university-of-oslo",
+  "category": "open-data",
+  "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+  "auth": "No",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://data.uio.no/"
+}

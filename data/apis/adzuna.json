@@ -1,0 +1,10 @@
+{
+  "name": "Adzuna",
+  "slug": "adzuna",
+  "category": "jobs",
+  "description": "Job board aggregator",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://developer.adzuna.com/overview"
+}

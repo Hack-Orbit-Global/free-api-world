@@ -1,0 +1,10 @@
+{
+  "name": "dYdX",
+  "slug": "dydx",
+  "category": "cryptocurrency",
+  "description": "Decentralized cryptocurrency exchange",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://docs.dydx.exchange/"
+}

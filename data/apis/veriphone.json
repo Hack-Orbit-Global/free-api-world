@@ -1,0 +1,10 @@
+{
+  "name": "Veriphone",
+  "slug": "veriphone",
+  "category": "phone",
+  "description": "Phone number validation & carrier lookup",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://veriphone.io"
+}

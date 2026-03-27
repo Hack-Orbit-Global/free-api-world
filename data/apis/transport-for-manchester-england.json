@@ -1,0 +1,10 @@
+{
+  "name": "Transport for Manchester, England",
+  "slug": "transport-for-manchester-england",
+  "category": "transportation",
+  "description": "TfGM transport network data",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "No",
+  "link": "https://developer.tfgm.com/"
+}

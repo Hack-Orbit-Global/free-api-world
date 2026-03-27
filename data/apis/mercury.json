@@ -1,0 +1,10 @@
+{
+  "name": "Mercury",
+  "slug": "mercury",
+  "category": "documents-&-productivity",
+  "description": "Web parser",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://mercury.postlight.com/web-parser/"
+}

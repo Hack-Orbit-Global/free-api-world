@@ -1,0 +1,10 @@
+{
+  "name": "SkyBiometry",
+  "slug": "skybiometry",
+  "category": "machine-learning",
+  "description": "Face Detection, Face Recognition and Face Grouping",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://skybiometry.com/documentation/"
+}

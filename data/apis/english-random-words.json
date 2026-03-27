@@ -1,0 +1,10 @@
+{
+  "name": "English Random Words",
+  "slug": "english-random-words",
+  "category": "test-data",
+  "description": "Generate English Random Words with Pronunciation",
+  "auth": "No",
+  "https": true,
+  "cors": "No",
+  "link": "https://random-words-api.vercel.app/word"
+}

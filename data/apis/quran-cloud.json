@@ -1,0 +1,10 @@
+{
+  "name": "Quran Cloud",
+  "slug": "quran-cloud",
+  "category": "books",
+  "description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",
+  "auth": "No",
+  "https": true,
+  "cors": "Yes",
+  "link": "https://alquran.cloud/api"
+}

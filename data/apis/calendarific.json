@@ -1,0 +1,10 @@
+{
+  "name": "Calendarific",
+  "slug": "calendarific",
+  "category": "calendar",
+  "description": "Worldwide Holidays",
+  "auth": "`apiKey`",
+  "https": true,
+  "cors": "Unknown",
+  "link": "https://calendarific.com/"
+}
