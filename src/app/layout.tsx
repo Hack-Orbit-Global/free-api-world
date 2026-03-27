@@ -41,6 +41,9 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true },
   },
+  other: {
+    monetag: "15a703566233503bbd2b7f5aeedbcacb",
+  },
 };
 
 export default function RootLayout({
